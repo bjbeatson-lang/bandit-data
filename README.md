@@ -41,13 +41,32 @@ to each other.
 
 ## Data sources and attribution
 
-Built on the [nflverse](https://nflverse.nflverse.com/) data ecosystem.
+This data is built from NFL data accessed through the
+[nflverse](https://github.com/nflverse) ecosystem of open-source R packages.
 
-Play-by-play, rosters, snap counts, Next Gen Stats and Pro Football Reference
-advanced stats are accessed via [nflreadr](https://nflreadr.nflverse.com/).
+**Play-by-play data and EPA:** Carl S, Baldwin B (2026). *nflfastR: Functions to
+Efficiently Access NFL Play by Play Data.* R package version 5.2.0.9014,
+<https://nflfastr.com/>
 
-Charting data is from **FTN Data**, and per its license, attribution is made to
-**ftndata.com via nflverse**.
+**Data access (rosters, Next Gen Stats, Pro Football Reference stats,
+participation):** Ho T, Carl S (2026). *nflreadr: Download 'nflverse' Data.*
+R package version 1.5.1.9000, <https://nflreadr.nflverse.com>
+
+**Next Gen Stats:** player tracking data provided by NFL Next Gen Stats,
+accessed via nflverse.
+
+**Advanced stats and snap counts:** provided by Pro Football Reference
+(pro-football-reference.com), accessed via nflverse.
+
+**Participation data:** participation data from 2023 onward is provided by FTN
+Data, accessed via nflverse, released under a CC BY-SA 4.0 license —
+attribution to **FTN Data via nflverse**. Participation data prior to 2023 is
+provided by NFL Next Gen Stats, accessed via nflverse.
+
+**Game and schedule context (weather, surface, betting lines):** schedule data
+maintained by Lee Sharpe, accessed via nflverse.
+
+**Roster and player information:** nflverse roster data.
 
 ## Modifications
 
