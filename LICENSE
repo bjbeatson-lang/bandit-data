@@ -1,0 +1,41 @@
+Bandit Football — bandit-data
+Copyright (c) 2026 Brad Beatson
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+--------------------------------------------------------------------------
+
+WHY THIS LICENSE
+
+The data here is derived in part from FTN Data charting, distributed through
+nflverse under CC BY-SA 4.0. That license carries a ShareAlike obligation, so
+adaptations of it are released under the same license. This repository honours
+that by using CC BY-SA 4.0 itself.
+
+WHAT YOU MAY DO
+
+Share and adapt these files, for any purpose including commercially, provided
+you:
+
+  - give appropriate credit (see the attribution section of README.md),
+  - indicate what changes you made,
+  - and license your version under CC BY-SA 4.0 as well.
+
+ATTRIBUTION FOR THE UNDERLYING DATA
+
+Attribution for the charting data must be made to "ftndata.com via nflverse".
+Full source credits are listed in README.md.
+
+STATEMENT OF MODIFICATIONS
+
+These files are derived data, not raw nflverse data. The "Modifications"
+section of README.md describes what was changed, as CC BY-SA 4.0 requires.
+
+NO WARRANTY
+
+Provided as-is, without warranty of any kind. These figures include model
+output and should not be treated as official NFL statistics.
