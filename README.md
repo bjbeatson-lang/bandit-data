@@ -13,6 +13,7 @@ the finished files that get served to a page.
 | File | What it is |
 |---|---|
 | `air_yards_wr.json` | Wide receiver air yards, current season. Feeds the *Running Hot and Cold* page. |
+| `nfl/` | NFL teams, scoreboard and players, current season. See below. |
 
 `air_yards_wr.json` is an array with one record per wide receiver:
 
@@ -36,6 +37,35 @@ throw behind the line of scrimmage counts negative. `complete_air_yards` and
 — a screen five yards behind the line is still five yards of opportunity thrown
 someone's way. This is deliberate, and it means the two figures will not add up
 to each other.
+
+### The `nfl/` folder
+
+Team, scoreboard and player files for the current NFL season, rebuilt
+automatically as new data arrives. Every file has a `season` field and a UTC
+time stamp showing when it was built.
+
+| Path | What it is |
+|---|---|
+| `nfl/teams/index.json` | All 32 teams: name, conference, division, logo, record |
+| `nfl/teams/<TEAM>.json` | One team (e.g. `CHI.json`): identity and colors, record, full schedule with results, spread (from that team's side) and over/under, and team stats by game plus season totals |
+| `nfl/scoreboard/season_<season>.json` | Every game of the season |
+| `nfl/scoreboard/current_week.json` | The current week's games (the earliest week with a game not yet final) |
+| `nfl/players/index.json` | Every player with a file: ID, name, team, position, roster status |
+| `nfl/players/<gsis_id>.json` | One player, by nflverse player ID: bio, this season game by game, season totals, and career by regular season |
+
+Scoreboard games carry kickoff time (Eastern), status, scores and overtime,
+betting favorite with spread and over/under, stadium, roof, surface,
+temperature and wind (played games), starting quarterbacks, head coaches, and
+nflverse and ESPN game IDs.
+
+Game status is `scheduled` or `final` only. Final scores appear shortly after
+each game ends; there are no live in-game scores.
+
+Players included: everyone on a current-season NFL roster (active, reserve,
+practice squad and other roster lists), plus anyone with a stat line this season.
+
+Every stat line in a player file has a `half_ppr` field: **Bandit Football
+scoring**, half-point PPR with **−1 per interception** (standard scoring uses −2).
 
 ---
 
@@ -68,6 +98,11 @@ maintained by Lee Sharpe, accessed via nflverse.
 
 **Roster and player information:** nflverse roster data.
 
+**Player and team stats by game and by season (`nfl/`):** nflverse player and
+team stats, built from nflverse play-by-play. **Player bios:** nflverse players
+data. **Team names, colors and logos:** nflverse teams data; logo links point
+to images hosted by ESPN.
+
 ## Modifications
 
 **These files are derived data, not raw nflverse data.** Per CC BY-SA 4.0's
@@ -85,6 +120,15 @@ requirement to indicate changes, here is what was done to it:
   absolute air yards so that they behave as shares of a receiver's own
   opportunity and sum to 1.
 - Records are filtered to wide receivers.
+
+For the `nfl/` folder:
+
+- nflverse schedule, roster, bio and stats data were reorganized into one file
+  per team, per player and for the scoreboard.
+- `half_ppr` is a Bandit-defined score: nflverse standard fantasy points, plus
+  1 per interception thrown, plus 0.5 per reception.
+- In team files, the spread is converted to that team's own side (nflverse
+  lists it from the home team's side).
 
 No raw nflverse file is redistributed here in its original form.
 
@@ -105,6 +149,11 @@ same license.
 ## Updates
 
 Refreshed during the NFL season after the week's games complete.
+
+The `nfl/` folder updates on its own schedule: scores and team records shortly
+after each game ends, player and team stats each morning after nflverse
+posts them, and rosters once a day. Only files whose data actually changed are
+updated.
 
 Note on timing, because it affects what any given refresh contains: nflverse
 core play-by-play updates several times on game days, while FTN charting is
