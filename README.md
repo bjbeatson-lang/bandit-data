@@ -53,8 +53,8 @@ time stamp showing when it was built.
 | `nfl/scoreboard/current_week.json` | The current week's games (the earliest week with a game not yet final) |
 | `nfl/players/index.json` | Every player with a file: ID, name, team, position, roster status |
 | `nfl/players/<gsis_id>.json` | One player, by nflverse player ID: bio, this season game by game, season totals, and career by regular season |
-| `nfl/advanced/<gsis_id>.json` | Advanced stats for one quarterback, running back, wide receiver or tight end, current season: Next Gen Stats season to date (when he meets the NFL's qualifying minimum), Pro Football Reference rushing, receiving and passing detail by game, and FTN charting by game |
-| `nfl/advanced/team_ftn.json` | FTN team-offense rates for all 32 teams and the NFL: where the QB lines up, backfield at the snap, motion, play action, RPO, screen, no-huddle |
+| `nfl/advanced/<gsis_id>.json` | Advanced stats for one quarterback, running back, wide receiver, tight end or defender, current season: Next Gen Stats season to date (when he meets the NFL's qualifying minimum), Pro Football Reference rushing, receiving and passing detail by game, FTN charting by game, and for defenders Pro Football Reference pass rush, tackling and coverage by game |
+| `nfl/advanced/team_ftn.json` | FTN team rates for all 32 teams and the NFL. Offense: where the QB lines up, backfield at the snap, motion, play action, RPO, screen, no-huddle. Defense: blitz rate, number of pass rushers, 8+ in the box against the run |
 
 Scoreboard games carry kickoff time (Eastern), status, scores and overtime,
 betting favorite with spread and over/under, stadium, roof, surface,
@@ -83,6 +83,11 @@ wiped out by a penalty after the snap. Screens and play action are shares of
 all those plays, not of passes only. FTN's backfield count is anyone besides the
 quarterback lined up behind the line of scrimmage, inside the end man on the
 line, at any depth.
+
+Team defense rates are shares of opponents' plays that stood: blitz rate and
+rusher counts out of opponents' dropbacks, and the 8+ box share out of
+opponents' designed runs. In FTN's charting a blitz is any rush of five or
+more, and blitzes aren't charted on running plays.
 
 ### The `college/` folder
 
@@ -136,7 +141,8 @@ accessed via nflverse.
 (pro-football-reference.com), accessed via nflverse.
 
 **Charting data (`nfl/advanced/`):** QB alignment, backfield, motion, play
-action, screens, RPOs, no-huddle, sneaks, blitzers, catchable and contested
+action, screens, RPOs, no-huddle, sneaks, blitzers, pass rushers, defenders in
+the box, catchable and contested
 balls, drops, interception-worthy throws, throwaways, out-of-pocket plays and
 QB-fault sacks are provided by FTN Data, accessed via nflverse, released under
 a CC BY-SA 4.0 license — attribution to **FTN Data via nflverse**.
@@ -200,6 +206,10 @@ For the `nfl/advanced/` folder:
 - Quarterback runs are split three ways: scrambles (nflverse scramble flag),
   sneaks (FTN's sneak tag) and other designed runs. Kneel-downs are not runs.
 - QB-fault sacks are counted only on sacks that stood.
+- Team defense rates are Bandit-defined shares of opponents' dropbacks and
+  designed runs, from FTN's per-play rusher, blitzer and box counts.
+- For defenders, Pro Football Reference leaves yards allowed blank when nothing
+  was completed; those are recorded as 0.
 - Pro Football Reference rows were matched to nflverse player IDs and kept by
   game; Next Gen Stats rows are the season-to-date summary.
 
