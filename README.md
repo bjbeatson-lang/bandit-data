@@ -53,6 +53,8 @@ time stamp showing when it was built.
 | `nfl/scoreboard/current_week.json` | The current week's games (the earliest week with a game not yet final) |
 | `nfl/players/index.json` | Every player with a file: ID, name, team, position, roster status |
 | `nfl/players/<gsis_id>.json` | One player, by nflverse player ID: bio, this season game by game, season totals, and career by regular season |
+| `nfl/advanced/<gsis_id>.json` | Advanced stats for one quarterback, running back, wide receiver or tight end, current season: Next Gen Stats season to date (when he meets the NFL's qualifying minimum), Pro Football Reference rushing, receiving and passing detail by game, and FTN charting by game |
+| `nfl/advanced/team_ftn.json` | FTN team-offense rates for all 32 teams and the NFL: where the QB lines up, backfield at the snap, motion, play action, RPO, screen, no-huddle |
 
 Scoreboard games carry kickoff time (Eastern), status, scores and overtime,
 betting favorite with spread and over/under, stadium, roof, surface,
@@ -67,6 +69,20 @@ practice squad and other roster lists), plus anyone with a stat line this season
 
 Every stat line in a player file has a `half_ppr` field: **Bandit Football
 scoring**, half-point PPR with **−1 per interception** (standard scoring uses −2).
+
+Advanced files: quarterbacks get pressure, blitz, bad-throw, out-of-pocket,
+interception-worthy, throwaway and QB-fault sack counts by game, and their runs
+split into scrambles, sneaks and other designed runs. Running backs and
+quarterbacks get yards before and after contact and broken tackles by game.
+Running backs, wide receivers and tight ends get targets by game with
+catchable, contested and drop counts. A field is `null` when that source hasn't
+posted the game, or has no row for the player in it.
+
+`team_ftn.json` rates are shares of a team's runs and passes, including plays
+wiped out by a penalty after the snap. Screens and play action are shares of
+all those plays, not of passes only. FTN's backfield count is anyone besides the
+quarterback lined up behind the line of scrimmage, inside the end man on the
+line, at any depth.
 
 ### The `college/` folder
 
@@ -119,6 +135,12 @@ accessed via nflverse.
 **Advanced stats and snap counts:** provided by Pro Football Reference
 (pro-football-reference.com), accessed via nflverse.
 
+**Charting data (`nfl/advanced/`):** QB alignment, backfield, motion, play
+action, screens, RPOs, no-huddle, sneaks, blitzers, catchable and contested
+balls, drops, interception-worthy throws, throwaways, out-of-pocket plays and
+QB-fault sacks are provided by FTN Data, accessed via nflverse, released under
+a CC BY-SA 4.0 license — attribution to **FTN Data via nflverse**.
+
 **Participation data:** participation data from 2023 onward is provided by FTN
 Data, accessed via nflverse, released under a CC BY-SA 4.0 license —
 attribution to **FTN Data via nflverse**. Participation data prior to 2023 is
@@ -169,6 +191,18 @@ For the `nfl/` folder:
 - In team files, the spread is converted to that team's own side (nflverse
   lists it from the home team's side).
 
+For the `nfl/advanced/` folder:
+
+- FTN's play-level charting was joined to nflverse play-by-play by game and
+  play ID, then counted per player per game and per team.
+- Team rates are Bandit-defined: shares of a team's runs and passes, including
+  plays wiped out by a penalty after the snap.
+- Quarterback runs are split three ways: scrambles (nflverse scramble flag),
+  sneaks (FTN's sneak tag) and other designed runs. Kneel-downs are not runs.
+- QB-fault sacks are counted only on sacks that stood.
+- Pro Football Reference rows were matched to nflverse player IDs and kept by
+  game; Next Gen Stats rows are the season-to-date summary.
+
 For the `college/` folder:
 
 - SportsDataverse schedule, team, roster and box score data were reorganized into one file per
@@ -204,6 +238,9 @@ The `nfl/` folder updates on its own schedule: scores and team records shortly
 after each game ends, player and team stats each morning after nflverse
 posts them, and rosters once a day. Only files whose data actually changed are
 updated.
+
+The `nfl/advanced/` folder is rebuilt by hand for now, after Next Gen Stats,
+Pro Football Reference and FTN have posted the week's games.
 
 The `college/` folder updates every two hours on Saturdays during the season (scores and box
 scores) and fully each Sunday morning. Only files whose data actually changed are updated.
