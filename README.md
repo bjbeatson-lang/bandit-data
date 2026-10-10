@@ -54,6 +54,8 @@ time stamp showing when it was built.
 | `nfl/players/index.json` | Every player with a file: ID, name, team, position, roster status |
 | `nfl/players/<gsis_id>.json` | One player, by nflverse player ID: bio, this season game by game, season totals, and career by regular season |
 | `nfl/advanced/<gsis_id>.json` | Advanced stats for one quarterback, running back, wide receiver, tight end or defender, current season: Next Gen Stats season to date (when he meets the NFL's qualifying minimum), Pro Football Reference rushing, receiving and passing detail by game, FTN charting by game, and for defenders Pro Football Reference pass rush, tackling and coverage by game |
+| `nfl/advanced/team_pressure.json` | Team pass protection, pass rush and tackling counts for all 32 teams and the NFL: dropbacks, times pressured, sacks and QB-fault sacks on offense; opponent dropbacks and plays, pressures, sacks and blitzes on defense; tackles and missed tackles |
+| `nfl/advanced/leaders.json` | Passing, rushing and receiving summary rows for every qualifying player, for the sortable tables on the players page. Who qualifies follows the NFL Next Gen Stats rule, applied to every player at any position: 15 pass attempts, 10 carries or 5 targets per team game, halved |
 | `nfl/advanced/team_ftn.json` | FTN team rates for all 32 teams and the NFL. Offense: where the QB lines up, backfield at the snap, motion, play action, RPO, screen, no-huddle. Defense: blitz rate, number of pass rushers, 8+ in the box against the run |
 
 Scoreboard games carry kickoff time (Eastern), status, scores and overtime,
@@ -206,6 +208,13 @@ For the `nfl/advanced/` folder:
 - Quarterback runs are split three ways: scrambles (nflverse scramble flag),
   sneaks (FTN's sneak tag) and other designed runs. Kneel-downs are not runs.
 - QB-fault sacks are counted only on sacks that stood.
+- Team pressures are counted on the quarterback's side (Pro Football Reference's
+  times pressured), so two defenders reaching one play count once. Pass-rush
+  rates are given per opponent dropback and per opponent play (dropbacks plus
+  designed runs).
+- Player qualifying rows (`leaders.json`) apply Next Gen Stats' published
+  minimums to nflverse play-by-play counts for every player, not only the
+  players Next Gen lists.
 - Team defense rates are Bandit-defined shares of opponents' dropbacks and
   designed runs, from FTN's per-play rusher, blitzer and box counts.
 - For defenders, Pro Football Reference leaves yards allowed blank when nothing
@@ -249,8 +258,8 @@ after each game ends, player and team stats each morning after nflverse
 posts them, and rosters once a day. Only files whose data actually changed are
 updated.
 
-The `nfl/advanced/` folder is rebuilt by hand for now, after Next Gen Stats,
-Pro Football Reference and FTN have posted the week's games.
+The `nfl/advanced/` folder is rebuilt each morning after the nflverse extras
+pull, whenever Next Gen Stats, Pro Football Reference or FTN files have changed.
 
 The `college/` folder updates every two hours on Saturdays during the season (scores and box
 scores) and fully each Sunday morning. Only files whose data actually changed are updated.
