@@ -13,6 +13,7 @@ the finished files that get served to a page.
 | File | What it is |
 |---|---|
 | `air_yards_wr.json` | Wide receiver air yards, current season. Feeds the *Running Hot and Cold* page. |
+| `air_yards_weekly_latest.json` | Air yards game by game, current season: every receiver (WR, RB, TE) and every quarterback by name, plus each team's air yards thrown and allowed. Feeds the span-of-weeks views and the player card on the *Running Hot and Cold* page. |
 | `nfl/` | NFL teams, scoreboard and players, current season. See below. |
 | `college/` | College football (FBS and FCS) teams, scoreboard and players, current season. See below. |
 
@@ -189,6 +190,14 @@ requirement to indicate changes, here is what was done to it:
   absolute air yards so that they behave as shares of a receiver's own
   opportunity and sum to 1.
 - Records are filtered to wide receivers.
+
+For `air_yards_weekly_latest.json`:
+
+- The same model's projection for each target was added up by player and game,
+  so any span of weeks can be totaled on the page. Quarterbacks are counted by
+  passer, throw by throw, so a game with two passers splits between them.
+- Team totals by game use complete plus incomplete air yards (absolute values),
+  the same definition as `air_yards_team_leaderboard_latest.json`.
 
 For the `nfl/` folder:
 
