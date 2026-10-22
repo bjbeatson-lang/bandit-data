@@ -1,0 +1,799 @@
+{
+ "season": 2026,
+ "entering_week": 7,
+ "built_utc": "2026-10-22T23:08:24Z",
+ "teams": [
+  {
+   "abbr": "ARI",
+   "name": "Arizona Cardinals",
+   "nick": "Cardinals",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png&h=200&w=200",
+   "color": "#97233F",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "DEN",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "16:05",
+    "game_id": "2026_07_DEN_ARI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "DAL",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_ARI_DAL",
+    "final": false
+   }
+  },
+  {
+   "abbr": "ATL",
+   "name": "Atlanta Falcons",
+   "nick": "Falcons",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&h=200&w=200",
+   "color": "#A71930",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "SF",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_SF_ATL",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "TB",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_ATL_TB",
+    "final": false
+   }
+  },
+  {
+   "abbr": "BAL",
+   "name": "Baltimore Ravens",
+   "nick": "Ravens",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&h=200&w=200",
+   "color": "#241773",
+   "color2": "#9E7C0C",
+   "this_week": {
+    "week": 7,
+    "opp": "CIN",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_CIN_BAL",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "BUF",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_BAL_BUF",
+    "final": false
+   }
+  },
+  {
+   "abbr": "BUF",
+   "name": "Buffalo Bills",
+   "nick": "Bills",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&h=200&w=200",
+   "color": "#00338D",
+   "color2": "#C60C30",
+   "this_week": {
+    "week": 7,
+    "bye": true
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "BAL",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_BAL_BUF",
+    "final": false
+   }
+  },
+  {
+   "abbr": "CAR",
+   "name": "Carolina Panthers",
+   "nick": "Panthers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500-dark/car.png&h=200&w=200",
+   "color": "#0085CA",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "TB",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_TB_CAR",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "GB",
+    "home": false,
+    "date": "2026-10-29",
+    "time_et": "20:15",
+    "game_id": "2026_08_CAR_GB",
+    "final": false
+   }
+  },
+  {
+   "abbr": "CHI",
+   "name": "Chicago Bears",
+   "nick": "Bears",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png&h=200&w=200",
+   "color": "#0B162A",
+   "color2": "#E64100",
+   "this_week": {
+    "week": 7,
+    "opp": "NE",
+    "home": true,
+    "date": "2026-10-22",
+    "time_et": "20:15",
+    "game_id": "2026_07_NE_CHI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "SEA",
+    "home": false,
+    "date": "2026-11-02",
+    "time_et": "20:15",
+    "game_id": "2026_08_CHI_SEA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "CIN",
+   "name": "Cincinnati Bengals",
+   "nick": "Bengals",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&h=200&w=200",
+   "color": "#FB4F14",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "BAL",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_CIN_BAL",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "TEN",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_TEN_CIN",
+    "final": false
+   }
+  },
+  {
+   "abbr": "CLE",
+   "name": "Cleveland Browns",
+   "nick": "Browns",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&h=200&w=200",
+   "color": "#FF3C00",
+   "color2": "#311D00",
+   "this_week": {
+    "week": 7,
+    "opp": "TEN",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_CLE_TEN",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "PIT",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_CLE_PIT",
+    "final": false
+   }
+  },
+  {
+   "abbr": "DAL",
+   "name": "Dallas Cowboys",
+   "nick": "Cowboys",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png&h=200&w=200",
+   "color": "#002244",
+   "color2": "#B0B7BC",
+   "this_week": {
+    "week": 7,
+    "opp": "PHI",
+    "home": false,
+    "date": "2026-10-26",
+    "time_et": "20:15",
+    "game_id": "2026_07_DAL_PHI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "ARI",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_ARI_DAL",
+    "final": false
+   }
+  },
+  {
+   "abbr": "DEN",
+   "name": "Denver Broncos",
+   "nick": "Broncos",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png&h=200&w=200",
+   "color": "#002244",
+   "color2": "#FB4F14",
+   "this_week": {
+    "week": 7,
+    "opp": "ARI",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "16:05",
+    "game_id": "2026_07_DEN_ARI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "KC",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "16:25",
+    "game_id": "2026_08_KC_DEN",
+    "final": false
+   }
+  },
+  {
+   "abbr": "DET",
+   "name": "Detroit Lions",
+   "nick": "Lions",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png&h=200&w=200",
+   "color": "#0076B6",
+   "color2": "#B0B7BC",
+   "this_week": {
+    "week": 7,
+    "opp": "GB",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "16:25",
+    "game_id": "2026_07_GB_DET",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "MIN",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_MIN_DET",
+    "final": false
+   }
+  },
+  {
+   "abbr": "GB",
+   "name": "Green Bay Packers",
+   "nick": "Packers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png&h=200&w=200",
+   "color": "#203731",
+   "color2": "#FFB612",
+   "this_week": {
+    "week": 7,
+    "opp": "DET",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "16:25",
+    "game_id": "2026_07_GB_DET",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "CAR",
+    "home": true,
+    "date": "2026-10-29",
+    "time_et": "20:15",
+    "game_id": "2026_08_CAR_GB",
+    "final": false
+   }
+  },
+  {
+   "abbr": "HOU",
+   "name": "Houston Texans",
+   "nick": "Texans",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png&h=200&w=200",
+   "color": "#03202F",
+   "color2": "#A71930",
+   "this_week": {
+    "week": 7,
+    "opp": "NYG",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_NYG_HOU",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "bye": true
+   }
+  },
+  {
+   "abbr": "IND",
+   "name": "Indianapolis Colts",
+   "nick": "Colts",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png&h=200&w=200",
+   "color": "#002C5F",
+   "color2": "#a5acaf",
+   "this_week": {
+    "week": 7,
+    "opp": "MIN",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_IND_MIN",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "JAX",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_IND_JAX",
+    "final": false
+   }
+  },
+  {
+   "abbr": "JAX",
+   "name": "Jacksonville Jaguars",
+   "nick": "Jaguars",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png&h=200&w=200",
+   "color": "#006778",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "bye": true
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "IND",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_IND_JAX",
+    "final": false
+   }
+  },
+  {
+   "abbr": "KC",
+   "name": "Kansas City Chiefs",
+   "nick": "Chiefs",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png&h=200&w=200",
+   "color": "#E31837",
+   "color2": "#FFB612",
+   "this_week": {
+    "week": 7,
+    "opp": "SEA",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "20:20",
+    "game_id": "2026_07_KC_SEA",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "DEN",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "16:25",
+    "game_id": "2026_08_KC_DEN",
+    "final": false
+   }
+  },
+  {
+   "abbr": "LA",
+   "name": "Los Angeles Rams",
+   "nick": "Rams",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png&h=200&w=200",
+   "color": "#003594",
+   "color2": "#FFD100",
+   "this_week": {
+    "week": 7,
+    "opp": "LV",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "16:25",
+    "game_id": "2026_07_LA_LV",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "LAC",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "16:05",
+    "game_id": "2026_08_LAC_LA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "LAC",
+   "name": "Los Angeles Chargers",
+   "nick": "Chargers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png&h=200&w=200",
+   "color": "#007BC7",
+   "color2": "#ffc20e",
+   "this_week": {
+    "week": 7,
+    "bye": true
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "LA",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "16:05",
+    "game_id": "2026_08_LAC_LA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "LV",
+   "name": "Las Vegas Raiders",
+   "nick": "Raiders",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png&h=200&w=200",
+   "color": "#000000",
+   "color2": "#A5ACAF",
+   "this_week": {
+    "week": 7,
+    "opp": "LA",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "16:25",
+    "game_id": "2026_07_LA_LV",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "NYJ",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_LV_NYJ",
+    "final": false
+   }
+  },
+  {
+   "abbr": "MIA",
+   "name": "Miami Dolphins",
+   "nick": "Dolphins",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png&h=200&w=200",
+   "color": "#008E97",
+   "color2": "#F58220",
+   "this_week": {
+    "week": 7,
+    "opp": "NYJ",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_MIA_NYJ",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "NE",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "16:25",
+    "game_id": "2026_08_NE_MIA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "MIN",
+   "name": "Minnesota Vikings",
+   "nick": "Vikings",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png&h=200&w=200",
+   "color": "#4F2683",
+   "color2": "#FFC62F",
+   "this_week": {
+    "week": 7,
+    "opp": "IND",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_IND_MIN",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "DET",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_MIN_DET",
+    "final": false
+   }
+  },
+  {
+   "abbr": "NE",
+   "name": "New England Patriots",
+   "nick": "Patriots",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&h=200&w=200",
+   "color": "#002244",
+   "color2": "#C60C30",
+   "this_week": {
+    "week": 7,
+    "opp": "CHI",
+    "home": false,
+    "date": "2026-10-22",
+    "time_et": "20:15",
+    "game_id": "2026_07_NE_CHI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "MIA",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "16:25",
+    "game_id": "2026_08_NE_MIA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "NO",
+   "name": "New Orleans Saints",
+   "nick": "Saints",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png&h=200&w=200",
+   "color": "#D3BC8D",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "PIT",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "09:30",
+    "game_id": "2026_07_PIT_NO",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "bye": true
+   }
+  },
+  {
+   "abbr": "NYG",
+   "name": "New York Giants",
+   "nick": "Giants",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png&h=200&w=200",
+   "color": "#0B2265",
+   "color2": "#A71930",
+   "this_week": {
+    "week": 7,
+    "opp": "HOU",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_NYG_HOU",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "bye": true
+   }
+  },
+  {
+   "abbr": "NYJ",
+   "name": "New York Jets",
+   "nick": "Jets",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png&h=200&w=200",
+   "color": "#003F2D",
+   "color2": "#000000",
+   "this_week": {
+    "week": 7,
+    "opp": "MIA",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_MIA_NYJ",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "LV",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_LV_NYJ",
+    "final": false
+   }
+  },
+  {
+   "abbr": "PHI",
+   "name": "Philadelphia Eagles",
+   "nick": "Eagles",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&h=200&w=200",
+   "color": "#004C54",
+   "color2": "#A5ACAF",
+   "this_week": {
+    "week": 7,
+    "opp": "DAL",
+    "home": true,
+    "date": "2026-10-26",
+    "time_et": "20:15",
+    "game_id": "2026_07_DAL_PHI",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "WAS",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "20:20",
+    "game_id": "2026_08_PHI_WAS",
+    "final": false
+   }
+  },
+  {
+   "abbr": "PIT",
+   "name": "Pittsburgh Steelers",
+   "nick": "Steelers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&h=200&w=200",
+   "color": "#000000",
+   "color2": "#FFB612",
+   "this_week": {
+    "week": 7,
+    "opp": "NO",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "09:30",
+    "game_id": "2026_07_PIT_NO",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "CLE",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_CLE_PIT",
+    "final": false
+   }
+  },
+  {
+   "abbr": "SEA",
+   "name": "Seattle Seahawks",
+   "nick": "Seahawks",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png&h=200&w=200",
+   "color": "#002244",
+   "color2": "#69be28",
+   "this_week": {
+    "week": 7,
+    "opp": "KC",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "20:20",
+    "game_id": "2026_07_KC_SEA",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "CHI",
+    "home": true,
+    "date": "2026-11-02",
+    "time_et": "20:15",
+    "game_id": "2026_08_CHI_SEA",
+    "final": false
+   }
+  },
+  {
+   "abbr": "SF",
+   "name": "San Francisco 49ers",
+   "nick": "49ers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&h=200&w=200",
+   "color": "#AA0000",
+   "color2": "#B3995D",
+   "this_week": {
+    "week": 7,
+    "opp": "ATL",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_SF_ATL",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "bye": true
+   }
+  },
+  {
+   "abbr": "TB",
+   "name": "Tampa Bay Buccaneers",
+   "nick": "Buccaneers",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png&h=200&w=200",
+   "color": "#A71930",
+   "color2": "#322F2B",
+   "this_week": {
+    "week": 7,
+    "opp": "CAR",
+    "home": false,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_TB_CAR",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "ATL",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_ATL_TB",
+    "final": false
+   }
+  },
+  {
+   "abbr": "TEN",
+   "name": "Tennessee Titans",
+   "nick": "Titans",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png&h=200&w=200",
+   "color": "#4495D2",
+   "color2": "#D50A0A",
+   "this_week": {
+    "week": 7,
+    "opp": "CLE",
+    "home": true,
+    "date": "2026-10-25",
+    "time_et": "13:00",
+    "game_id": "2026_07_CLE_TEN",
+    "final": false
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "CIN",
+    "home": false,
+    "date": "2026-11-01",
+    "time_et": "13:00",
+    "game_id": "2026_08_TEN_CIN",
+    "final": false
+   }
+  },
+  {
+   "abbr": "WAS",
+   "name": "Washington Commanders",
+   "nick": "Commanders",
+   "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&h=200&w=200",
+   "color": "#5A1414",
+   "color2": "#FFB612",
+   "this_week": {
+    "week": 7,
+    "bye": true
+   },
+   "next_week": {
+    "week": 8,
+    "opp": "PHI",
+    "home": true,
+    "date": "2026-11-01",
+    "time_et": "20:20",
+    "game_id": "2026_08_PHI_WAS",
+    "final": false
+   }
+  }
+ ]
+}
