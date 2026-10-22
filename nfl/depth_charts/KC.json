@@ -2,6 +2,7 @@
  "team": "KC",
  "entering_week": 7,
  "chart_date": "2026-10-22",
+ "inactives_posted": false,
  "offense": {
   "last3": [
    3,
