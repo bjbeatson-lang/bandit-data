@@ -1,8 +1,64 @@
 {
  "team": "MIN",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Brian O'Neill",
+   "pos": "T",
+   "gsis": "00-0034158",
+   "jersey": "75",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "James Pierre",
+   "pos": "CB",
+   "gsis": "00-0035795",
+   "jersey": "23",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "gsis": "00-0036322",
+   "jersey": "18",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    3,
@@ -57,6 +113,29 @@
     "signed_in": false
    },
    {
+    "name": "Brian O'Neill",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 99,
+    "last": 96,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034158",
+    "jersey": "75",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Will Fries",
     "grp": "OL",
     "chartpos": "RG",
@@ -75,29 +154,6 @@
     "gsis": "00-0036483",
     "jersey": "76",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Brian O'Neill",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 99,
-    "last": 96,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034158",
-    "jersey": "75",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -228,7 +284,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": true,
@@ -475,29 +531,6 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Mason",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Thumb",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037525",
-    "jersey": "27",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Oliver",
     "grp": "TE",
     "chartpos": "TE",
@@ -516,6 +549,29 @@
     "gsis": "00-0035249",
     "jersey": "84",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Mason",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Thumb",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037525",
+    "jersey": "27",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -933,7 +989,7 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,

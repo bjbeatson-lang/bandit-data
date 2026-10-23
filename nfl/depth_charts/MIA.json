@@ -1,8 +1,150 @@
 {
  "team": "MIA",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Willie Gay Jr.",
+   "pos": "LB",
+   "gsis": "00-0036362",
+   "jersey": "40",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tucker Addington",
+   "pos": "LS",
+   "gsis": "00-0037686",
+   "jersey": "46",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Reese Taylor",
+   "pos": "CB",
+   "gsis": "00-0038521",
+   "jersey": "35",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Rob Beal Jr.",
+   "pos": "DE",
+   "gsis": "00-0038603",
+   "jersey": "51",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylen Wright",
+   "pos": "RB",
+   "gsis": "00-0039874",
+   "jersey": "5",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "gsis": "00-0041523",
+   "jersey": "7",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Will Kacmarek",
+   "pos": "TE",
+   "gsis": "00-0041524",
+   "jersey": "89",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyle Louis",
+   "pos": "S",
+   "gsis": "00-0041527",
+   "jersey": "19",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    3,
@@ -34,24 +176,24 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Paul",
+    "name": "Kadyn Proctor",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "LT1",
+    "june": "LG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0039899",
-    "jersey": "52",
-    "origin": "LT1",
+    "gsis": "00-0041521",
+    "jersey": "74",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -80,24 +222,24 @@
     "signed_in": false
    },
    {
-    "name": "Kadyn Proctor",
+    "name": "Patrick Paul",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "LG1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041521",
-    "jersey": "74",
-    "origin": "LG1",
+    "gsis": "00-0039899",
+    "jersey": "52",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -841,8 +983,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -925,29 +1067,6 @@
   ],
   "injured": [
    {
-    "name": "Ronnie Harrison",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034779",
-    "jersey": "56",
-    "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trey Moore",
     "grp": "LB",
     "chartpos": "SLB",
@@ -989,6 +1108,29 @@
     "gsis": "00-0037549",
     "jersey": "22",
     "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ronnie Harrison",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034779",
+    "jersey": "56",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

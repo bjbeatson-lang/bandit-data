@@ -1,8 +1,326 @@
 {
  "team": "IND",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "gsis": "00-0030279",
+   "jersey": "10",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Rigoberto Sanchez",
+   "pos": "P",
+   "gsis": "00-0033269",
+   "jersey": "8",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Grover Stewart",
+   "pos": "DT",
+   "gsis": "00-0033952",
+   "jersey": "90",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Charvarius Ward",
+   "pos": "CB",
+   "gsis": "00-0034573",
+   "jersey": "7",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Ashton Dulin",
+   "pos": "WR",
+   "gsis": "00-0035021",
+   "jersey": "16",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jerry Tillery",
+   "pos": "DT",
+   "gsis": "00-0035674",
+   "jersey": "94",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "gsis": "00-0036223",
+   "jersey": "28",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Sauce Gardner",
+   "pos": "CB",
+   "gsis": "00-0037190",
+   "jersey": "1",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Ogletree",
+   "pos": "TE",
+   "gsis": "00-0037292",
+   "jersey": "85",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Austin Ajiake",
+   "pos": "LB",
+   "gsis": "00-0039178",
+   "jersey": "58",
+   "injury": "concussion evaluation",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylon Carlies",
+   "pos": "LB",
+   "gsis": "00-0039377",
+   "jersey": "57",
+   "injury": "Ribs",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Matt Goncalves",
+   "pos": "G",
+   "gsis": "00-0039736",
+   "jersey": "71",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Anthony Gould",
+   "pos": "WR",
+   "gsis": "00-0039816",
+   "jersey": "6",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyler Warren",
+   "pos": "TE",
+   "gsis": "00-0040128",
+   "jersey": "84",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Justin Walley",
+   "pos": "CB",
+   "gsis": "00-0040139",
+   "jersey": "27",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalen Travis",
+   "pos": "T",
+   "gsis": "00-0040163",
+   "jersey": "75",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "CJ Allen",
+   "pos": "LB",
+   "gsis": "00-0041039",
+   "jersey": "53",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Bryce Boettcher",
+   "pos": "LB",
+   "gsis": "00-0041518",
+   "jersey": "50",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -34,6 +352,29 @@
     "signed_in": false
    },
    {
+    "name": "Matt Goncalves",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039736",
+    "jersey": "71",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tanor Bortolini",
     "grp": "OL",
     "chartpos": "C",
@@ -52,29 +393,6 @@
     "gsis": "00-0039744",
     "jersey": "60",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Matt Goncalves",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039736",
-    "jersey": "71",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -113,7 +431,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,
@@ -159,7 +477,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -322,7 +640,7 @@
     "june_tier": null,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -368,7 +686,7 @@
     "june_tier": 3,
     "now": "TE4",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -427,24 +745,24 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Tucker",
+    "name": "Sedrick Van Pran-Granger",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039578",
-    "jersey": "68",
-    "origin": "LG2",
+    "gsis": "00-0039876",
+    "jersey": "63",
+    "origin": "BUF C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -494,7 +812,7 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -655,7 +973,7 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -701,8 +1019,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -749,7 +1067,7 @@
     "june_tier": 3,
     "now": "RDT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
@@ -864,7 +1182,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": true,
     "returning": false,

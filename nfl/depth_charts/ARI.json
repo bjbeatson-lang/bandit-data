@@ -1,8 +1,236 @@
 {
  "team": "ARI",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Isaac Seumalo",
+   "pos": "G",
+   "gsis": "00-0032954",
+   "jersey": "73",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Budda Baker",
+   "pos": "S",
+   "gsis": "00-0033890",
+   "jersey": "3",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Josh Sweat",
+   "pos": "LB",
+   "gsis": "00-0034381",
+   "jersey": "10",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Wingard",
+   "pos": "S",
+   "gsis": "00-0035378",
+   "jersey": "28",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jedrick Wills",
+   "pos": "T",
+   "gsis": "00-0036267",
+   "jersey": "79",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jon Gaines II",
+   "pos": "G",
+   "gsis": "00-0038571",
+   "jersey": "71",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Garrett Williams",
+   "pos": "CB",
+   "gsis": "00-0039007",
+   "jersey": "21",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Max Melton",
+   "pos": "CB",
+   "gsis": "00-0039807",
+   "jersey": "16",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Darius Robinson",
+   "pos": "DT",
+   "gsis": "00-0039854",
+   "jersey": "56",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Walter Nolen",
+   "pos": "DT",
+   "gsis": "00-0040706",
+   "jersey": "97",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jeremiyah Love",
+   "pos": "RB",
+   "gsis": "00-0041027",
+   "jersey": "4",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Wydett Williams Jr.",
+   "pos": "S",
+   "gsis": "00-0041370",
+   "jersey": "31",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Carson Beck",
+   "pos": "QB",
+   "gsis": "00-0041561",
+   "jersey": "19",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -90,7 +318,7 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -113,8 +341,8 @@
     "june_tier": 2,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -437,7 +665,7 @@
     "june_tier": null,
     "now": "RT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -475,24 +703,24 @@
     "signed_in": false
    },
    {
-    "name": "Tip Reiman",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
+    "name": "Isaiah Adams",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 14,
     "last": 0,
-    "g50": 0,
-    "june": "TE2",
+    "g50": 2,
+    "june": "RG2",
     "june_tier": 2,
-    "now": "TE5",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039737",
-    "jersey": "87",
-    "origin": "TE2",
+    "gsis": "00-0039808",
+    "jersey": "74",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -521,24 +749,24 @@
     "signed_in": false
    },
    {
-    "name": "Isaiah Adams",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 14,
+    "name": "Tip Reiman",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "RG2",
+    "g50": 0,
+    "june": "TE2",
     "june_tier": 2,
-    "now": "RG2",
+    "now": "TE4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039808",
-    "jersey": "74",
-    "origin": "RG2",
+    "gsis": "00-0039737",
+    "jersey": "87",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -655,7 +883,7 @@
     "june_tier": 3,
     "now": "NB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -678,7 +906,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -747,7 +975,7 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -887,8 +1115,8 @@
     "june_tier": 1,
     "now": "RDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",

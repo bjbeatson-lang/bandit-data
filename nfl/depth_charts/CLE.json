@@ -1,8 +1,276 @@
 {
  "team": "CLE",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Maliek Collins",
+   "pos": "DT",
+   "gsis": "00-0033131",
+   "jersey": "96",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Derek Barnett",
+   "pos": "DE",
+   "gsis": "00-0033876",
+   "jersey": "97",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tytus Howard",
+   "pos": "T",
+   "gsis": "00-0035234",
+   "jersey": "71",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Elgton Jenkins",
+   "pos": "C",
+   "gsis": "00-0035526",
+   "jersey": "74",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Quincy Williams",
+   "pos": "LB",
+   "gsis": "00-0035680",
+   "jersey": "5",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Grant Delpit",
+   "pos": "S",
+   "gsis": "00-0036282",
+   "jersey": "9",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Teven Jenkins",
+   "pos": "G",
+   "gsis": "00-0036953",
+   "jersey": "78",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kalia Davis",
+   "pos": "DT",
+   "gsis": "00-0037832",
+   "jersey": "93",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Mike Hall Jr.",
+   "pos": "DT",
+   "gsis": "00-0039895",
+   "jersey": "51",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dylan Sampson",
+   "pos": "RB",
+   "gsis": "00-0040162",
+   "jersey": "22",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Carson Schwesinger",
+   "pos": "LB",
+   "gsis": "00-0040579",
+   "jersey": "49",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Mason Graham",
+   "pos": "DT",
+   "gsis": "00-0040685",
+   "jersey": "94",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Quinshon Judkins",
+   "pos": "RB",
+   "gsis": "00-0040784",
+   "jersey": "10",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "gsis": "00-0041037",
+   "jersey": "12",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "KC Concepcion",
+   "pos": "WR",
+   "gsis": "00-0041547",
+   "jersey": "1",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -29,29 +297,6 @@
     "gsis": "00-0033537",
     "jersey": "4",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Spencer Fano",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041030",
-    "jersey": "55",
-    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -98,6 +343,29 @@
     "gsis": "00-0041049",
     "jersey": "58",
     "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Spencer Fano",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041030",
+    "jersey": "55",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -391,7 +659,7 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -494,7 +762,7 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -502,29 +770,6 @@
     "gsis": "00-0040579",
     "jersey": "49",
     "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Denzel Ward",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034856",
-    "jersey": "21",
-    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -548,6 +793,29 @@
     "gsis": "00-0038715",
     "jersey": "33",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Denzel Ward",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034856",
+    "jersey": "21",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -586,8 +854,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -609,7 +877,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,
@@ -632,7 +900,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
     "returning": false,
@@ -854,24 +1122,24 @@
     "signed_in": false
    },
    {
-    "name": "Justin Jefferson",
+    "name": "Winston Reid",
     "grp": "LB",
-    "chartpos": "SLB",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB2",
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB2",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": true,
+    "practice": "",
+    "injury": "",
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041075",
-    "jersey": "17",
-    "origin": "SLB2",
+    "gsis": "00-0039515",
+    "jersey": "59",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

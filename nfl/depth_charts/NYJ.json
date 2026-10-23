@@ -1,8 +1,168 @@
 {
  "team": "NYJ",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Kene Nwangwu",
+   "pos": "RB",
+   "gsis": "00-0036842",
+   "jersey": "3",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Joseph Ossai",
+   "pos": "DE",
+   "gsis": "00-0036902",
+   "jersey": "46",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dylan Parham",
+   "pos": "G",
+   "gsis": "00-0037255",
+   "jersey": "64",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Max Mitchell",
+   "pos": "T",
+   "gsis": "00-0038114",
+   "jersey": "61",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Breece Hall",
+   "pos": "RB",
+   "gsis": "00-0038120",
+   "jersey": "20",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Will McDonald IV",
+   "pos": "DE",
+   "gsis": "00-0039142",
+   "jersey": "9",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "T'Vondre Sweat",
+   "pos": "DT",
+   "gsis": "00-0039886",
+   "jersey": "99",
+   "injury": "Elbow",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "gsis": "00-0039890",
+   "jersey": "15",
+   "injury": "Finger",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Francisco Mauigoa",
+   "pos": "LB",
+   "gsis": "00-0040186",
+   "jersey": "51",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -159,7 +319,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Quadricep",
     "rookie": false,
     "returning": true,
@@ -195,29 +355,6 @@
     "signed_in": false
    },
    {
-    "name": "Adonai Mitchell",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Finger",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0039890",
-    "jersey": "15",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Omar Cooper Jr.",
     "grp": "WR",
     "chartpos": "WR",
@@ -236,6 +373,29 @@
     "gsis": "00-0041511",
     "jersey": "11",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Adonai Mitchell",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR2",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Finger",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0039890",
+    "jersey": "15",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -507,6 +667,29 @@
   ],
   "start": [
    {
+    "name": "Demario Davis",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0029607",
+    "jersey": "56",
+    "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Azareye'h Thomas",
     "grp": "CB",
     "chartpos": "LCB",
@@ -525,29 +708,6 @@
     "gsis": "00-0040133",
     "jersey": "1",
     "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Demario Davis",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0029607",
-    "jersey": "56",
-    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -630,7 +790,7 @@
     "g50": 0,
     "june": "SLB1",
     "june_tier": 1,
-    "now": "SLB1",
+    "now": "SLB2",
     "report": "",
     "practice": "Did Not Participate In Practice",
     "injury": "Quadricep",
@@ -747,8 +907,8 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -885,7 +1045,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "SLB2",
+    "now": "SLB1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -948,47 +1108,24 @@
   ],
   "injured": [
    {
-    "name": "Marcelino McCrary-Ball",
-    "grp": "LB",
-    "chartpos": "WLB",
+    "name": "David Onyemata",
+    "grp": "DL",
+    "chartpos": "RDT",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WLB2",
+    "g50": 1,
+    "june": "RDT2",
     "june_tier": 2,
-    "now": "WLB2",
+    "now": "RDT3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037526",
-    "jersey": "41",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tre Brown",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036885",
-    "jersey": "30",
-    "origin": "RCB2",
+    "gsis": "00-0033051",
+    "jersey": "93",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1017,24 +1154,47 @@
     "signed_in": false
    },
    {
-    "name": "David Onyemata",
-    "grp": "DL",
-    "chartpos": "RDT",
+    "name": "Tre Brown",
+    "grp": "CB",
+    "chartpos": "RCB",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RDT2",
+    "g50": 0,
+    "june": "RCB2",
     "june_tier": 2,
-    "now": "RDT3",
+    "now": "RCB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033051",
-    "jersey": "93",
-    "origin": "RDT2",
+    "gsis": "00-0036885",
+    "jersey": "30",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Marcelino McCrary-Ball",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037526",
+    "jersey": "41",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

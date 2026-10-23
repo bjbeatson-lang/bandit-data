@@ -1,8 +1,118 @@
 {
  "team": "CAR",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Darren Waller",
+   "pos": "TE",
+   "gsis": "00-0031610",
+   "jersey": "88",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Taylor Moton",
+   "pos": "T",
+   "gsis": "00-0033284",
+   "jersey": "72",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Chuba Hubbard",
+   "pos": "RB",
+   "gsis": "00-0036555",
+   "jersey": "30",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaelan Phillips",
+   "pos": "LB",
+   "gsis": "00-0036934",
+   "jersey": "5",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Devin Lloyd",
+   "pos": "LB",
+   "gsis": "00-0037244",
+   "jersey": "55",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Thomas Incoom",
+   "pos": "LB",
+   "gsis": "00-0038791",
+   "jersey": "48",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    3,
@@ -57,29 +167,6 @@
     "signed_in": false
    },
    {
-    "name": "Luke Fortner",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037814",
-    "jersey": "77",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Rasheed Walker",
     "grp": "OL",
     "chartpos": "LT",
@@ -98,6 +185,29 @@
     "gsis": "00-0037196",
     "jersey": "63",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Fortner",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037814",
+    "jersey": "77",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -136,7 +246,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": true,
@@ -159,7 +269,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -251,7 +361,7 @@
     "june_tier": null,
     "now": "TE2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -452,52 +562,6 @@
   ],
   "injured": [
    {
-    "name": "Ikem Ekwonu",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037229",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonathon Brooks",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039344",
-    "jersey": "25",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chris Brazzell II",
     "grp": "WR",
     "chartpos": "WR",
@@ -539,6 +603,52 @@
     "gsis": "00-0039342",
     "jersey": "17",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jonathon Brooks",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039344",
+    "jersey": "25",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ikem Ekwonu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037229",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -724,7 +834,7 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -994,6 +1104,29 @@
   ],
   "injured": [
    {
+    "name": "Bam Martin-Scott",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RILB2",
+    "june_tier": 2,
+    "now": "LILB3",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040289",
+    "jersey": "54",
+    "origin": "RILB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Mike Jackson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1040,24 +1173,24 @@
     "signed_in": false
    },
    {
-    "name": "Bam Martin-Scott",
-    "grp": "LB",
-    "chartpos": "LILB",
+    "name": "Nic Scourton",
+    "grp": "ED",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RILB2",
-    "june_tier": 2,
-    "now": "LILB3",
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB4",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hamstring",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040289",
-    "jersey": "54",
-    "origin": "RILB2",
+    "gsis": "00-0040746",
+    "jersey": "11",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1081,29 +1214,6 @@
     "gsis": "00-0040174",
     "jersey": "99",
     "origin": "NT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Nic Scourton",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040746",
-    "jersey": "11",
-    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

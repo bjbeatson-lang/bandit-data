@@ -1,8 +1,182 @@
 {
  "team": "TB",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "A'Shawn Robinson",
+   "pos": "DT",
+   "gsis": "00-0032889",
+   "jersey": "91",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "gsis": "00-0033921",
+   "jersey": "14",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Vita Vea",
+   "pos": "DT",
+   "gsis": "00-0034773",
+   "jersey": "50",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Christian Rozeboom",
+   "pos": "LB",
+   "gsis": "00-0035942",
+   "jersey": "52",
+   "injury": "Finger",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Antoine Winfield Jr.",
+   "pos": "S",
+   "gsis": "00-0036411",
+   "jersey": "31",
+   "injury": "Rib",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Zyon McCollum",
+   "pos": "CB",
+   "gsis": "00-0037268",
+   "jersey": "27",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Luke Goedeke",
+   "pos": "T",
+   "gsis": "00-0037835",
+   "jersey": "67",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Calijah Kancey",
+   "pos": "DT",
+   "gsis": "00-0039063",
+   "jersey": "94",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Bucky Irving",
+   "pos": "RB",
+   "gsis": "00-0039361",
+   "jersey": "7",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Emeka Egbuka",
+   "pos": "WR",
+   "gsis": "00-0040129",
+   "jersey": "2",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -29,29 +203,6 @@
     "gsis": "00-0034855",
     "jersey": "6",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Luke Goedeke",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037835",
-    "jersey": "67",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -98,6 +249,29 @@
     "gsis": "00-0036132",
     "jersey": "68",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Goedeke",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037835",
+    "jersey": "67",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -159,7 +333,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -205,8 +379,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -343,7 +517,7 @@
     "g50": 0,
     "june": "WR6",
     "june_tier": 2,
-    "now": "WR5",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
@@ -381,29 +555,6 @@
     "signed_in": false
    },
    {
-    "name": "Justin Skule",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034989",
-    "jersey": "77",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dan Feeney",
     "grp": "OL",
     "chartpos": "C",
@@ -422,6 +573,29 @@
     "gsis": "00-0033910",
     "jersey": "65",
     "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Skule",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034989",
+    "jersey": "77",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -517,7 +691,7 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -609,7 +783,7 @@
     "june_tier": 1,
     "now": "NT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -655,7 +829,7 @@
     "june_tier": 2,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -749,8 +923,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -826,29 +1000,6 @@
     "gsis": "00-0040158",
     "jersey": "51",
     "origin": "WLB4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Christian Rozeboom",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 17,
-    "last": 32,
-    "g50": 1,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "LILB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Finger",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035942",
-    "jersey": "52",
-    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -943,6 +1094,29 @@
     "gsis": "00-0039051",
     "jersey": "32",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Christian Rozeboom",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 17,
+    "last": 32,
+    "g50": 1,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "LILB2",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Finger",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035942",
+    "jersey": "52",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

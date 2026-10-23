@@ -1,8 +1,120 @@
 {
  "team": "CHI",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": true,
+ "practice": [
+  {
+   "name": "T.J. Edwards",
+   "pos": "LB",
+   "gsis": "00-0035386",
+   "jersey": "53",
+   "injury": "Hamstring",
+   "designation": "Doubtful",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jonah Jackson",
+   "pos": "G",
+   "gsis": "00-0036258",
+   "jersey": "73",
+   "injury": "Hip",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jack Sanborn",
+   "pos": "LB",
+   "gsis": "00-0037109",
+   "jersey": "57",
+   "injury": "Concussion",
+   "designation": "Out",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyrique Stevenson",
+   "pos": "CB",
+   "gsis": "00-0039071",
+   "jersey": "29",
+   "injury": "Hip",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyle Monangai",
+   "pos": "RB",
+   "gsis": "00-0040236",
+   "jersey": "25",
+   "injury": "Thumb",
+   "designation": "Out",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -34,29 +146,6 @@
     "signed_in": false
    },
    {
-    "name": "Darnell Wright",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038932",
-    "jersey": "58",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Joe Thuney",
     "grp": "OL",
     "chartpos": "LG",
@@ -75,6 +164,29 @@
     "gsis": "00-0032391",
     "jersey": "62",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Darnell Wright",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038932",
+    "jersey": "58",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -452,29 +564,6 @@
   ],
   "injured": [
    {
-    "name": "Case Keenum",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 11,
-    "last": 0,
-    "g50": 1,
-    "june": "QB3",
-    "june_tier": 3,
-    "now": "QB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0028986",
-    "jersey": "11",
-    "origin": "QB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kyle Monangai",
     "grp": "RB",
     "chartpos": "RB",
@@ -493,6 +582,29 @@
     "gsis": "00-0040236",
     "jersey": "25",
     "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Case Keenum",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 11,
+    "last": 0,
+    "g50": 1,
+    "june": "QB3",
+    "june_tier": 3,
+    "now": "QB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0028986",
+    "jersey": "11",
+    "origin": "QB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -900,25 +1012,25 @@
     "signed_in": false
    },
    {
-    "name": "Keyshaun Elliott",
+    "name": "Buddy Johnson",
     "grp": "LB",
-    "chartpos": "MLB",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "MLB3",
-    "june_tier": 3,
-    "now": "MLB3",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "WLB2",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Quadricep",
-    "rookie": true,
+    "practice": "",
+    "injury": "",
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041085",
-    "jersey": "49",
-    "origin": "MLB3",
-    "psq": false,
+    "gsis": "00-0036870",
+    "jersey": "47",
+    "origin": "PS",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -971,70 +1083,24 @@
   ],
   "injured": [
    {
-    "name": "Jack Sanborn",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 5,
-    "last": 16,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0037109",
-    "jersey": "57",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "T.J. Edwards",
-    "grp": "LB",
-    "chartpos": "MLB",
+    "name": "Montez Sweat",
+    "grp": "ED",
+    "chartpos": "LDE",
     "avg3": 46,
     "last": 0,
-    "g50": 4,
-    "june": "MLB1",
+    "g50": 5,
+    "june": "LDE1",
     "june_tier": 1,
-    "now": "MLB1",
-    "report": "Doubtful",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035386",
-    "jersey": "53",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
+    "now": "LDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
+    "gsis": "00-0035647",
+    "jersey": "98",
+    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1086,24 +1152,70 @@
     "signed_in": false
    },
    {
-    "name": "Montez Sweat",
-    "grp": "ED",
-    "chartpos": "LDE",
+    "name": "T.J. Edwards",
+    "grp": "LB",
+    "chartpos": "MLB",
     "avg3": 46,
     "last": 0,
-    "g50": 5,
-    "june": "LDE1",
+    "g50": 4,
+    "june": "MLB1",
     "june_tier": 1,
-    "now": "LDE3",
+    "now": "MLB1",
+    "report": "Doubtful",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0035386",
+    "jersey": "53",
+    "origin": "MLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035647",
-    "jersey": "98",
-    "origin": "LDE1",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jack Sanborn",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 5,
+    "last": 16,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037109",
+    "jersey": "57",
+    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

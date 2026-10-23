@@ -1,8 +1,132 @@
 {
  "team": "KC",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "gsis": "00-0030506",
+   "jersey": "87",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "L'Jarius Sneed",
+   "pos": "CB",
+   "gsis": "00-0036374",
+   "jersey": "38",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylon Moore",
+   "pos": "T",
+   "gsis": "00-0036557",
+   "jersey": "77",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Rashee Rice",
+   "pos": "WR",
+   "gsis": "00-0039067",
+   "jersey": "4",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Brashard Smith",
+   "pos": "RB",
+   "gsis": "00-0040078",
+   "jersey": "24",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Josh Simmons",
+   "pos": "T",
+   "gsis": "00-0040116",
+   "jersey": "71",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Cooper McDonald",
+   "pos": "LB",
+   "gsis": "00-0040118",
+   "jersey": "44",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    3,
@@ -34,29 +158,6 @@
     "signed_in": false
    },
    {
-    "name": "Creed Humphrey",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036623",
-    "jersey": "52",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trey Smith",
     "grp": "OL",
     "chartpos": "RG",
@@ -80,15 +181,38 @@
     "signed_in": false
    },
    {
+    "name": "Creed Humphrey",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036623",
+    "jersey": "52",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kahlil Benson",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 5,
     "june": "RT4",
     "june_tier": 4,
-    "now": "RT1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -111,7 +235,7 @@
     "g50": 5,
     "june": "RT1",
     "june_tier": 1,
-    "now": "RT2",
+    "now": "RT1",
     "report": "",
     "practice": "Did Not Participate In Practice",
     "injury": "Concussion",
@@ -126,24 +250,24 @@
     "signed_in": false
    },
    {
-    "name": "Josh Simmons",
+    "name": "Kingsley Suamataia",
     "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
+    "chartpos": "LG",
+    "avg3": 63,
+    "last": 90,
+    "g50": 4,
+    "june": "LG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "LG1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Back",
+    "practice": "",
+    "injury": "",
     "rookie": false,
-    "returning": true,
+    "returning": false,
     "why": "",
-    "gsis": "00-0040116",
-    "jersey": "71",
-    "origin": "LT1",
+    "gsis": "00-0039844",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -381,29 +505,6 @@
     "signed_in": false
    },
    {
-    "name": "Kingsley Suamataia",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 63,
-    "last": 90,
-    "g50": 4,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039844",
-    "jersey": "76",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Mike Caliendo",
     "grp": "OL",
     "chartpos": "LG",
@@ -429,13 +530,13 @@
    {
     "name": "Joshua Ezeudu",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RT",
     "avg3": 17,
     "last": 49,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "LG3",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -448,9 +549,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Hunter Nourzad",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 4,
+    "last": 2,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039827",
+    "jersey": "64",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Josh Simmons",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040116",
+    "jersey": "71",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Tyquan Thornton",
     "grp": "WR",

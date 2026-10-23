@@ -1,8 +1,132 @@
 {
  "team": "NO",
  "entering_week": 7,
- "chart_date": "2026-10-22",
+ "chart_date": "2026-10-23",
  "inactives_posted": false,
+ "practice": [
+  {
+   "name": "Davon Godchaux",
+   "pos": "DT",
+   "gsis": "00-0033860",
+   "jersey": "92",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "gsis": "00-0033906",
+   "jersey": "41",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Daniel Carlson",
+   "pos": "K",
+   "gsis": "00-0034161",
+   "jersey": "10",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kaden Elliss",
+   "pos": "LB",
+   "gsis": "00-0035316",
+   "jersey": "55",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Anfernee Jennings",
+   "pos": "LB",
+   "gsis": "00-0036193",
+   "jersey": "33",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Cesar Ruiz",
+   "pos": "G",
+   "gsis": "00-0036408",
+   "jersey": "51",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "CJ Donaldson",
+   "pos": "RB",
+   "gsis": "00-0041326",
+   "jersey": "43",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -34,29 +158,6 @@
     "signed_in": false
    },
    {
-    "name": "David Edwards",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035668",
-    "jersey": "76",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Taliese Fuaga",
     "grp": "OL",
     "chartpos": "RT",
@@ -75,6 +176,29 @@
     "gsis": "00-0039339",
     "jersey": "75",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "David Edwards",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035668",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -159,7 +283,7 @@
     "june_tier": 7,
     "now": "RB3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": true,
     "returning": false,
@@ -276,8 +400,8 @@
     "june_tier": 2,
     "now": "QB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -429,6 +553,29 @@
   ],
   "injured": [
    {
+    "name": "Jordyn Tyson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041029",
+    "jersey": "0",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Mason Tipton",
     "grp": "WR",
     "chartpos": "WR",
@@ -447,29 +594,6 @@
     "gsis": "00-0039623",
     "jersey": "15",
     "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Travis Etienne",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036973",
-    "jersey": "3",
-    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -521,24 +645,24 @@
     "signed_in": false
    },
    {
-    "name": "Jordyn Tyson",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Travis Etienne",
+    "grp": "RB",
+    "chartpos": "RB",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WR2",
+    "g50": 2,
+    "june": "RB1",
     "june_tier": 1,
-    "now": "WR5",
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041029",
-    "jersey": "0",
-    "origin": "WR2",
+    "gsis": "00-0036973",
+    "jersey": "3",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -552,29 +676,6 @@
    6
   ],
   "start": [
-   {
-    "name": "Justin Reid",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034361",
-    "jersey": "21",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Julian Blackmon",
     "grp": "S",
@@ -594,6 +695,29 @@
     "gsis": "00-0036253",
     "jersey": "23",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Reid",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034361",
+    "jersey": "21",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
