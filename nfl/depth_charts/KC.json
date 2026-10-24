@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 7,
- "chart_date": "2026-10-23",
+ "chart_date": "2026-10-24",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0036374",
    "jersey": "38",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -46,7 +54,7 @@
    "gsis": "00-0036557",
    "jersey": "77",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -64,7 +76,7 @@
    "gsis": "00-0039067",
    "jersey": "4",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -82,11 +98,15 @@
    "gsis": "00-0040078",
    "jersey": "24",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -105,6 +125,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -114,7 +138,7 @@
    "gsis": "00-0040118",
    "jersey": "44",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -122,6 +146,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -158,29 +186,6 @@
     "signed_in": false
    },
    {
-    "name": "Trey Smith",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036660",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Creed Humphrey",
     "grp": "OL",
     "chartpos": "C",
@@ -199,6 +204,29 @@
     "gsis": "00-0036623",
     "jersey": "52",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trey Smith",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hip",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036660",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -227,29 +255,6 @@
     "signed_in": false
    },
    {
-    "name": "Jaylon Moore",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 83,
-    "last": 51,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036557",
-    "jersey": "77",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kingsley Suamataia",
     "grp": "OL",
     "chartpos": "LG",
@@ -268,6 +273,29 @@
     "gsis": "00-0039844",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mike Caliendo",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 39,
+    "last": 11,
+    "g50": 1,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037207",
+    "jersey": "66",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -365,24 +393,24 @@
     "signed_in": false
    },
    {
-    "name": "Rashee Rice",
+    "name": "Jalen Royals",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 29,
-    "last": 0,
-    "g50": 3,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
+    "avg3": 52,
+    "last": 74,
+    "g50": 2,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR3",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "practice": "",
+    "injury": "",
     "rookie": false,
-    "returning": true,
+    "returning": false,
     "why": "",
-    "gsis": "00-0039067",
-    "jersey": "4",
-    "origin": "WR1",
+    "gsis": "00-0040646",
+    "jersey": "11",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -436,25 +464,25 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Royals",
+    "name": "Andrew Armstrong",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 52,
-    "last": 74,
-    "g50": 2,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR3",
+    "avg3": 23,
+    "last": 69,
+    "g50": 1,
+    "june": "WR9",
+    "june_tier": 3,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040646",
-    "jersey": "11",
-    "origin": "WR4",
-    "psq": false,
+    "gsis": "00-0040298",
+    "jersey": "85",
+    "origin": "WR9",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -505,29 +533,6 @@
     "signed_in": false
    },
    {
-    "name": "Mike Caliendo",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 39,
-    "last": 11,
-    "g50": 1,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037207",
-    "jersey": "66",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Joshua Ezeudu",
     "grp": "OL",
     "chartpos": "RT",
@@ -572,6 +577,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Diego Pounds",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040987",
+    "jersey": "61",
+    "origin": "BAL LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
@@ -607,7 +635,7 @@
     "g50": 3,
     "june": "WR3",
     "june_tier": 1,
-    "now": "WR6",
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
@@ -617,6 +645,52 @@
     "gsis": "00-0038104",
     "jersey": "2",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Rashee Rice",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 29,
+    "last": 0,
+    "g50": 3,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039067",
+    "jersey": "4",
+    "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylon Moore",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 83,
+    "last": 51,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036557",
+    "jersey": "77",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -801,7 +875,7 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1096,6 +1170,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "L'Jarius Sneed",
+   "pos": "CB",
+   "gsis": "00-0036374",
+   "jersey": "38",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Cooper McDonald",
+   "pos": "LB",
+   "gsis": "00-0040118",
+   "jersey": "44",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

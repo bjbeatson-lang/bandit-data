@@ -1,7 +1,7 @@
 {
  "team": "MIA",
  "entering_week": 7,
- "chart_date": "2026-10-23",
+ "chart_date": "2026-10-24",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,11 +10,15 @@
    "gsis": "00-0036362",
    "jersey": "40",
    "injury": "Illness",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -33,6 +37,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -42,7 +50,7 @@
    "gsis": "00-0038521",
    "jersey": "35",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -50,6 +58,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -60,7 +72,7 @@
    "gsis": "00-0038603",
    "jersey": "51",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Doubtful",
    "days": [
     [
      "Wed",
@@ -68,6 +80,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -87,6 +103,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -105,6 +125,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -123,6 +147,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -132,7 +160,7 @@
    "gsis": "00-0041527",
    "jersey": "19",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -141,6 +169,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -199,29 +231,6 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Brewer",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036171",
-    "jersey": "55",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Patrick Paul",
     "grp": "OL",
     "chartpos": "LT",
@@ -240,6 +249,29 @@
     "gsis": "00-0039899",
     "jersey": "52",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Aaron Brewer",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036171",
+    "jersey": "55",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -487,7 +519,7 @@
     "june_tier": 2,
     "now": "WR2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": true,
     "returning": false,
@@ -510,7 +542,7 @@
     "june_tier": 2,
     "now": "TE2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": true,
     "returning": false,
@@ -982,8 +1014,8 @@
     "june": "SLB1",
     "june_tier": 1,
     "now": "SLB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -1113,6 +1145,29 @@
     "signed_in": false
    },
    {
+    "name": "Rob Beal Jr.",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE2",
+    "report": "Doubtful",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Doubtful",
+    "gsis": "00-0038603",
+    "jersey": "51",
+    "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ronnie Harrison",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1137,6 +1192,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Willie Gay Jr.",
+   "pos": "LB",
+   "gsis": "00-0036362",
+   "jersey": "40",
+   "injury": "Illness",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Kyle Louis",
+   "pos": "S",
+   "gsis": "00-0041527",
+   "jersey": "19",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

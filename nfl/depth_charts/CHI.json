@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 7,
- "chart_date": "2026-10-23",
+ "chart_date": "2026-10-24",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -338,7 +358,7 @@
     "g50": 5,
     "june": "TE2",
     "june_tier": 2,
-    "now": "TE2",
+    "now": "TE3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -478,7 +498,7 @@
     "g50": 0,
     "june": "TE3",
     "june_tier": 3,
-    "now": "TE3",
+    "now": "TE2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -564,29 +584,6 @@
   ],
   "injured": [
    {
-    "name": "Kyle Monangai",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 18,
-    "last": 0,
-    "g50": 1,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040236",
-    "jersey": "25",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Case Keenum",
     "grp": "QB",
     "chartpos": "QB",
@@ -605,6 +602,29 @@
     "gsis": "00-0028986",
     "jersey": "11",
     "origin": "QB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kyle Monangai",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 18,
+    "last": 0,
+    "g50": 1,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040236",
+    "jersey": "25",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -742,7 +762,7 @@
     "g50": 5,
     "june": "RDE2",
     "june_tier": 2,
-    "now": "LDE1",
+    "now": "LDE2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -951,7 +971,7 @@
     "g50": 1,
     "june": "RDE3",
     "june_tier": 3,
-    "now": "LDE2",
+    "now": "LDE3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1012,25 +1032,25 @@
     "signed_in": false
    },
    {
-    "name": "Buddy Johnson",
+    "name": "Keyshaun Elliott",
     "grp": "LB",
-    "chartpos": "WLB",
+    "chartpos": "MLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "WLB2",
+    "june": "MLB3",
+    "june_tier": 3,
+    "now": "MLB3",
     "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
+    "practice": "Full Participation in Practice",
+    "injury": "Quadricep",
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0036870",
-    "jersey": "47",
-    "origin": "PS",
-    "psq": true,
+    "gsis": "00-0041085",
+    "jersey": "49",
+    "origin": "MLB3",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -1083,6 +1103,29 @@
   ],
   "injured": [
    {
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Montez Sweat",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1091,7 +1134,7 @@
     "g50": 5,
     "june": "LDE1",
     "june_tier": 1,
-    "now": "LDE3",
+    "now": "LDE1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1101,29 +1144,6 @@
     "gsis": "00-0035647",
     "jersey": "98",
     "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dayo Odeyingbo",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 32,
-    "last": 0,
-    "g50": 4,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036480",
-    "jersey": "55",
-    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1175,29 +1195,6 @@
     "signed_in": false
    },
    {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jack Sanborn",
     "grp": "LB",
     "chartpos": "SLB",
@@ -1216,6 +1213,29 @@
     "gsis": "00-0037109",
     "jersey": "57",
     "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dayo Odeyingbo",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 32,
+    "last": 0,
+    "g50": 4,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036480",
+    "jersey": "55",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

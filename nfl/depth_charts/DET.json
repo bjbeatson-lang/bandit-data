@@ -1,7 +1,7 @@
 {
  "team": "DET",
  "entering_week": 7,
- "chart_date": "2026-10-23",
+ "chart_date": "2026-10-24",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,54 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Cade Mays",
+   "pos": "C",
+   "gsis": "00-0037297",
+   "jersey": "64",
+   "injury": "Wrist",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Brian Branch",
+   "pos": "S",
+   "gsis": "00-0039141",
+   "jersey": "32",
+   "injury": "Achilles",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -100,24 +148,24 @@
     "signed_in": false
    },
    {
-    "name": "Juice Scruggs",
+    "name": "Penei Sewell",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LT",
     "avg3": 98,
     "last": 95,
     "g50": 5,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "C1",
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0038936",
-    "jersey": "70",
-    "origin": "LG2",
+    "gsis": "00-0036880",
+    "jersey": "58",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -146,24 +194,24 @@
     "signed_in": false
    },
    {
-    "name": "Penei Sewell",
+    "name": "Juice Scruggs",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 98,
     "last": 95,
     "g50": 5,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036880",
-    "jersey": "58",
-    "origin": "LT1",
+    "gsis": "00-0038936",
+    "jersey": "70",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -424,29 +472,6 @@
     "signed_in": false
    },
    {
-    "name": "Miles Frazier",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 2,
-    "last": 5,
-    "g50": 0,
-    "june": "LG3",
-    "june_tier": 3,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040193",
-    "jersey": "71",
-    "origin": "LG3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Seth McLaughlin",
     "grp": "OL",
     "chartpos": "C",
@@ -468,9 +493,55 @@
     "psq": true,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Miles Frazier",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 2,
+    "last": 5,
+    "g50": 0,
+    "june": "LG3",
+    "june_tier": 3,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040193",
+    "jersey": "71",
+    "origin": "LG3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Tom Kennedy",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035544",
+    "jersey": "85",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Ben Bartch",
     "grp": "OL",
@@ -490,6 +561,29 @@
     "gsis": "00-0036272",
     "jersey": "78",
     "origin": "LG4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Giovanni Manu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039362",
+    "jersey": "59",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -518,29 +612,6 @@
     "signed_in": false
    },
    {
-    "name": "Tom Kennedy",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035544",
-    "jersey": "85",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cade Mays",
     "grp": "OL",
     "chartpos": "C",
@@ -550,7 +621,7 @@
     "june": "C1",
     "june_tier": 1,
     "now": "C3",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Wrist",
     "rookie": false,
@@ -559,29 +630,6 @@
     "gsis": "00-0037297",
     "jersey": "64",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Giovanni Manu",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039362",
-    "jersey": "59",
-    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1060,29 +1108,6 @@
     "signed_in": false
    },
    {
-    "name": "Kerby Joseph",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037667",
-    "jersey": "31",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Damone Clark",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1106,24 +1131,24 @@
     "signed_in": false
    },
    {
-    "name": "Brian Branch",
+    "name": "Kerby Joseph",
     "grp": "S",
-    "chartpos": "SS",
+    "chartpos": "FS",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SS1",
+    "june": "FS1",
     "june_tier": 1,
-    "now": "SS3",
+    "now": "FS3",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Achilles",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039141",
-    "jersey": "32",
-    "origin": "SS1",
+    "gsis": "00-0037667",
+    "jersey": "31",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1150,9 +1175,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Brian Branch",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Achilles",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039141",
+    "jersey": "32",
+    "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Cade Mays",
+   "pos": "C",
+   "gsis": "00-0037297",
+   "jersey": "64",
+   "injury": "Wrist",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Brian Branch",
+   "pos": "S",
+   "gsis": "00-0039141",
+   "jersey": "32",
+   "injury": "Achilles",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }
