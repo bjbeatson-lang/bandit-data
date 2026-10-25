@@ -19,6 +19,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -59,6 +67,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -80,6 +92,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -103,6 +119,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -124,6 +144,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -147,6 +171,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -168,6 +196,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -191,6 +223,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -213,6 +249,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -234,6 +274,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -270,29 +314,6 @@
     "signed_in": false
    },
    {
-    "name": "Graham Barton",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039905",
-    "jersey": "62",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ben Bredeson",
     "grp": "OL",
     "chartpos": "LG",
@@ -311,6 +332,29 @@
     "gsis": "00-0036132",
     "jersey": "68",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Graham Barton",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039905",
+    "jersey": "62",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -688,29 +732,6 @@
   ],
   "injured": [
    {
-    "name": "Jalen McMillan",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039855",
-    "jersey": "11",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Emeka Egbuka",
     "grp": "WR",
     "chartpos": "WR",
@@ -729,6 +750,29 @@
     "gsis": "00-0040129",
     "jersey": "2",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen McMillan",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039855",
+    "jersey": "11",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -766,29 +810,6 @@
   ],
   "start": [
    {
-    "name": "Zyon McCollum",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Illness",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037268",
-    "jersey": "27",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Alex Anzalone",
     "grp": "LB",
     "chartpos": "LILB",
@@ -807,6 +828,29 @@
     "gsis": "00-0033914",
     "jersey": "34",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zyon McCollum",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Illness",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037268",
+    "jersey": "27",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1184,29 +1228,6 @@
   ],
   "injured": [
    {
-    "name": "Antoine Winfield Jr.",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 31,
-    "last": 0,
-    "g50": 4,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Rib",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036411",
-    "jersey": "31",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Hayes",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1225,6 +1246,29 @@
     "gsis": "00-0039051",
     "jersey": "32",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Antoine Winfield Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 31,
+    "last": 0,
+    "g50": 4,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Rib",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036411",
+    "jersey": "31",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

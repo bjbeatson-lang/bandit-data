@@ -23,6 +23,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -40,6 +44,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -63,6 +71,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -84,6 +96,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -107,6 +123,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -128,6 +148,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -151,6 +175,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -172,6 +200,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -195,6 +227,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -217,6 +253,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -230,6 +270,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -252,6 +296,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -288,6 +336,29 @@
     "signed_in": false
    },
    {
+    "name": "Abraham Lucas",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037812",
+    "jersey": "72",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Grey Zabel",
     "grp": "OL",
     "chartpos": "LG",
@@ -306,29 +377,6 @@
     "gsis": "00-0040639",
     "jersey": "76",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalen Sundell",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039926",
-    "jersey": "61",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -357,24 +405,24 @@
     "signed_in": false
    },
    {
-    "name": "Abraham Lucas",
+    "name": "Jalen Sundell",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "RT1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037812",
-    "jersey": "72",
-    "origin": "RT1",
+    "gsis": "00-0039926",
+    "jersey": "61",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -706,52 +754,6 @@
   ],
   "injured": [
    {
-    "name": "Zach Charbonnet",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB2",
-    "report": "Out",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039165",
-    "jersey": "26",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jadarian Price",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041512",
-    "jersey": "8",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Elijah Arroyo",
     "grp": "TE",
     "chartpos": "TE",
@@ -770,6 +772,52 @@
     "gsis": "00-0040739",
     "jersey": "18",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robbie Ouzts",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040649",
+    "jersey": "40",
+    "origin": "FB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zach Charbonnet",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039165",
+    "jersey": "26",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -798,24 +846,24 @@
     "signed_in": false
    },
    {
-    "name": "Robbie Ouzts",
+    "name": "Jadarian Price",
     "grp": "RB",
-    "chartpos": "FB",
+    "chartpos": "RB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "FB1",
-    "june_tier": 1,
-    "now": "FB2",
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB6",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040649",
-    "jersey": "40",
-    "origin": "FB1",
+    "gsis": "00-0041512",
+    "jersey": "8",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1294,29 +1342,6 @@
   ],
   "injured": [
    {
-    "name": "Julian Neal",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040873",
-    "jersey": "1",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bud Clark",
     "grp": "S",
     "chartpos": "SS",
@@ -1358,6 +1383,29 @@
     "gsis": "00-0038922",
     "jersey": "32",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Julian Neal",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040873",
+    "jersey": "1",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

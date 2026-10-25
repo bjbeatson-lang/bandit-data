@@ -27,6 +27,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -52,6 +56,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -79,6 +87,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -105,6 +117,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -607,29 +627,6 @@
     "signed_in": false
    },
    {
-    "name": "Kyle Monangai",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 18,
-    "last": 0,
-    "g50": 1,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040236",
-    "jersey": "25",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Braxton Jones",
     "grp": "OL",
     "chartpos": "LT",
@@ -651,6 +648,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Kyle Monangai",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 18,
+    "last": 0,
+    "g50": 1,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040236",
+    "jersey": "25",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -661,29 +681,6 @@
    6
   ],
   "start": [
-   {
-    "name": "Jaylon Johnson",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 95,
-    "last": 84,
-    "g50": 6,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036292",
-    "jersey": "1",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Dillon Thieneman",
     "grp": "S",
@@ -703,6 +700,29 @@
     "gsis": "00-0041538",
     "jersey": "31",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylon Johnson",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 95,
+    "last": 84,
+    "g50": 6,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036292",
+    "jersey": "1",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1103,47 +1123,24 @@
   ],
   "injured": [
    {
-    "name": "Ruben Hyppolite II",
+    "name": "T.J. Edwards",
     "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Montez Sweat",
-    "grp": "ED",
-    "chartpos": "LDE",
+    "chartpos": "MLB",
     "avg3": 46,
     "last": 0,
-    "g50": 5,
-    "june": "LDE1",
+    "g50": 4,
+    "june": "MLB1",
     "june_tier": 1,
-    "now": "LDE1",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "MLB1",
+    "report": "Doubtful",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035647",
-    "jersey": "98",
-    "origin": "LDE1",
+    "why": "Inactive",
+    "gsis": "00-0035386",
+    "jersey": "53",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1172,24 +1169,24 @@
     "signed_in": false
    },
    {
-    "name": "T.J. Edwards",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 46,
+    "name": "Dayo Odeyingbo",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 32,
     "last": 0,
     "g50": 4,
-    "june": "MLB1",
+    "june": "RDE1",
     "june_tier": 1,
-    "now": "MLB1",
-    "report": "Doubtful",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035386",
-    "jersey": "53",
-    "origin": "MLB1",
+    "why": "IR",
+    "gsis": "00-0036480",
+    "jersey": "55",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1218,24 +1215,47 @@
     "signed_in": false
    },
    {
-    "name": "Dayo Odeyingbo",
+    "name": "Montez Sweat",
     "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 32,
+    "chartpos": "LDE",
+    "avg3": 46,
     "last": 0,
-    "g50": 4,
-    "june": "RDE1",
+    "g50": 5,
+    "june": "LDE1",
     "june_tier": 1,
-    "now": "RDE3",
+    "now": "LDE1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036480",
-    "jersey": "55",
-    "origin": "RDE1",
+    "gsis": "00-0035647",
+    "jersey": "98",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

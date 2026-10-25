@@ -19,6 +19,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -40,6 +44,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -63,6 +71,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -84,6 +96,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -107,6 +123,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -128,6 +148,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -151,6 +175,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -168,6 +196,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -191,6 +223,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -212,6 +248,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -235,6 +275,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -256,6 +300,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -287,29 +335,6 @@
     "gsis": "00-0036264",
     "jersey": "10",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Anthony Belton",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040726",
-    "jersey": "71",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -356,6 +381,29 @@
     "gsis": "00-0037076",
     "jersey": "75",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anthony Belton",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040726",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -662,27 +710,27 @@
     "signed_in": true
    },
    {
-    "name": "Jager Burton",
+    "name": "Kevin Zeitler",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C2",
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040884",
-    "jersey": "52",
-    "origin": "C2",
+    "gsis": "00-0029592",
+    "jersey": "70",
+    "origin": "FA",
     "psq": false,
     "trade_in": false,
-    "signed_in": false
+    "signed_in": true
    },
    {
     "name": "John Williams",
@@ -733,29 +781,6 @@
     "signed_in": false
    },
    {
-    "name": "Chris Brooks",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 6,
-    "last": 0,
-    "g50": 1,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038685",
-    "jersey": "30",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Musgrave",
     "grp": "TE",
     "chartpos": "TE",
@@ -779,24 +804,24 @@
     "signed_in": false
    },
    {
-    "name": "Skyy Moore",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 19,
+    "name": "Chris Brooks",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 6,
     "last": 0,
     "g50": 1,
-    "june": "WR6",
+    "june": "RB2",
     "june_tier": 2,
-    "now": "WR6",
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038090",
-    "jersey": "23",
-    "origin": "WR6",
+    "gsis": "00-0038685",
+    "jersey": "30",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -820,6 +845,29 @@
     "gsis": "00-0039146",
     "jersey": "11",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Skyy Moore",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 19,
+    "last": 0,
+    "g50": 1,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038090",
+    "jersey": "23",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1252,47 +1300,24 @@
   ],
   "injured": [
    {
-    "name": "Jordon Riley",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NT2",
-    "june_tier": 2,
-    "now": "NT2",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Achilles",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038506",
-    "jersey": "97",
-    "origin": "NT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Micah Parsons",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
+    "name": "Zaire Franklin",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 98,
+    "last": 100,
+    "g50": 6,
+    "june": "RILB1",
     "june_tier": 1,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "LILB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shin",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0036932",
-    "jersey": "1",
-    "origin": "SLB1",
+    "why": "Out",
+    "gsis": "00-0034431",
+    "jersey": "44",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1321,29 +1346,6 @@
     "signed_in": false
    },
    {
-    "name": "Zaire Franklin",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 98,
-    "last": 100,
-    "g50": 6,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Shin",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034431",
-    "jersey": "44",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Javon Hargrave",
     "grp": "DL",
     "chartpos": "NT",
@@ -1362,6 +1364,52 @@
     "gsis": "00-0033109",
     "jersey": "98",
     "origin": "NT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micah Parsons",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036932",
+    "jersey": "1",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordon Riley",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NT2",
+    "june_tier": 2,
+    "now": "NT2",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Achilles",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038506",
+    "jersey": "97",
+    "origin": "NT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

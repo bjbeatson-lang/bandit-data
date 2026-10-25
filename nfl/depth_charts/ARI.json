@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -111,6 +127,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -124,6 +144,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -142,6 +166,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -165,6 +193,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -187,6 +219,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -204,6 +240,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -227,6 +267,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -248,6 +292,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -271,6 +319,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -292,6 +344,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -746,6 +802,29 @@
   ],
   "injured": [
    {
+    "name": "Jon Gaines II",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 86,
+    "last": 100,
+    "g50": 4,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038571",
+    "jersey": "71",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jeremiyah Love",
     "grp": "RB",
     "chartpos": "RB",
@@ -764,6 +843,29 @@
     "gsis": "00-0041027",
     "jersey": "4",
     "origin": "RB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tip Reiman",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039737",
+    "jersey": "87",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -810,52 +912,6 @@
     "gsis": "00-0039808",
     "jersey": "74",
     "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tip Reiman",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039737",
-    "jersey": "87",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jon Gaines II",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 86,
-    "last": 100,
-    "g50": 4,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038571",
-    "jersey": "71",
-    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1357,29 +1413,6 @@
     "signed_in": false
    },
    {
-    "name": "Walter Nolen",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 62,
-    "last": 60,
-    "g50": 6,
-    "june": "RDT1",
-    "june_tier": 1,
-    "now": "RDT1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040706",
-    "jersey": "97",
-    "origin": "RDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Andrew Wingard",
     "grp": "S",
     "chartpos": "FS",
@@ -1398,6 +1431,29 @@
     "gsis": "00-0035378",
     "jersey": "28",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Walter Nolen",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 62,
+    "last": 60,
+    "g50": 6,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040706",
+    "jersey": "97",
+    "origin": "RDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

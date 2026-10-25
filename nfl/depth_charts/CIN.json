@@ -19,6 +19,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -37,6 +41,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -50,6 +58,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -72,6 +84,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -108,24 +124,24 @@
     "signed_in": false
    },
    {
-    "name": "Ted Karras",
+    "name": "Orlando Brown",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "C1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "C1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0032445",
-    "jersey": "64",
-    "origin": "C1",
+    "gsis": "00-0034752",
+    "jersey": "75",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -154,24 +170,24 @@
     "signed_in": false
    },
    {
-    "name": "Orlando Brown",
+    "name": "Ted Karras",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "LT1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034752",
-    "jersey": "75",
-    "origin": "LT1",
+    "gsis": "00-0032445",
+    "jersey": "64",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -501,53 +517,30 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Rivers",
+    "name": "Myles Hinton",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040180",
-    "jersey": "74",
-    "origin": "RG2",
+    "gsis": "00-0040015",
+    "jersey": "77",
+    "origin": "PHI LT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Andrei Iosivas",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038619",
-    "jersey": "80",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Brian Parker II",
     "grp": "OL",
@@ -570,6 +563,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Andrei Iosivas",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038619",
+    "jersey": "80",
+    "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -580,29 +596,6 @@
    5
   ],
   "start": [
-   {
-    "name": "Barrett Carter",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040157",
-    "jersey": "49",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jordan Battle",
     "grp": "S",
@@ -627,24 +620,24 @@
     "signed_in": false
    },
    {
-    "name": "Daxton Hill",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 99,
-    "last": 97,
+    "name": "Barrett Carter",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
     "g50": 5,
-    "june": "LCB1",
+    "june": "MLB1",
     "june_tier": 1,
-    "now": "NB1",
+    "now": "MLB1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037743",
-    "jersey": "23",
-    "origin": "LCB1",
+    "gsis": "00-0040157",
+    "jersey": "49",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -668,6 +661,29 @@
     "gsis": "00-0038549",
     "jersey": "0",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Daxton Hill",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 99,
+    "last": 97,
+    "g50": 5,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037743",
+    "jersey": "23",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -37,6 +41,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -46,7 +54,7 @@
    "gsis": "00-0033269",
    "jersey": "8",
    "injury": "Foot",
-   "designation": "Questionable",
+   "designation": "",
    "days": [
     [
      "Wed",
@@ -58,6 +66,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -76,6 +88,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -99,6 +115,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -120,6 +140,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -143,6 +167,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -164,6 +192,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -187,6 +219,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -208,6 +244,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -231,6 +271,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -252,6 +296,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -275,6 +323,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -296,6 +348,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -319,6 +375,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -340,6 +400,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -363,6 +427,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -372,7 +440,7 @@
    "gsis": "00-0041039",
    "jersey": "53",
    "injury": "Ankle",
-   "designation": "Questionable",
+   "designation": "Out",
    "days": [
     [
      "Thu",
@@ -380,6 +448,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -402,6 +474,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -438,29 +514,6 @@
     "signed_in": false
    },
    {
-    "name": "Matt Goncalves",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039736",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tanor Bortolini",
     "grp": "OL",
     "chartpos": "C",
@@ -479,6 +532,29 @@
     "gsis": "00-0039744",
     "jersey": "60",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matt Goncalves",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039736",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -831,24 +907,24 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Tucker",
+    "name": "Sedrick Van Pran-Granger",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039578",
-    "jersey": "68",
-    "origin": "LG2",
+    "gsis": "00-0039876",
+    "jersey": "63",
+    "origin": "BUF C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1304,24 +1380,24 @@
     "signed_in": false
    },
    {
-    "name": "CJ Allen",
+    "name": "Jaylon Carlies",
     "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 23,
-    "last": 28,
-    "g50": 0,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB2",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": true,
+    "chartpos": "WLB",
+    "avg3": 16,
+    "last": 0,
+    "g50": 3,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ribs",
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041039",
-    "jersey": "53",
-    "origin": "MLB1",
+    "gsis": "00-0039377",
+    "jersey": "57",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1375,29 +1451,6 @@
   ],
   "injured": [
    {
-    "name": "Sauce Gardner",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 82,
-    "last": 48,
-    "g50": 5,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0037190",
-    "jersey": "1",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Micheal Clemons",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1416,6 +1469,52 @@
     "gsis": "00-0038107",
     "jersey": "72",
     "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "CJ Allen",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 23,
+    "last": 28,
+    "g50": 0,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0041039",
+    "jersey": "53",
+    "origin": "MLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sauce Gardner",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 82,
+    "last": 48,
+    "g50": 5,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037190",
+    "jersey": "1",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1447,28 +1546,12 @@
  },
  "questionable": [
   {
-   "name": "Rigoberto Sanchez",
-   "pos": "P",
-   "gsis": "00-0033269",
-   "jersey": "8",
-   "injury": "Foot",
-   "practice": "Did Not Participate In Practice"
-  },
-  {
    "name": "Justin Walley",
    "pos": "CB",
    "gsis": "00-0040139",
    "jersey": "27",
    "injury": "Knee",
    "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "CJ Allen",
-   "pos": "LB",
-   "gsis": "00-0041039",
-   "jersey": "53",
-   "injury": "Ankle",
-   "practice": "Did Not Participate In Practice"
   },
   {
    "name": "Bryce Boettcher",

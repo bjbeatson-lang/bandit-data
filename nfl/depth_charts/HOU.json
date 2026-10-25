@@ -23,6 +23,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -111,6 +127,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -133,6 +153,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -173,6 +201,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -194,6 +226,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -217,6 +253,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -238,6 +278,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -261,6 +305,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -283,6 +331,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -304,6 +356,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -335,52 +391,6 @@
     "gsis": "00-0039163",
     "jersey": "7",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Trent Brown",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Wrist",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0032071",
-    "jersey": "77",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Keylan Rutledge",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041532",
-    "jersey": "66",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -427,6 +437,52 @@
     "gsis": "00-0034495",
     "jersey": "63",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Keylan Rutledge",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041532",
+    "jersey": "66",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trent Brown",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Wrist",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032071",
+    "jersey": "77",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -758,29 +814,6 @@
   ],
   "injured": [
    {
-    "name": "Jayden Higgins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040130",
-    "jersey": "81",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "David Montgomery",
     "grp": "RB",
     "chartpos": "RB",
@@ -822,6 +855,29 @@
     "gsis": "00-0038977",
     "jersey": "1",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jayden Higgins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040130",
+    "jersey": "81",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1300,6 +1356,75 @@
   ],
   "injured": [
    {
+    "name": "Jalen Pitre",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 53,
+    "last": 0,
+    "g50": 5,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037246",
+    "jersey": "5",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "E.J. Speed",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034987",
+    "jersey": "45",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dylan Horton",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "LDE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039009",
+    "jersey": "92",
+    "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Reed Blankenship",
     "grp": "S",
     "chartpos": "SS",
@@ -1341,75 +1466,6 @@
     "gsis": "00-0040149",
     "jersey": "22",
     "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "E.J. Speed",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034987",
-    "jersey": "45",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalen Pitre",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 53,
-    "last": 0,
-    "g50": 5,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Shoulder",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0037246",
-    "jersey": "5",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dylan Horton",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "LDE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039009",
-    "jersey": "92",
-    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

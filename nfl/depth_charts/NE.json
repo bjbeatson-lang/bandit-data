@@ -27,6 +27,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -52,6 +56,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -79,6 +87,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -104,6 +116,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -131,6 +147,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -156,6 +176,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -183,8 +207,21 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
+  },
+  {
+   "name": "Christian Gonzalez",
+   "pos": "CB",
+   "gsis": "00-0039147",
+   "jersey": "0",
+   "injury": "Illness",
+   "designation": "Questionable",
+   "days": []
   },
   {
    "name": "Joshua Farmer",
@@ -208,6 +245,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -235,6 +276,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -261,6 +306,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -286,6 +335,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -717,6 +770,29 @@
   ],
   "injured": [
    {
+    "name": "Mack Hollins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 14,
+    "last": 0,
+    "g50": 3,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033555",
+    "jersey": "13",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Mike Onwenu",
     "grp": "OL",
     "chartpos": "RG",
@@ -781,29 +857,6 @@
     "gsis": "00-0037413",
     "jersey": "77",
     "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Mack Hollins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 14,
-    "last": 0,
-    "g50": 3,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033555",
-    "jersey": "13",
-    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -887,52 +940,6 @@
   ],
   "start": [
    {
-    "name": "Christian Elliss",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 94,
-    "last": 100,
-    "g50": 6,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Chest",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036813",
-    "jersey": "53",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Robert Spillane",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 94,
-    "last": 100,
-    "g50": 6,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034720",
-    "jersey": "14",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Craig Woodson",
     "grp": "S",
     "chartpos": "SS",
@@ -974,6 +981,52 @@
     "gsis": "00-0033132",
     "jersey": "31",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robert Spillane",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 94,
+    "last": 100,
+    "g50": 6,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034720",
+    "jersey": "14",
+    "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Christian Elliss",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 94,
+    "last": 100,
+    "g50": 6,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Chest",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036813",
+    "jersey": "53",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1080,9 +1133,9 @@
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "",
-    "injury": "",
+    "injury": "Illness",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -1282,29 +1335,6 @@
   ],
   "injured": [
    {
-    "name": "Joshua Farmer",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 25,
-    "last": 23,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE2",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Not injury related - personal matter",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040171",
-    "jersey": "92",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Harold Landry III",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1369,6 +1399,29 @@
     "gsis": "00-0039692",
     "jersey": "24",
     "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joshua Farmer",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 25,
+    "last": 23,
+    "g50": 0,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE2",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - personal matter",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040171",
+    "jersey": "92",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

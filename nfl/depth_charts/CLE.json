@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -58,6 +66,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -81,6 +93,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -103,6 +119,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -121,6 +141,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -130,7 +154,7 @@
    "gsis": "00-0036282",
    "jersey": "9",
    "injury": "Concussion",
-   "designation": "Questionable",
+   "designation": "",
    "days": [
     [
      "Wed",
@@ -142,6 +166,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -165,6 +193,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -186,6 +218,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -209,6 +245,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -218,7 +258,7 @@
    "gsis": "00-0040162",
    "jersey": "22",
    "injury": "Knee",
-   "designation": "Questionable",
+   "designation": "",
    "days": [
     [
      "Wed",
@@ -230,6 +270,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -253,6 +297,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -274,6 +322,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -297,6 +349,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -318,6 +374,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -341,6 +401,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -362,6 +426,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -393,29 +461,6 @@
     "gsis": "00-0033537",
     "jersey": "4",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Zion Johnson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037818",
-    "jersey": "77",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -462,6 +507,29 @@
     "gsis": "00-0041030",
     "jersey": "55",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zion Johnson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037818",
+    "jersey": "77",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -816,6 +884,29 @@
   ],
   "injured": [
    {
+    "name": "Dylan Sampson",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040162",
+    "jersey": "22",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Teven Jenkins",
     "grp": "OL",
     "chartpos": "RG",
@@ -837,29 +928,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Dylan Sampson",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040162",
-    "jersey": "22",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
@@ -870,29 +938,6 @@
    6
   ],
   "start": [
-   {
-    "name": "Carson Schwesinger",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040579",
-    "jersey": "49",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Ronnie Hickman Jr.",
     "grp": "S",
@@ -912,6 +957,29 @@
     "gsis": "00-0038715",
     "jersey": "33",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Carson Schwesinger",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040579",
+    "jersey": "49",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1018,7 +1086,7 @@
     "june": "SS1",
     "june_tier": 1,
     "now": "SS1",
-    "report": "Questionable",
+    "report": "",
     "practice": "Limited Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
@@ -1218,24 +1286,24 @@
     "signed_in": false
    },
    {
-    "name": "Justin Jefferson",
+    "name": "Winston Reid",
     "grp": "LB",
-    "chartpos": "SLB",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB2",
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB2",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": true,
+    "practice": "",
+    "injury": "",
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041075",
-    "jersey": "17",
-    "origin": "SLB2",
+    "gsis": "00-0039515",
+    "jersey": "59",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1289,24 +1357,24 @@
   ],
   "injured": [
    {
-    "name": "Kalia Davis",
-    "grp": "DL",
-    "chartpos": "LDT",
+    "name": "Alex Wright",
+    "grp": "ED",
+    "chartpos": "LDE",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LDT2",
-    "june_tier": 2,
-    "now": "LDT3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Quadricep",
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037832",
-    "jersey": "93",
-    "origin": "LDT2",
+    "gsis": "00-0037251",
+    "jersey": "91",
+    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1335,24 +1403,24 @@
     "signed_in": false
    },
    {
-    "name": "Alex Wright",
-    "grp": "ED",
-    "chartpos": "LDE",
+    "name": "Kalia Davis",
+    "grp": "DL",
+    "chartpos": "LDT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "june": "LDT2",
+    "june_tier": 2,
+    "now": "LDT3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037251",
-    "jersey": "91",
-    "origin": "LDE1",
+    "gsis": "00-0037832",
+    "jersey": "93",
+    "origin": "LDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1375,22 +1443,6 @@
    "jersey": "5",
    "injury": "Neck",
    "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Grant Delpit",
-   "pos": "S",
-   "gsis": "00-0036282",
-   "jersey": "9",
-   "injury": "Concussion",
-   "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "gsis": "00-0040162",
-   "jersey": "22",
-   "injury": "Knee",
-   "practice": "Full Participation in Practice"
   }
  ],
  "unmatched_snap_names": []

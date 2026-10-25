@@ -23,6 +23,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -89,6 +101,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -106,6 +122,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -129,6 +149,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -181,6 +209,29 @@
     "gsis": "00-0033873",
     "jersey": "15",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kahlil Benson",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RT4",
+    "june_tier": 4,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041019",
+    "jersey": "70",
+    "origin": "RT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -227,29 +278,6 @@
     "gsis": "00-0036660",
     "jersey": "65",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kahlil Benson",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RT4",
-    "june_tier": 4,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041019",
-    "jersey": "70",
-    "origin": "RT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -604,29 +632,6 @@
   ],
   "injured": [
    {
-    "name": "Josh Simmons",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Back",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040116",
-    "jersey": "71",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyquan Thornton",
     "grp": "WR",
     "chartpos": "WR",
@@ -650,24 +655,24 @@
     "signed_in": false
    },
    {
-    "name": "Rashee Rice",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 29,
+    "name": "Josh Simmons",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "WR1",
+    "g50": 0,
+    "june": "LT1",
     "june_tier": 1,
-    "now": "WR1",
-    "report": "Out",
+    "now": "LT3",
+    "report": "",
     "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0039067",
-    "jersey": "4",
-    "origin": "WR1",
+    "why": "IR",
+    "gsis": "00-0040116",
+    "jersey": "71",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -691,6 +696,29 @@
     "gsis": "00-0036557",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Rashee Rice",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 29,
+    "last": 0,
+    "g50": 3,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039067",
+    "jersey": "4",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

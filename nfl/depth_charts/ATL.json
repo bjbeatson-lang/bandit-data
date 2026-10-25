@@ -15,6 +15,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -59,6 +67,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -81,6 +93,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -98,6 +114,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -121,6 +141,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -142,6 +166,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -165,6 +193,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -187,6 +219,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -205,6 +241,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -222,6 +262,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -245,6 +289,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -267,6 +315,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -276,7 +328,7 @@
    "gsis": "00-0040432",
    "jersey": "88",
    "injury": "Hip",
-   "designation": "Questionable",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -289,6 +341,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -298,7 +354,7 @@
    "gsis": "00-0040687",
    "jersey": "73",
    "injury": "Ankle",
-   "designation": "Questionable",
+   "designation": "Out",
    "days": [
     [
      "Thu",
@@ -306,6 +362,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -329,6 +389,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -350,6 +414,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -409,6 +477,29 @@
     "signed_in": false
    },
    {
+    "name": "Ryan Neuzil",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036833",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jawaan Taylor",
     "grp": "OL",
     "chartpos": "RT",
@@ -450,29 +541,6 @@
     "gsis": "00-0039048",
     "jersey": "65",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ryan Neuzil",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036833",
-    "jersey": "64",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1277,24 +1345,24 @@
   ],
   "injured": [
    {
-    "name": "Jalon Walker",
+    "name": "Yasir Abdullah",
     "grp": "ED",
     "chartpos": "WLB",
-    "avg3": 0,
+    "avg3": 17,
     "last": 0,
-    "g50": 0,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB4",
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "WLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040577",
-    "jersey": "11",
-    "origin": "WLB1",
+    "gsis": "00-0038580",
+    "jersey": "22",
+    "origin": "JAX SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1346,52 +1414,6 @@
     "signed_in": false
    },
    {
-    "name": "James Pearce Jr.",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040578",
-    "jersey": "27",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Yasir Abdullah",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 17,
-    "last": 0,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038580",
-    "jersey": "22",
-    "origin": "JAX SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Divine Deablo",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1415,24 +1437,24 @@
     "signed_in": false
    },
    {
-    "name": "Billy Bowman Jr.",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 41,
-    "last": 18,
-    "g50": 2,
-    "june": "NB1",
+    "name": "Jalon Walker",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB1",
     "june_tier": 1,
-    "now": "NB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "now": "WLB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0040156",
-    "jersey": "33",
-    "origin": "NB1",
+    "why": "IR",
+    "gsis": "00-0040577",
+    "jersey": "11",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1456,6 +1478,52 @@
     "gsis": "00-0039370",
     "jersey": "40",
     "origin": "RILB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "James Pearce Jr.",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040578",
+    "jersey": "27",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Billy Bowman Jr.",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 41,
+    "last": 18,
+    "g50": 2,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040156",
+    "jersey": "33",
+    "origin": "NB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1509,22 +1577,6 @@
    "gsis": "00-0039070",
    "jersey": "95",
    "injury": "Hamstring",
-   "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Beaux Collins",
-   "pos": "WR",
-   "gsis": "00-0040432",
-   "jersey": "88",
-   "injury": "Hip",
-   "practice": "Full Participation in Practice"
-  },
-  {
-   "name": "Cameron Williams",
-   "pos": "T",
-   "gsis": "00-0040687",
-   "jersey": "73",
-   "injury": "Ankle",
    "practice": "Limited Participation in Practice"
   },
   {
