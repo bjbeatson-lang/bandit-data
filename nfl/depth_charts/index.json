@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 7,
- "built_utc": "2026-10-25T19:45:05Z",
+ "built_utc": "2026-10-25T23:30:02Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -43,7 +43,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_SF_ATL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -69,7 +69,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_CIN_BAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -116,7 +116,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_TB_CAR",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -168,7 +168,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_CIN_BAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -194,7 +194,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_CLE_TEN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -324,7 +324,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_NYG_HOU",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -345,7 +345,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_IND_MIN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -491,7 +491,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_MIA_NYJ",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -517,7 +517,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_IND_MIN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -590,7 +590,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_NYG_HOU",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -611,7 +611,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_MIA_NYJ",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -715,7 +715,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_SF_ATL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -736,7 +736,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_TB_CAR",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -762,7 +762,7 @@
     "date": "2026-10-25",
     "time_et": "13:00",
     "game_id": "2026_07_CLE_TEN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
