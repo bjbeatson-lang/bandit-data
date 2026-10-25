@@ -2,7 +2,7 @@
  "team": "MIN",
  "entering_week": 7,
  "chart_date": "2026-10-25",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "Harrison Smith",
@@ -554,29 +554,6 @@
     "signed_in": false
    },
    {
-    "name": "Caleb Tiernan",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 5,
-    "last": 4,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041053",
-    "jersey": "78",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trevor Keegan",
     "grp": "OL",
     "chartpos": "RG",
@@ -598,28 +575,51 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Josh Oliver",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 14,
+    "name": "Michael Jurgens",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "TE2",
+    "g50": 0,
+    "june": "C2",
     "june_tier": 2,
-    "now": "TE4",
+    "now": "C3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035249",
-    "jersey": "84",
-    "origin": "TE2",
+    "why": "",
+    "gsis": "00-0039419",
+    "jersey": "65",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   }
+  ],
+  "injured": [
+   {
+    "name": "Caleb Tiernan",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 5,
+    "last": 4,
+    "g50": 0,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041053",
+    "jersey": "78",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -643,6 +643,29 @@
     "gsis": "00-0040661",
     "jersey": "74",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Josh Oliver",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 14,
+    "last": 0,
+    "g50": 2,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035249",
+    "jersey": "84",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1096,17 +1119,32 @@
     "signed_in": false
    }
   ],
-  "injured": []
+  "injured": [
+   {
+    "name": "Jakobe Thomas",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041054",
+    "jersey": "8",
+    "origin": "FS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   }
+  ]
  },
- "questionable": [
-  {
-   "name": "Jordan Mason",
-   "pos": "RB",
-   "gsis": "00-0037525",
-   "jersey": "27",
-   "injury": "Thumb",
-   "practice": "Full Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }
