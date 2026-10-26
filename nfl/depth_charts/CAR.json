@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -183,6 +207,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -208,6 +236,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -344,7 +376,7 @@
     "g50": 1,
     "june": "RT1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "RT3",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
@@ -507,7 +539,7 @@
     "g50": 0,
     "june": "RB5",
     "june_tier": 5,
-    "now": "RB4",
+    "now": "RB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -599,7 +631,7 @@
     "g50": 4,
     "june": "RT2",
     "june_tier": 2,
-    "now": "RT2",
+    "now": "RT1",
     "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
@@ -662,52 +694,6 @@
   ],
   "injured": [
    {
-    "name": "Ikem Ekwonu",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037229",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonathon Brooks",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039344",
-    "jersey": "25",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Xavier Legette",
     "grp": "WR",
     "chartpos": "WR",
@@ -731,6 +717,29 @@
     "signed_in": false
    },
    {
+    "name": "Ikem Ekwonu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037229",
+    "jersey": "79",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ja'Tavion Sanders",
     "grp": "TE",
     "chartpos": "TE",
@@ -749,6 +758,29 @@
     "gsis": "00-0039356",
     "jersey": "0",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jonathon Brooks",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039344",
+    "jersey": "25",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1235,7 +1267,7 @@
     "g50": 0,
     "june": "WLB1",
     "june_tier": 1,
-    "now": "WLB5",
+    "now": "WLB4",
     "report": "",
     "practice": "",
     "injury": "",

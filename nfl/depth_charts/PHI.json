@@ -1,7 +1,7 @@
 {
  "team": "PHI",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -62,6 +70,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -85,6 +97,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -106,6 +122,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -129,6 +149,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -173,6 +201,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -194,6 +226,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -217,6 +253,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -238,6 +278,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -261,6 +305,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -282,6 +330,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -305,6 +357,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -326,6 +382,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -349,6 +409,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -371,6 +435,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -392,6 +460,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -823,52 +895,6 @@
   ],
   "injured": [
    {
-    "name": "Will Shipley",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 23,
-    "last": 0,
-    "g50": 1,
-    "june": "RB3",
-    "june_tier": 3,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039746",
-    "jersey": "28",
-    "origin": "RB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Landon Dickerson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037002",
-    "jersey": "69",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jalen Hurts",
     "grp": "QB",
     "chartpos": "QB",
@@ -887,6 +913,29 @@
     "gsis": "00-0036389",
     "jersey": "1",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DeVonta Smith",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 22,
+    "last": 66,
+    "g50": 4,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036912",
+    "jersey": "6",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -915,24 +964,24 @@
     "signed_in": false
    },
    {
-    "name": "DeVonta Smith",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 22,
-    "last": 66,
-    "g50": 4,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "name": "Will Shipley",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 23,
+    "last": 0,
+    "g50": 1,
+    "june": "RB3",
+    "june_tier": 3,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0036912",
-    "jersey": "6",
-    "origin": "WR1",
+    "why": "IR",
+    "gsis": "00-0039746",
+    "jersey": "28",
+    "origin": "RB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -979,6 +1028,29 @@
     "gsis": "00-0038393",
     "jersey": "13",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Landon Dickerson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037002",
+    "jersey": "69",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1411,29 +1483,6 @@
   ],
   "injured": [
    {
-    "name": "Michael Carter II",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 42,
-    "last": 0,
-    "g50": 1,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Abdomen",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036501",
-    "jersey": "35",
-    "origin": "NB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Nolan Smith",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1452,6 +1501,29 @@
     "gsis": "00-0039013",
     "jersey": "3",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Michael Carter II",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 42,
+    "last": 0,
+    "g50": 1,
+    "june": "NB2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Abdomen",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036501",
+    "jersey": "35",
+    "origin": "NB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

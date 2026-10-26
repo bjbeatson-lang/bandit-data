@@ -1,7 +1,7 @@
 {
  "team": "SEA",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -27,6 +27,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -48,6 +52,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -75,6 +83,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -100,6 +112,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -127,6 +143,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -152,6 +172,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -179,6 +203,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -204,6 +232,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -231,6 +263,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -257,6 +293,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -274,6 +314,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -300,6 +344,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -336,24 +384,24 @@
     "signed_in": false
    },
    {
-    "name": "Charles Cross",
+    "name": "Grey Zabel",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "LT1",
+    "june": "LG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037821",
-    "jersey": "67",
-    "origin": "LT1",
+    "gsis": "00-0040639",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -382,29 +430,6 @@
     "signed_in": false
    },
    {
-    "name": "Grey Zabel",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040639",
-    "jersey": "76",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jalen Sundell",
     "grp": "OL",
     "chartpos": "C",
@@ -423,6 +448,29 @@
     "gsis": "00-0039926",
     "jersey": "61",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Charles Cross",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037821",
+    "jersey": "67",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -754,52 +802,6 @@
   ],
   "injured": [
    {
-    "name": "Jake Bobo",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038752",
-    "jersey": "19",
-    "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Elijah Arroyo",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 23,
-    "last": 6,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040739",
-    "jersey": "18",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Drew Lock",
     "grp": "QB",
     "chartpos": "QB",
@@ -823,24 +825,47 @@
     "signed_in": false
    },
    {
-    "name": "Zach Charbonnet",
+    "name": "Jadarian Price",
     "grp": "RB",
     "chartpos": "RB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB2",
-    "report": "Out",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041512",
+    "jersey": "8",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jake Bobo",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0039165",
-    "jersey": "26",
-    "origin": "RB1",
+    "why": "IR",
+    "gsis": "00-0038752",
+    "jersey": "19",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -869,24 +894,47 @@
     "signed_in": false
    },
    {
-    "name": "Jadarian Price",
+    "name": "Zach Charbonnet",
     "grp": "RB",
     "chartpos": "RB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RB2",
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039165",
+    "jersey": "26",
+    "origin": "RB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Elijah Arroyo",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 23,
+    "last": 6,
+    "g50": 0,
+    "june": "TE2",
     "june_tier": 2,
-    "now": "RB6",
+    "now": "TE4",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041512",
-    "jersey": "8",
-    "origin": "RB2",
+    "gsis": "00-0040739",
+    "jersey": "18",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1365,29 +1413,6 @@
     "signed_in": false
    },
    {
-    "name": "Bud Clark",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041463",
-    "jersey": "9",
-    "origin": "FS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Drake Thomas",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1406,6 +1431,29 @@
     "gsis": "00-0038922",
     "jersey": "32",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bud Clark",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041463",
+    "jersey": "9",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

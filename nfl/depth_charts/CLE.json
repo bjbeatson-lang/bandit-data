@@ -1,7 +1,7 @@
 {
  "team": "CLE",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -70,6 +78,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -97,6 +109,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -123,6 +139,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -144,6 +164,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -171,6 +195,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -196,6 +224,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -223,6 +255,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -248,6 +284,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -275,6 +315,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -300,6 +344,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -327,6 +375,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -352,6 +404,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -379,6 +435,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -405,6 +465,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -430,6 +494,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -466,24 +534,24 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Fano",
+    "name": "Austin Barber",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0041030",
-    "jersey": "55",
-    "origin": "LT1",
+    "gsis": "00-0041049",
+    "jersey": "58",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -512,24 +580,24 @@
     "signed_in": false
    },
    {
-    "name": "Austin Barber",
+    "name": "Spencer Fano",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RG1",
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0041049",
-    "jersey": "58",
-    "origin": "RT2",
+    "gsis": "00-0041030",
+    "jersey": "55",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -916,29 +984,6 @@
   ],
   "start": [
    {
-    "name": "Ronnie Hickman Jr.",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038715",
-    "jersey": "33",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Carson Schwesinger",
     "grp": "LB",
     "chartpos": "MLB",
@@ -980,6 +1025,29 @@
     "gsis": "00-0034856",
     "jersey": "21",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ronnie Hickman Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038715",
+    "jersey": "33",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1334,13 +1402,13 @@
    {
     "name": "Daniel Thomas",
     "grp": "S",
-    "chartpos": "SS",
+    "chartpos": "FS",
     "avg3": 12,
     "last": 35,
     "g50": 0,
     "june": "FS3",
     "june_tier": 3,
-    "now": "SS3",
+    "now": "FS2",
     "report": "",
     "practice": "",
     "injury": "",

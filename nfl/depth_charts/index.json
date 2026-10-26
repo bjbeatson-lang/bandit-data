@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 7,
- "built_utc": "2026-10-25T23:30:02Z",
+ "built_utc": "2026-10-26T15:00:00Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -17,7 +17,7 @@
     "date": "2026-10-25",
     "time_et": "16:05",
     "game_id": "2026_07_DEN_ARI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -246,7 +246,7 @@
     "date": "2026-10-25",
     "time_et": "16:05",
     "game_id": "2026_07_DEN_ARI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -272,7 +272,7 @@
     "date": "2026-10-25",
     "time_et": "16:25",
     "game_id": "2026_07_GB_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -298,7 +298,7 @@
     "date": "2026-10-25",
     "time_et": "16:25",
     "game_id": "2026_07_GB_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -392,7 +392,7 @@
     "date": "2026-10-25",
     "time_et": "20:20",
     "game_id": "2026_07_KC_SEA",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -418,7 +418,7 @@
     "date": "2026-10-25",
     "time_et": "16:25",
     "game_id": "2026_07_LA_LV",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -465,7 +465,7 @@
     "date": "2026-10-25",
     "time_et": "16:25",
     "game_id": "2026_07_LA_LV",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,
@@ -689,7 +689,7 @@
     "date": "2026-10-25",
     "time_et": "20:20",
     "game_id": "2026_07_KC_SEA",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 8,

@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -49,6 +53,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -74,6 +82,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -101,6 +113,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -126,6 +142,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -153,6 +173,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -179,6 +203,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -204,6 +232,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -658,70 +690,24 @@
   ],
   "injured": [
    {
-    "name": "Travis Etienne",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036973",
-    "jersey": "3",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jordyn Tyson",
+    "name": "Mason Tipton",
     "grp": "WR",
     "chartpos": "WR",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041029",
-    "jersey": "0",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dillon Radunz",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
+    "june": "WR4",
     "june_tier": 2,
-    "now": "LG3",
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036619",
-    "jersey": "77",
-    "origin": "LG2",
+    "gsis": "00-0039623",
+    "jersey": "15",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -750,24 +736,24 @@
     "signed_in": false
    },
    {
-    "name": "Mason Tipton",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Travis Etienne",
+    "grp": "RB",
+    "chartpos": "RB",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR7",
+    "g50": 2,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039623",
-    "jersey": "15",
-    "origin": "WR4",
+    "gsis": "00-0036973",
+    "jersey": "3",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -794,6 +780,52 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Dillon Radunz",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036619",
+    "jersey": "77",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordyn Tyson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041029",
+    "jersey": "0",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -804,29 +836,6 @@
    6
   ],
   "start": [
-   {
-    "name": "Julian Blackmon",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036253",
-    "jersey": "23",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Justin Reid",
     "grp": "S",
@@ -846,6 +855,29 @@
     "gsis": "00-0034361",
     "jersey": "21",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Julian Blackmon",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036253",
+    "jersey": "23",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -905,7 +937,7 @@
     "g50": 6,
     "june": "RCB1",
     "june_tier": 1,
-    "now": "RCB1",
+    "now": "RCB2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1206,7 +1238,7 @@
     "g50": 1,
     "june": "RCB2",
     "june_tier": 2,
-    "now": "RCB2",
+    "now": "RCB1",
     "report": "",
     "practice": "",
     "injury": "",

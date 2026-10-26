@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -62,6 +70,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -88,6 +100,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -119,29 +135,6 @@
     "gsis": "00-0036442",
     "jersey": "9",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dylan Fairchild",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040140",
-    "jersey": "63",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -211,6 +204,29 @@
     "gsis": "00-0032445",
     "jersey": "64",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dylan Fairchild",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040140",
+    "jersey": "63",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -433,7 +449,7 @@
     "g50": 0,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -542,24 +558,24 @@
   ],
   "injured": [
    {
-    "name": "Connor Lew",
-    "grp": "OL",
-    "chartpos": "C",
+    "name": "Andrei Iosivas",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C3",
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041062",
-    "jersey": "65",
-    "origin": "C2",
+    "why": "IR",
+    "gsis": "00-0038619",
+    "jersey": "80",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -588,24 +604,24 @@
     "signed_in": false
    },
    {
-    "name": "Andrei Iosivas",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Connor Lew",
+    "grp": "OL",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR6",
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C3",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038619",
-    "jersey": "80",
-    "origin": "WR3",
+    "why": "Inactive",
+    "gsis": "00-0041062",
+    "jersey": "65",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -666,29 +682,6 @@
     "signed_in": false
    },
    {
-    "name": "DJ Turner II",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 99,
-    "last": 97,
-    "g50": 5,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038549",
-    "jersey": "0",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Daxton Hill",
     "grp": "CB",
     "chartpos": "NB",
@@ -707,6 +700,29 @@
     "gsis": "00-0037743",
     "jersey": "23",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DJ Turner II",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 99,
+    "last": 97,
+    "g50": 5,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038549",
+    "jersey": "0",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1036,24 +1052,24 @@
     "signed_in": false
    },
    {
-    "name": "PJ Jules",
+    "name": "Kyle Dugger",
     "grp": "S",
-    "chartpos": "FS",
+    "chartpos": "SS",
     "avg3": 22,
     "last": 0,
     "g50": 1,
-    "june": "FS2",
+    "june": "SS2",
     "june_tier": 2,
-    "now": "FS2",
+    "now": "SS2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039632",
-    "jersey": "37",
-    "origin": "FS2",
+    "gsis": "00-0036231",
+    "jersey": "29",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

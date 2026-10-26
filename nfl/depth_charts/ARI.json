@@ -1,7 +1,7 @@
 {
  "team": "ARI",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -131,6 +147,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -148,6 +168,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -170,6 +194,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -197,6 +225,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -223,6 +255,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -244,6 +280,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -271,6 +311,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -296,6 +340,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -323,6 +371,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -348,6 +400,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -777,30 +833,76 @@
     "signed_in": true
    },
    {
-    "name": "Albert Reese",
+    "name": "Kingsley Eguakun",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT3",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041138",
-    "jersey": "76",
-    "origin": "CAR",
-    "psq": false,
-    "trade_in": true,
-    "signed_in": false
+    "gsis": "00-0039442",
+    "jersey": "64",
+    "origin": "NYG",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": true
    }
   ],
   "injured": [
+   {
+    "name": "Tip Reiman",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039737",
+    "jersey": "87",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jon Gaines II",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 86,
+    "last": 100,
+    "g50": 4,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038571",
+    "jersey": "71",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Jeremiyah Love",
     "grp": "RB",
@@ -833,7 +935,7 @@
     "g50": 0,
     "june": "RG1",
     "june_tier": 1,
-    "now": "RG5",
+    "now": "RG4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -843,52 +945,6 @@
     "gsis": "00-0041468",
     "jersey": "57",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jon Gaines II",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 86,
-    "last": 100,
-    "g50": 4,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038571",
-    "jersey": "71",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Isaiah Adams",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 14,
-    "last": 0,
-    "g50": 2,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039808",
-    "jersey": "74",
-    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -917,24 +973,24 @@
     "signed_in": false
    },
    {
-    "name": "Tip Reiman",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
+    "name": "Isaiah Adams",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 14,
     "last": 0,
-    "g50": 0,
-    "june": "TE2",
+    "g50": 2,
+    "june": "RG2",
     "june_tier": 2,
-    "now": "TE4",
+    "now": "RG3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039737",
-    "jersey": "87",
-    "origin": "TE2",
+    "gsis": "00-0039808",
+    "jersey": "74",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1390,29 +1446,6 @@
   ],
   "injured": [
    {
-    "name": "Will Johnson",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040751",
-    "jersey": "2",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Walter Nolen",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1454,6 +1487,29 @@
     "gsis": "00-0035378",
     "jersey": "28",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Will Johnson",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040751",
+    "jersey": "2",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

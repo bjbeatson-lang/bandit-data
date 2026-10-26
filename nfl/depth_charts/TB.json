@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -44,6 +48,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -71,6 +79,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -96,6 +108,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -123,6 +139,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -148,6 +168,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -175,6 +199,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -200,6 +228,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -227,6 +259,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -253,6 +289,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -278,6 +318,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -406,24 +450,24 @@
     "signed_in": false
    },
    {
-    "name": "Justin Skule",
+    "name": "Dan Feeney",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RT2",
+    "june": "RG2",
     "june_tier": 2,
-    "now": "RT2",
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034989",
-    "jersey": "77",
-    "origin": "RT2",
+    "gsis": "00-0033910",
+    "jersey": "65",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -661,24 +705,47 @@
     "signed_in": false
    },
    {
-    "name": "Dan Feeney",
+    "name": "Justin Skule",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG2",
+    "june": "RT2",
     "june_tier": 2,
-    "now": "C2",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033910",
-    "jersey": "65",
-    "origin": "RG2",
+    "gsis": "00-0034989",
+    "jersey": "77",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Haggard",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG3",
+    "june_tier": 3,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038818",
+    "jersey": "72",
+    "origin": "RG3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -705,51 +772,28 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Luke Haggard",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG3",
-    "june_tier": 3,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038818",
-    "jersey": "72",
-    "origin": "RG3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
    {
-    "name": "Emeka Egbuka",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 90,
-    "last": 86,
+    "name": "Luke Goedeke",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
     "g50": 6,
-    "june": "WR2",
+    "june": "RT1",
     "june_tier": 1,
-    "now": "WR1",
+    "now": "RT1",
     "report": "Out",
     "practice": "Limited Participation in Practice",
-    "injury": "Concussion",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0040129",
-    "jersey": "2",
-    "origin": "WR2",
+    "why": "Inactive",
+    "gsis": "00-0037835",
+    "jersey": "67",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -778,24 +822,24 @@
     "signed_in": false
    },
    {
-    "name": "Luke Goedeke",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
+    "name": "Emeka Egbuka",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 90,
+    "last": 86,
     "g50": 6,
-    "june": "RT1",
+    "june": "WR2",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "WR1",
     "report": "Out",
     "practice": "Limited Participation in Practice",
-    "injury": "Calf",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0037835",
-    "jersey": "67",
-    "origin": "RT1",
+    "why": "Out",
+    "gsis": "00-0040129",
+    "jersey": "2",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1251,6 +1295,29 @@
   ],
   "injured": [
    {
+    "name": "Antoine Winfield Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 31,
+    "last": 0,
+    "g50": 4,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Rib",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0036411",
+    "jersey": "31",
+    "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Christian Rozeboom",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1292,29 +1359,6 @@
     "gsis": "00-0039051",
     "jersey": "32",
     "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Antoine Winfield Jr.",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 31,
-    "last": 0,
-    "g50": 4,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Rib",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036411",
-    "jersey": "31",
-    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

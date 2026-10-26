@@ -1,7 +1,7 @@
 {
  "team": "MIA",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -49,6 +53,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -74,6 +82,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -101,6 +113,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -126,6 +142,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -153,6 +173,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -179,6 +203,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -204,6 +232,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -240,29 +272,6 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Brewer",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036171",
-    "jersey": "55",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kadyn Proctor",
     "grp": "OL",
     "chartpos": "LG",
@@ -281,6 +290,29 @@
     "gsis": "00-0041521",
     "jersey": "74",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Austin Jackson",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036248",
+    "jersey": "73",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -309,24 +341,24 @@
     "signed_in": false
    },
    {
-    "name": "Austin Jackson",
+    "name": "Aaron Brewer",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "RT1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036248",
-    "jersey": "73",
-    "origin": "RT1",
+    "gsis": "00-0036171",
+    "jersey": "55",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -658,29 +690,6 @@
   ],
   "injured": [
    {
-    "name": "De'Von Achane",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 2,
-    "last": 0,
-    "g50": 2,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039040",
-    "jersey": "28",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jalen Tolbert",
     "grp": "WR",
     "chartpos": "WR",
@@ -699,6 +708,29 @@
     "gsis": "00-0037666",
     "jersey": "1",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "De'Von Achane",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 2,
+    "last": 0,
+    "g50": 2,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039040",
+    "jersey": "28",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1062,13 +1094,13 @@
    {
     "name": "Jackson Woodard",
     "grp": "LB",
-    "chartpos": "MLB",
+    "chartpos": "SLB",
     "avg3": 5,
     "last": 15,
     "g50": 0,
     "june": "MLB3",
     "june_tier": 3,
-    "now": "MLB2",
+    "now": "SLB2",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Ankle",
@@ -1154,29 +1186,6 @@
   ],
   "injured": [
    {
-    "name": "Darrell Baker Jr.",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037549",
-    "jersey": "22",
-    "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Willie Gay Jr.",
     "grp": "LB",
     "chartpos": "SLB",
@@ -1223,6 +1232,52 @@
     "signed_in": false
    },
    {
+    "name": "Darrell Baker Jr.",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037549",
+    "jersey": "22",
+    "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trey Moore",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041526",
+    "jersey": "17",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Rob Beal Jr.",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1241,29 +1296,6 @@
     "gsis": "00-0038603",
     "jersey": "51",
     "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Trey Moore",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041526",
-    "jersey": "17",
-    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

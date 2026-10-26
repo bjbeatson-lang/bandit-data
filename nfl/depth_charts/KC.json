@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 7,
- "chart_date": "2026-10-25",
+ "chart_date": "2026-10-26",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -126,6 +142,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -153,6 +173,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -178,6 +202,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -214,29 +242,6 @@
     "signed_in": false
    },
    {
-    "name": "Kahlil Benson",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RT4",
-    "june_tier": 4,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041019",
-    "jersey": "70",
-    "origin": "RT4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Creed Humphrey",
     "grp": "OL",
     "chartpos": "C",
@@ -255,6 +260,29 @@
     "gsis": "00-0036623",
     "jersey": "52",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kahlil Benson",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RT4",
+    "june_tier": 4,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041019",
+    "jersey": "70",
+    "origin": "RT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -632,29 +660,6 @@
   ],
   "injured": [
    {
-    "name": "Tyquan Thornton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 36,
-    "last": 0,
-    "g50": 3,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR8",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038104",
-    "jersey": "2",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Rashee Rice",
     "grp": "WR",
     "chartpos": "WR",
@@ -673,6 +678,29 @@
     "gsis": "00-0039067",
     "jersey": "4",
     "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Josh Simmons",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040116",
+    "jersey": "71",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -701,24 +729,24 @@
     "signed_in": false
    },
    {
-    "name": "Josh Simmons",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
+    "name": "Tyquan Thornton",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 36,
     "last": 0,
-    "g50": 0,
-    "june": "LT1",
+    "g50": 3,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "LT3",
+    "now": "WR8",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Back",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040116",
-    "jersey": "71",
-    "origin": "LT1",
+    "gsis": "00-0038104",
+    "jersey": "2",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1174,29 +1202,6 @@
   ],
   "injured": [
    {
-    "name": "Omarr Norman-Lott",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDT2",
-    "june_tier": 2,
-    "now": "RDT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040748",
-    "jersey": "55",
-    "origin": "RDT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jadon Canady",
     "grp": "CB",
     "chartpos": "NB",
@@ -1215,6 +1220,29 @@
     "gsis": "00-0041497",
     "jersey": "22",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Omarr Norman-Lott",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "RDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040748",
+    "jersey": "55",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
