@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "entering_week": 7,
- "built_utc": "2026-10-26T23:30:02Z",
+ "entering_week": 8,
+ "built_utc": "2026-10-27T15:00:00Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -11,21 +11,21 @@
    "color": "#97233F",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "DEN",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "16:05",
-    "game_id": "2026_07_DEN_ARI",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "DAL",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_ARI_DAL",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "SEA",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "16:25",
+    "game_id": "2026_09_ARI_SEA",
     "final": false
    }
   },
@@ -37,21 +37,21 @@
    "color": "#A71930",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "SF",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_SF_ATL",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "TB",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_ATL_TB",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "CIN",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "09:30",
+    "game_id": "2026_09_CIN_ATL",
     "final": false
    }
   },
@@ -63,21 +63,21 @@
    "color": "#241773",
    "color2": "#9E7C0C",
    "this_week": {
-    "week": 7,
-    "opp": "CIN",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_CIN_BAL",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "BUF",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_BAL_BUF",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "JAX",
+    "home": true,
+    "date": "2026-11-05",
+    "time_et": "20:15",
+    "game_id": "2026_09_JAX_BAL",
     "final": false
    }
   },
@@ -89,16 +89,21 @@
    "color": "#00338D",
    "color2": "#C60C30",
    "this_week": {
-    "week": 7,
-    "bye": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "BAL",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_BAL_BUF",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "MIN",
+    "home": false,
+    "date": "2026-11-09",
+    "time_et": "20:15",
+    "game_id": "2026_09_BUF_MIN",
     "final": false
    }
   },
@@ -110,21 +115,21 @@
    "color": "#0085CA",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "TB",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_TB_CAR",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "GB",
     "home": false,
     "date": "2026-10-29",
     "time_et": "20:15",
     "game_id": "2026_08_CAR_GB",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "DEN",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DEN_CAR",
     "final": false
    }
   },
@@ -136,21 +141,21 @@
    "color": "#0B162A",
    "color2": "#E64100",
    "this_week": {
-    "week": 7,
-    "opp": "NE",
-    "home": true,
-    "date": "2026-10-22",
-    "time_et": "20:15",
-    "game_id": "2026_07_NE_CHI",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "SEA",
     "home": false,
     "date": "2026-11-02",
     "time_et": "20:15",
     "game_id": "2026_08_CHI_SEA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "TB",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "20:20",
+    "game_id": "2026_09_TB_CHI",
     "final": false
    }
   },
@@ -162,21 +167,21 @@
    "color": "#FB4F14",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "BAL",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_CIN_BAL",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "TEN",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_TEN_CIN",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "ATL",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "09:30",
+    "game_id": "2026_09_CIN_ATL",
     "final": false
    }
   },
@@ -188,21 +193,21 @@
    "color": "#FF3C00",
    "color2": "#311D00",
    "this_week": {
-    "week": 7,
-    "opp": "TEN",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_CLE_TEN",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "PIT",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_CLE_PIT",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "NO",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_CLE_NO",
     "final": false
    }
   },
@@ -214,21 +219,21 @@
    "color": "#002244",
    "color2": "#B0B7BC",
    "this_week": {
-    "week": 7,
-    "opp": "PHI",
-    "home": false,
-    "date": "2026-10-26",
-    "time_et": "20:15",
-    "game_id": "2026_07_DAL_PHI",
-    "final": false
-   },
-   "next_week": {
     "week": 8,
     "opp": "ARI",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_ARI_DAL",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "IND",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DAL_IND",
     "final": false
    }
   },
@@ -240,21 +245,21 @@
    "color": "#002244",
    "color2": "#FB4F14",
    "this_week": {
-    "week": 7,
-    "opp": "ARI",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "16:05",
-    "game_id": "2026_07_DEN_ARI",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "KC",
     "home": true,
     "date": "2026-11-01",
     "time_et": "16:25",
     "game_id": "2026_08_KC_DEN",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "CAR",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DEN_CAR",
     "final": false
    }
   },
@@ -266,21 +271,21 @@
    "color": "#0076B6",
    "color2": "#B0B7BC",
    "this_week": {
-    "week": 7,
-    "opp": "GB",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "16:25",
-    "game_id": "2026_07_GB_DET",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "MIN",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_MIN_DET",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "MIA",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DET_MIA",
     "final": false
    }
   },
@@ -292,21 +297,21 @@
    "color": "#203731",
    "color2": "#FFB612",
    "this_week": {
-    "week": 7,
-    "opp": "DET",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "16:25",
-    "game_id": "2026_07_GB_DET",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "CAR",
     "home": true,
     "date": "2026-10-29",
     "time_et": "20:15",
     "game_id": "2026_08_CAR_GB",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "NE",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "16:25",
+    "game_id": "2026_09_GB_NE",
     "final": false
    }
   },
@@ -318,17 +323,17 @@
    "color": "#03202F",
    "color2": "#A71930",
    "this_week": {
-    "week": 7,
-    "opp": "NYG",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_NYG_HOU",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "bye": true
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "LAC",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "16:05",
+    "game_id": "2026_09_HOU_LAC",
+    "final": false
    }
   },
   {
@@ -339,21 +344,21 @@
    "color": "#002C5F",
    "color2": "#a5acaf",
    "this_week": {
-    "week": 7,
-    "opp": "MIN",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_IND_MIN",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "JAX",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_IND_JAX",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "DAL",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DAL_IND",
     "final": false
    }
   },
@@ -365,16 +370,21 @@
    "color": "#006778",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "bye": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "IND",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_IND_JAX",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "BAL",
+    "home": false,
+    "date": "2026-11-05",
+    "time_et": "20:15",
+    "game_id": "2026_09_JAX_BAL",
     "final": false
    }
   },
@@ -386,21 +396,21 @@
    "color": "#E31837",
    "color2": "#FFB612",
    "this_week": {
-    "week": 7,
-    "opp": "SEA",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "20:20",
-    "game_id": "2026_07_KC_SEA",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "DEN",
     "home": false,
     "date": "2026-11-01",
     "time_et": "16:25",
     "game_id": "2026_08_KC_DEN",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "NYJ",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_NYJ_KC",
     "final": false
    }
   },
@@ -412,21 +422,21 @@
    "color": "#003594",
    "color2": "#FFD100",
    "this_week": {
-    "week": 7,
-    "opp": "LV",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "16:25",
-    "game_id": "2026_07_LA_LV",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "LAC",
     "home": true,
     "date": "2026-11-01",
     "time_et": "16:05",
     "game_id": "2026_08_LAC_LA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "WAS",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_LA_WAS",
     "final": false
    }
   },
@@ -438,16 +448,21 @@
    "color": "#007BC7",
    "color2": "#ffc20e",
    "this_week": {
-    "week": 7,
-    "bye": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "LA",
     "home": false,
     "date": "2026-11-01",
     "time_et": "16:05",
     "game_id": "2026_08_LAC_LA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "HOU",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "16:05",
+    "game_id": "2026_09_HOU_LAC",
     "final": false
    }
   },
@@ -459,21 +474,21 @@
    "color": "#000000",
    "color2": "#A5ACAF",
    "this_week": {
-    "week": 7,
-    "opp": "LA",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "16:25",
-    "game_id": "2026_07_LA_LV",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "NYJ",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_LV_NYJ",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "SF",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "16:05",
+    "game_id": "2026_09_LV_SF",
     "final": false
    }
   },
@@ -485,21 +500,21 @@
    "color": "#008E97",
    "color2": "#F58220",
    "this_week": {
-    "week": 7,
-    "opp": "NYJ",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_MIA_NYJ",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "NE",
     "home": true,
     "date": "2026-11-01",
     "time_et": "16:25",
     "game_id": "2026_08_NE_MIA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "DET",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_DET_MIA",
     "final": false
    }
   },
@@ -511,21 +526,21 @@
    "color": "#4F2683",
    "color2": "#FFC62F",
    "this_week": {
-    "week": 7,
-    "opp": "IND",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_IND_MIN",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "DET",
     "home": false,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_MIN_DET",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "BUF",
+    "home": true,
+    "date": "2026-11-09",
+    "time_et": "20:15",
+    "game_id": "2026_09_BUF_MIN",
     "final": false
    }
   },
@@ -537,21 +552,21 @@
    "color": "#002244",
    "color2": "#C60C30",
    "this_week": {
-    "week": 7,
-    "opp": "CHI",
-    "home": false,
-    "date": "2026-10-22",
-    "time_et": "20:15",
-    "game_id": "2026_07_NE_CHI",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "MIA",
     "home": false,
     "date": "2026-11-01",
     "time_et": "16:25",
     "game_id": "2026_08_NE_MIA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "GB",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "16:25",
+    "game_id": "2026_09_GB_NE",
     "final": false
    }
   },
@@ -563,17 +578,17 @@
    "color": "#D3BC8D",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "PIT",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "09:30",
-    "game_id": "2026_07_PIT_NO",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "bye": true
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "CLE",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_CLE_NO",
+    "final": false
    }
   },
   {
@@ -584,17 +599,17 @@
    "color": "#0B2265",
    "color2": "#A71930",
    "this_week": {
-    "week": 7,
-    "opp": "HOU",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_NYG_HOU",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "bye": true
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "PHI",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_NYG_PHI",
+    "final": false
    }
   },
   {
@@ -605,21 +620,21 @@
    "color": "#003F2D",
    "color2": "#000000",
    "this_week": {
-    "week": 7,
-    "opp": "MIA",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_MIA_NYJ",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "LV",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_LV_NYJ",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "KC",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_NYJ_KC",
     "final": false
    }
   },
@@ -631,21 +646,21 @@
    "color": "#004C54",
    "color2": "#A5ACAF",
    "this_week": {
-    "week": 7,
-    "opp": "DAL",
-    "home": true,
-    "date": "2026-10-26",
-    "time_et": "20:15",
-    "game_id": "2026_07_DAL_PHI",
-    "final": false
-   },
-   "next_week": {
     "week": 8,
     "opp": "WAS",
     "home": false,
     "date": "2026-11-01",
     "time_et": "20:20",
     "game_id": "2026_08_PHI_WAS",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "NYG",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_NYG_PHI",
     "final": false
    }
   },
@@ -657,15 +672,6 @@
    "color": "#000000",
    "color2": "#FFB612",
    "this_week": {
-    "week": 7,
-    "opp": "NO",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "09:30",
-    "game_id": "2026_07_PIT_NO",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "CLE",
     "home": true,
@@ -673,6 +679,10 @@
     "time_et": "13:00",
     "game_id": "2026_08_CLE_PIT",
     "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "bye": true
    }
   },
   {
@@ -683,21 +693,21 @@
    "color": "#002244",
    "color2": "#69be28",
    "this_week": {
-    "week": 7,
-    "opp": "KC",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "20:20",
-    "game_id": "2026_07_KC_SEA",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "CHI",
     "home": true,
     "date": "2026-11-02",
     "time_et": "20:15",
     "game_id": "2026_08_CHI_SEA",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "ARI",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "16:25",
+    "game_id": "2026_09_ARI_SEA",
     "final": false
    }
   },
@@ -709,17 +719,17 @@
    "color": "#AA0000",
    "color2": "#B3995D",
    "this_week": {
-    "week": 7,
-    "opp": "ATL",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_SF_ATL",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "bye": true
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "LV",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "16:05",
+    "game_id": "2026_09_LV_SF",
+    "final": false
    }
   },
   {
@@ -730,21 +740,21 @@
    "color": "#A71930",
    "color2": "#322F2B",
    "this_week": {
-    "week": 7,
-    "opp": "CAR",
-    "home": false,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_TB_CAR",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "ATL",
     "home": true,
     "date": "2026-11-01",
     "time_et": "13:00",
     "game_id": "2026_08_ATL_TB",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "CHI",
+    "home": false,
+    "date": "2026-11-08",
+    "time_et": "20:20",
+    "game_id": "2026_09_TB_CHI",
     "final": false
    }
   },
@@ -756,15 +766,6 @@
    "color": "#4495D2",
    "color2": "#D50A0A",
    "this_week": {
-    "week": 7,
-    "opp": "CLE",
-    "home": true,
-    "date": "2026-10-25",
-    "time_et": "13:00",
-    "game_id": "2026_07_CLE_TEN",
-    "final": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "CIN",
     "home": false,
@@ -772,6 +773,10 @@
     "time_et": "13:00",
     "game_id": "2026_08_TEN_CIN",
     "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "bye": true
    }
   },
   {
@@ -782,16 +787,21 @@
    "color": "#5A1414",
    "color2": "#FFB612",
    "this_week": {
-    "week": 7,
-    "bye": true
-   },
-   "next_week": {
     "week": 8,
     "opp": "PHI",
     "home": true,
     "date": "2026-11-01",
     "time_et": "20:20",
     "game_id": "2026_08_PHI_WAS",
+    "final": false
+   },
+   "next_week": {
+    "week": 9,
+    "opp": "LA",
+    "home": true,
+    "date": "2026-11-08",
+    "time_et": "13:00",
+    "game_id": "2026_09_LA_WAS",
     "final": false
    }
   }
