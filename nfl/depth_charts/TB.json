@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 8,
- "chart_date": "2026-10-27",
+ "chart_date": "2026-10-28",
  "inactives_posted": false,
  "practice": [],
  "offense": {
@@ -135,7 +135,7 @@
     "g50": 6,
     "june": "RT1",
     "june_tier": 1,
-    "now": "RT2",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -384,13 +384,13 @@
    {
     "name": "Benjamin Chukwuma",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 33,
     "last": 100,
     "g50": 1,
     "june": "LT2",
     "june_tier": 2,
-    "now": "RT1",
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
