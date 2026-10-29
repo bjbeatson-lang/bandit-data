@@ -1,9 +1,150 @@
 {
  "team": "BAL",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Calais Campbell",
+   "pos": "DT",
+   "gsis": "00-0026190",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Jenkins",
+   "pos": "DT",
+   "gsis": "00-0030070",
+   "jersey": "94",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ronnie Stanley",
+   "pos": "T",
+   "gsis": "00-0032965",
+   "jersey": "79",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Roquan Smith",
+   "pos": "LB",
+   "gsis": "00-0034874",
+   "jersey": "0",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Broderick Washington",
+   "pos": "DE",
+   "gsis": "00-0036081",
+   "jersey": "96",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylinn Hawkins",
+   "pos": "S",
+   "gsis": "00-0036302",
+   "jersey": "21",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Simpson",
+   "pos": "G",
+   "gsis": "00-0036369",
+   "jersey": "74",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyle Hamilton",
+   "pos": "S",
+   "gsis": "00-0038038",
+   "jersey": "14",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "T.J. Tampa",
+   "pos": "CB",
+   "gsis": "00-0039234",
+   "jersey": "27",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Olaivavega Ioane",
+   "pos": "G",
+   "gsis": "00-0040866",
+   "jersey": "71",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -22,8 +163,8 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -45,8 +186,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -68,8 +209,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -112,7 +253,7 @@
     "g50": 4,
     "june": "RG2",
     "june_tier": 2,
-    "now": "RG1",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -129,16 +270,16 @@
    {
     "name": "Olaivavega Ioane",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RG",
     "avg3": 75,
     "last": 24,
     "g50": 6,
     "june": "LG1",
     "june_tier": 1,
-    "now": "C2",
+    "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -206,8 +347,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -587,8 +728,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -610,8 +751,8 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +843,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Finger",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -725,8 +866,8 @@
     "june_tier": 2,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +889,8 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -773,8 +914,8 @@
     "june_tier": 1,
     "now": "NT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -796,8 +937,8 @@
     "june_tier": 3,
     "now": "RDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -959,8 +1100,8 @@
     "june_tier": 2,
     "now": "RCB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",

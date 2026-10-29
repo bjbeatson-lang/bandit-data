@@ -1,9 +1,80 @@
 {
  "team": "CIN",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Jonathan Allen",
+   "pos": "DT",
+   "gsis": "00-0033523",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Joe Giles-Harris",
+   "pos": "LB",
+   "gsis": "00-0035363",
+   "jersey": "43",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyle Dugger",
+   "pos": "S",
+   "gsis": "00-0036231",
+   "jersey": "29",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Ja'Marr Chase",
+   "pos": "WR",
+   "gsis": "00-0036900",
+   "jersey": "1",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jordan Battle",
+   "pos": "S",
+   "gsis": "00-0038560",
+   "jersey": "27",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -35,29 +106,6 @@
     "signed_in": false
    },
    {
-    "name": "Dylan Fairchild",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040140",
-    "jersey": "63",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Orlando Brown",
     "grp": "OL",
     "chartpos": "LT",
@@ -81,24 +129,24 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Risner",
+    "name": "Dylan Fairchild",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 98,
-    "last": 94,
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
     "g50": 6,
-    "june": "RG1",
+    "june": "LG1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035702",
-    "jersey": "66",
-    "origin": "RG1",
+    "gsis": "00-0040140",
+    "jersey": "63",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -122,6 +170,29 @@
     "gsis": "00-0032445",
     "jersey": "64",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dalton Risner",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 98,
+    "last": 94,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035702",
+    "jersey": "66",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -206,8 +277,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,24 +524,24 @@
   ],
   "injured": [
    {
-    "name": "Andrei Iosivas",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR6",
+    "name": "Erick All",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 32,
+    "last": 28,
+    "g50": 1,
+    "june": "TE3",
+    "june_tier": 3,
+    "now": "TE5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038619",
-    "jersey": "80",
-    "origin": "WR3",
+    "gsis": "00-0039814",
+    "jersey": "83",
+    "origin": "TE3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -499,24 +570,24 @@
     "signed_in": false
    },
    {
-    "name": "Erick All",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 32,
-    "last": 28,
-    "g50": 1,
-    "june": "TE3",
-    "june_tier": 3,
-    "now": "TE5",
+    "name": "Andrei Iosivas",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039814",
-    "jersey": "83",
-    "origin": "TE3",
+    "gsis": "00-0038619",
+    "jersey": "80",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -554,29 +625,6 @@
     "signed_in": false
    },
    {
-    "name": "DJ Turner II",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 97,
-    "last": 94,
-    "g50": 6,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038549",
-    "jersey": "0",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Daxton Hill",
     "grp": "CB",
     "chartpos": "NB",
@@ -600,6 +648,29 @@
     "signed_in": false
    },
    {
+    "name": "DJ Turner II",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 97,
+    "last": 94,
+    "g50": 6,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038549",
+    "jersey": "0",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jordan Battle",
     "grp": "S",
     "chartpos": "SS",
@@ -610,8 +681,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -771,8 +842,8 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -911,8 +982,8 @@
     "june_tier": 2,
     "now": "MLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",

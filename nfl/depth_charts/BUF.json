@@ -1,9 +1,136 @@
 {
  "team": "BUF",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "DJ Moore",
+   "pos": "WR",
+   "gsis": "00-0034827",
+   "jersey": "2",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Bradley Chubb",
+   "pos": "LB",
+   "gsis": "00-0034832",
+   "jersey": "9",
+   "injury": "Chest",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ed Oliver",
+   "pos": "DE",
+   "gsis": "00-0035230",
+   "jersey": "91",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Spencer Brown",
+   "pos": "T",
+   "gsis": "00-0036976",
+   "jersey": "79",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dee Alford",
+   "pos": "CB",
+   "gsis": "00-0037034",
+   "jersey": "23",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyrell Shavers",
+   "pos": "WR",
+   "gsis": "00-0038679",
+   "jersey": "14",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "gsis": "00-0038933",
+   "jersey": "86",
+   "injury": "Chest",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "T.J. Sanders",
+   "pos": "DE",
+   "gsis": "00-0040724",
+   "jersey": "98",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "TJ Parker",
+   "pos": "LB",
+   "gsis": "00-0041036",
+   "jersey": "99",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -35,24 +162,24 @@
     "signed_in": false
    },
    {
-    "name": "Alec Anderson",
+    "name": "O'Cyrus Torrence",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "LG1",
+    "june": "RG1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037428",
-    "jersey": "70",
-    "origin": "LG1",
+    "gsis": "00-0038548",
+    "jersey": "64",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -81,29 +208,6 @@
     "signed_in": false
    },
    {
-    "name": "O'Cyrus Torrence",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038548",
-    "jersey": "64",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Connor McGovern",
     "grp": "OL",
     "chartpos": "C",
@@ -127,6 +231,29 @@
     "signed_in": false
    },
    {
+    "name": "Alec Anderson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037428",
+    "jersey": "70",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Spencer Brown",
     "grp": "OL",
     "chartpos": "RT",
@@ -137,8 +264,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +356,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -463,8 +590,8 @@
     "june_tier": 2,
     "now": "WR7",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
@@ -577,24 +704,24 @@
     "signed_in": false
    },
    {
-    "name": "Ed Oliver",
+    "name": "T.J. Sanders",
     "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 11,
-    "last": 0,
+    "chartpos": "LDE",
+    "avg3": 36,
+    "last": 45,
     "g50": 1,
-    "june": "RDE1",
+    "june": "LDE1",
     "june_tier": 1,
-    "now": "RDE1",
+    "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0035230",
-    "jersey": "91",
-    "origin": "RDE1",
+    "gsis": "00-0040724",
+    "jersey": "98",
+    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -633,8 +760,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -692,24 +819,24 @@
     "signed_in": false
    },
    {
-    "name": "T.J. Sanders",
+    "name": "Ed Oliver",
     "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 36,
-    "last": 45,
+    "chartpos": "RDE",
+    "avg3": 11,
+    "last": 0,
     "g50": 1,
-    "june": "LDE1",
+    "june": "RDE1",
     "june_tier": 1,
-    "now": "LDE1",
+    "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0040724",
-    "jersey": "98",
-    "origin": "LDE1",
+    "gsis": "00-0035230",
+    "jersey": "91",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -796,8 +923,8 @@
     "june_tier": 2,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -888,8 +1015,8 @@
     "june_tier": 3,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",

@@ -1,9 +1,122 @@
 {
  "team": "IND",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Sauce Gardner",
+   "pos": "CB",
+   "gsis": "00-0037190",
+   "jersey": "1",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Ogletree",
+   "pos": "TE",
+   "gsis": "00-0037292",
+   "jersey": "85",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Matt Goncalves",
+   "pos": "G",
+   "gsis": "00-0039736",
+   "jersey": "71",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Anthony Gould",
+   "pos": "WR",
+   "gsis": "00-0039816",
+   "jersey": "6",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyler Warren",
+   "pos": "TE",
+   "gsis": "00-0040128",
+   "jersey": "84",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Justin Walley",
+   "pos": "CB",
+   "gsis": "00-0040139",
+   "jersey": "27",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tim Smith",
+   "pos": "DT",
+   "gsis": "00-0040207",
+   "jersey": "93",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Bryce Boettcher",
+   "pos": "LB",
+   "gsis": "00-0041518",
+   "jersey": "50",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -35,29 +148,6 @@
     "signed_in": false
    },
    {
-    "name": "Matt Goncalves",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039736",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bernhard Raimann",
     "grp": "OL",
     "chartpos": "LT",
@@ -76,6 +166,29 @@
     "gsis": "00-0037757",
     "jersey": "79",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matt Goncalves",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039736",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -252,8 +365,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -405,29 +518,6 @@
     "signed_in": false
    },
    {
-    "name": "Sedrick Van Pran-Granger",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039876",
-    "jersey": "63",
-    "origin": "BUF C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dalton Tucker",
     "grp": "OL",
     "chartpos": "LG",
@@ -446,6 +536,29 @@
     "gsis": "00-0039578",
     "jersey": "68",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sedrick Van Pran-Granger",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039876",
+    "jersey": "63",
+    "origin": "BUF C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -541,8 +654,8 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": true,
     "returning": true,
     "why": "",
@@ -656,8 +769,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +815,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -773,8 +886,8 @@
     "june_tier": 3,
     "now": "LDT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -842,8 +955,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -926,29 +1039,6 @@
   ],
   "injured": [
    {
-    "name": "Cam Taylor-Britt",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 33,
-    "last": 42,
-    "g50": 1,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037753",
-    "jersey": "29",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Arden Key",
     "grp": "ED",
     "chartpos": "LDE",
@@ -990,6 +1080,29 @@
     "gsis": "00-0038107",
     "jersey": "72",
     "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Taylor-Britt",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 33,
+    "last": 42,
+    "g50": 1,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037753",
+    "jersey": "29",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

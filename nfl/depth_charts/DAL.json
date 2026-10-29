@@ -1,9 +1,94 @@
 {
  "team": "DAL",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Quinnen Williams",
+   "pos": "DT",
+   "gsis": "00-0035718",
+   "jersey": "92",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "George Pickens",
+   "pos": "WR",
+   "gsis": "00-0037247",
+   "jersey": "3",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "KaVontae Turpin",
+   "pos": "WR",
+   "gsis": "00-0037801",
+   "jersey": "9",
+   "injury": "Ribs",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dee Winters",
+   "pos": "LB",
+   "gsis": "00-0038625",
+   "jersey": "53",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Caleb Downs",
+   "pos": "S",
+   "gsis": "00-0040865",
+   "jersey": "13",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Drew Shelton",
+   "pos": "T",
+   "gsis": "00-0040874",
+   "jersey": "67",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -58,29 +143,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Booker",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040007",
-    "jersey": "52",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cooper Beebe",
     "grp": "OL",
     "chartpos": "C",
@@ -122,6 +184,29 @@
     "gsis": "00-0037243",
     "jersey": "73",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyler Booker",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040007",
+    "jersey": "52",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -183,8 +268,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -346,8 +431,8 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ribs",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -405,29 +490,6 @@
     "signed_in": false
    },
    {
-    "name": "TJ Bass",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038731",
-    "jersey": "66",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ajani Cornelius",
     "grp": "OL",
     "chartpos": "RG",
@@ -446,6 +508,29 @@
     "gsis": "00-0040017",
     "jersey": "65",
     "origin": "RT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "TJ Bass",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038731",
+    "jersey": "66",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -541,8 +626,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -577,24 +662,24 @@
     "signed_in": false
    },
    {
-    "name": "Dee Winters",
+    "name": "DeMarvion Overshown",
     "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 28,
-    "last": 0,
-    "g50": 5,
-    "june": "RILB1",
+    "chartpos": "LILB",
+    "avg3": 22,
+    "last": 65,
+    "g50": 2,
+    "june": "LILB1",
     "june_tier": 1,
-    "now": "RILB1",
+    "now": "LILB1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0038625",
-    "jersey": "53",
-    "origin": "RILB1",
+    "gsis": "00-0038556",
+    "jersey": "0",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -669,24 +754,24 @@
     "signed_in": false
    },
    {
-    "name": "DeMarvion Overshown",
+    "name": "Dee Winters",
     "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 22,
-    "last": 65,
-    "g50": 2,
-    "june": "LILB1",
+    "chartpos": "RILB",
+    "avg3": 28,
+    "last": 0,
+    "g50": 5,
+    "june": "RILB1",
     "june_tier": 1,
-    "now": "LILB1",
+    "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0038556",
-    "jersey": "0",
-    "origin": "LILB1",
+    "gsis": "00-0038625",
+    "jersey": "53",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -702,8 +787,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -959,8 +1044,8 @@
     "june_tier": 2,
     "now": "FS4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "IR",

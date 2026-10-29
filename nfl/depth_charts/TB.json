@@ -1,9 +1,80 @@
 {
  "team": "TB",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "gsis": "00-0036919",
+   "jersey": "1",
+   "injury": "Hip",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Luke Goedeke",
+   "pos": "T",
+   "gsis": "00-0037835",
+   "jersey": "67",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Yaya Diaby",
+   "pos": "LB",
+   "gsis": "00-0039068",
+   "jersey": "0",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Emeka Egbuka",
+   "pos": "WR",
+   "gsis": "00-0040129",
+   "jersey": "2",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Josiah Trotter",
+   "pos": "LB",
+   "gsis": "00-0041502",
+   "jersey": "45",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -22,8 +93,8 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -81,29 +152,6 @@
     "signed_in": false
    },
    {
-    "name": "Cody Mauch",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 96,
-    "last": 90,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039157",
-    "jersey": "69",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tristan Wirfs",
     "grp": "OL",
     "chartpos": "LT",
@@ -127,6 +175,29 @@
     "signed_in": false
    },
    {
+    "name": "Cody Mauch",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 96,
+    "last": 90,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039157",
+    "jersey": "69",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Luke Goedeke",
     "grp": "OL",
     "chartpos": "RT",
@@ -137,8 +208,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +300,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +371,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hip",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -564,8 +635,8 @@
     "june_tier": 2,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -610,8 +681,8 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Rib",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -725,8 +796,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -911,7 +982,7 @@
     "g50": 1,
     "june": "RILB1",
     "june_tier": 1,
-    "now": "LILB3",
+    "now": "LILB2",
     "report": "",
     "practice": "",
     "injury": "",

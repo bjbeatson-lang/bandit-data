@@ -1,9 +1,150 @@
 {
  "team": "ATL",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Za'Darius Smith",
+   "pos": "DE",
+   "gsis": "00-0031576",
+   "jersey": "55",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Samson Ebukam",
+   "pos": "DE",
+   "gsis": "00-0033945",
+   "jersey": "52",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "gsis": "00-0035208",
+   "jersey": "14",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jawaan Taylor",
+   "pos": "T",
+   "gsis": "00-0035237",
+   "jersey": "71",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "LaCale London",
+   "pos": "DT",
+   "gsis": "00-0036204",
+   "jersey": "94",
+   "injury": "Chest",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Charles Snowden",
+   "pos": "LB",
+   "gsis": "00-0036711",
+   "jersey": "47",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Divine Deablo",
+   "pos": "LB",
+   "gsis": "00-0036990",
+   "jersey": "0",
+   "injury": "Forearm",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Brian Robinson",
+   "pos": "RB",
+   "gsis": "00-0037746",
+   "jersey": "15",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Billy Bowman Jr.",
+   "pos": "CB",
+   "gsis": "00-0040156",
+   "jersey": "33",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Avieon Terrell",
+   "pos": "CB",
+   "gsis": "00-0041469",
+   "jersey": "12",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -58,6 +199,29 @@
     "signed_in": false
    },
    {
+    "name": "Jawaan Taylor",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035237",
+    "jersey": "71",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ryan Neuzil",
     "grp": "OL",
     "chartpos": "C",
@@ -99,29 +263,6 @@
     "gsis": "00-0035630",
     "jersey": "63",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jawaan Taylor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035237",
-    "jersey": "71",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -300,8 +441,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -323,8 +464,8 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -554,24 +695,24 @@
     "signed_in": false
    },
    {
-    "name": "Billy Bowman Jr.",
+    "name": "A.J. Terrell",
     "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 17,
-    "last": 0,
+    "chartpos": "LCB",
+    "avg3": 33,
+    "last": 98,
     "g50": 2,
-    "june": "NB1",
+    "june": "LCB1",
     "june_tier": 1,
-    "now": "NB1",
+    "now": "LCB1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0040156",
-    "jersey": "33",
-    "origin": "NB1",
+    "gsis": "00-0036285",
+    "jersey": "24",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -633,8 +774,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Forearm",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -692,24 +833,24 @@
     "signed_in": false
    },
    {
-    "name": "A.J. Terrell",
+    "name": "Billy Bowman Jr.",
     "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 33,
-    "last": 98,
+    "chartpos": "NB",
+    "avg3": 17,
+    "last": 0,
     "g50": 2,
-    "june": "LCB1",
+    "june": "NB1",
     "june_tier": 1,
-    "now": "LCB1",
+    "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0036285",
-    "jersey": "24",
-    "origin": "LCB1",
+    "gsis": "00-0040156",
+    "jersey": "33",
+    "origin": "NB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -725,8 +866,8 @@
     "june_tier": 2,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -750,8 +891,8 @@
     "june_tier": 2,
     "now": "LDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -819,8 +960,8 @@
     "june_tier": null,
     "now": "WLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -926,6 +1067,29 @@
   ],
   "injured": [
    {
+    "name": "Da'Shawn Hand",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034371",
+    "jersey": "90",
+    "origin": "NT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jalon Walker",
     "grp": "ED",
     "chartpos": "WLB",
@@ -972,24 +1136,24 @@
     "signed_in": false
    },
    {
-    "name": "Da'Shawn Hand",
-    "grp": "DL",
-    "chartpos": "LDE",
+    "name": "James Pearce Jr.",
+    "grp": "ED",
+    "chartpos": "SLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "NT1",
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "LDE3",
+    "now": "SLB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034371",
-    "jersey": "90",
-    "origin": "NT1",
+    "gsis": "00-0040578",
+    "jersey": "27",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1013,29 +1177,6 @@
     "gsis": "00-0039370",
     "jersey": "40",
     "origin": "RILB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "James Pearce Jr.",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040578",
-    "jersey": "27",
-    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

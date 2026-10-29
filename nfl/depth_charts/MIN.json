@@ -1,9 +1,52 @@
 {
  "team": "MIN",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Aaron Jones",
+   "pos": "RB",
+   "gsis": "00-0033293",
+   "jersey": "33",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Brian O'Neill",
+   "pos": "T",
+   "gsis": "00-0034158",
+   "jersey": "75",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Joe Huber",
+   "pos": "G",
+   "gsis": "00-0040500",
+   "jersey": "60",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -58,29 +101,6 @@
     "signed_in": false
    },
    {
-    "name": "Brian O'Neill",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 99,
-    "last": 100,
-    "g50": 6,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034158",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Will Fries",
     "grp": "OL",
     "chartpos": "RG",
@@ -104,6 +124,29 @@
     "signed_in": false
    },
    {
+    "name": "Brian O'Neill",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 99,
+    "last": 100,
+    "g50": 6,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034158",
+    "jersey": "75",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Joe Huber",
     "grp": "OL",
     "chartpos": "LG",
@@ -114,8 +157,8 @@
     "june_tier": 2,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -160,8 +203,8 @@
     "june_tier": 1,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -430,13 +473,13 @@
    {
     "name": "Trevor Keegan",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 1,
     "last": 0,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RG2",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -461,7 +504,7 @@
     "g50": 3,
     "june": "LG1",
     "june_tier": 1,
-    "now": "LG2",
+    "now": "LG4",
     "report": "",
     "practice": "",
     "injury": "",

@@ -1,9 +1,94 @@
 {
  "team": "WAS",
  "entering_week": 8,
- "chart_date": "2026-10-28",
+ "chart_date": "2026-10-29",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Stefon Diggs",
+   "pos": "WR",
+   "gsis": "00-0031588",
+   "jersey": "3",
+   "injury": "Hand",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Charles Omenihu",
+   "pos": "DE",
+   "gsis": "00-0035279",
+   "jersey": "90",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Javon Kinlaw",
+   "pos": "DT",
+   "gsis": "00-0036260",
+   "jersey": "99",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Bates",
+   "pos": "TE",
+   "gsis": "00-0036628",
+   "jersey": "87",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "gsis": "00-0037742",
+   "jersey": "13",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jer'Zhan Newton",
+   "pos": "DT",
+   "gsis": "00-0039906",
+   "jersey": "95",
+   "injury": "Pectoral",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    4,
@@ -22,8 +107,8 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -33,6 +118,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Lucas Patrick",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033082",
+    "jersey": "63",
+    "origin": "NYG C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    },
    {
     "name": "Josh Conerly Jr.",
@@ -79,29 +187,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Lucas Patrick",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033082",
-    "jersey": "63",
-    "origin": "NYG C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
    },
    {
     "name": "Brandon Coleman",
@@ -229,8 +314,8 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -323,8 +408,8 @@
     "june_tier": null,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -336,24 +421,24 @@
     "signed_in": false
    },
    {
-    "name": "Terry McLaurin",
+    "name": "Luke McCaffrey",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 23,
-    "last": 10,
-    "g50": 4,
-    "june": "WR1",
+    "avg3": 4,
+    "last": 12,
+    "g50": 0,
+    "june": "WR2",
     "june_tier": 1,
-    "now": "WR6",
+    "now": "WR5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035659",
-    "jersey": "17",
-    "origin": "WR1",
+    "gsis": "00-0039355",
+    "jersey": "11",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -369,8 +454,8 @@
     "june_tier": 2,
     "now": "TE3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -461,7 +546,7 @@
     "g50": 0,
     "june": "WR6",
     "june_tier": 2,
-    "now": "WR7",
+    "now": "WR8",
     "report": "",
     "practice": "",
     "injury": "",
@@ -517,6 +602,29 @@
     "gsis": "00-0040242",
     "jersey": "22",
     "origin": "RB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Terry McLaurin",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 23,
+    "last": 10,
+    "g50": 4,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035659",
+    "jersey": "17",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -725,8 +833,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -982,8 +1090,8 @@
     "june_tier": 2,
     "now": "LDE3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Pectoral",
     "rookie": false,
     "returning": false,
     "why": "IR",
