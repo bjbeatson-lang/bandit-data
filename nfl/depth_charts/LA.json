@@ -1,7 +1,7 @@
 {
  "team": "LA",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -56,6 +68,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -92,29 +108,6 @@
     "signed_in": false
    },
    {
-    "name": "Coleman Shelton",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hip",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034114",
-    "jersey": "65",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Warren McClendon Jr.",
     "grp": "OL",
     "chartpos": "RT",
@@ -138,24 +131,24 @@
     "signed_in": false
    },
    {
-    "name": "Kevin Dotson",
+    "name": "Coleman Shelton",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 99,
-    "last": 96,
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
     "g50": 7,
-    "june": "RG1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hip",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036339",
-    "jersey": "69",
-    "origin": "RG1",
+    "gsis": "00-0034114",
+    "jersey": "65",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -179,6 +172,29 @@
     "gsis": "00-0039058",
     "jersey": "73",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kevin Dotson",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 99,
+    "last": 96,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036339",
+    "jersey": "69",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -533,29 +549,6 @@
     "signed_in": false
    },
    {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Davante Adams",
     "grp": "WR",
     "chartpos": "WR",
@@ -574,6 +567,29 @@
     "gsis": "00-0031381",
     "jersey": "17",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1029,29 +1045,6 @@
   ],
   "injured": [
    {
-    "name": "Poona Ford",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 27,
-    "last": 0,
-    "g50": 1,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "NT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034234",
-    "jersey": "97",
-    "origin": "NT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Myles Garrett",
     "grp": "ED",
     "chartpos": "SLB",
@@ -1070,6 +1063,29 @@
     "gsis": "00-0033868",
     "jersey": "95",
     "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Poona Ford",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 27,
+    "last": 0,
+    "g50": 1,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034234",
+    "jersey": "97",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

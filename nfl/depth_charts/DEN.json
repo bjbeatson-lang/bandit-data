@@ -1,7 +1,7 @@
 {
  "team": "DEN",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,24 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Brandon Jones",
+   "pos": "S",
+   "gsis": "00-0036221",
+   "jersey": "22",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +64,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -70,6 +100,24 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "RJ Harvey",
+   "pos": "RB",
+   "gsis": "00-0040730",
+   "jersey": "12",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -106,29 +154,6 @@
     "signed_in": false
    },
    {
-    "name": "Luke Wattenberg",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037278",
-    "jersey": "60",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Quinn Meinerz",
     "grp": "OL",
     "chartpos": "RG",
@@ -152,24 +177,24 @@
     "signed_in": false
    },
    {
-    "name": "Ben Powers",
+    "name": "Luke Wattenberg",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "LG1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034978",
-    "jersey": "74",
-    "origin": "LG1",
+    "gsis": "00-0037278",
+    "jersey": "60",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -216,6 +241,29 @@
     "gsis": "00-0034847",
     "jersey": "69",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ben Powers",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034978",
+    "jersey": "74",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -277,7 +325,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Chest",
     "rookie": false,
     "returning": false,
@@ -371,8 +419,8 @@
     "june_tier": 2,
     "now": "RB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -417,7 +465,7 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -524,29 +572,6 @@
   ],
   "injured": [
    {
-    "name": "Frank Crum",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039568",
-    "jersey": "73",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Pat Bryant",
     "grp": "WR",
     "chartpos": "WR",
@@ -565,6 +590,29 @@
     "gsis": "00-0040134",
     "jersey": "13",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Frank Crum",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039568",
+    "jersey": "73",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -704,7 +752,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": false,
@@ -1005,8 +1053,8 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",

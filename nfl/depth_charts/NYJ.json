@@ -1,7 +1,7 @@
 {
  "team": "NYJ",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -99,6 +123,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -113,6 +141,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -126,6 +158,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -185,29 +221,6 @@
     "signed_in": false
    },
    {
-    "name": "Armand Membou",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040123",
-    "jersey": "70",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Myers",
     "grp": "OL",
     "chartpos": "C",
@@ -226,6 +239,29 @@
     "gsis": "00-0036622",
     "jersey": "71",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Armand Membou",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040123",
+    "jersey": "70",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -427,7 +463,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -532,25 +568,25 @@
     "signed_in": false
    },
    {
-    "name": "Chukwuma Okorafor",
+    "name": "Kohl Levao",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
+    "june": "LG4",
+    "june_tier": 4,
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034768",
-    "jersey": "79",
-    "origin": "RT2",
-    "psq": false,
+    "gsis": "00-0038194",
+    "jersey": "60",
+    "origin": "LG4",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -714,7 +750,7 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -829,7 +865,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1076,24 +1112,24 @@
   ],
   "injured": [
    {
-    "name": "Tre Brown",
-    "grp": "CB",
-    "chartpos": "RCB",
+    "name": "David Onyemata",
+    "grp": "DL",
+    "chartpos": "RDT",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "RCB2",
+    "g50": 1,
+    "june": "RDT2",
     "june_tier": 2,
-    "now": "RCB3",
+    "now": "RDT3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036885",
-    "jersey": "30",
-    "origin": "RCB2",
+    "gsis": "00-0033051",
+    "jersey": "93",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1122,29 +1158,6 @@
     "signed_in": false
    },
    {
-    "name": "Marcelino McCrary-Ball",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037526",
-    "jersey": "41",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Braiden McGregor",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1168,24 +1181,47 @@
     "signed_in": false
    },
    {
-    "name": "David Onyemata",
-    "grp": "DL",
-    "chartpos": "RDT",
+    "name": "Tre Brown",
+    "grp": "CB",
+    "chartpos": "RCB",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RDT2",
+    "g50": 0,
+    "june": "RCB2",
     "june_tier": 2,
-    "now": "RDT3",
+    "now": "RCB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033051",
-    "jersey": "93",
-    "origin": "RDT2",
+    "gsis": "00-0036885",
+    "jersey": "30",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Marcelino McCrary-Ball",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037526",
+    "jersey": "41",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,24 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "B.J. Hill",
+   "pos": "DT",
+   "gsis": "00-0034800",
+   "jersey": "92",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -29,6 +47,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +64,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -70,6 +100,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -106,29 +140,6 @@
     "signed_in": false
    },
    {
-    "name": "Orlando Brown",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034752",
-    "jersey": "75",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dylan Fairchild",
     "grp": "OL",
     "chartpos": "LG",
@@ -152,24 +163,24 @@
     "signed_in": false
    },
    {
-    "name": "Ted Karras",
+    "name": "Orlando Brown",
     "grp": "OL",
-    "chartpos": "C",
-    "avg3": 98,
-    "last": 94,
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
     "g50": 6,
-    "june": "C1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "C1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0032445",
-    "jersey": "64",
-    "origin": "C1",
+    "gsis": "00-0034752",
+    "jersey": "75",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -193,6 +204,29 @@
     "gsis": "00-0035702",
     "jersey": "66",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ted Karras",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 98,
+    "last": 94,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032445",
+    "jersey": "64",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -277,7 +311,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -524,29 +558,6 @@
   ],
   "injured": [
    {
-    "name": "Andrei Iosivas",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038619",
-    "jersey": "80",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Brian Parker II",
     "grp": "OL",
     "chartpos": "LG",
@@ -565,6 +576,29 @@
     "gsis": "00-0041098",
     "jersey": "62",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Andrei Iosivas",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038619",
+    "jersey": "80",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -625,29 +659,6 @@
     "signed_in": false
    },
    {
-    "name": "Daxton Hill",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 97,
-    "last": 94,
-    "g50": 6,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037743",
-    "jersey": "23",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "DJ Turner II",
     "grp": "CB",
     "chartpos": "RCB",
@@ -666,6 +677,29 @@
     "gsis": "00-0038549",
     "jersey": "0",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Daxton Hill",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 97,
+    "last": 94,
+    "g50": 6,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037743",
+    "jersey": "23",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -842,7 +876,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -867,8 +901,8 @@
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -982,7 +1016,7 @@
     "june_tier": 2,
     "now": "MLB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -1043,29 +1077,6 @@
   ],
   "injured": [
    {
-    "name": "Ja'Sir Taylor",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "NB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037307",
-    "jersey": "26",
-    "origin": "NB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jalen Davis",
     "grp": "CB",
     "chartpos": "NB",
@@ -1084,6 +1095,29 @@
     "gsis": "00-0034446",
     "jersey": "35",
     "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ja'Sir Taylor",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NB2",
+    "june_tier": 2,
+    "now": "NB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037307",
+    "jersey": "26",
+    "origin": "NB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

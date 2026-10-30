@@ -1,7 +1,7 @@
 {
  "team": "DAL",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,24 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Luke Schoonmaker",
+   "pos": "TE",
+   "gsis": "00-0038547",
+   "jersey": "86",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -71,6 +101,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -84,6 +118,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -143,24 +181,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Smith",
+    "name": "Terence Steele",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
-    "g50": 3,
-    "june": "LG1",
+    "g50": 7,
+    "june": "RT1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037243",
-    "jersey": "73",
-    "origin": "LG1",
+    "gsis": "00-0036036",
+    "jersey": "78",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -189,24 +227,24 @@
     "signed_in": false
    },
    {
-    "name": "Terence Steele",
+    "name": "Tyler Smith",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "RT1",
+    "g50": 3,
+    "june": "LG1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036036",
-    "jersey": "78",
-    "origin": "RT1",
+    "gsis": "00-0037243",
+    "jersey": "73",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -662,24 +700,24 @@
     "signed_in": false
    },
    {
-    "name": "Dee Winters",
+    "name": "DeMarvion Overshown",
     "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 28,
-    "last": 0,
-    "g50": 5,
-    "june": "RILB1",
+    "chartpos": "LILB",
+    "avg3": 22,
+    "last": 65,
+    "g50": 2,
+    "june": "LILB1",
     "june_tier": 1,
-    "now": "RILB1",
+    "now": "LILB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0038625",
-    "jersey": "53",
-    "origin": "RILB1",
+    "gsis": "00-0038556",
+    "jersey": "0",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -754,24 +792,24 @@
     "signed_in": false
    },
    {
-    "name": "DeMarvion Overshown",
+    "name": "Dee Winters",
     "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 22,
-    "last": 65,
-    "g50": 2,
-    "june": "LILB1",
+    "chartpos": "RILB",
+    "avg3": 28,
+    "last": 0,
+    "g50": 5,
+    "june": "RILB1",
     "june_tier": 1,
-    "now": "LILB1",
+    "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0038556",
-    "jersey": "0",
-    "origin": "LILB1",
+    "gsis": "00-0038625",
+    "jersey": "53",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1057,24 +1095,24 @@
     "signed_in": false
    },
    {
-    "name": "P.J. Locke",
-    "grp": "S",
-    "chartpos": "FS",
+    "name": "Jonathan Bullard",
+    "grp": "DL",
+    "chartpos": "NT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "FS2",
+    "june": "RDE2",
     "june_tier": 2,
-    "now": "FS4",
+    "now": "NT2",
     "report": "",
     "practice": "Full Participation in Practice",
-    "injury": "Foot",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035227",
-    "jersey": "1",
-    "origin": "FS2",
+    "gsis": "00-0033093",
+    "jersey": "90",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1103,24 +1141,24 @@
     "signed_in": false
    },
    {
-    "name": "Jonathan Bullard",
-    "grp": "DL",
-    "chartpos": "NT",
+    "name": "P.J. Locke",
+    "grp": "S",
+    "chartpos": "FS",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RDE2",
+    "june": "FS2",
     "june_tier": 2,
-    "now": "NT2",
+    "now": "FS4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033093",
-    "jersey": "90",
-    "origin": "RDE2",
+    "gsis": "00-0035227",
+    "jersey": "1",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

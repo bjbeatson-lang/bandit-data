@@ -1,7 +1,7 @@
 {
  "team": "BAL",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -57,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -71,6 +87,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -84,6 +104,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -99,6 +123,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -113,6 +141,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -127,6 +159,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -141,6 +177,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   }
@@ -209,7 +249,7 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Toe",
     "rookie": false,
     "returning": false,
@@ -253,7 +293,7 @@
     "g50": 4,
     "june": "RG2",
     "june_tier": 2,
-    "now": "RG2",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -270,15 +310,15 @@
    {
     "name": "Olaivavega Ioane",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "C",
     "avg3": 75,
     "last": 24,
     "g50": 6,
     "june": "LG1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "C2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": true,
     "returning": false,
@@ -594,29 +634,6 @@
   ],
   "injured": [
    {
-    "name": "Jovaughn Gwyn",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038629",
-    "jersey": "54",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Durham Smythe",
     "grp": "TE",
     "chartpos": "TE",
@@ -635,6 +652,29 @@
     "gsis": "00-0034798",
     "jersey": "80",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jovaughn Gwyn",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038629",
+    "jersey": "54",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -728,7 +768,7 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -751,7 +791,7 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -889,7 +929,7 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -914,7 +954,7 @@
     "june_tier": 1,
     "now": "NT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -937,7 +977,7 @@
     "june_tier": 3,
     "now": "RDE2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1100,7 +1140,7 @@
     "june_tier": 2,
     "now": "RCB3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,

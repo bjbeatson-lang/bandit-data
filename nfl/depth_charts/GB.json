@@ -1,7 +1,7 @@
 {
  "team": "GB",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Wed",
      "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -109,6 +129,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -127,6 +151,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -144,6 +172,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -512,7 +544,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "TE3",
+    "now": "TE2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -525,29 +557,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Kevin Zeitler",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0029592",
-    "jersey": "70",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
    },
    {
     "name": "Mekhi Becton",
@@ -566,11 +575,34 @@
     "returning": false,
     "why": "",
     "gsis": "00-0036284",
-    "jersey": "73",
+    "jersey": "74",
     "origin": "PS",
     "psq": true,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Kevin Zeitler",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0029592",
+    "jersey": "70",
+    "origin": "FA",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    },
    {
     "name": "Jager Burton",
@@ -597,29 +629,6 @@
    }
   ],
   "injured": [
-   {
-    "name": "Donovan Jennings",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039272",
-    "jersey": "67",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Travis Glover",
     "grp": "OL",
@@ -667,29 +676,6 @@
     "signed_in": false
    },
    {
-    "name": "Skyy Moore",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 6,
-    "last": 0,
-    "g50": 1,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038090",
-    "jersey": "23",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jacob Monk",
     "grp": "OL",
     "chartpos": "C",
@@ -708,6 +694,52 @@
     "gsis": "00-0039817",
     "jersey": "62",
     "origin": "C3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Musgrave",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039144",
+    "jersey": "88",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Skyy Moore",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 6,
+    "last": 0,
+    "g50": 1,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038090",
+    "jersey": "23",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -759,6 +791,29 @@
     "signed_in": false
    },
    {
+    "name": "Donovan Jennings",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0039272",
+    "jersey": "67",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Zach Bako-Bewele",
     "grp": "OL",
     "chartpos": "RT",
@@ -777,29 +832,6 @@
     "gsis": "00-0037817",
     "jersey": "50",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Luke Musgrave",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039144",
-    "jersey": "88",
-    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1255,24 +1287,24 @@
   ],
   "injured": [
    {
-    "name": "Micah Parsons",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
+    "name": "Javon Hargrave",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 15,
     "last": 0,
     "g50": 0,
-    "june": "SLB1",
+    "june": "NT1",
     "june_tier": 1,
-    "now": "SLB3",
+    "now": "NT4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036932",
-    "jersey": "1",
-    "origin": "SLB1",
+    "gsis": "00-0033109",
+    "jersey": "98",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1301,24 +1333,24 @@
     "signed_in": false
    },
    {
-    "name": "Javon Hargrave",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 15,
+    "name": "Micah Parsons",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "NT1",
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "NT4",
+    "now": "SLB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033109",
-    "jersey": "98",
-    "origin": "NT1",
+    "gsis": "00-0036932",
+    "jersey": "1",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

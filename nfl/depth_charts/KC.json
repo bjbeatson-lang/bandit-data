@@ -1,20 +1,42 @@
 {
  "team": "KC",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "gsis": "00-0030506",
+   "jersey": "87",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
   {
    "name": "L'Jarius Sneed",
    "pos": "CB",
    "gsis": "00-0036374",
    "jersey": "38",
-   "injury": "Not injury related - personal matter",
+   "injury": "Knee",
    "designation": "",
    "days": [
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -28,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -43,6 +69,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Mansoor Delane",
+   "pos": "CB",
+   "gsis": "00-0041543",
+   "jersey": "5",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   }
@@ -249,7 +293,7 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -584,8 +628,8 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -791,8 +835,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - personal matter",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",

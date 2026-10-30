@@ -1,7 +1,7 @@
 {
  "team": "ATL",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -43,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -56,6 +68,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -71,12 +87,44 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "C.J. Henderson",
+   "pos": "CB",
+   "gsis": "00-0036281",
+   "jersey": "26",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "A.J. Terrell",
+   "pos": "CB",
+   "gsis": "00-0036285",
+   "jersey": "24",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
   {
    "name": "Charles Snowden",
-   "pos": "LB",
+   "pos": "DE",
    "gsis": "00-0036711",
    "jersey": "47",
    "injury": "Back",
@@ -84,6 +132,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -99,6 +151,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -113,6 +169,24 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Cameron Thomas",
+   "pos": "DE",
+   "gsis": "00-0037815",
+   "jersey": "99",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -127,6 +201,24 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kendal Daniels",
+   "pos": "LB",
+   "gsis": "00-0041066",
+   "jersey": "53",
+   "injury": "Achilles",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -140,6 +232,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -176,29 +272,6 @@
     "signed_in": false
    },
    {
-    "name": "Jawaan Taylor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035237",
-    "jersey": "71",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Matthew Bergeron",
     "grp": "OL",
     "chartpos": "LG",
@@ -217,6 +290,29 @@
     "gsis": "00-0039048",
     "jersey": "65",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Chris Lindstrom",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035630",
+    "jersey": "63",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -245,24 +341,24 @@
     "signed_in": false
    },
    {
-    "name": "Chris Lindstrom",
+    "name": "Jawaan Taylor",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "RG1",
+    "june": "RT1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035630",
-    "jersey": "63",
-    "origin": "RG1",
+    "gsis": "00-0035237",
+    "jersey": "71",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -682,8 +778,8 @@
     "june_tier": 4,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Achilles",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -705,7 +801,7 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": true,
@@ -728,8 +824,8 @@
     "june_tier": 2,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -774,7 +870,7 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Forearm",
     "rookie": false,
     "returning": true,
@@ -843,8 +939,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -960,7 +1056,7 @@
     "june_tier": null,
     "now": "WLB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1067,24 +1163,24 @@
   ],
   "injured": [
    {
-    "name": "JD Bertrand",
-    "grp": "LB",
-    "chartpos": "RILB",
+    "name": "Da'Shawn Hand",
+    "grp": "DL",
+    "chartpos": "LDE",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RILB2",
-    "june_tier": 2,
-    "now": "RILB4",
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "LDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039370",
-    "jersey": "40",
-    "origin": "RILB2",
+    "gsis": "00-0034371",
+    "jersey": "90",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1113,47 +1209,24 @@
     "signed_in": false
    },
    {
-    "name": "James Pearce Jr.",
-    "grp": "ED",
-    "chartpos": "SLB",
+    "name": "JD Bertrand",
+    "grp": "LB",
+    "chartpos": "RILB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
+    "june": "RILB2",
+    "june_tier": 2,
+    "now": "RILB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040578",
-    "jersey": "27",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Da'Shawn Hand",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034371",
-    "jersey": "90",
-    "origin": "NT1",
+    "gsis": "00-0039370",
+    "jersey": "40",
+    "origin": "RILB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1177,6 +1250,29 @@
     "gsis": "00-0038580",
     "jersey": "22",
     "origin": "JAX SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "James Pearce Jr.",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040578",
+    "jersey": "27",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

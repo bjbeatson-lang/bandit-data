@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +86,24 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "LeQuint Allen Jr.",
+   "pos": "RB",
+   "gsis": "00-0040238",
+   "jersey": "5",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -106,52 +140,6 @@
     "signed_in": false
    },
    {
-    "name": "Emmanuel Pregnon",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041050",
-    "jersey": "75",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Robert Hainsey",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036985",
-    "jersey": "73",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cole Van Lanen",
     "grp": "OL",
     "chartpos": "RT",
@@ -175,6 +163,29 @@
     "signed_in": false
    },
    {
+    "name": "Emmanuel Pregnon",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041050",
+    "jersey": "75",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ezra Cleveland",
     "grp": "OL",
     "chartpos": "RG",
@@ -193,6 +204,29 @@
     "gsis": "00-0036327",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robert Hainsey",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036985",
+    "jersey": "73",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -476,29 +510,6 @@
     "signed_in": false
    },
    {
-    "name": "Jonah Monheim",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040227",
-    "jersey": "60",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Daniel Faalele",
     "grp": "OL",
     "chartpos": "LG",
@@ -520,32 +531,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Patrick Mekari",
+    "name": "Jonah Monheim",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG3",
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035112",
-    "jersey": "65",
-    "origin": "RG1",
+    "why": "",
+    "gsis": "00-0040227",
+    "jersey": "60",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Anton Harrison",
     "grp": "OL",
@@ -565,6 +576,29 @@
     "gsis": "00-0038934",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Mekari",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035112",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1020,29 +1054,6 @@
   ],
   "injured": [
    {
-    "name": "Caleb Ransaw",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "FS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Parker Hughes",
     "grp": "LB",
     "chartpos": "MLB",
@@ -1061,6 +1072,29 @@
     "gsis": "00-0041127",
     "jersey": "53",
     "origin": "MLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Caleb Ransaw",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "FS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

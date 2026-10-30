@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -29,6 +33,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Gavin Bartholomew",
+   "pos": "TE",
+   "gsis": "00-0040215",
+   "jersey": "86",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -43,6 +65,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -134,7 +160,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -157,7 +183,7 @@
     "june_tier": 2,
     "now": "LG1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -203,7 +229,7 @@
     "june_tier": 1,
     "now": "RB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,

@@ -1,7 +1,7 @@
 {
  "team": "TEN",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -29,6 +33,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "gsis": "00-0035261",
+   "jersey": "20",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +64,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +100,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -101,75 +135,6 @@
     "gsis": "00-0040676",
     "jersey": "1",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Austin Schlottmann",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034112",
-    "jersey": "51",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Peter Skoronski",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039034",
-    "jersey": "77",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "JC Latham",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039731",
-    "jersey": "55",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -221,6 +186,75 @@
     "signed_in": false
    },
    {
+    "name": "JC Latham",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039731",
+    "jersey": "55",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Peter Skoronski",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039034",
+    "jersey": "77",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Austin Schlottmann",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034112",
+    "jersey": "51",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tony Pollard",
     "grp": "RB",
     "chartpos": "RB",
@@ -231,8 +265,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -476,6 +510,29 @@
     "signed_in": false
    },
    {
+    "name": "Garrett Dellinger",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG3",
+    "june_tier": 3,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040079",
+    "jersey": "71",
+    "origin": "RG3",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Brandon Crenshaw-Dickson",
     "grp": "OL",
     "chartpos": "RT",
@@ -494,29 +551,6 @@
     "gsis": "00-0040512",
     "jersey": "78",
     "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Pat Coogan",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040893",
-    "jersey": "79",
-    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -597,29 +631,6 @@
     "gsis": "00-0041479",
     "jersey": "53",
     "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jeffery Simmons",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 88,
-    "last": 91,
-    "g50": 7,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035643",
-    "jersey": "98",
-    "origin": "LDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -717,29 +728,6 @@
     "signed_in": false
    },
    {
-    "name": "Kevin Winston Jr.",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 33,
-    "last": 100,
-    "g50": 5,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0040141",
-    "jersey": "23",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Joshua Williams",
     "grp": "CB",
     "chartpos": "LCB",
@@ -758,6 +746,29 @@
     "gsis": "00-0038043",
     "jersey": "25",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kevin Winston Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 33,
+    "last": 100,
+    "g50": 5,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0040141",
+    "jersey": "23",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -819,7 +830,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -827,6 +838,29 @@
     "gsis": "00-0034805",
     "jersey": "91",
     "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cedric Gray",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 48,
+    "last": 56,
+    "g50": 1,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039858",
+    "jersey": "33",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -865,7 +899,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "LDT2",
+    "now": "LDT1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -921,29 +955,6 @@
     "gsis": "00-0040752",
     "jersey": "7",
     "origin": "LDE3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cedric Gray",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 48,
-    "last": 56,
-    "g50": 1,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039858",
-    "jersey": "33",
-    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

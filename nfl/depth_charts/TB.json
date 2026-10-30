@@ -1,9 +1,37 @@
 {
  "team": "TB",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "A'Shawn Robinson",
+   "pos": "DT",
+   "gsis": "00-0032889",
+   "jersey": "91",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "gsis": "00-0033921",
+   "jersey": "14",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Kenny Gainwell",
    "pos": "RB",
@@ -15,6 +43,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -28,6 +60,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -43,6 +79,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Bucky Irving",
+   "pos": "RB",
+   "gsis": "00-0039361",
+   "jersey": "7",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -56,6 +110,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -71,6 +129,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -231,8 +293,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -277,8 +339,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -371,7 +433,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Hip",
     "rookie": false,
     "returning": false,
@@ -635,7 +697,7 @@
     "june_tier": 2,
     "now": "RILB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": true,
     "returning": false,
@@ -796,7 +858,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -821,8 +883,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",

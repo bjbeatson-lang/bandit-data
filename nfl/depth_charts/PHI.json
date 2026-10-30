@@ -1,9 +1,178 @@
 {
  "team": "PHI",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Jonathan Jones",
+   "pos": "CB",
+   "gsis": "00-0032580",
+   "jersey": "31",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "gsis": "00-0034844",
+   "jersey": "26",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Marcus Epps",
+   "pos": "S",
+   "gsis": "00-0034993",
+   "jersey": "29",
+   "injury": "Jaw",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jonathan Greenard",
+   "pos": "LB",
+   "gsis": "00-0036224",
+   "jersey": "52",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Michael Carter II",
+   "pos": "CB",
+   "gsis": "00-0036501",
+   "jersey": "35",
+   "injury": "Abdomen",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "DeVonta Smith",
+   "pos": "WR",
+   "gsis": "00-0036912",
+   "jersey": "6",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Britain Covey",
+   "pos": "WR",
+   "gsis": "00-0037132",
+   "jersey": "85",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dontayvion Wicks",
+   "pos": "WR",
+   "gsis": "00-0038393",
+   "jersey": "13",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Moro Ojomo",
+   "pos": "DT",
+   "gsis": "00-0038412",
+   "jersey": "97",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Nolan Smith",
+   "pos": "LB",
+   "gsis": "00-0039013",
+   "jersey": "3",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalyx Hunt",
+   "pos": "LB",
+   "gsis": "00-0039740",
+   "jersey": "58",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jihaad Campbell",
+   "pos": "LB",
+   "gsis": "00-0040708",
+   "jersey": "11",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -91,8 +260,8 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -114,8 +283,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Pectoral",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -160,8 +329,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +398,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -252,8 +421,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -323,8 +492,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -415,8 +584,8 @@
     "june_tier": 2,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,47 +622,24 @@
   ],
   "injured": [
    {
-    "name": "Tank Bigsby",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
+    "name": "Jalen Hurts",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 33,
     "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB3",
+    "g50": 5,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038555",
-    "jersey": "8",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Will Shipley",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 7,
-    "last": 0,
-    "g50": 1,
-    "june": "RB3",
-    "june_tier": 3,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039746",
-    "jersey": "28",
-    "origin": "RB3",
+    "gsis": "00-0036389",
+    "jersey": "1",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -522,24 +668,47 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Hurts",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 33,
+    "name": "Will Shipley",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 7,
     "last": 0,
-    "g50": 5,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB4",
+    "g50": 1,
+    "june": "RB3",
+    "june_tier": 3,
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036389",
-    "jersey": "1",
-    "origin": "QB1",
+    "gsis": "00-0039746",
+    "jersey": "28",
+    "origin": "RB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tank Bigsby",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038555",
+    "jersey": "8",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -564,8 +733,8 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -692,24 +861,24 @@
     "signed_in": false
    },
    {
-    "name": "Nolan Smith",
+    "name": "Jonathan Greenard",
     "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 33,
-    "last": 0,
-    "g50": 5,
-    "june": "WLB1",
+    "chartpos": "SLB",
+    "avg3": 24,
+    "last": 43,
+    "g50": 0,
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "WLB1",
+    "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0039013",
-    "jersey": "3",
-    "origin": "WLB1",
+    "gsis": "00-0036224",
+    "jersey": "52",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -725,8 +894,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +917,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Jaw",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -784,24 +953,24 @@
     "signed_in": false
    },
    {
-    "name": "Jonathan Greenard",
+    "name": "Nolan Smith",
     "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 24,
-    "last": 43,
-    "g50": 0,
-    "june": "SLB1",
+    "chartpos": "WLB",
+    "avg3": 33,
+    "last": 0,
+    "g50": 5,
+    "june": "WLB1",
     "june_tier": 1,
-    "now": "SLB1",
+    "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0036224",
-    "jersey": "52",
-    "origin": "SLB1",
+    "gsis": "00-0039013",
+    "jersey": "3",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -819,8 +988,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -865,8 +1034,8 @@
     "june_tier": 2,
     "now": "WLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -888,8 +1057,8 @@
     "june_tier": 2,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -934,8 +1103,8 @@
     "june_tier": 2,
     "now": "LILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -957,8 +1126,8 @@
     "june_tier": 2,
     "now": "LCB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",

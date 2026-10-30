@@ -1,9 +1,52 @@
 {
  "team": "CHI",
  "entering_week": 8,
- "chart_date": "2026-10-29",
+ "chart_date": "2026-10-30",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "D'Marco Jackson",
+   "pos": "LB",
+   "gsis": "00-0037271",
+   "jersey": "48",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyle Monangai",
+   "pos": "RB",
+   "gsis": "00-0040236",
+   "jersey": "25",
+   "injury": "Thumb",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Malik Muhammad",
+   "pos": "CB",
+   "gsis": "00-0041060",
+   "jersey": "24",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -453,29 +496,6 @@
   ],
   "injured": [
    {
-    "name": "Braxton Jones",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037081",
-    "jersey": "70",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cole Kmet",
     "grp": "TE",
     "chartpos": "TE",
@@ -494,6 +514,29 @@
     "gsis": "00-0036290",
     "jersey": "85",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Braxton Jones",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037081",
+    "jersey": "70",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -587,8 +630,8 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -679,8 +722,8 @@
     "june_tier": 2,
     "now": "RCB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Toe",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -723,7 +766,7 @@
     "g50": 1,
     "june": "RDT3",
     "june_tier": 3,
-    "now": "RDT1",
+    "now": "RDT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -788,13 +831,13 @@
    {
     "name": "Jordan van den Berg",
     "grp": "DL",
-    "chartpos": "RDT",
+    "chartpos": "LDT",
     "avg3": 14,
     "last": 9,
     "g50": 0,
     "june": "LDT4",
     "june_tier": 4,
-    "now": "RDT3",
+    "now": "LDT3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -865,8 +908,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -957,7 +1000,7 @@
     "g50": 4,
     "june": "RDE1",
     "june_tier": 1,
-    "now": "RDE3",
+    "now": "RDE2",
     "report": "",
     "practice": "",
     "injury": "",

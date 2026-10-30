@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 8,
- "built_utc": "2026-10-29T23:30:07Z",
+ "built_utc": "2026-10-30T15:00:03Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -121,7 +121,7 @@
     "date": "2026-10-29",
     "time_et": "20:15",
     "game_id": "2026_08_CAR_GB",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 9,
@@ -303,7 +303,7 @@
     "date": "2026-10-29",
     "time_et": "20:15",
     "game_id": "2026_08_CAR_GB",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 9,
