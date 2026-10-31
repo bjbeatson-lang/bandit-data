@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,24 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Colston Loveland",
+   "pos": "TE",
+   "gsis": "00-0040126",
+   "jersey": "84",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -29,6 +47,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +64,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -249,8 +275,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -908,7 +934,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -992,24 +1018,24 @@
   ],
   "injured": [
    {
-    "name": "Dayo Odeyingbo",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 12,
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
     "last": 0,
-    "g50": 4,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE2",
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036480",
-    "jersey": "55",
-    "origin": "RDE1",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1038,24 +1064,24 @@
     "signed_in": false
    },
    {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
+    "name": "Dayo Odeyingbo",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 12,
     "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
+    "g50": 4,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
+    "gsis": "00-0036480",
+    "jersey": "55",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

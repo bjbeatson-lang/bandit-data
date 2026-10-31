@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0034960",
    "jersey": "3",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -36,6 +40,24 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Josh Hines-Allen",
+   "pos": "DE",
+   "gsis": "00-0035642",
+   "jersey": "41",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -55,6 +77,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -64,7 +90,7 @@
    "gsis": "00-0038596",
    "jersey": "6",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -72,6 +98,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -91,6 +121,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -104,6 +138,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -310,8 +348,8 @@
     "june": "WR2",
     "june_tier": 1,
     "now": "WR2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": false,
@@ -510,29 +548,6 @@
     "signed_in": false
    },
    {
-    "name": "Daniel Faalele",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038118",
-    "jersey": "68",
-    "origin": "NYG RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jonah Monheim",
     "grp": "OL",
     "chartpos": "C",
@@ -551,6 +566,29 @@
     "gsis": "00-0040227",
     "jersey": "60",
     "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Daniel Faalele",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038118",
+    "jersey": "68",
+    "origin": "NYG RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -715,37 +753,14 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0035642",
     "jersey": "41",
     "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Antonio Johnson",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 80,
-    "last": 40,
-    "g50": 5,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038596",
-    "jersey": "6",
-    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -864,9 +879,7 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "DaVon Hamilton",
     "grp": "DL",
@@ -889,7 +902,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "next": [
    {
     "name": "Ruke Orhorhoro",
     "grp": "DL",
@@ -901,7 +916,7 @@
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -909,6 +924,29 @@
     "gsis": "00-0039733",
     "jersey": "99",
     "origin": "LDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matt Dickerson",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 18,
+    "last": 19,
+    "g50": 0,
+    "june": "LDT3",
+    "june_tier": 3,
+    "now": "LDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034657",
+    "jersey": "93",
+    "origin": "LDT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1077,6 +1115,29 @@
     "signed_in": false
    },
    {
+    "name": "Antonio Johnson",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 80,
+    "last": 40,
+    "g50": 5,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038596",
+    "jersey": "6",
+    "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Caleb Ransaw",
     "grp": "S",
     "chartpos": "FS",
@@ -1101,6 +1162,15 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "gsis": "00-0034960",
+   "jersey": "3",
+   "injury": "Hamstring",
+   "practice": "Did Not Participate In Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

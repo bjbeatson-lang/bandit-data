@@ -1,9 +1,23 @@
 {
  "team": "ATL",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Jake Matthews",
+   "pos": "T",
+   "gsis": "00-0031279",
+   "jersey": "70",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
   {
    "name": "Za'Darius Smith",
    "pos": "DE",
@@ -19,6 +33,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +46,7 @@
    "gsis": "00-0033945",
    "jersey": "52",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -36,6 +54,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -46,7 +68,7 @@
    "gsis": "00-0035208",
    "jersey": "14",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -54,6 +76,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -73,6 +99,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Chris Lindstrom",
+   "pos": "G",
+   "gsis": "00-0035630",
+   "jersey": "63",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -91,6 +135,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -105,6 +153,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -119,6 +171,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -128,7 +184,7 @@
    "gsis": "00-0036711",
    "jersey": "47",
    "injury": "Back",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -136,6 +192,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -146,7 +206,7 @@
    "gsis": "00-0036990",
    "jersey": "0",
    "injury": "Forearm",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -154,6 +214,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -164,7 +228,7 @@
    "gsis": "00-0037746",
    "jersey": "15",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -172,6 +236,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -187,6 +255,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -196,7 +268,7 @@
    "gsis": "00-0040156",
    "jersey": "33",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -205,6 +277,54 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Beaux Collins",
+   "pos": "WR",
+   "gsis": "00-0040432",
+   "jersey": "88",
+   "injury": "Hip",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Cameron Williams",
+   "pos": "T",
+   "gsis": "00-0040687",
+   "jersey": "73",
+   "injury": "Ankle",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -219,6 +339,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -228,7 +352,7 @@
    "gsis": "00-0041469",
    "jersey": "12",
    "injury": "Illness",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -236,6 +360,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -267,6 +395,52 @@
     "gsis": "00-0039917",
     "jersey": "9",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jawaan Taylor",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035237",
+    "jersey": "71",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ryan Neuzil",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036833",
+    "jersey": "64",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -305,60 +479,14 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0035630",
     "jersey": "63",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ryan Neuzil",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036833",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jawaan Taylor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035237",
-    "jersey": "71",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -374,8 +502,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -527,29 +655,6 @@
     "signed_in": false
    },
    {
-    "name": "Brian Robinson",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 13,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037746",
-    "jersey": "15",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Olamide Zaccheaus",
     "grp": "WR",
     "chartpos": "WR",
@@ -559,7 +664,7 @@
     "june": "WR3",
     "june_tier": 1,
     "now": "WR3",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
@@ -711,6 +816,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Brian Robinson",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 13,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037746",
+    "jersey": "15",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -778,7 +906,7 @@
     "june_tier": 4,
     "now": "LILB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Achilles",
     "rookie": true,
     "returning": false,
@@ -800,7 +928,7 @@
     "june": "NB1",
     "june_tier": 1,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
@@ -824,7 +952,7 @@
     "june_tier": 2,
     "now": "WLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -869,7 +997,7 @@
     "june": "LILB1",
     "june_tier": 1,
     "now": "RILB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Forearm",
     "rookie": false,
@@ -939,7 +1067,7 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": true,
@@ -961,7 +1089,7 @@
     "june": "SLB2",
     "june_tier": 2,
     "now": "SLB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
@@ -1056,7 +1184,7 @@
     "june_tier": null,
     "now": "WLB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1186,24 +1314,24 @@
     "signed_in": false
    },
    {
-    "name": "Jalon Walker",
+    "name": "James Pearce Jr.",
     "grp": "ED",
-    "chartpos": "WLB",
+    "chartpos": "SLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WLB1",
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "WLB5",
+    "now": "SLB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040577",
-    "jersey": "11",
-    "origin": "WLB1",
+    "gsis": "00-0040578",
+    "jersey": "27",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1232,6 +1360,29 @@
     "signed_in": false
    },
    {
+    "name": "Jalon Walker",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040577",
+    "jersey": "11",
+    "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Yasir Abdullah",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1253,32 +1404,74 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "James Pearce Jr.",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040578",
-    "jersey": "27",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Samson Ebukam",
+   "pos": "DE",
+   "gsis": "00-0033945",
+   "jersey": "52",
+   "injury": "Hamstring",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "gsis": "00-0035208",
+   "jersey": "14",
+   "injury": "Shoulder",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Charles Snowden",
+   "pos": "DE",
+   "gsis": "00-0036711",
+   "jersey": "47",
+   "injury": "Back",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Divine Deablo",
+   "pos": "LB",
+   "gsis": "00-0036990",
+   "jersey": "0",
+   "injury": "Forearm",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Billy Bowman Jr.",
+   "pos": "CB",
+   "gsis": "00-0040156",
+   "jersey": "33",
+   "injury": "Hamstring",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Beaux Collins",
+   "pos": "WR",
+   "gsis": "00-0040432",
+   "jersey": "88",
+   "injury": "Hip",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Cameron Williams",
+   "pos": "T",
+   "gsis": "00-0040687",
+   "jersey": "73",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Avieon Terrell",
+   "pos": "CB",
+   "gsis": "00-0041469",
+   "jersey": "12",
+   "injury": "Illness",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -37,6 +41,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -55,6 +63,24 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Eric Stokes",
+   "pos": "CB",
+   "gsis": "00-0036901",
+   "jersey": "5",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -64,7 +90,7 @@
    "gsis": "00-0036922",
    "jersey": "93",
    "injury": "Stinger",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -72,6 +98,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -91,6 +121,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -108,6 +142,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -127,6 +165,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -136,11 +178,55 @@
    "gsis": "00-0039735",
    "jersey": "58",
    "injury": "Back",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Carter Runyon",
+   "pos": "TE",
+   "gsis": "00-0040488",
+   "jersey": "84",
+   "injury": "Foot",
+   "designation": "Out",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jack Bech",
+   "pos": "WR",
+   "gsis": "00-0040729",
+   "jersey": "18",
+   "injury": "Forearm",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -171,29 +257,6 @@
     "gsis": "00-0029604",
     "jersey": "8",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "DJ Glaze",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039349",
-    "jersey": "71",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -245,6 +308,29 @@
     "signed_in": false
    },
    {
+    "name": "DJ Glaze",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039349",
+    "jersey": "71",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Spencer Burford",
     "grp": "OL",
     "chartpos": "LG",
@@ -277,8 +363,8 @@
     "june": "RG1",
     "june_tier": 1,
     "now": "RG2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Back",
     "rookie": false,
     "returning": true,
@@ -510,7 +596,7 @@
     "june_tier": 3,
     "now": "TE3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -569,24 +655,24 @@
     "signed_in": false
    },
    {
-    "name": "Charles Grant",
+    "name": "Bryce Cabeldue",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040151",
-    "jersey": "60",
-    "origin": "LT2",
+    "gsis": "00-0040650",
+    "jersey": "77",
+    "origin": "SEA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -603,7 +689,7 @@
     "june": "WR3",
     "june_tier": 1,
     "now": "WR7",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Forearm",
     "rookie": false,
@@ -649,29 +735,6 @@
     "signed_in": false
    },
    {
-    "name": "Nakobe Dean",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037615",
-    "jersey": "17",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Treydan Stukes",
     "grp": "S",
     "chartpos": "FS",
@@ -690,6 +753,29 @@
     "gsis": "00-0040868",
     "jersey": "31",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nakobe Dean",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037615",
+    "jersey": "17",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -728,8 +814,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -866,7 +952,7 @@
     "june_tier": null,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -950,29 +1036,6 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Johnson",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 7,
-    "last": 11,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "SLB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Stinger",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036922",
-    "jersey": "93",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tommy Eichenberg",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1042,53 +1105,30 @@
     "signed_in": false
    },
    {
-    "name": "Isaiah Pola-Mao",
+    "name": "Dalton Johnson",
     "grp": "S",
-    "chartpos": "FS",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS2",
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0037512",
-    "jersey": "20",
-    "origin": "FS1",
+    "gsis": "00-0040883",
+    "jersey": "43",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Keyron Crawford",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041553",
-    "jersey": "42",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Chigozie Anusiem",
     "grp": "CB",
@@ -1111,9 +1151,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Keyron Crawford",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041553",
+    "jersey": "42",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Jackson Powers-Johnson",
+   "pos": "G",
+   "gsis": "00-0039735",
+   "jersey": "58",
+   "injury": "Back",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Jack Bech",
+   "pos": "WR",
+   "gsis": "00-0040729",
+   "jersey": "18",
+   "injury": "Forearm",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

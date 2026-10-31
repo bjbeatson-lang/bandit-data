@@ -1,7 +1,7 @@
 {
  "team": "DET",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -91,6 +107,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -100,7 +120,7 @@
    "gsis": "00-0037667",
    "jersey": "31",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -108,6 +128,24 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Roger McCreary",
+   "pos": "CB",
+   "gsis": "00-0038125",
+   "jersey": "21",
+   "injury": "Foot",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -127,6 +165,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -144,6 +186,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -163,6 +209,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -180,6 +230,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -634,24 +688,24 @@
   ],
   "injured": [
    {
-    "name": "Tom Kennedy",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Ben Bartch",
+    "grp": "OL",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
+    "g50": 2,
+    "june": "LG4",
+    "june_tier": 4,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035544",
-    "jersey": "85",
-    "origin": "WR6",
+    "gsis": "00-0036272",
+    "jersey": "78",
+    "origin": "LG4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -680,29 +734,6 @@
     "signed_in": false
    },
    {
-    "name": "Ben Bartch",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG4",
-    "june_tier": 4,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036272",
-    "jersey": "78",
-    "origin": "LG4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Giovanni Manu",
     "grp": "OL",
     "chartpos": "LT",
@@ -724,6 +755,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Tom Kennedy",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035544",
+    "jersey": "85",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -734,6 +788,29 @@
    7
   ],
   "start": [
+   {
+    "name": "Roger McCreary",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Foot",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038125",
+    "jersey": "21",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Jack Campbell",
     "grp": "LB",
@@ -753,29 +830,6 @@
     "gsis": "00-0039018",
     "jersey": "46",
     "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Roger McCreary",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038125",
-    "jersey": "21",
-    "origin": "NB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1138,7 +1192,7 @@
     "june_tier": 3,
     "now": "RCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1176,47 +1230,24 @@
   ],
   "injured": [
    {
-    "name": "Kerby Joseph",
-    "grp": "S",
-    "chartpos": "FS",
+    "name": "Damone Clark",
+    "grp": "LB",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS3",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037667",
-    "jersey": "31",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Avonte Maddox",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "SS2",
+    "june": "WLB2",
     "june_tier": 2,
-    "now": "SS4",
+    "now": "WLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034377",
-    "jersey": "29",
-    "origin": "SS2",
+    "gsis": "00-0037281",
+    "jersey": "11",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1245,30 +1276,62 @@
     "signed_in": false
    },
    {
-    "name": "Damone Clark",
-    "grp": "LB",
-    "chartpos": "WLB",
+    "name": "Avonte Maddox",
+    "grp": "S",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WLB2",
+    "g50": 1,
+    "june": "SS2",
     "june_tier": 2,
-    "now": "WLB3",
+    "now": "SS4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037281",
-    "jersey": "11",
-    "origin": "WLB2",
+    "gsis": "00-0034377",
+    "jersey": "29",
+    "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kerby Joseph",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS3",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037667",
+    "jersey": "31",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Roger McCreary",
+   "pos": "CB",
+   "gsis": "00-0038125",
+   "jersey": "21",
+   "injury": "Foot",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

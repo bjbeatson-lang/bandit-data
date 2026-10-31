@@ -1,9 +1,23 @@
 {
  "team": "MIN",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Harrison Smith",
+   "pos": "S",
+   "gsis": "00-0029606",
+   "jersey": "22",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
   {
    "name": "Aaron Jones",
    "pos": "RB",
@@ -19,6 +33,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -37,6 +55,38 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Christian Darrisaw",
+   "pos": "T",
+   "gsis": "00-0036616",
+   "jersey": "71",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jay Ward",
+   "pos": "S",
+   "gsis": "00-0038578",
+   "jersey": "24",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -51,6 +101,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -68,6 +122,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -127,29 +185,6 @@
     "signed_in": false
    },
    {
-    "name": "Will Fries",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 99,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036483",
-    "jersey": "76",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Brian O'Neill",
     "grp": "OL",
     "chartpos": "RT",
@@ -168,6 +203,29 @@
     "gsis": "00-0034158",
     "jersey": "75",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Will Fries",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 99,
+    "last": 100,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036483",
+    "jersey": "76",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -206,8 +264,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,7 +287,7 @@
     "june_tier": 1,
     "now": "RB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -794,8 +852,8 @@
     "june_tier": null,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1018,6 +1076,15 @@
   ],
   "injured": []
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Jay Ward",
+   "pos": "S",
+   "gsis": "00-0038578",
+   "jersey": "24",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

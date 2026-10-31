@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -537,29 +557,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Jake Curhan",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036795",
-    "jersey": "74",
-    "origin": "PS",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
@@ -587,29 +584,6 @@
     "signed_in": false
    },
    {
-    "name": "Ikem Ekwonu",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037229",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chris Brazzell II",
     "grp": "WR",
     "chartpos": "WR",
@@ -628,6 +602,29 @@
     "gsis": "00-0041047",
     "jersey": "19",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ikem Ekwonu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037229",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -679,29 +676,6 @@
     "signed_in": false
    },
    {
-    "name": "Damien Lewis",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 59,
-    "last": 77,
-    "g50": 5,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036417",
-    "jersey": "68",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Taylor Moton",
     "grp": "OL",
     "chartpos": "RT",
@@ -720,6 +694,29 @@
     "gsis": "00-0033284",
     "jersey": "72",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Damien Lewis",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 59,
+    "last": 77,
+    "g50": 5,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036417",
+    "jersey": "68",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1152,6 +1149,29 @@
   ],
   "injured": [
    {
+    "name": "Mike Jackson",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035277",
+    "jersey": "2",
+    "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Nic Scourton",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1170,29 +1190,6 @@
     "gsis": "00-0040746",
     "jersey": "11",
     "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaelan Phillips",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 34,
-    "last": 0,
-    "g50": 4,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036934",
-    "jersey": "5",
-    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1221,24 +1218,24 @@
     "signed_in": false
    },
    {
-    "name": "Mike Jackson",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 0,
+    "name": "Jaelan Phillips",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 34,
     "last": 0,
-    "g50": 2,
-    "june": "LCB1",
+    "g50": 4,
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "LCB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035277",
-    "jersey": "2",
-    "origin": "LCB1",
+    "why": "Out",
+    "gsis": "00-0036934",
+    "jersey": "5",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1267,6 +1264,29 @@
     "signed_in": false
    },
    {
+    "name": "Akayleb Evans",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 99,
+    "last": 100,
+    "g50": 3,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Triceps",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038101",
+    "jersey": "29",
+    "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jaycee Horn",
     "grp": "CB",
     "chartpos": "NB",
@@ -1285,29 +1305,6 @@
     "gsis": "00-0036944",
     "jersey": "8",
     "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Akayleb Evans",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 99,
-    "last": 100,
-    "g50": 3,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Triceps",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038101",
-    "jersey": "29",
-    "origin": "LCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

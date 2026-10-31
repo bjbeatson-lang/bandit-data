@@ -1,7 +1,7 @@
 {
  "team": "CLE",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0035234",
    "jersey": "71",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0036306",
    "jersey": "24",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -82,7 +98,7 @@
    "gsis": "00-0039417",
    "jersey": "26",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -90,6 +106,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -109,6 +129,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -127,6 +151,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -144,6 +172,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -163,6 +195,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -180,6 +216,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -216,29 +256,6 @@
     "signed_in": false
    },
    {
-    "name": "Zion Johnson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037818",
-    "jersey": "77",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Elgton Jenkins",
     "grp": "OL",
     "chartpos": "C",
@@ -249,7 +266,7 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -257,29 +274,6 @@
     "gsis": "00-0035526",
     "jersey": "74",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Spencer Fano",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041030",
-    "jersey": "55",
-    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -308,6 +302,52 @@
     "signed_in": false
    },
    {
+    "name": "Spencer Fano",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041030",
+    "jersey": "55",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zion Johnson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037818",
+    "jersey": "77",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tytus Howard",
     "grp": "OL",
     "chartpos": "RT",
@@ -317,7 +357,7 @@
     "june": "RT1",
     "june_tier": 1,
     "now": "RT1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Did Not Participate In Practice",
     "injury": "Concussion",
     "rookie": false,
@@ -666,29 +706,6 @@
   ],
   "start": [
    {
-    "name": "Carson Schwesinger",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040579",
-    "jersey": "49",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ronnie Hickman Jr.",
     "grp": "S",
     "chartpos": "FS",
@@ -707,6 +724,29 @@
     "gsis": "00-0038715",
     "jersey": "33",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Carson Schwesinger",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040579",
+    "jersey": "49",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -791,7 +831,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -814,7 +854,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Neck",
     "rookie": false,
     "returning": false,
@@ -882,7 +922,7 @@
     "june": "NB1",
     "june_tier": 1,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
@@ -1091,7 +1131,7 @@
     "june": "FS3",
     "june_tier": 3,
     "now": "FS2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
@@ -1154,6 +1194,31 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Tytus Howard",
+   "pos": "T",
+   "gsis": "00-0035234",
+   "jersey": "71",
+   "injury": "Concussion",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Daniel Thomas",
+   "pos": "S",
+   "gsis": "00-0036306",
+   "jersey": "24",
+   "injury": "Ankle",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Myles Harden",
+   "pos": "CB",
+   "gsis": "00-0039417",
+   "jersey": "26",
+   "injury": "Hamstring",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

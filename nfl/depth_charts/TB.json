@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -38,7 +46,7 @@
    "gsis": "00-0036919",
    "jersey": "1",
    "injury": "Hip",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -47,6 +55,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -56,7 +68,7 @@
    "gsis": "00-0037835",
    "jersey": "67",
    "injury": "Calf",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -65,6 +77,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -83,6 +99,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -97,6 +117,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -105,8 +129,8 @@
    "pos": "WR",
    "gsis": "00-0040129",
    "jersey": "2",
-   "injury": "Concussion",
-   "designation": "",
+   "injury": "Foot",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -115,6 +139,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -132,6 +160,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -269,8 +301,8 @@
     "june": "RT1",
     "june_tier": 1,
     "now": "RT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -293,7 +325,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -339,7 +371,7 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -347,29 +379,6 @@
     "gsis": "00-0033921",
     "jersey": "14",
     "origin": "WR1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Emeka Egbuka",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 58,
-    "last": 0,
-    "g50": 6,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040129",
-    "jersey": "2",
-    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -393,6 +402,29 @@
     "gsis": "00-0041048",
     "jersey": "17",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tez Johnson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 46,
+    "last": 65,
+    "g50": 2,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040237",
+    "jersey": "15",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -432,8 +464,8 @@
     "june": "RB2",
     "june_tier": 2,
     "now": "RB2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Hip",
     "rookie": false,
     "returning": false,
@@ -441,29 +473,6 @@
     "gsis": "00-0036919",
     "jersey": "1",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tez Johnson",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 46,
-    "last": 65,
-    "g50": 2,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040237",
-    "jersey": "15",
-    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -487,6 +496,29 @@
     "gsis": "00-0035359",
     "jersey": "80",
     "origin": "WR7",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kameron Johnson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 2,
+    "last": 3,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039589",
+    "jersey": "19",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -585,6 +617,29 @@
    }
   ],
   "injured": [
+   {
+    "name": "Emeka Egbuka",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 58,
+    "last": 0,
+    "g50": 6,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040129",
+    "jersey": "2",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Jalen McMillan",
     "grp": "WR",
@@ -883,7 +938,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1036,29 +1091,6 @@
   ],
   "injured": [
    {
-    "name": "Josh Hayes",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039051",
-    "jersey": "32",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Christian Rozeboom",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1080,9 +1112,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Josh Hayes",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039051",
+    "jersey": "32",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "gsis": "00-0036919",
+   "jersey": "1",
+   "injury": "Hip",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Luke Goedeke",
+   "pos": "T",
+   "gsis": "00-0037835",
+   "jersey": "67",
+   "injury": "Calf",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

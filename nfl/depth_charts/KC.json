@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0036374",
    "jersey": "38",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0040748",
    "jersey": "55",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -73,6 +85,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "R Mason Thomas",
+   "pos": "DE",
+   "gsis": "00-0041501",
+   "jersey": "51",
+   "injury": "Not injury related - personal matter",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -82,10 +112,14 @@
    "gsis": "00-0041543",
    "jersey": "5",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -145,29 +179,6 @@
     "signed_in": false
    },
    {
-    "name": "Kahlil Benson",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RT4",
-    "june_tier": 4,
-    "now": "LT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041019",
-    "jersey": "70",
-    "origin": "RT4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trey Smith",
     "grp": "OL",
     "chartpos": "RG",
@@ -186,6 +197,29 @@
     "gsis": "00-0036660",
     "jersey": "65",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kahlil Benson",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT4",
+    "june_tier": 4,
+    "now": "LT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041019",
+    "jersey": "70",
+    "origin": "RT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -293,7 +327,7 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -316,7 +350,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": true,
@@ -540,29 +574,6 @@
   ],
   "injured": [
    {
-    "name": "Josh Simmons",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040116",
-    "jersey": "71",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyquan Thornton",
     "grp": "WR",
     "chartpos": "WR",
@@ -581,6 +592,29 @@
     "gsis": "00-0038104",
     "jersey": "2",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Josh Simmons",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040116",
+    "jersey": "71",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -627,7 +661,7 @@
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Did Not Participate In Practice",
     "injury": "Shoulder",
     "rookie": true,
@@ -834,7 +868,7 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -905,9 +939,9 @@
     "june": "RDE2",
     "june_tier": 2,
     "now": "RDE2",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -1045,7 +1079,7 @@
     "june": "RDT2",
     "june_tier": 2,
     "now": "RDT3",
-    "report": "",
+    "report": "Out",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1060,6 +1094,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "L'Jarius Sneed",
+   "pos": "CB",
+   "gsis": "00-0036374",
+   "jersey": "38",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Mansoor Delane",
+   "pos": "CB",
+   "gsis": "00-0041543",
+   "jersey": "5",
+   "injury": "Shoulder",
+   "practice": "Did Not Participate In Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

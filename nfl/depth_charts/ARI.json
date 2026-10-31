@@ -1,7 +1,7 @@
 {
  "team": "ARI",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -91,6 +107,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -100,11 +120,15 @@
    "gsis": "00-0035258",
    "jersey": "72",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -114,7 +138,7 @@
    "gsis": "00-0035378",
    "jersey": "28",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -122,6 +146,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -141,6 +169,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -158,6 +190,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -177,6 +213,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -186,7 +226,7 @@
    "gsis": "00-0038571",
    "jersey": "71",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -194,6 +234,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -213,6 +257,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -222,7 +270,7 @@
    "gsis": "00-0039807",
    "jersey": "16",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -230,6 +278,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -240,7 +292,7 @@
    "gsis": "00-0040706",
    "jersey": "97",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -248,6 +300,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -267,6 +323,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -284,6 +344,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -320,6 +384,29 @@
     "signed_in": false
    },
    {
+    "name": "Jayden Williams",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 3,
+    "june": "RT3",
+    "june_tier": 3,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041113",
+    "jersey": "66",
+    "origin": "RT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Hjalte Froholdt",
     "grp": "OL",
     "chartpos": "C",
@@ -329,8 +416,8 @@
     "june": "C1",
     "june_tier": 1,
     "now": "C1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -353,7 +440,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -361,29 +448,6 @@
     "gsis": "00-0033676",
     "jersey": "65",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jayden Williams",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 3,
-    "june": "RT3",
-    "june_tier": 3,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041113",
-    "jersey": "66",
-    "origin": "RT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -412,24 +476,24 @@
     "signed_in": false
    },
    {
-    "name": "Jon Gaines II",
+    "name": "Hayden Conner",
     "grp": "OL",
     "chartpos": "RG",
-    "avg3": 67,
-    "last": 0,
-    "g50": 4,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG1",
+    "avg3": 34,
+    "last": 100,
+    "g50": 1,
+    "june": "LG3",
+    "june_tier": 3,
+    "now": "RG2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0038571",
-    "jersey": "71",
-    "origin": "LG2",
+    "gsis": "00-0040219",
+    "jersey": "58",
+    "origin": "LG3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -445,7 +509,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": true,
     "returning": true,
@@ -667,29 +731,6 @@
     "signed_in": false
    },
    {
-    "name": "Hayden Conner",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 34,
-    "last": 100,
-    "g50": 1,
-    "june": "LG3",
-    "june_tier": 3,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040219",
-    "jersey": "58",
-    "origin": "LG3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Fryar",
     "grp": "OL",
     "chartpos": "LT",
@@ -734,32 +775,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Paris Johnson Jr.",
+    "name": "Kingsley Eguakun",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
-    "g50": 4,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT4",
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038540",
-    "jersey": "70",
-    "origin": "LT1",
-    "psq": false,
+    "why": "",
+    "gsis": "00-0039442",
+    "jersey": "64",
+    "origin": "NYG",
+    "psq": true,
     "trade_in": false,
-    "signed_in": false
-   },
+    "signed_in": true
+   }
+  ],
+  "injured": [
    {
     "name": "Tip Reiman",
     "grp": "TE",
@@ -779,6 +820,29 @@
     "gsis": "00-0039737",
     "jersey": "87",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Paris Johnson Jr.",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038540",
+    "jersey": "70",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -851,6 +915,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jon Gaines II",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 67,
+    "last": 0,
+    "g50": 4,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038571",
+    "jersey": "71",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -872,7 +959,7 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1055,7 +1142,7 @@
     "june": "FS1",
     "june_tier": 1,
     "now": "FS1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1069,24 +1156,24 @@
     "signed_in": false
    },
    {
-    "name": "Walter Nolen",
+    "name": "L.J. Collier",
     "grp": "DL",
     "chartpos": "RDT",
-    "avg3": 42,
-    "last": 0,
-    "g50": 6,
-    "june": "RDT1",
-    "june_tier": 1,
-    "now": "RDT1",
+    "avg3": 48,
+    "last": 59,
+    "g50": 1,
+    "june": "RDT3",
+    "june_tier": 3,
+    "now": "RDT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "practice": "",
+    "injury": "",
     "rookie": false,
-    "returning": true,
+    "returning": false,
     "why": "",
-    "gsis": "00-0040706",
-    "jersey": "97",
-    "origin": "RDT1",
+    "gsis": "00-0035636",
+    "jersey": "91",
+    "origin": "RDT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1117,29 +1204,6 @@
   ],
   "next": [
    {
-    "name": "L.J. Collier",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 48,
-    "last": 59,
-    "g50": 1,
-    "june": "RDT3",
-    "june_tier": 3,
-    "now": "RDT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035636",
-    "jersey": "91",
-    "origin": "RDT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Roy Lopez",
     "grp": "DL",
     "chartpos": "LDT",
@@ -1158,6 +1222,29 @@
     "gsis": "00-0036568",
     "jersey": "51",
     "origin": "LDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Andrew Billings",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 5,
+    "last": 16,
+    "g50": 0,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "LDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033066",
+    "jersey": "95",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1264,7 +1351,7 @@
     "june": "RCB3",
     "june_tier": 3,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1303,6 +1390,29 @@
   ],
   "injured": [
    {
+    "name": "Walter Nolen",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 42,
+    "last": 0,
+    "g50": 6,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040706",
+    "jersey": "97",
+    "origin": "RDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Will Johnson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1327,6 +1437,31 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Hjalte Froholdt",
+   "pos": "C",
+   "gsis": "00-0035258",
+   "jersey": "72",
+   "injury": "Knee",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Andrew Wingard",
+   "pos": "S",
+   "gsis": "00-0035378",
+   "jersey": "28",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Max Melton",
+   "pos": "CB",
+   "gsis": "00-0039807",
+   "jersey": "16",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

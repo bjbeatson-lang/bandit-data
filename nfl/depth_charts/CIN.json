@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 8,
- "chart_date": "2026-10-30",
+ "chart_date": "2026-10-31",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -33,6 +37,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -42,7 +50,7 @@
    "gsis": "00-0035363",
    "jersey": "43",
    "injury": "Calf",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -50,6 +58,24 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dexter Lawrence",
+   "pos": "DT",
+   "gsis": "00-0035683",
+   "jersey": "97",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -60,7 +86,7 @@
    "gsis": "00-0036231",
    "jersey": "29",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -68,6 +94,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -87,6 +117,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -104,6 +138,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -659,29 +697,6 @@
     "signed_in": false
    },
    {
-    "name": "DJ Turner II",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 97,
-    "last": 94,
-    "g50": 6,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038549",
-    "jersey": "0",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Daxton Hill",
     "grp": "CB",
     "chartpos": "NB",
@@ -700,6 +715,29 @@
     "gsis": "00-0037743",
     "jersey": "23",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DJ Turner II",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 97,
+    "last": 94,
+    "g50": 6,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038549",
+    "jersey": "0",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -784,8 +822,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -876,7 +914,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -901,7 +939,7 @@
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1015,8 +1053,8 @@
     "june": "MLB2",
     "june_tier": 2,
     "now": "MLB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -1100,6 +1138,29 @@
     "signed_in": false
    },
    {
+    "name": "Kyle Dugger",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Quadricep",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036231",
+    "jersey": "29",
+    "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ja'Sir Taylor",
     "grp": "CB",
     "chartpos": "NB",
@@ -1124,6 +1185,15 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Joe Giles-Harris",
+   "pos": "LB",
+   "gsis": "00-0035363",
+   "jersey": "43",
+   "injury": "Calf",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }
