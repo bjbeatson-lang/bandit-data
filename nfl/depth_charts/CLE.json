@@ -2,7 +2,7 @@
  "team": "CLE",
  "entering_week": 8,
  "chart_date": "2026-11-01",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "Tytus Howard",
@@ -296,6 +296,29 @@
     "signed_in": false
    },
    {
+    "name": "Zion Johnson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037818",
+    "jersey": "77",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Elgton Jenkins",
     "grp": "OL",
     "chartpos": "C",
@@ -360,29 +383,6 @@
     "gsis": "00-0041030",
     "jersey": "55",
     "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Zion Johnson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037818",
-    "jersey": "77",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -714,6 +714,29 @@
   ],
   "injured": [
    {
+    "name": "Parker Brailsford",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041073",
+    "jersey": "52",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Teven Jenkins",
     "grp": "OL",
     "chartpos": "RG",
@@ -746,29 +769,6 @@
   ],
   "start": [
    {
-    "name": "Ronnie Hickman Jr.",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038715",
-    "jersey": "33",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Carson Schwesinger",
     "grp": "LB",
     "chartpos": "MLB",
@@ -787,6 +787,29 @@
     "gsis": "00-0040579",
     "jersey": "49",
     "origin": "MLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ronnie Hickman Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038715",
+    "jersey": "33",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1210,6 +1233,29 @@
     "signed_in": false
    },
    {
+    "name": "Justin Jefferson",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041075",
+    "jersey": "17",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kalia Davis",
     "grp": "DL",
     "chartpos": "LDT",
@@ -1234,31 +1280,6 @@
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Tytus Howard",
-   "pos": "T",
-   "gsis": "00-0035234",
-   "jersey": "71",
-   "injury": "Concussion",
-   "practice": "Did Not Participate In Practice"
-  },
-  {
-   "name": "Daniel Thomas",
-   "pos": "S",
-   "gsis": "00-0036306",
-   "jersey": "24",
-   "injury": "Ankle",
-   "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Myles Harden",
-   "pos": "CB",
-   "gsis": "00-0039417",
-   "jersey": "26",
-   "injury": "Hamstring",
-   "practice": "Limited Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }

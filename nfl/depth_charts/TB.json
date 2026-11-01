@@ -2,7 +2,7 @@
  "team": "TB",
  "entering_week": 8,
  "chart_date": "2026-11-01",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "A'Shawn Robinson",
@@ -278,29 +278,6 @@
     "signed_in": false
    },
    {
-    "name": "Tristan Wirfs",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 96,
-    "last": 90,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036406",
-    "jersey": "78",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cody Mauch",
     "grp": "OL",
     "chartpos": "RG",
@@ -319,6 +296,29 @@
     "gsis": "00-0039157",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tristan Wirfs",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 96,
+    "last": 90,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036406",
+    "jersey": "78",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -650,6 +650,29 @@
   ],
   "injured": [
    {
+    "name": "Emeka Egbuka",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 58,
+    "last": 0,
+    "g50": 6,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040129",
+    "jersey": "2",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jalen McMillan",
     "grp": "WR",
     "chartpos": "WR",
@@ -668,29 +691,6 @@
     "gsis": "00-0039855",
     "jersey": "11",
     "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Emeka Egbuka",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 58,
-    "last": 0,
-    "g50": 6,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Foot",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040129",
-    "jersey": "2",
-    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1170,23 +1170,6 @@
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Kenny Gainwell",
-   "pos": "RB",
-   "gsis": "00-0036919",
-   "jersey": "1",
-   "injury": "Hip",
-   "practice": "Full Participation in Practice"
-  },
-  {
-   "name": "Luke Goedeke",
-   "pos": "T",
-   "gsis": "00-0037835",
-   "jersey": "67",
-   "injury": "Calf",
-   "practice": "Limited Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }
