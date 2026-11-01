@@ -1,7 +1,7 @@
 {
  "team": "NE",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -604,70 +632,24 @@
   ],
   "injured": [
    {
-    "name": "Romeo Doubs",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 29,
-    "last": 0,
-    "g50": 5,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037816",
-    "jersey": "87",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Reggie Gilliam",
-    "grp": "RB",
-    "chartpos": "FB",
+    "name": "Mike Onwenu",
+    "grp": "OL",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "FB1",
+    "g50": 1,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "FB1",
+    "now": "RG4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036187",
-    "jersey": "44",
-    "origin": "FB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Mack Hollins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033555",
-    "jersey": "13",
-    "origin": "WR4",
+    "gsis": "00-0036198",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -719,24 +701,70 @@
     "signed_in": false
    },
    {
-    "name": "Mike Onwenu",
-    "grp": "OL",
-    "chartpos": "RG",
+    "name": "Mack Hollins",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG4",
+    "g50": 3,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036198",
-    "jersey": "71",
-    "origin": "RG1",
+    "gsis": "00-0033555",
+    "jersey": "13",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Romeo Doubs",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 29,
+    "last": 0,
+    "g50": 5,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037816",
+    "jersey": "87",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Reggie Gilliam",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036187",
+    "jersey": "44",
+    "origin": "FB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -750,29 +778,6 @@
    7
   ],
   "start": [
-   {
-    "name": "Robert Spillane",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 94,
-    "last": 100,
-    "g50": 7,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034720",
-    "jersey": "14",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Christian Elliss",
     "grp": "LB",
@@ -815,6 +820,29 @@
     "gsis": "00-0040716",
     "jersey": "4",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robert Spillane",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 94,
+    "last": 100,
+    "g50": 7,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034720",
+    "jersey": "14",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -155,6 +179,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -176,6 +204,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -212,29 +244,6 @@
     "signed_in": false
    },
    {
-    "name": "Matt Goncalves",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039736",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tanor Bortolini",
     "grp": "OL",
     "chartpos": "C",
@@ -253,6 +262,29 @@
     "gsis": "00-0039744",
     "jersey": "60",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matt Goncalves",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039736",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -582,27 +614,27 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Tucker",
+    "name": "Charlie Heck",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039578",
-    "jersey": "68",
-    "origin": "LG2",
+    "gsis": "00-0036195",
+    "jersey": "73",
+    "origin": "MIA RT2",
     "psq": false,
     "trade_in": false,
-    "signed_in": false
+    "signed_in": true
    },
    {
     "name": "Sedrick Van Pran-Granger",
@@ -630,29 +662,6 @@
   ],
   "injured": [
    {
-    "name": "Anthony Gould",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "Out",
-    "practice": "Full Participation in Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039816",
-    "jersey": "6",
-    "origin": "WR6",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Alec Pierce",
     "grp": "WR",
     "chartpos": "WR",
@@ -672,6 +681,29 @@
     "jersey": "14",
     "origin": "WR1",
     "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anthony Gould",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "Out",
+    "practice": "Full Participation in Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039816",
+    "jersey": "6",
+    "origin": "WR6",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    }
@@ -1126,24 +1158,24 @@
   ],
   "injured": [
    {
-    "name": "Cam Taylor-Britt",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 33,
-    "last": 42,
-    "g50": 1,
-    "june": "RCB2",
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
     "june_tier": 2,
-    "now": "RCB2",
+    "now": "RDE4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037753",
-    "jersey": "29",
-    "origin": "RCB2",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1172,29 +1204,6 @@
     "signed_in": false
    },
    {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Arden Key",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1213,6 +1222,29 @@
     "gsis": "00-0034825",
     "jersey": "98",
     "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Taylor-Britt",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 33,
+    "last": 42,
+    "g50": 1,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037753",
+    "jersey": "29",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

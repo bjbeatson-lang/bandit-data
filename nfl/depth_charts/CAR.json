@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -166,29 +186,6 @@
     "signed_in": false
    },
    {
-    "name": "Robert Hunt",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036325",
-    "jersey": "50",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Rasheed Walker",
     "grp": "OL",
     "chartpos": "LT",
@@ -207,6 +204,29 @@
     "gsis": "00-0037196",
     "jersey": "63",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robert Hunt",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036325",
+    "jersey": "50",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -630,24 +650,24 @@
     "signed_in": false
    },
    {
-    "name": "Xavier Legette",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR3",
+    "name": "Damien Lewis",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 59,
+    "last": 77,
+    "g50": 5,
+    "june": "LG1",
     "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "LG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039342",
-    "jersey": "17",
-    "origin": "WR3",
+    "why": "Out",
+    "gsis": "00-0036417",
+    "jersey": "68",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -676,6 +696,29 @@
     "signed_in": false
    },
    {
+    "name": "Xavier Legette",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039342",
+    "jersey": "17",
+    "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Taylor Moton",
     "grp": "OL",
     "chartpos": "RT",
@@ -694,29 +737,6 @@
     "gsis": "00-0033284",
     "jersey": "72",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Damien Lewis",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 59,
-    "last": 77,
-    "g50": 5,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036417",
-    "jersey": "68",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -777,29 +797,6 @@
     "signed_in": false
    },
    {
-    "name": "Devin Lloyd",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 93,
-    "last": 79,
-    "g50": 5,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037244",
-    "jersey": "55",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tre'von Moehrig",
     "grp": "S",
     "chartpos": "SS",
@@ -818,6 +815,29 @@
     "gsis": "00-0036962",
     "jersey": "7",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Devin Lloyd",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 93,
+    "last": 79,
+    "g50": 5,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037244",
+    "jersey": "55",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1149,6 +1169,29 @@
   ],
   "injured": [
    {
+    "name": "Cam Jackson",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "NT3",
+    "june_tier": 3,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040174",
+    "jersey": "99",
+    "origin": "NT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Mike Jackson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1167,29 +1210,6 @@
     "gsis": "00-0035277",
     "jersey": "2",
     "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Nic Scourton",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040746",
-    "jersey": "11",
-    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1218,47 +1238,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaelan Phillips",
+    "name": "Nic Scourton",
     "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 34,
-    "last": 0,
-    "g50": 4,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036934",
-    "jersey": "5",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cam Jackson",
-    "grp": "DL",
-    "chartpos": "NT",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "NT3",
-    "june_tier": 3,
-    "now": "NT2",
+    "g50": 0,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040174",
-    "jersey": "99",
-    "origin": "NT3",
+    "gsis": "00-0040746",
+    "jersey": "11",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1305,6 +1302,29 @@
     "gsis": "00-0036944",
     "jersey": "8",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaelan Phillips",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 34,
+    "last": 0,
+    "g50": 4,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036934",
+    "jersey": "5",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

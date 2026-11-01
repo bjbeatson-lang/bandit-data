@@ -1,7 +1,7 @@
 {
  "team": "GB",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -183,6 +207,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -208,6 +236,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -244,29 +276,6 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Morgan",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039904",
-    "jersey": "77",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Anthony Belton",
     "grp": "OL",
     "chartpos": "RT",
@@ -285,6 +294,29 @@
     "gsis": "00-0040726",
     "jersey": "71",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Morgan",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039904",
+    "jersey": "77",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -614,29 +646,6 @@
     "signed_in": false
    },
    {
-    "name": "Kevin Zeitler",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0029592",
-    "jersey": "70",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
-   },
-   {
     "name": "Jager Burton",
     "grp": "OL",
     "chartpos": "LG",
@@ -658,28 +667,97 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Donovan Jennings",
+    "name": "Kevin Zeitler",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG4",
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
+    "why": "",
+    "gsis": "00-0029592",
+    "jersey": "70",
+    "origin": "FA",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
+   }
+  ],
+  "injured": [
+   {
+    "name": "Zach Bako-Bewele",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037817",
+    "jersey": "50",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Travis Glover",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
     "why": "Inactive",
-    "gsis": "00-0039272",
-    "jersey": "67",
-    "origin": "LG2",
+    "gsis": "00-0039819",
+    "jersey": "79",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sean Rhyan",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 69,
+    "last": 6,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0037076",
+    "jersey": "75",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -708,24 +786,24 @@
     "signed_in": false
    },
    {
-    "name": "Jayden Reed",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Donovan Jennings",
+    "grp": "OL",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 1,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR8",
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039146",
-    "jersey": "11",
-    "origin": "WR2",
+    "why": "Inactive",
+    "gsis": "00-0039272",
+    "jersey": "67",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -777,75 +855,6 @@
     "signed_in": false
    },
    {
-    "name": "Zach Bako-Bewele",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037817",
-    "jersey": "50",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Sean Rhyan",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 69,
-    "last": 6,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0037076",
-    "jersey": "75",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Travis Glover",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039819",
-    "jersey": "79",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Musgrave",
     "grp": "TE",
     "chartpos": "TE",
@@ -864,6 +873,29 @@
     "gsis": "00-0039144",
     "jersey": "88",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jayden Reed",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR8",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039146",
+    "jersey": "11",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1319,52 +1351,6 @@
   ],
   "injured": [
    {
-    "name": "Micah Parsons",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036932",
-    "jersey": "1",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Edgerrin Cooper",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039850",
-    "jersey": "56",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Javon Hargrave",
     "grp": "DL",
     "chartpos": "NT",
@@ -1388,6 +1374,29 @@
     "signed_in": false
    },
    {
+    "name": "Micah Parsons",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036932",
+    "jersey": "1",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Zaire Franklin",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1406,6 +1415,29 @@
     "gsis": "00-0034431",
     "jersey": "44",
     "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Edgerrin Cooper",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039850",
+    "jersey": "56",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

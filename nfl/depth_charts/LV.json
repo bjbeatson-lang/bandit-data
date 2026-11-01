@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -80,6 +92,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -103,6 +119,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -124,6 +144,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -147,6 +171,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -169,6 +197,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -186,6 +218,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -209,6 +245,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -226,6 +266,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -262,47 +306,24 @@
     "signed_in": false
    },
    {
-    "name": "Kolton Miller",
+    "name": "Spencer Burford",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "LT1",
+    "june": "LG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034759",
-    "jersey": "74",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tyler Linderbaum",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037825",
-    "jersey": "65",
-    "origin": "C1",
+    "gsis": "00-0037829",
+    "jersey": "70",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -331,24 +352,47 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Burford",
+    "name": "Tyler Linderbaum",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "LG1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037829",
-    "jersey": "70",
-    "origin": "LG1",
+    "gsis": "00-0037825",
+    "jersey": "65",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kolton Miller",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034759",
+    "jersey": "74",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -469,24 +513,24 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Nailor",
+    "name": "Jack Bech",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 46,
-    "last": 75,
-    "g50": 5,
-    "june": "WR2",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "WR2",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "WR3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Forearm",
     "rookie": false,
-    "returning": false,
+    "returning": true,
     "why": "",
-    "gsis": "00-0037291",
-    "jersey": "9",
-    "origin": "WR2",
+    "gsis": "00-0040729",
+    "jersey": "18",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -540,6 +584,29 @@
     "signed_in": false
    },
    {
+    "name": "Jalen Nailor",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 46,
+    "last": 75,
+    "g50": 5,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037291",
+    "jersey": "9",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Cody White",
     "grp": "WR",
     "chartpos": "WR",
@@ -548,7 +615,7 @@
     "g50": 2,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -558,29 +625,6 @@
     "gsis": "00-0035891",
     "jersey": "82",
     "origin": "SEA WR7",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Malik Benson",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 14,
-    "last": 4,
-    "g50": 0,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040894",
-    "jersey": "19",
-    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -678,31 +722,7 @@
     "signed_in": false
    }
   ],
-  "injured": [
-   {
-    "name": "Jack Bech",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Forearm",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040729",
-    "jersey": "18",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   }
-  ]
+  "injured": []
  },
  "defense": {
   "last3": [
@@ -735,29 +755,6 @@
     "signed_in": false
    },
    {
-    "name": "Treydan Stukes",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040868",
-    "jersey": "31",
-    "origin": "NB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Nakobe Dean",
     "grp": "LB",
     "chartpos": "LILB",
@@ -776,6 +773,29 @@
     "gsis": "00-0037615",
     "jersey": "17",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Treydan Stukes",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "NB2",
+    "june_tier": 2,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040868",
+    "jersey": "31",
+    "origin": "NB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1032,6 +1052,29 @@
     "jersey": "51",
     "origin": "SLB2",
     "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cian Slone",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB4",
+    "june_tier": 4,
+    "now": "SLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041006",
+    "jersey": "48",
+    "origin": "SLB4",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },

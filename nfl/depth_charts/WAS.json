@@ -1,7 +1,7 @@
 {
  "team": "WAS",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": false,
  "practice": [
   {
@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -37,6 +41,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -50,6 +58,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -68,6 +80,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -91,6 +107,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -112,6 +132,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -135,6 +159,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -157,6 +185,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -170,6 +202,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -192,6 +228,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -228,27 +268,27 @@
     "signed_in": false
    },
    {
-    "name": "Chris Paul",
+    "name": "Lucas Patrick",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
+    "g50": 4,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037092",
-    "jersey": "75",
-    "origin": "LG1",
+    "gsis": "00-0033082",
+    "jersey": "63",
+    "origin": "NYG C2",
     "psq": false,
     "trade_in": false,
-    "signed_in": false
+    "signed_in": true
    },
    {
     "name": "Josh Conerly Jr.",
@@ -274,27 +314,27 @@
     "signed_in": false
    },
    {
-    "name": "Lucas Patrick",
+    "name": "Chris Paul",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
-    "g50": 4,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "C1",
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033082",
-    "jersey": "63",
-    "origin": "NYG C2",
+    "gsis": "00-0037092",
+    "jersey": "75",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
-    "signed_in": true
+    "signed_in": false
    },
    {
     "name": "Brandon Coleman",
@@ -646,24 +686,24 @@
   ],
   "injured": [
    {
-    "name": "Terry McLaurin",
+    "name": "Jaylin Lane",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 23,
-    "last": 10,
-    "g50": 4,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR7",
+    "avg3": 1,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR8",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035659",
-    "jersey": "17",
-    "origin": "WR1",
+    "gsis": "00-0040164",
+    "jersey": "83",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -715,24 +755,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaylin Lane",
+    "name": "Terry McLaurin",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 1,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR8",
+    "avg3": 23,
+    "last": 10,
+    "g50": 4,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040164",
-    "jersey": "83",
-    "origin": "WR6",
+    "gsis": "00-0035659",
+    "jersey": "17",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1165,29 +1205,6 @@
   ],
   "injured": [
    {
-    "name": "Jer'Zhan Newton",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Pectoral",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039906",
-    "jersey": "95",
-    "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Leo Chenal",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1252,6 +1269,29 @@
     "gsis": "00-0036260",
     "jersey": "99",
     "origin": "RDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jer'Zhan Newton",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Pectoral",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039906",
+    "jersey": "95",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

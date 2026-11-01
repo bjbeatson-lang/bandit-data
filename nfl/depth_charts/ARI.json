@@ -1,7 +1,7 @@
 {
  "team": "ARI",
  "entering_week": 8,
- "chart_date": "2026-10-31",
+ "chart_date": "2026-11-01",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -111,6 +127,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -128,6 +148,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -151,6 +175,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -172,6 +200,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -195,6 +227,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -216,6 +252,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -239,6 +279,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -260,6 +304,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -283,6 +331,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -304,6 +356,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -327,6 +383,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -348,6 +408,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -384,29 +448,6 @@
     "signed_in": false
    },
    {
-    "name": "Jayden Williams",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 3,
-    "june": "RT3",
-    "june_tier": 3,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041113",
-    "jersey": "66",
-    "origin": "RT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Hjalte Froholdt",
     "grp": "OL",
     "chartpos": "C",
@@ -425,6 +466,29 @@
     "gsis": "00-0035258",
     "jersey": "72",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jayden Williams",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 3,
+    "june": "RT3",
+    "june_tier": 3,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041113",
+    "jersey": "66",
+    "origin": "RT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -777,72 +841,49 @@
     "signed_in": true
    },
    {
-    "name": "Kingsley Eguakun",
+    "name": "Albert Reese",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RG3",
+    "now": "RT3",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0039442",
-    "jersey": "64",
-    "origin": "NYG",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": true
+    "gsis": "00-0041138",
+    "jersey": "76",
+    "origin": "CAR",
+    "psq": false,
+    "trade_in": true,
+    "signed_in": false
    }
   ],
   "injured": [
    {
-    "name": "Tip Reiman",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
+    "name": "Jalen Brooks",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 57,
+    "last": 64,
+    "g50": 3,
+    "june": "WR8",
+    "june_tier": 3,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039737",
-    "jersey": "87",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Paris Johnson Jr.",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038540",
-    "jersey": "70",
-    "origin": "LT1",
+    "gsis": "00-0038640",
+    "jersey": "86",
+    "origin": "WR8",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -871,47 +912,24 @@
     "signed_in": false
    },
    {
-    "name": "Chase Bisontis",
+    "name": "Paris Johnson Jr.",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "RG1",
+    "g50": 4,
+    "june": "LT1",
     "june_tier": 1,
-    "now": "RG5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041468",
-    "jersey": "57",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalen Brooks",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 57,
-    "last": 64,
-    "g50": 3,
-    "june": "WR8",
-    "june_tier": 3,
-    "now": "WR6",
+    "now": "LT4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038640",
-    "jersey": "86",
-    "origin": "WR8",
+    "gsis": "00-0038540",
+    "jersey": "70",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -935,6 +953,52 @@
     "gsis": "00-0038571",
     "jersey": "71",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Chase Bisontis",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041468",
+    "jersey": "57",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tip Reiman",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039737",
+    "jersey": "87",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1390,29 +1454,6 @@
   ],
   "injured": [
    {
-    "name": "Walter Nolen",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 42,
-    "last": 0,
-    "g50": 6,
-    "june": "RDT1",
-    "june_tier": 1,
-    "now": "RDT1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040706",
-    "jersey": "97",
-    "origin": "RDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Will Johnson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1431,6 +1472,29 @@
     "gsis": "00-0040751",
     "jersey": "2",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Walter Nolen",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 42,
+    "last": 0,
+    "g50": 6,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040706",
+    "jersey": "97",
+    "origin": "RDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
