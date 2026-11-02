@@ -1,7 +1,7 @@
 {
  "team": "PIT",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -183,6 +207,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -208,6 +236,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -244,24 +276,47 @@
     "signed_in": false
    },
    {
-    "name": "Brock Hoffman",
+    "name": "Zach Frazier",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
-    "g50": 5,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG1",
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037336",
-    "jersey": "67",
-    "origin": "LG2",
+    "gsis": "00-0039896",
+    "jersey": "54",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Max Iheanachor",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041482",
+    "jersey": "71",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -313,47 +368,24 @@
     "signed_in": false
    },
    {
-    "name": "Max Iheanachor",
+    "name": "Brock Hoffman",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 5,
-    "june": "RT2",
+    "june": "LG2",
     "june_tier": 2,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041482",
-    "jersey": "71",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Zach Frazier",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039896",
-    "jersey": "54",
-    "origin": "C1",
+    "gsis": "00-0037336",
+    "jersey": "67",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -614,29 +646,6 @@
     "signed_in": false
    },
    {
-    "name": "Ryan McCollum",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036783",
-    "jersey": "62",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dylan Cook",
     "grp": "OL",
     "chartpos": "LT",
@@ -655,6 +664,29 @@
     "gsis": "00-0037480",
     "jersey": "60",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ryan McCollum",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036783",
+    "jersey": "62",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -740,29 +772,6 @@
   ],
   "start": [
    {
-    "name": "DeShon Elliott",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 11,
-    "last": 33,
-    "g50": 0,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0034277",
-    "jersey": "25",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Patrick Queen",
     "grp": "LB",
     "chartpos": "RILB",
@@ -781,6 +790,29 @@
     "gsis": "00-0036323",
     "jersey": "6",
     "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DeShon Elliott",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 11,
+    "last": 33,
+    "g50": 0,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0034277",
+    "jersey": "25",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -901,29 +933,6 @@
     "signed_in": false
    },
    {
-    "name": "Cameron Heyward",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 62,
-    "last": 60,
-    "g50": 7,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0027969",
-    "jersey": "97",
-    "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Keeanu Benton",
     "grp": "DL",
     "chartpos": "NT",
@@ -942,6 +951,29 @@
     "gsis": "00-0039110",
     "jersey": "95",
     "origin": "NT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cameron Heyward",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 62,
+    "last": 60,
+    "g50": 7,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0027969",
+    "jersey": "97",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

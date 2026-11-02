@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -30,6 +30,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -61,6 +65,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -90,6 +98,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -121,6 +133,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -150,6 +166,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -604,6 +624,29 @@
     "signed_in": false
    },
    {
+    "name": "Chris Brazzell II",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041047",
+    "jersey": "19",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Xavier Legette",
     "grp": "WR",
     "chartpos": "WR",
@@ -650,6 +693,29 @@
     "signed_in": false
    },
    {
+    "name": "Ja'Tavion Sanders",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0039356",
+    "jersey": "0",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ikem Ekwonu",
     "grp": "OL",
     "chartpos": "LT",
@@ -691,52 +757,6 @@
     "gsis": "00-0039344",
     "jersey": "25",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ja'Tavion Sanders",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039356",
-    "jersey": "0",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Chris Brazzell II",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041047",
-    "jersey": "19",
-    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1169,29 +1189,6 @@
   ],
   "injured": [
    {
-    "name": "Jaycee Horn",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "NB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036944",
-    "jersey": "8",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jaelan Phillips",
     "grp": "ED",
     "chartpos": "SLB",
@@ -1215,24 +1212,24 @@
     "signed_in": false
    },
    {
-    "name": "Akayleb Evans",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 99,
-    "last": 100,
-    "g50": 3,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Triceps",
+    "name": "Bobby Brown III",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 37,
+    "last": 46,
+    "g50": 1,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "RDE2",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038101",
-    "jersey": "29",
-    "origin": "LCB2",
+    "why": "Inactive",
+    "gsis": "00-0036903",
+    "jersey": "97",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1261,29 +1258,6 @@
     "signed_in": false
    },
    {
-    "name": "Cam Jackson",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "NT3",
-    "june_tier": 3,
-    "now": "NT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040174",
-    "jersey": "99",
-    "origin": "NT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Mike Jackson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1307,24 +1281,70 @@
     "signed_in": false
    },
    {
-    "name": "Bobby Brown III",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 37,
-    "last": 46,
-    "g50": 1,
-    "june": "NT1",
+    "name": "Jaycee Horn",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "RCB1",
     "june_tier": 1,
-    "now": "RDE2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Hand",
+    "now": "NB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036903",
-    "jersey": "97",
-    "origin": "NT1",
+    "why": "IR",
+    "gsis": "00-0036944",
+    "jersey": "8",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Akayleb Evans",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 99,
+    "last": 100,
+    "g50": 3,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Triceps",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038101",
+    "jersey": "29",
+    "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Jackson",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "NT3",
+    "june_tier": 3,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040174",
+    "jersey": "99",
+    "origin": "NT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

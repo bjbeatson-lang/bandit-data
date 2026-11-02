@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -27,6 +27,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -48,6 +52,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -75,6 +83,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -92,6 +104,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -119,6 +135,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -145,6 +165,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -170,6 +194,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -492,7 +520,7 @@
     "g50": 0,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR5",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -624,52 +652,6 @@
     "signed_in": false
    },
    {
-    "name": "Connor Lew",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041062",
-    "jersey": "65",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Erick All",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 32,
-    "last": 28,
-    "g50": 1,
-    "june": "TE3",
-    "june_tier": 3,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039814",
-    "jersey": "83",
-    "origin": "TE3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Brian Parker II",
     "grp": "OL",
     "chartpos": "LG",
@@ -701,7 +683,7 @@
     "g50": 1,
     "june": "WR5",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -714,6 +696,52 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
+   },
+   {
+    "name": "Erick All",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 32,
+    "last": 28,
+    "g50": 1,
+    "june": "TE3",
+    "june_tier": 3,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039814",
+    "jersey": "83",
+    "origin": "TE3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Connor Lew",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041062",
+    "jersey": "65",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -748,29 +776,6 @@
     "signed_in": false
    },
    {
-    "name": "DJ Turner II",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 97,
-    "last": 94,
-    "g50": 6,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038549",
-    "jersey": "0",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Daxton Hill",
     "grp": "CB",
     "chartpos": "NB",
@@ -789,6 +794,29 @@
     "gsis": "00-0037743",
     "jersey": "23",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DJ Turner II",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 97,
+    "last": 94,
+    "g50": 6,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038549",
+    "jersey": "0",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1166,29 +1194,6 @@
   ],
   "injured": [
    {
-    "name": "Jalen Davis",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034446",
-    "jersey": "35",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ja'Sir Taylor",
     "grp": "CB",
     "chartpos": "NB",
@@ -1207,6 +1212,29 @@
     "gsis": "00-0037307",
     "jersey": "26",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen Davis",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034446",
+    "jersey": "35",
+    "origin": "NB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

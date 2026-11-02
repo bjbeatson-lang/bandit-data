@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -122,6 +138,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -144,6 +164,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -257,7 +281,7 @@
     "g50": 5,
     "june": "LG1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -558,7 +582,7 @@
     "g50": 1,
     "june": "RG2",
     "june_tier": 2,
-    "now": "LG2",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1048,29 +1072,6 @@
   ],
   "injured": [
    {
-    "name": "Omarr Norman-Lott",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDT2",
-    "june_tier": 2,
-    "now": "RDT3",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040748",
-    "jersey": "55",
-    "origin": "RDT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "L'Jarius Sneed",
     "grp": "CB",
     "chartpos": "NB",
@@ -1089,6 +1090,29 @@
     "gsis": "00-0036374",
     "jersey": "38",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Omarr Norman-Lott",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "RDT3",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040748",
+    "jersey": "55",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

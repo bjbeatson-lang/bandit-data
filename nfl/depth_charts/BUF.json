@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -79,6 +87,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -96,6 +108,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -123,6 +139,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -148,6 +168,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -175,6 +199,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -201,6 +229,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -223,6 +255,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -244,6 +280,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -271,6 +311,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -296,6 +340,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -332,24 +380,24 @@
     "signed_in": false
    },
    {
-    "name": "Alec Anderson",
+    "name": "Dion Dawkins",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "LG1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037428",
-    "jersey": "70",
-    "origin": "LG1",
+    "gsis": "00-0033904",
+    "jersey": "73",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -378,6 +426,29 @@
     "signed_in": false
    },
    {
+    "name": "Alec Anderson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037428",
+    "jersey": "70",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "O'Cyrus Torrence",
     "grp": "OL",
     "chartpos": "RG",
@@ -396,29 +467,6 @@
     "gsis": "00-0038548",
     "jersey": "64",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dion Dawkins",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033904",
-    "jersey": "73",
-    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -702,29 +750,6 @@
     "signed_in": false
    },
    {
-    "name": "Jude Bowry",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT3",
-    "june_tier": 3,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041548",
-    "jersey": "74",
-    "origin": "LT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Lloyd Cushenberry III",
     "grp": "OL",
     "chartpos": "C",
@@ -746,9 +771,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jude Bowry",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT3",
+    "june_tier": 3,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041548",
+    "jersey": "74",
+    "origin": "LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Spencer Brown",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 75,
+    "last": 100,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0036976",
+    "jersey": "79",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Tyrell Shavers",
     "grp": "WR",
@@ -791,29 +862,6 @@
     "gsis": "00-0041443",
     "jersey": "13",
     "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Spencer Brown",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 75,
-    "last": 100,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Back",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036976",
-    "jersey": "79",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1066,7 +1114,7 @@
     "g50": 1,
     "june": "FS2",
     "june_tier": 2,
-    "now": "FS3",
+    "now": "FS2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1246,13 +1294,13 @@
    {
     "name": "Geno Stone",
     "grp": "S",
-    "chartpos": "FS",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
     "g50": 0,
     "june": "FS1",
     "june_tier": 1,
-    "now": "FS2",
+    "now": "SS2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1292,6 +1340,29 @@
     "signed_in": false
    },
    {
+    "name": "Jalon Kilgore",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 6,
+    "last": 17,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041086",
+    "jersey": "29",
+    "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "C.J. Gardner-Johnson",
     "grp": "S",
     "chartpos": "FS",
@@ -1310,29 +1381,6 @@
     "gsis": "00-0035253",
     "jersey": "22",
     "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalon Kilgore",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 6,
-    "last": 17,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041086",
-    "jersey": "29",
-    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

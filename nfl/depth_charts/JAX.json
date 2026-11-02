@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -70,6 +78,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -97,6 +109,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -122,6 +138,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -149,6 +169,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -170,6 +194,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -206,24 +234,24 @@
     "signed_in": false
    },
    {
-    "name": "Ezra Cleveland",
+    "name": "Cole Van Lanen",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
     "g50": 6,
-    "june": "LG1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036327",
-    "jersey": "76",
-    "origin": "LG1",
+    "gsis": "00-0036655",
+    "jersey": "70",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -252,29 +280,6 @@
     "signed_in": false
    },
    {
-    "name": "Cole Van Lanen",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036655",
-    "jersey": "70",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Emmanuel Pregnon",
     "grp": "OL",
     "chartpos": "LG",
@@ -293,6 +298,29 @@
     "gsis": "00-0041050",
     "jersey": "75",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ezra Cleveland",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036327",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -576,29 +604,6 @@
     "signed_in": false
    },
    {
-    "name": "Daniel Faalele",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038118",
-    "jersey": "68",
-    "origin": "NYG RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jonah Monheim",
     "grp": "OL",
     "chartpos": "C",
@@ -620,32 +625,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Patrick Mekari",
+    "name": "Daniel Faalele",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG3",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035112",
-    "jersey": "65",
-    "origin": "RG1",
+    "why": "",
+    "gsis": "00-0038118",
+    "jersey": "68",
+    "origin": "NYG RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Anton Harrison",
     "grp": "OL",
@@ -665,6 +670,29 @@
     "gsis": "00-0038934",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Mekari",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035112",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1166,6 +1194,52 @@
     "signed_in": false
    },
    {
+    "name": "Albert Regis",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 2,
+    "last": 0,
+    "g50": 0,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "RDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041045",
+    "jersey": "98",
+    "origin": "RDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Wesley Williams",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041059",
+    "jersey": "90",
+    "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Caleb Ransaw",
     "grp": "S",
     "chartpos": "FS",
@@ -1207,52 +1281,6 @@
     "gsis": "00-0038596",
     "jersey": "6",
     "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Wesley Williams",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041059",
-    "jersey": "90",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Albert Regis",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 2,
-    "last": 0,
-    "g50": 0,
-    "june": "RDT2",
-    "june_tier": 2,
-    "now": "RDT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041045",
-    "jersey": "98",
-    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

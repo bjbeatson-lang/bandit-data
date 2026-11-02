@@ -1,7 +1,7 @@
 {
  "team": "BAL",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -234,6 +266,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -261,6 +297,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -286,6 +326,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -399,7 +443,7 @@
     "g50": 4,
     "june": "RG2",
     "june_tier": 2,
-    "now": "RG2",
+    "now": "RG3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -740,52 +784,6 @@
   ],
   "injured": [
    {
-    "name": "Elijah Sarratt",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040876",
-    "jersey": "13",
-    "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Olaivavega Ioane",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 75,
-    "last": 24,
-    "g50": 6,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040866",
-    "jersey": "71",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jovaughn Gwyn",
     "grp": "OL",
     "chartpos": "C",
@@ -827,6 +825,52 @@
     "gsis": "00-0034798",
     "jersey": "80",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Elijah Sarratt",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040876",
+    "jersey": "13",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Olaivavega Ioane",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 75,
+    "last": 24,
+    "g50": 6,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040866",
+    "jersey": "71",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1282,29 +1326,6 @@
   ],
   "injured": [
    {
-    "name": "Jaylinn Hawkins",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 49,
-    "last": 0,
-    "g50": 6,
-    "june": "FS2",
-    "june_tier": 2,
-    "now": "SS1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036302",
-    "jersey": "21",
-    "origin": "FS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chandler Rivers",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1346,6 +1367,29 @@
     "gsis": "00-0038505",
     "jersey": "95",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylinn Hawkins",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 49,
+    "last": 0,
+    "g50": 6,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0036302",
+    "jersey": "21",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

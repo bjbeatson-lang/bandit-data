@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -183,6 +207,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -208,6 +236,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -244,29 +276,6 @@
     "signed_in": false
    },
    {
-    "name": "Bernhard Raimann",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037757",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tanor Bortolini",
     "grp": "OL",
     "chartpos": "C",
@@ -285,6 +294,29 @@
     "gsis": "00-0039744",
     "jersey": "60",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bernhard Raimann",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037757",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -614,29 +646,6 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Tucker",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039578",
-    "jersey": "68",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Charlie Heck",
     "grp": "OL",
     "chartpos": "LT",
@@ -658,32 +667,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Alec Pierce",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Dalton Tucker",
+    "grp": "OL",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR7",
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0037664",
-    "jersey": "14",
-    "origin": "WR1",
+    "why": "",
+    "gsis": "00-0039578",
+    "jersey": "68",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Anthony Gould",
     "grp": "WR",
@@ -704,6 +713,29 @@
     "jersey": "6",
     "origin": "WR6",
     "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alec Pierce",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037664",
+    "jersey": "14",
+    "origin": "WR1",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    }
@@ -1158,29 +1190,6 @@
   ],
   "injured": [
    {
-    "name": "Justin Walley",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 76,
-    "last": 69,
-    "g50": 7,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040139",
-    "jersey": "27",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cam Taylor-Britt",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1204,24 +1213,47 @@
     "signed_in": false
    },
    {
-    "name": "Arden Key",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "name": "Justin Walley",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 76,
+    "last": 69,
+    "g50": 7,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0034825",
-    "jersey": "98",
-    "origin": "RDE2",
+    "why": "Inactive",
+    "gsis": "00-0040139",
+    "jersey": "27",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryce Boettcher",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 19,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041518",
+    "jersey": "50",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1250,24 +1282,24 @@
     "signed_in": false
    },
    {
-    "name": "Bryce Boettcher",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 19,
+    "name": "Arden Key",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
-    "rookie": true,
+    "g50": 3,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041518",
-    "jersey": "50",
-    "origin": "SLB1",
+    "why": "IR",
+    "gsis": "00-0034825",
+    "jersey": "98",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "CLE",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -260,6 +296,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -296,29 +336,6 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Fano",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041030",
-    "jersey": "55",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Elgton Jenkins",
     "grp": "OL",
     "chartpos": "C",
@@ -337,6 +354,29 @@
     "gsis": "00-0035526",
     "jersey": "74",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zion Johnson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037818",
+    "jersey": "77",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -365,24 +405,24 @@
     "signed_in": false
    },
    {
-    "name": "Zion Johnson",
+    "name": "Spencer Fano",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "LG1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0037818",
-    "jersey": "77",
-    "origin": "LG1",
+    "gsis": "00-0041030",
+    "jersey": "55",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -666,29 +706,6 @@
     "signed_in": false
    },
    {
-    "name": "Zak Zinter",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039350",
-    "jersey": "70",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Wypler",
     "grp": "OL",
     "chartpos": "C",
@@ -710,32 +727,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Parker Brailsford",
+    "name": "Zak Zinter",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "C2",
+    "june": "RG2",
     "june_tier": 2,
-    "now": "C3",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041073",
-    "jersey": "52",
-    "origin": "C2",
+    "why": "",
+    "gsis": "00-0039350",
+    "jersey": "70",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Teven Jenkins",
     "grp": "OL",
@@ -755,6 +772,29 @@
     "gsis": "00-0036953",
     "jersey": "78",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Parker Brailsford",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041073",
+    "jersey": "52",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1210,29 +1250,6 @@
   ],
   "injured": [
    {
-    "name": "Alex Wright",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037251",
-    "jersey": "91",
-    "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kalia Davis",
     "grp": "DL",
     "chartpos": "LDT",
@@ -1274,6 +1291,29 @@
     "gsis": "00-0041075",
     "jersey": "17",
     "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alex Wright",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037251",
+    "jersey": "91",
+    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

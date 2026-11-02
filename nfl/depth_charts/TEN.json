@@ -1,7 +1,7 @@
 {
  "team": "TEN",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -74,6 +82,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -101,6 +113,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -118,6 +134,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -145,6 +165,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -171,6 +195,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -196,6 +224,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -232,29 +264,6 @@
     "signed_in": false
    },
    {
-    "name": "JC Latham",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039731",
-    "jersey": "55",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Schlottmann",
     "grp": "OL",
     "chartpos": "C",
@@ -273,6 +282,29 @@
     "gsis": "00-0034112",
     "jersey": "51",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "JC Latham",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039731",
+    "jersey": "55",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -301,29 +333,6 @@
     "signed_in": false
    },
    {
-    "name": "Atonio Mafi",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038586",
-    "jersey": "70",
-    "origin": "LV LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Peter Skoronski",
     "grp": "OL",
     "chartpos": "LG",
@@ -342,6 +351,29 @@
     "gsis": "00-0039034",
     "jersey": "77",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Atonio Mafi",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038586",
+    "jersey": "70",
+    "origin": "LV LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -602,6 +634,29 @@
     "signed_in": false
    },
    {
+    "name": "Pat Coogan",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040893",
+    "jersey": "79",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Garrett Dellinger",
     "grp": "OL",
     "chartpos": "RG",
@@ -623,51 +678,28 @@
     "psq": true,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Brandon Crenshaw-Dickson",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040512",
-    "jersey": "78",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
    {
-    "name": "Fernando Carmona",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
+    "name": "Tyjae Spears",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 26,
     "last": 0,
     "g50": 2,
-    "june": "LG2",
+    "june": "RB2",
     "june_tier": 2,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
+    "now": "RB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0040881",
-    "jersey": "66",
-    "origin": "LG2",
+    "why": "Inactive",
+    "gsis": "00-0039032",
+    "jersey": "2",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -696,24 +728,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyjae Spears",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 26,
+    "name": "Fernando Carmona",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
     "last": 0,
     "g50": 2,
-    "june": "RB2",
+    "june": "LG2",
     "june_tier": 2,
-    "now": "RB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039032",
-    "jersey": "2",
-    "origin": "RB2",
+    "why": "IR",
+    "gsis": "00-0040881",
+    "jersey": "66",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -937,13 +969,13 @@
    {
     "name": "Jacob Martin",
     "grp": "ED",
-    "chartpos": "RDE",
+    "chartpos": "LDE",
     "avg3": 59,
     "last": 61,
     "g50": 6,
     "june": "RDE2",
     "june_tier": 2,
-    "now": "RDE2",
+    "now": "LDE1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -959,14 +991,14 @@
    },
    {
     "name": "John Franklin-Myers",
-    "grp": "ED",
-    "chartpos": "LDE",
+    "grp": "DL",
+    "chartpos": "LDT",
     "avg3": 48,
     "last": 50,
     "g50": 5,
     "june": "LDE1",
     "june_tier": 1,
-    "now": "LDE1",
+    "now": "LDT1",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Groin",
@@ -1037,7 +1069,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "LDT1",
+    "now": "LDT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1177,7 +1209,7 @@
     "g50": 0,
     "june": "LDT2",
     "june_tier": 2,
-    "now": "LDT2",
+    "now": "LDT4",
     "report": "",
     "practice": "",
     "injury": "",

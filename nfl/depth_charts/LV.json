@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -79,6 +87,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -96,6 +108,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -123,6 +139,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -148,6 +168,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -175,6 +199,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -201,6 +229,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -222,6 +254,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -249,6 +285,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -270,6 +310,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -352,29 +396,6 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Burford",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037829",
-    "jersey": "70",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "DJ Glaze",
     "grp": "OL",
     "chartpos": "RT",
@@ -398,15 +419,38 @@
     "signed_in": false
    },
    {
+    "name": "Spencer Burford",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037829",
+    "jersey": "70",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jackson Powers-Johnson",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "C",
     "avg3": 33,
     "last": 0,
     "g50": 4,
     "june": "RG1",
     "june_tier": 1,
-    "now": "RG2",
+    "now": "C2",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Back",
@@ -661,7 +705,7 @@
     "g50": 3,
     "june": "RG3",
     "june_tier": 3,
-    "now": "RG1",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -678,13 +722,13 @@
    {
     "name": "Trey Zuhn III",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RG",
     "avg3": 4,
     "last": 7,
     "g50": 0,
     "june": "RG2",
     "june_tier": 2,
-    "now": "C2",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -756,29 +800,6 @@
   ],
   "start": [
    {
-    "name": "Jeremy Chinn",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036293",
-    "jersey": "11",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Treydan Stukes",
     "grp": "S",
     "chartpos": "FS",
@@ -820,6 +841,29 @@
     "gsis": "00-0037615",
     "jersey": "17",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jeremy Chinn",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036293",
+    "jersey": "11",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1151,13 +1195,13 @@
    {
     "name": "Hezekiah Masses",
     "grp": "CB",
-    "chartpos": "RCB",
+    "chartpos": "LCB",
     "avg3": 34,
     "last": 40,
     "g50": 3,
     "june": "LCB3",
     "june_tier": 3,
-    "now": "RCB2",
+    "now": "LCB2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1220,6 +1264,29 @@
     "signed_in": false
    },
    {
+    "name": "Dalton Johnson",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040883",
+    "jersey": "43",
+    "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Keyron Crawford",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1261,29 +1328,6 @@
     "gsis": "00-0037461",
     "jersey": "27",
     "origin": "FS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dalton Johnson",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040883",
-    "jersey": "43",
-    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

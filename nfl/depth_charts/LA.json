@@ -1,7 +1,7 @@
 {
  "team": "LA",
  "entering_week": 8,
- "chart_date": "2026-11-01",
+ "chart_date": "2026-11-02",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +78,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -97,6 +109,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -114,6 +130,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -141,6 +161,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -158,6 +182,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -194,6 +226,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -276,29 +312,6 @@
     "signed_in": false
    },
    {
-    "name": "Steve Avila",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 99,
-    "last": 96,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039058",
-    "jersey": "73",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kevin Dotson",
     "grp": "OL",
     "chartpos": "RG",
@@ -317,6 +330,29 @@
     "gsis": "00-0036339",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Steve Avila",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 99,
+    "last": 96,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039058",
+    "jersey": "73",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -600,29 +636,6 @@
     "signed_in": false
    },
    {
-    "name": "Beaux Limmer",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 1,
-    "last": 4,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039753",
-    "jersey": "50",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dylan McMahon",
     "grp": "OL",
     "chartpos": "C",
@@ -644,9 +657,124 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Beaux Limmer",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 1,
+    "last": 4,
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039753",
+    "jersey": "50",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Colby Parkinson",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 65,
+    "last": 69,
+    "g50": 5,
+    "june": "TE1",
+    "june_tier": 1,
+    "now": "TE2",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Rib",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0036244",
+    "jersey": "84",
+    "origin": "TE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ty Simpson",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "QB2",
+    "june_tier": 2,
+    "now": "QB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041568",
+    "jersey": "15",
+    "origin": "QB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Terrance Ferguson",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "TE3",
+    "june_tier": 3,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040737",
+    "jersey": "18",
+    "origin": "TE3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Davante Adams",
     "grp": "WR",
@@ -689,98 +817,6 @@
     "gsis": "00-0041394",
     "jersey": "79",
     "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Colby Parkinson",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 65,
-    "last": 69,
-    "g50": 5,
-    "june": "TE1",
-    "june_tier": 1,
-    "now": "TE2",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Rib",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036244",
-    "jersey": "84",
-    "origin": "TE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Terrance Ferguson",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "TE3",
-    "june_tier": 3,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040737",
-    "jersey": "18",
-    "origin": "TE3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ty Simpson",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "QB2",
-    "june_tier": 2,
-    "now": "QB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041568",
-    "jersey": "15",
-    "origin": "QB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1236,52 +1272,6 @@
   ],
   "injured": [
    {
-    "name": "Desjuan Johnson",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 12,
-    "last": 9,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039061",
-    "jersey": "94",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Myles Garrett",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033868",
-    "jersey": "95",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Poona Ford",
     "grp": "DL",
     "chartpos": "NT",
@@ -1305,6 +1295,29 @@
     "signed_in": false
    },
    {
+    "name": "Desjuan Johnson",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 12,
+    "last": 9,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hip",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0039061",
+    "jersey": "94",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kobie Turner",
     "grp": "DL",
     "chartpos": "LDE",
@@ -1323,6 +1336,29 @@
     "gsis": "00-0039138",
     "jersey": "91",
     "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Myles Garrett",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033868",
+    "jersey": "95",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
