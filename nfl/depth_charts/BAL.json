@@ -1,9 +1,122 @@
 {
  "team": "BAL",
  "entering_week": 9,
- "chart_date": "2026-11-03",
+ "chart_date": "2026-11-04",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Calais Campbell",
+   "pos": "DT",
+   "gsis": "00-0026190",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Jenkins",
+   "pos": "DT",
+   "gsis": "00-0030070",
+   "jersey": "94",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Lamar Jackson",
+   "pos": "QB",
+   "gsis": "00-0034796",
+   "jersey": "8",
+   "injury": "Thumb",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "gsis": "00-0035993",
+   "jersey": "5",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylinn Hawkins",
+   "pos": "S",
+   "gsis": "00-0036302",
+   "jersey": "21",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Simpson",
+   "pos": "G",
+   "gsis": "00-0036369",
+   "jersey": "74",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Roger Rosengarten",
+   "pos": "T",
+   "gsis": "00-0039233",
+   "jersey": "70",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyler Loop",
+   "pos": "K",
+   "gsis": "00-0040074",
+   "jersey": "33",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -20,10 +133,10 @@
     "g50": 4,
     "june": "QB1",
     "june_tier": 1,
-    "now": "QB3",
+    "now": "QB4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -45,8 +158,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -68,8 +181,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -91,8 +204,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +250,8 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": true,
     "why": "",
@@ -229,8 +342,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -277,8 +390,8 @@
     "june_tier": 2,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +413,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,29 +566,6 @@
   ],
   "injured": [
    {
-    "name": "Jovaughn Gwyn",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038629",
-    "jersey": "54",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Durham Smythe",
     "grp": "TE",
     "chartpos": "TE",
@@ -494,6 +584,29 @@
     "gsis": "00-0034798",
     "jersey": "80",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jovaughn Gwyn",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038629",
+    "jersey": "54",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -564,8 +677,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Stinger",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -610,8 +723,8 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -679,8 +792,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Finger",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -773,8 +886,8 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -796,8 +909,8 @@
     "june_tier": 1,
     "now": "NT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
