@@ -1,9 +1,122 @@
 {
  "team": "NYJ",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Demario Davis",
+   "pos": "LB",
+   "gsis": "00-0029607",
+   "jersey": "56",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Harrison Phillips",
+   "pos": "DT",
+   "gsis": "00-0034782",
+   "jersey": "97",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Joseph Ossai",
+   "pos": "DE",
+   "gsis": "00-0036902",
+   "jersey": "46",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Garrett Wilson",
+   "pos": "WR",
+   "gsis": "00-0037740",
+   "jersey": "5",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Breece Hall",
+   "pos": "RB",
+   "gsis": "00-0038120",
+   "jersey": "20",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Trevin Wallace",
+   "pos": "LB",
+   "gsis": "00-0039347",
+   "jersey": "49",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "gsis": "00-0040736",
+   "jersey": "85",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "David Bailey",
+   "pos": "DE",
+   "gsis": "00-0041026",
+   "jersey": "31",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -30,6 +143,29 @@
     "gsis": "00-0030565",
     "jersey": "7",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Josh Myers",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036622",
+    "jersey": "71",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -76,29 +212,6 @@
     "gsis": "00-0039145",
     "jersey": "66",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Josh Myers",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036622",
-    "jersey": "71",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -160,8 +273,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -183,8 +296,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +342,8 @@
     "june_tier": 2,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -405,6 +518,29 @@
     "signed_in": false
    },
    {
+    "name": "Blake Freeland",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039158",
+    "jersey": "76",
+    "origin": "CIN PS",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
+   },
+   {
     "name": "Kohl Levao",
     "grp": "OL",
     "chartpos": "RG",
@@ -426,32 +562,32 @@
     "psq": true,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
-    "name": "Chukwuma Okorafor",
+    "name": "Max Mitchell",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RT2",
+    "june": "LT2",
     "june_tier": 2,
-    "now": "RT2",
+    "now": "LT3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "",
-    "gsis": "00-0034768",
-    "jersey": "79",
-    "origin": "RT2",
+    "why": "IR",
+    "gsis": "00-0038114",
+    "jersey": "61",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
     "name": "Anez Cooper",
     "grp": "OL",
@@ -587,8 +723,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +838,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -725,8 +861,8 @@
     "june_tier": 1,
     "now": "RDT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -865,8 +1001,8 @@
     "june_tier": null,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -949,52 +1085,6 @@
   ],
   "injured": [
    {
-    "name": "Francisco Mauigoa",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040186",
-    "jersey": "51",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Braiden McGregor",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039284",
-    "jersey": "55",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "David Onyemata",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1013,29 +1103,6 @@
     "gsis": "00-0033051",
     "jersey": "93",
     "origin": "RDT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "T'Vondre Sweat",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 32,
-    "last": 0,
-    "g50": 4,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039886",
-    "jersey": "99",
-    "origin": "LDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1064,24 +1131,70 @@
     "signed_in": false
    },
    {
-    "name": "Tre Brown",
-    "grp": "CB",
-    "chartpos": "",
+    "name": "Francisco Mauigoa",
+    "grp": "LB",
+    "chartpos": "SLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "",
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036885",
-    "jersey": "30",
-    "origin": "RCB2",
+    "gsis": "00-0040186",
+    "jersey": "51",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "T'Vondre Sweat",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 32,
+    "last": 0,
+    "g50": 4,
+    "june": "LDT1",
+    "june_tier": 1,
+    "now": "LDT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039886",
+    "jersey": "99",
+    "origin": "LDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Braiden McGregor",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039284",
+    "jersey": "55",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

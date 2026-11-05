@@ -1,7 +1,7 @@
 {
  "team": "BAL",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Tue",
      "DNP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   },
@@ -38,10 +46,14 @@
    "gsis": "00-0034796",
    "jersey": "8",
    "injury": "Thumb",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -52,10 +64,14 @@
    "gsis": "00-0035993",
    "jersey": "5",
    "injury": "Toe",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -66,10 +82,14 @@
    "gsis": "00-0036302",
    "jersey": "21",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -85,6 +105,28 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Nate Wiggins",
+   "pos": "CB",
+   "gsis": "00-0039232",
+   "jersey": "2",
+   "injury": "Stinger",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "DNP"
     ]
    ]
   },
@@ -99,6 +141,10 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   },
@@ -113,6 +159,28 @@
     [
      "Tue",
      "DNP"
+    ],
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Adam Randall",
+   "pos": "RB",
+   "gsis": "00-0040888",
+   "jersey": "23",
+   "injury": "Neck",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   }
@@ -125,24 +193,24 @@
   ],
   "start": [
    {
-    "name": "Lamar Jackson",
+    "name": "Joe Fagnano",
     "grp": "QB",
     "chartpos": "QB",
-    "avg3": 1,
-    "last": 2,
-    "g50": 4,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB4",
+    "avg3": 13,
+    "last": 40,
+    "g50": 0,
+    "june": "QB3",
+    "june_tier": 3,
+    "now": "QB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
-    "rookie": false,
-    "returning": true,
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
     "why": "",
-    "gsis": "00-0034796",
-    "jersey": "8",
-    "origin": "QB1",
+    "gsis": "00-0040981",
+    "jersey": "12",
+    "origin": "QB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -158,7 +226,7 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Back",
     "rookie": false,
     "returning": false,
@@ -181,7 +249,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -380,27 +448,27 @@
   ],
   "next": [
    {
-    "name": "Tyler Huntley",
+    "name": "Kedon Slovis",
     "grp": "QB",
     "chartpos": "QB",
-    "avg3": 73,
-    "last": 20,
-    "g50": 3,
-    "june": "QB2",
-    "june_tier": 2,
-    "now": "QB1",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "QB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Toe",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035993",
-    "jersey": "5",
-    "origin": "QB2",
+    "gsis": "00-0039577",
+    "jersey": "17",
+    "origin": "GB PS",
     "psq": false,
     "trade_in": false,
-    "signed_in": false
+    "signed_in": true
    },
    {
     "name": "Justice Hill",
@@ -541,30 +609,76 @@
     "signed_in": false
    },
    {
-    "name": "Chuma Edoga",
+    "name": "Carson Vinson",
     "grp": "OL",
-    "chartpos": "",
+    "chartpos": "LT",
     "avg3": 4,
-    "last": 12,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
+    "last": 4,
+    "g50": 1,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035698",
-    "jersey": "62",
-    "origin": "PS",
-    "psq": true,
+    "gsis": "00-0040070",
+    "jersey": "76",
+    "origin": "RT2",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Tyler Huntley",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 73,
+    "last": 20,
+    "g50": 3,
+    "june": "QB2",
+    "june_tier": 2,
+    "now": "QB5",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035993",
+    "jersey": "5",
+    "origin": "QB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jovaughn Gwyn",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038629",
+    "jersey": "54",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Durham Smythe",
     "grp": "TE",
@@ -589,24 +703,24 @@
     "signed_in": false
    },
    {
-    "name": "Jovaughn Gwyn",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C4",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "name": "Lamar Jackson",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 1,
+    "last": 2,
+    "g50": 4,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB4",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038629",
-    "jersey": "54",
-    "origin": "C2",
+    "why": "Out",
+    "gsis": "00-0034796",
+    "jersey": "8",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -676,8 +790,8 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "LCB1",
-    "report": "",
-    "practice": "Full Participation in Practice",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
     "injury": "Stinger",
     "rookie": false,
     "returning": false,
@@ -886,7 +1000,7 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -909,7 +1023,7 @@
     "june_tier": 1,
     "now": "NT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -1039,6 +1153,29 @@
   ],
   "injured": [
    {
+    "name": "Jaylinn Hawkins",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 29,
+    "last": 0,
+    "g50": 6,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036302",
+    "jersey": "21",
+    "origin": "FS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tavius Robinson",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1063,6 +1200,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Nate Wiggins",
+   "pos": "CB",
+   "gsis": "00-0039232",
+   "jersey": "2",
+   "injury": "Stinger",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Adam Randall",
+   "pos": "RB",
+   "gsis": "00-0040888",
+   "jersey": "23",
+   "injury": "Neck",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

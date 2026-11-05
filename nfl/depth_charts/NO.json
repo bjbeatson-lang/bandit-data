@@ -1,9 +1,94 @@
 {
  "team": "NO",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "gsis": "00-0033906",
+   "jersey": "41",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Martin Emerson",
+   "pos": "CB",
+   "gsis": "00-0037250",
+   "jersey": "22",
+   "injury": "Shin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Asim Richards",
+   "pos": "T",
+   "gsis": "00-0038601",
+   "jersey": "72",
+   "injury": "Thumb",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kelvin Banks Jr.",
+   "pos": "T",
+   "gsis": "00-0040125",
+   "jersey": "71",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jordyn Tyson",
+   "pos": "WR",
+   "gsis": "00-0041029",
+   "jersey": "0",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "CJ Donaldson",
+   "pos": "RB",
+   "gsis": "00-0041326",
+   "jersey": "43",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -35,29 +120,6 @@
     "signed_in": false
    },
    {
-    "name": "Taliese Fuaga",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039339",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "David Edwards",
     "grp": "OL",
     "chartpos": "LG",
@@ -76,6 +138,29 @@
     "gsis": "00-0035668",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Taliese Fuaga",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039339",
+    "jersey": "75",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -114,8 +199,8 @@
     "june_tier": 3,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +385,8 @@
     "june_tier": 2,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -332,29 +417,6 @@
     "jersey": "19",
     "origin": "WR6",
     "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cedric Tillman",
-    "grp": "WR",
-    "chartpos": "",
-    "avg3": 3,
-    "last": 2,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038979",
-    "jersey": "13",
-    "origin": "PS",
-    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -392,8 +454,8 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -486,37 +548,14 @@
     "june_tier": 1,
     "now": "LT3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "IR",
     "gsis": "00-0040125",
     "jersey": "71",
     "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jordyn Tyson",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041029",
-    "jersey": "0",
-    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -540,6 +579,29 @@
     "gsis": "00-0036619",
     "jersey": "77",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordyn Tyson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR5",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041029",
+    "jersey": "0",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -577,29 +639,6 @@
   ],
   "start": [
    {
-    "name": "Julian Blackmon",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036253",
-    "jersey": "23",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Pete Werner",
     "grp": "LB",
     "chartpos": "RILB",
@@ -623,6 +662,29 @@
     "signed_in": false
    },
    {
+    "name": "Julian Blackmon",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036253",
+    "jersey": "23",
+    "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Justin Reid",
     "grp": "S",
     "chartpos": "SS",
@@ -633,8 +695,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -771,8 +833,8 @@
     "june_tier": 2,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shin",
     "rookie": false,
     "returning": false,
     "why": "",

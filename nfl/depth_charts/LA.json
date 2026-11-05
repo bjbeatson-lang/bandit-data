@@ -1,9 +1,150 @@
 {
  "team": "LA",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Joe Cardona",
+   "pos": "LS",
+   "gsis": "00-0032228",
+   "jersey": "49",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Myles Garrett",
+   "pos": "LB",
+   "gsis": "00-0033868",
+   "jersey": "95",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Colby Parkinson",
+   "pos": "TE",
+   "gsis": "00-0036244",
+   "jersey": "84",
+   "injury": "Ribs",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kam Curl",
+   "pos": "S",
+   "gsis": "00-0036349",
+   "jersey": "3",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Grant Stuard",
+   "pos": "LB",
+   "gsis": "00-0036672",
+   "jersey": "44",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Trent McDuffie",
+   "pos": "CB",
+   "gsis": "00-0037191",
+   "jersey": "22",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylen Watson",
+   "pos": "CB",
+   "gsis": "00-0037195",
+   "jersey": "35",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Steve Avila",
+   "pos": "G",
+   "gsis": "00-0039058",
+   "jersey": "73",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jordan Whittington",
+   "pos": "WR",
+   "gsis": "00-0039751",
+   "jersey": "88",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Terrance Ferguson",
+   "pos": "TE",
+   "gsis": "00-0040737",
+   "jersey": "18",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -22,8 +163,8 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -81,29 +222,6 @@
     "signed_in": false
    },
    {
-    "name": "Steve Avila",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 99,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039058",
-    "jersey": "73",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kevin Dotson",
     "grp": "OL",
     "chartpos": "RG",
@@ -122,6 +240,29 @@
     "gsis": "00-0036339",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Steve Avila",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 99,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039058",
+    "jersey": "73",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -346,8 +487,8 @@
     "june_tier": 1,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -369,8 +510,8 @@
     "june_tier": 1,
     "now": "TE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ribs",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,6 +594,29 @@
   ],
   "injured": [
    {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Davante Adams",
     "grp": "WR",
     "chartpos": "WR",
@@ -486,37 +650,14 @@
     "june_tier": 3,
     "now": "TE5",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "IR",
     "gsis": "00-0040737",
     "jersey": "18",
     "origin": "TE3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -564,8 +705,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -585,7 +726,7 @@
     "g50": 7,
     "june": "NB2",
     "june_tier": 2,
-    "now": "LCB2",
+    "now": "LCB1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -608,10 +749,10 @@
     "g50": 6,
     "june": "LCB1",
     "june_tier": 1,
-    "now": "LCB1",
+    "now": "LCB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -911,8 +1052,8 @@
     "june_tier": 2,
     "now": "LILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -972,6 +1113,29 @@
   ],
   "injured": [
    {
+    "name": "Myles Garrett",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB4",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033868",
+    "jersey": "95",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kobie Turner",
     "grp": "DL",
     "chartpos": "LDE",
@@ -990,29 +1154,6 @@
     "gsis": "00-0039138",
     "jersey": "91",
     "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Myles Garrett",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033868",
-    "jersey": "95",
-    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,9 +1,80 @@
 {
  "team": "HOU",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Braden Smith",
+   "pos": "T",
+   "gsis": "00-0034836",
+   "jersey": "71",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Azeez Al-Shaair",
+   "pos": "LB",
+   "gsis": "00-0035166",
+   "jersey": "0",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "David Montgomery",
+   "pos": "RB",
+   "gsis": "00-0035685",
+   "jersey": "32",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Brevin Jordan",
+   "pos": "TE",
+   "gsis": "00-0036556",
+   "jersey": "9",
+   "injury": "Finger",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Reed Blankenship",
+   "pos": "S",
+   "gsis": "00-0037130",
+   "jersey": "6",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -58,24 +129,24 @@
     "signed_in": false
    },
    {
-    "name": "Keylan Rutledge",
+    "name": "Evan Brown",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "LG1",
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041532",
-    "jersey": "66",
-    "origin": "C1",
+    "gsis": "00-0034495",
+    "jersey": "63",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -104,24 +175,24 @@
     "signed_in": false
    },
    {
-    "name": "Evan Brown",
+    "name": "Keylan Rutledge",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "C1",
+    "june": "C1",
+    "june_tier": 1,
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0034495",
-    "jersey": "63",
-    "origin": "LG2",
+    "gsis": "00-0041532",
+    "jersey": "66",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -137,8 +208,8 @@
     "june_tier": 1,
     "now": "RT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -160,8 +231,8 @@
     "june_tier": 1,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -415,8 +486,8 @@
     "june_tier": 2,
     "now": "RT3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -452,6 +523,29 @@
    }
   ],
   "injured": [
+   {
+    "name": "Jaylin Noel",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 42,
+    "last": 31,
+    "g50": 2,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040138",
+    "jersey": "13",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Jayden Higgins",
     "grp": "WR",
@@ -518,8 +612,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -564,8 +658,8 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -725,8 +819,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -828,29 +922,6 @@
     "jersey": "94",
     "origin": "RDE2",
     "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kenneth Murray, Jr.",
-    "grp": "LB",
-    "chartpos": "",
-    "avg3": 2,
-    "last": 0,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036441",
-    "jersey": "50",
-    "origin": "PS",
-    "psq": true,
     "trade_in": false,
     "signed_in": false
    },

@@ -1,9 +1,108 @@
 {
  "team": "NYG",
  "entering_week": 9,
- "chart_date": "2026-11-04",
+ "chart_date": "2026-11-05",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Jermaine Eluemunor",
+   "pos": "T",
+   "gsis": "00-0033290",
+   "jersey": "72",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Malik Harrison",
+   "pos": "LB",
+   "gsis": "00-0036280",
+   "jersey": "54",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Thomas",
+   "pos": "T",
+   "gsis": "00-0036386",
+   "jersey": "78",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Charlie Jones",
+   "pos": "WR",
+   "gsis": "00-0038576",
+   "jersey": "89",
+   "injury": "Hand",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Abdul Carter",
+   "pos": "LB",
+   "gsis": "00-0040677",
+   "jersey": "3",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Cam Skattebo",
+   "pos": "RB",
+   "gsis": "00-0040715",
+   "jersey": "44",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Colton Hood",
+   "pos": "CB",
+   "gsis": "00-0041462",
+   "jersey": "12",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -58,29 +157,6 @@
     "signed_in": false
    },
    {
-    "name": "Francis Mauigoa",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041505",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bryan Hudson",
     "grp": "OL",
     "chartpos": "C",
@@ -104,6 +180,29 @@
     "signed_in": false
    },
    {
+    "name": "Francis Mauigoa",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041505",
+    "jersey": "65",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Andrew Thomas",
     "grp": "OL",
     "chartpos": "LT",
@@ -114,8 +213,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +236,8 @@
     "june_tier": 2,
     "now": "RT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -160,8 +259,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -323,37 +422,14 @@
     "june_tier": null,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0038576",
     "jersey": "89",
     "origin": "PS",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalin Hyatt",
-    "grp": "WR",
-    "chartpos": "",
-    "avg3": 2,
-    "last": 6,
-    "g50": 0,
-    "june": "WR9",
-    "june_tier": 3,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038938",
-    "jersey": "81",
-    "origin": "WR9",
     "psq": true,
     "trade_in": false,
     "signed_in": false
@@ -392,8 +468,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -471,6 +547,29 @@
     "gsis": "00-0040691",
     "jersey": "6",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 24,
+    "last": 15,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -587,8 +686,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -679,8 +778,8 @@
     "june_tier": 1,
     "now": "NT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -865,8 +964,8 @@
     "june_tier": null,
     "now": "LILB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
