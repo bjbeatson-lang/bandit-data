@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -109,6 +129,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -126,6 +150,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -145,6 +173,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -163,6 +195,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -180,6 +216,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -634,29 +674,6 @@
   ],
   "injured": [
    {
-    "name": "Patrick Mekari",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035112",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Anton Harrison",
     "grp": "OL",
     "chartpos": "LT",
@@ -675,6 +692,29 @@
     "gsis": "00-0038934",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Mekari",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035112",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1130,24 +1170,24 @@
   ],
   "injured": [
    {
-    "name": "Eric Murray",
+    "name": "Caleb Ransaw",
     "grp": "S",
-    "chartpos": "SS",
-    "avg3": 33,
+    "chartpos": "FS",
+    "avg3": 0,
     "last": 0,
-    "g50": 5,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS3",
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "FS4",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Elbow",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033038",
-    "jersey": "29",
-    "origin": "SS1",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1176,6 +1216,29 @@
     "signed_in": false
    },
    {
+    "name": "Eric Murray",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 33,
+    "last": 0,
+    "g50": 5,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS3",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Elbow",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033038",
+    "jersey": "29",
+    "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Parker Hughes",
     "grp": "LB",
     "chartpos": "MLB",
@@ -1194,29 +1257,6 @@
     "gsis": "00-0041127",
     "jersey": "53",
     "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Caleb Ransaw",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "FS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

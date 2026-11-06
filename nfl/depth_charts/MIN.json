@@ -1,9 +1,136 @@
 {
  "team": "MIN",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "gsis": "00-0035228",
+   "jersey": "1",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Van Ginkel",
+   "pos": "LB",
+   "gsis": "00-0035272",
+   "jersey": "43",
+   "injury": "Chest",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Isaiah Rodgers",
+   "pos": "CB",
+   "gsis": "00-0036222",
+   "jersey": "2",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "gsis": "00-0036259",
+   "jersey": "14",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Christian Darrisaw",
+   "pos": "T",
+   "gsis": "00-0036616",
+   "jersey": "71",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Theo Jackson",
+   "pos": "S",
+   "gsis": "00-0037301",
+   "jersey": "26",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jay Ward",
+   "pos": "S",
+   "gsis": "00-0038578",
+   "jersey": "24",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Demond Claiborne",
+   "pos": "RB",
+   "gsis": "00-0041104",
+   "jersey": "21",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jake Golday",
+   "pos": "LB",
+   "gsis": "00-0041495",
+   "jersey": "41",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -22,37 +149,14 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0035228",
     "jersey": "1",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Huber",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040500",
-    "jersey": "60",
-    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -81,24 +185,24 @@
     "signed_in": false
    },
    {
-    "name": "Will Fries",
+    "name": "Joe Huber",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 99,
+    "chartpos": "LG",
+    "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
+    "g50": 4,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036483",
-    "jersey": "76",
-    "origin": "RG1",
+    "gsis": "00-0040500",
+    "jersey": "60",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -127,6 +231,29 @@
     "signed_in": false
    },
    {
+    "name": "Will Fries",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 99,
+    "last": 100,
+    "g50": 7,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036483",
+    "jersey": "76",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Christian Darrisaw",
     "grp": "OL",
     "chartpos": "LT",
@@ -137,8 +264,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +356,8 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -587,8 +714,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -656,8 +783,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -888,8 +1015,8 @@
     "june_tier": 2,
     "now": "LILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -934,8 +1061,8 @@
     "june_tier": 1,
     "now": "FS2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",

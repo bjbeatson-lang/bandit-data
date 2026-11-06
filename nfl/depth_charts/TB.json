@@ -1,9 +1,51 @@
 {
  "team": "TB",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "A'Shawn Robinson",
+   "pos": "DT",
+   "gsis": "00-0032889",
+   "jersey": "91",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "gsis": "00-0033921",
+   "jersey": "14",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tristan Wirfs",
+   "pos": "T",
+   "gsis": "00-0036406",
+   "jersey": "78",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Kenny Gainwell",
    "pos": "RB",
@@ -15,6 +57,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -28,6 +74,24 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Bucky Irving",
+   "pos": "RB",
+   "gsis": "00-0039361",
+   "jersey": "7",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -43,6 +107,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -57,6 +125,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -71,6 +143,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -185,8 +261,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -231,8 +307,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -277,8 +353,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -323,7 +399,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": true,
@@ -371,7 +447,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hip",
     "rookie": false,
     "returning": false,
@@ -821,8 +897,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -974,29 +1050,6 @@
   ],
   "injured": [
    {
-    "name": "Josh Hayes",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039051",
-    "jersey": "32",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Christian Rozeboom",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1015,6 +1068,29 @@
     "gsis": "00-0035942",
     "jersey": "52",
     "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Josh Hayes",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039051",
+    "jersey": "32",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

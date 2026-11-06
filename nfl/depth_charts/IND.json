@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,24 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Grover Stewart",
+   "pos": "DT",
+   "gsis": "00-0033952",
+   "jersey": "90",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +47,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -43,6 +65,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -56,6 +82,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -71,6 +101,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -84,6 +118,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -143,29 +181,6 @@
     "signed_in": false
    },
    {
-    "name": "Tanor Bortolini",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 96,
-    "last": 87,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039744",
-    "jersey": "60",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Matt Goncalves",
     "grp": "OL",
     "chartpos": "RG",
@@ -212,6 +227,29 @@
     "signed_in": false
    },
    {
+    "name": "Tanor Bortolini",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 96,
+    "last": 87,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039744",
+    "jersey": "60",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jalen Farmer",
     "grp": "OL",
     "chartpos": "LG",
@@ -245,7 +283,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -314,7 +352,7 @@
     "june_tier": null,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -570,6 +608,29 @@
   ],
   "start": [
    {
+    "name": "Charvarius Ward",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 98,
+    "last": 94,
+    "g50": 7,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034573",
+    "jersey": "7",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Camryn Bynum",
     "grp": "S",
     "chartpos": "FS",
@@ -588,29 +649,6 @@
     "gsis": "00-0036629",
     "jersey": "0",
     "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Charvarius Ward",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 98,
-    "last": 94,
-    "g50": 7,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034573",
-    "jersey": "7",
-    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -718,8 +756,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1011,29 +1049,6 @@
   ],
   "injured": [
    {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Arden Key",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1052,6 +1067,29 @@
     "gsis": "00-0034825",
     "jersey": "98",
     "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "LA",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -98,6 +122,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -113,6 +141,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -127,6 +159,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -140,6 +176,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -594,29 +634,6 @@
   ],
   "injured": [
    {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Davante Adams",
     "grp": "WR",
     "chartpos": "WR",
@@ -635,6 +652,29 @@
     "gsis": "00-0031381",
     "jersey": "17",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1113,24 +1153,24 @@
   ],
   "injured": [
    {
-    "name": "Myles Garrett",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
+    "name": "Poona Ford",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 12,
     "last": 0,
     "g50": 1,
-    "june": "SLB1",
+    "june": "NT1",
     "june_tier": 1,
-    "now": "SLB4",
+    "now": "NT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033868",
-    "jersey": "95",
-    "origin": "SLB1",
+    "gsis": "00-0034234",
+    "jersey": "97",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1159,24 +1199,24 @@
     "signed_in": false
    },
    {
-    "name": "Poona Ford",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 12,
+    "name": "Myles Garrett",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
     "last": 0,
     "g50": 1,
-    "june": "NT1",
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "NT2",
+    "now": "SLB4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034234",
-    "jersey": "97",
-    "origin": "NT1",
+    "gsis": "00-0033868",
+    "jersey": "95",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

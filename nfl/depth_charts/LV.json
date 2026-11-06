@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -42,6 +50,24 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dont'e Thornton Jr.",
+   "pos": "WR",
+   "gsis": "00-0040581",
+   "jersey": "10",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   }
@@ -92,29 +122,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Linderbaum",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037825",
-    "jersey": "65",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Spencer Burford",
     "grp": "OL",
     "chartpos": "LG",
@@ -138,24 +145,24 @@
     "signed_in": false
    },
    {
-    "name": "Kolton Miller",
+    "name": "Tyler Linderbaum",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "LT1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034759",
-    "jersey": "74",
-    "origin": "LT1",
+    "gsis": "00-0037825",
+    "jersey": "65",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -179,6 +186,29 @@
     "gsis": "00-0039349",
     "jersey": "71",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kolton Miller",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034759",
+    "jersey": "74",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -395,13 +425,13 @@
    {
     "name": "Cody White",
     "grp": "WR",
-    "chartpos": "",
+    "chartpos": "WR",
     "avg3": 16,
     "last": 3,
     "g50": 2,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "",
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
@@ -426,7 +456,7 @@
     "june_tier": 3,
     "now": "TE3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -541,29 +571,6 @@
     "signed_in": false
    },
    {
-    "name": "Eric Stokes",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036901",
-    "jersey": "5",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jeremy Chinn",
     "grp": "S",
     "chartpos": "SS",
@@ -605,6 +612,29 @@
     "gsis": "00-0040868",
     "jersey": "31",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Eric Stokes",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036901",
+    "jersey": "5",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -735,7 +765,7 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -758,7 +788,7 @@
     "june_tier": null,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -783,7 +813,7 @@
     "june_tier": 1,
     "now": "RDE2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,

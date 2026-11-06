@@ -1,7 +1,7 @@
 {
  "team": "GB",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -98,6 +122,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -113,6 +141,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "MarShawn Lloyd",
+   "pos": "RB",
+   "gsis": "00-0039811",
+   "jersey": "32",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -126,6 +172,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -231,29 +281,6 @@
     "signed_in": true
    },
    {
-    "name": "Sean Rhyan",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 35,
-    "last": 0,
-    "g50": 6,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0037076",
-    "jersey": "75",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Aaron Banks",
     "grp": "OL",
     "chartpos": "LG",
@@ -272,6 +299,29 @@
     "gsis": "00-0036551",
     "jersey": "65",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sean Rhyan",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 35,
+    "last": 0,
+    "g50": 6,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0037076",
+    "jersey": "75",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -427,8 +477,8 @@
     "june_tier": 3,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -580,29 +630,6 @@
   ],
   "injured": [
    {
-    "name": "Skyy Moore",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038090",
-    "jersey": "23",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Musgrave",
     "grp": "TE",
     "chartpos": "TE",
@@ -626,24 +653,24 @@
     "signed_in": false
    },
    {
-    "name": "Jacob Monk",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 2,
+    "name": "Skyy Moore",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C4",
+    "g50": 1,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039817",
-    "jersey": "62",
-    "origin": "C3",
+    "gsis": "00-0038090",
+    "jersey": "23",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -690,6 +717,29 @@
     "gsis": "00-0037817",
     "jersey": "50",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jacob Monk",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 2,
+    "last": 0,
+    "g50": 3,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039817",
+    "jersey": "62",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -783,7 +833,7 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,

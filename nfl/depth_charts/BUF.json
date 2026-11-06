@@ -1,9 +1,150 @@
 {
  "team": "BUF",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Dion Dawkins",
+   "pos": "T",
+   "gsis": "00-0033904",
+   "jersey": "73",
+   "injury": "Rib",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "DJ Moore",
+   "pos": "WR",
+   "gsis": "00-0034827",
+   "jersey": "2",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "gsis": "00-0035537",
+   "jersey": "26",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Greg Gaines",
+   "pos": "DT",
+   "gsis": "00-0035667",
+   "jersey": "97",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Spencer Brown",
+   "pos": "T",
+   "gsis": "00-0036976",
+   "jersey": "79",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Josh Palmer",
+   "pos": "WR",
+   "gsis": "00-0036988",
+   "jersey": "5",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Alec Anderson",
+   "pos": "G",
+   "gsis": "00-0037428",
+   "jersey": "70",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "gsis": "00-0038933",
+   "jersey": "86",
+   "injury": "Chest",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "gsis": "00-0039901",
+   "jersey": "0",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jordan Hancock",
+   "pos": "CB",
+   "gsis": "00-0040192",
+   "jersey": "37",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    5,
@@ -58,29 +199,6 @@
     "signed_in": false
    },
    {
-    "name": "Dion Dawkins",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 98,
-    "last": 95,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033904",
-    "jersey": "73",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Connor McGovern",
     "grp": "OL",
     "chartpos": "C",
@@ -104,6 +222,29 @@
     "signed_in": false
    },
    {
+    "name": "Dion Dawkins",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 98,
+    "last": 95,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Rib",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033904",
+    "jersey": "73",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Alec Anderson",
     "grp": "OL",
     "chartpos": "LG",
@@ -114,8 +255,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -183,8 +324,8 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -229,8 +370,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -252,8 +393,8 @@
     "june_tier": 1,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -300,8 +441,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -392,8 +533,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -428,24 +569,24 @@
     "signed_in": false
    },
    {
-    "name": "Lloyd Cushenberry III",
+    "name": "Jude Bowry",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LT",
     "avg3": 2,
     "last": 5,
     "g50": 0,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C2",
+    "june": "LT3",
+    "june_tier": 3,
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0036391",
-    "jersey": "53",
-    "origin": "C2",
+    "gsis": "00-0041548",
+    "jersey": "74",
+    "origin": "LT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -463,8 +604,8 @@
     "june_tier": 2,
     "now": "WR7",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
@@ -679,8 +820,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Chest",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +843,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -725,8 +866,8 @@
     "june_tier": 2,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -750,8 +891,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -865,8 +1006,8 @@
     "june_tier": 2,
     "now": "RILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",

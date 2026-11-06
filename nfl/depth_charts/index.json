@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 9,
- "built_utc": "2026-11-05T16:00:00Z",
+ "built_utc": "2026-11-06T16:00:00Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -69,7 +69,7 @@
     "date": "2026-11-05",
     "time_et": "20:15",
     "game_id": "2026_09_JAX_BAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 10,
@@ -371,7 +371,7 @@
     "date": "2026-11-05",
     "time_et": "20:15",
     "game_id": "2026_09_JAX_BAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 10,

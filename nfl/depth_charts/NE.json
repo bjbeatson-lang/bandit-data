@@ -1,7 +1,7 @@
 {
  "team": "NE",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -98,6 +122,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -113,6 +141,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -126,6 +158,38 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Brenden Schooler",
+   "pos": "S",
+   "gsis": "00-0037205",
+   "jersey": "41",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Marcus Jones",
+   "pos": "CB",
+   "gsis": "00-0037253",
+   "jersey": "25",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -141,6 +205,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -154,6 +222,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -585,29 +657,6 @@
   ],
   "injured": [
    {
-    "name": "Mike Onwenu",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036198",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Mack Hollins",
     "grp": "WR",
     "chartpos": "WR",
@@ -626,6 +675,29 @@
     "gsis": "00-0033555",
     "jersey": "13",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Romeo Doubs",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 1,
+    "last": 0,
+    "g50": 5,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037816",
+    "jersey": "87",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -654,6 +726,29 @@
     "signed_in": false
    },
    {
+    "name": "Mike Onwenu",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036198",
+    "jersey": "71",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Greg Van Roten",
     "grp": "OL",
     "chartpos": "LG",
@@ -672,29 +767,6 @@
     "gsis": "00-0029685",
     "jersey": "70",
     "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Romeo Doubs",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 1,
-    "last": 0,
-    "g50": 5,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037816",
-    "jersey": "87",
-    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -755,24 +827,24 @@
     "signed_in": false
    },
    {
-    "name": "Craig Woodson",
-    "grp": "S",
-    "chartpos": "SS",
+    "name": "Christian Gonzalez",
+    "grp": "CB",
+    "chartpos": "RCB",
     "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "SS1",
+    "g50": 6,
+    "june": "RCB1",
     "june_tier": 1,
-    "now": "SS1",
+    "now": "RCB1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040716",
-    "jersey": "4",
-    "origin": "SS1",
+    "gsis": "00-0039147",
+    "jersey": "0",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -801,24 +873,24 @@
     "signed_in": false
    },
    {
-    "name": "Christian Gonzalez",
-    "grp": "CB",
-    "chartpos": "RCB",
+    "name": "Craig Woodson",
+    "grp": "S",
+    "chartpos": "SS",
     "avg3": 100,
     "last": 100,
-    "g50": 6,
-    "june": "RCB1",
+    "g50": 7,
+    "june": "SS1",
     "june_tier": 1,
-    "now": "RCB1",
+    "now": "SS1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039147",
-    "jersey": "0",
-    "origin": "RCB1",
+    "gsis": "00-0040716",
+    "jersey": "4",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -972,7 +1044,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -1112,8 +1184,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1150,29 +1222,6 @@
   ],
   "injured": [
    {
-    "name": "Dell Pettus",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039692",
-    "jersey": "24",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Harold Landry III",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1191,6 +1240,29 @@
     "gsis": "00-0034828",
     "jersey": "2",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dell Pettus",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039692",
+    "jersey": "24",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

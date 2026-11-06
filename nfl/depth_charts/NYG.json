@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +69,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Malik Nabers",
+   "pos": "WR",
+   "gsis": "00-0039337",
+   "jersey": "1",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -71,6 +101,24 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Darius Alexander",
+   "pos": "DT",
+   "gsis": "00-0040694",
+   "jersey": "91",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -84,6 +132,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -99,6 +151,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -129,29 +185,6 @@
     "gsis": "00-0031503",
     "jersey": "19",
     "origin": "QB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jon Runyan",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036246",
-    "jersey": "76",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -198,6 +231,29 @@
     "gsis": "00-0041505",
     "jersey": "65",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jon Runyan",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036246",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -305,8 +361,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -529,6 +585,29 @@
   ],
   "injured": [
    {
+    "name": "Calvin Austin III",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037837",
+    "jersey": "82",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jaxson Dart",
     "grp": "QB",
     "chartpos": "QB",
@@ -537,7 +616,7 @@
     "g50": 1,
     "june": "QB1",
     "june_tier": 1,
-    "now": "QB4",
+    "now": "QB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -570,29 +649,6 @@
     "gsis": "00-0039384",
     "jersey": "29",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Calvin Austin III",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037837",
-    "jersey": "82",
-    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -686,7 +742,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -872,8 +928,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -918,8 +974,8 @@
     "june_tier": 4,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -941,8 +997,8 @@
     "june_tier": 2,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -964,7 +1020,7 @@
     "june_tier": null,
     "now": "LILB3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -1025,6 +1081,29 @@
   ],
   "injured": [
    {
+    "name": "Chauncey Golston",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "RDE2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036982",
+    "jersey": "57",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Brian Burns",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1066,29 +1145,6 @@
     "gsis": "00-0034673",
     "jersey": "49",
     "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Chauncey Golston",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "RDE2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036982",
-    "jersey": "57",
-    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

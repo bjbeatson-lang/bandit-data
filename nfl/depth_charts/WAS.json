@@ -1,7 +1,7 @@
 {
  "team": "WAS",
  "entering_week": 9,
- "chart_date": "2026-11-05",
+ "chart_date": "2026-11-06",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,24 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dyami Brown",
+   "pos": "WR",
+   "gsis": "00-0036626",
+   "jersey": "6",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +83,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -70,6 +100,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -106,24 +140,24 @@
     "signed_in": false
    },
    {
-    "name": "Josh Conerly Jr.",
+    "name": "Brandon Coleman",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040686",
-    "jersey": "72",
-    "origin": "RT1",
+    "gsis": "00-0039913",
+    "jersey": "74",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -152,6 +186,29 @@
     "signed_in": true
    },
    {
+    "name": "Josh Conerly Jr.",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Finger",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040686",
+    "jersey": "72",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Chris Paul",
     "grp": "OL",
     "chartpos": "LG",
@@ -170,29 +227,6 @@
     "gsis": "00-0037092",
     "jersey": "75",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Brandon Coleman",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039913",
-    "jersey": "74",
-    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -394,8 +428,8 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1089,29 +1123,6 @@
     "signed_in": false
    },
    {
-    "name": "Daron Payne",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 52,
-    "last": 0,
-    "g50": 6,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "NT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034333",
-    "jersey": "94",
-    "origin": "NT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jer'Zhan Newton",
     "grp": "DL",
     "chartpos": "LDE",
@@ -1130,6 +1141,29 @@
     "gsis": "00-0039906",
     "jersey": "95",
     "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Daron Payne",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 52,
+    "last": 0,
+    "g50": 6,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034333",
+    "jersey": "94",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
