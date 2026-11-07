@@ -1,7 +1,7 @@
 {
  "team": "HOU",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -172,29 +192,6 @@
     "signed_in": false
    },
    {
-    "name": "Keylan Rutledge",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041532",
-    "jersey": "66",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Evan Brown",
     "grp": "OL",
     "chartpos": "C",
@@ -213,6 +210,29 @@
     "gsis": "00-0034495",
     "jersey": "63",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Keylan Rutledge",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041532",
+    "jersey": "66",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -544,29 +564,6 @@
   ],
   "injured": [
    {
-    "name": "Jaylin Noel",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 42,
-    "last": 31,
-    "g50": 2,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040138",
-    "jersey": "13",
-    "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jayden Higgins",
     "grp": "WR",
     "chartpos": "WR",
@@ -585,6 +582,29 @@
     "gsis": "00-0040130",
     "jersey": "81",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylin Noel",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 42,
+    "last": 31,
+    "g50": 2,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040138",
+    "jersey": "13",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1017,6 +1037,29 @@
   ],
   "injured": [
    {
+    "name": "Jaylin Smith",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "LCB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040149",
+    "jersey": "22",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "E.J. Speed",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1058,29 +1101,6 @@
     "gsis": "00-0039009",
     "jersey": "92",
     "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaylin Smith",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "LCB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040149",
-    "jersey": "22",
-    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

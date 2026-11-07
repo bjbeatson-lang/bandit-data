@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -57,6 +69,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -71,6 +87,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -84,6 +104,10 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -99,6 +123,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -113,6 +141,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -127,6 +159,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -208,29 +244,6 @@
     "signed_in": false
    },
    {
-    "name": "Brian O'Neill",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 99,
-    "last": 100,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034158",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Will Fries",
     "grp": "OL",
     "chartpos": "RG",
@@ -254,6 +267,29 @@
     "signed_in": false
    },
    {
+    "name": "Brian O'Neill",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 99,
+    "last": 100,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034158",
+    "jersey": "75",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Christian Darrisaw",
     "grp": "OL",
     "chartpos": "LT",
@@ -264,7 +300,7 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -356,7 +392,7 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -783,7 +819,7 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1015,7 +1051,7 @@
     "june_tier": 2,
     "now": "LILB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Calf",
     "rookie": true,
     "returning": false,

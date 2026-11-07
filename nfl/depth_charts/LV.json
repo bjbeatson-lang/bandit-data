@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -46,7 +54,7 @@
    "gsis": "00-0037262",
    "jersey": "99",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -69,6 +81,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -78,7 +94,7 @@
    "gsis": "00-0040641",
    "jersey": "26",
    "injury": "Groin",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -87,6 +103,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -117,29 +137,6 @@
     "gsis": "00-0029604",
     "jersey": "8",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Spencer Burford",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037829",
-    "jersey": "70",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -186,6 +183,29 @@
     "gsis": "00-0039349",
     "jersey": "71",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Spencer Burford",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037829",
+    "jersey": "70",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -764,8 +784,8 @@
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -803,29 +823,6 @@
   ],
   "next": [
    {
-    "name": "Thomas Booker",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 27,
-    "last": 45,
-    "g50": 1,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "RDE2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037262",
-    "jersey": "99",
-    "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tonka Hemingway",
     "grp": "DL",
     "chartpos": "RDE",
@@ -844,6 +841,29 @@
     "gsis": "00-0040169",
     "jersey": "97",
     "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "JJ Pegues",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 9,
+    "last": 0,
+    "g50": 0,
+    "june": "NT3",
+    "june_tier": 3,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040199",
+    "jersey": "92",
+    "origin": "NT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1010,9 +1030,41 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Thomas Booker",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 27,
+    "last": 45,
+    "g50": 1,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "RDE2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037262",
+    "jersey": "99",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Darien Porter",
+   "pos": "CB",
+   "gsis": "00-0040641",
+   "jersey": "26",
+   "injury": "Groin",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

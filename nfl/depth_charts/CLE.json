@@ -1,7 +1,7 @@
 {
  "team": "CLE",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0033131",
    "jersey": "96",
    "injury": "Elbow",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -28,7 +32,7 @@
    "gsis": "00-0033537",
    "jersey": "4",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -37,6 +41,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -109,6 +129,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -127,6 +151,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -140,6 +168,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -159,6 +191,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -177,6 +213,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -190,6 +230,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -212,8 +256,8 @@
     "june": "QB1",
     "june_tier": 1,
     "now": "QB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
     "returning": false,
@@ -221,6 +265,29 @@
     "gsis": "00-0033537",
     "jersey": "4",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zion Johnson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037818",
+    "jersey": "77",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -249,6 +316,29 @@
     "signed_in": false
    },
    {
+    "name": "Austin Barber",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Calf",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041049",
+    "jersey": "58",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Elgton Jenkins",
     "grp": "OL",
     "chartpos": "C",
@@ -267,52 +357,6 @@
     "gsis": "00-0035526",
     "jersey": "74",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Austin Barber",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Calf",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041049",
-    "jersey": "58",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Zion Johnson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037818",
-    "jersey": "77",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -374,7 +418,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Calf",
     "rookie": true,
     "returning": false,
@@ -596,29 +640,6 @@
     "signed_in": false
    },
    {
-    "name": "Luke Wypler",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038609",
-    "jersey": "56",
-    "origin": "C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Zak Zinter",
     "grp": "OL",
     "chartpos": "LG",
@@ -637,6 +658,29 @@
     "gsis": "00-0039350",
     "jersey": "70",
     "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Wypler",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038609",
+    "jersey": "56",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -686,7 +730,7 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Wrist",
     "rookie": false,
     "returning": false,
@@ -860,29 +904,6 @@
     "signed_in": false
    },
    {
-    "name": "Mason Graham",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 47,
-    "last": 75,
-    "g50": 5,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0040685",
-    "jersey": "94",
-    "origin": "LDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Emmanuel McNeil-Warren",
     "grp": "S",
     "chartpos": "SS",
@@ -927,32 +948,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
-    "name": "Maliek Collins",
+    "name": "Mason Graham",
     "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 62,
-    "last": 44,
-    "g50": 6,
-    "june": "RDT1",
+    "chartpos": "LDT",
+    "avg3": 47,
+    "last": 75,
+    "g50": 5,
+    "june": "LDT1",
     "june_tier": 1,
-    "now": "RDT1",
+    "now": "LDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Elbow",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033131",
-    "jersey": "96",
-    "origin": "RDT1",
+    "gsis": "00-0040685",
+    "jersey": "94",
+    "origin": "LDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "next": [
    {
     "name": "Adin Huntington",
     "grp": "DL",
@@ -972,6 +993,29 @@
     "gsis": "00-0040255",
     "jersey": "98",
     "origin": "LDT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mike Hall Jr.",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 16,
+    "last": 47,
+    "g50": 1,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "RDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039895",
+    "jersey": "51",
+    "origin": "RDT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1117,29 +1161,6 @@
   ],
   "injured": [
    {
-    "name": "Alex Wright",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037251",
-    "jersey": "91",
-    "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kalia Davis",
     "grp": "DL",
     "chartpos": "LDT",
@@ -1161,9 +1182,64 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Maliek Collins",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 62,
+    "last": 44,
+    "g50": 6,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Elbow",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0033131",
+    "jersey": "96",
+    "origin": "RDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alex Wright",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037251",
+    "jersey": "91",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "gsis": "00-0033537",
+   "jersey": "4",
+   "injury": "Concussion",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

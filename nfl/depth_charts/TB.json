@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -61,6 +73,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -70,7 +86,7 @@
    "gsis": "00-0039068",
    "jersey": "0",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -78,6 +94,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -93,6 +113,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -111,6 +135,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -120,7 +148,7 @@
    "gsis": "00-0040129",
    "jersey": "2",
    "injury": "Foot",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -128,6 +156,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -146,6 +178,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -205,29 +241,6 @@
     "signed_in": false
    },
    {
-    "name": "Cody Mauch",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 97,
-    "last": 100,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Back",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039157",
-    "jersey": "69",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ben Bredeson",
     "grp": "OL",
     "chartpos": "LG",
@@ -251,6 +264,29 @@
     "signed_in": false
    },
    {
+    "name": "Cody Mauch",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 97,
+    "last": 100,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039157",
+    "jersey": "69",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tristan Wirfs",
     "grp": "OL",
     "chartpos": "LT",
@@ -261,7 +297,7 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Toe",
     "rookie": false,
     "returning": false,
@@ -307,7 +343,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -353,7 +389,7 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -398,7 +434,7 @@
     "june": "WR2",
     "june_tier": 1,
     "now": "WR1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
@@ -734,7 +770,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -897,7 +933,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -933,29 +969,6 @@
     "signed_in": false
    },
    {
-    "name": "Yaya Diaby",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 37,
-    "last": 13,
-    "g50": 6,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039068",
-    "jersey": "0",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Al-Quadin Muhammad",
     "grp": "ED",
     "chartpos": "WLB",
@@ -974,6 +987,29 @@
     "gsis": "00-0033964",
     "jersey": "97",
     "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anthony Nelson",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 19,
+    "last": 30,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035254",
+    "jersey": "98",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1050,6 +1086,29 @@
   ],
   "injured": [
    {
+    "name": "Josh Hayes",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039051",
+    "jersey": "32",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Christian Rozeboom",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1073,30 +1132,39 @@
     "signed_in": false
    },
    {
-    "name": "Josh Hayes",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "name": "Yaya Diaby",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 37,
+    "last": 13,
+    "g50": 6,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039051",
-    "jersey": "32",
-    "origin": "RCB2",
+    "why": "Out",
+    "gsis": "00-0039068",
+    "jersey": "0",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Emeka Egbuka",
+   "pos": "WR",
+   "gsis": "00-0040129",
+   "jersey": "2",
+   "injury": "Foot",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

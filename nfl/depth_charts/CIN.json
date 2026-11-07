@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -33,6 +37,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dexter Lawrence",
+   "pos": "DT",
+   "gsis": "00-0035683",
+   "jersey": "97",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -42,7 +64,7 @@
    "gsis": "00-0036231",
    "jersey": "29",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -50,6 +72,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -69,6 +95,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -87,6 +117,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -96,7 +130,7 @@
    "gsis": "00-0039752",
    "jersey": "52",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -105,6 +139,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -140,29 +178,6 @@
     "signed_in": false
    },
    {
-    "name": "Dylan Fairchild",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040140",
-    "jersey": "63",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Orlando Brown",
     "grp": "OL",
     "chartpos": "LT",
@@ -181,6 +196,29 @@
     "gsis": "00-0034752",
     "jersey": "75",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dylan Fairchild",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040140",
+    "jersey": "63",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -581,29 +619,6 @@
     "signed_in": false
    },
    {
-    "name": "Brian Parker II",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041098",
-    "jersey": "62",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Erick All",
     "grp": "TE",
     "chartpos": "TE",
@@ -622,6 +637,29 @@
     "gsis": "00-0039814",
     "jersey": "83",
     "origin": "TE3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Brian Parker II",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041098",
+    "jersey": "62",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -692,7 +730,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": false,
@@ -830,8 +868,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -876,7 +914,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -901,7 +939,7 @@
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -946,8 +984,8 @@
     "june": "LDE3",
     "june_tier": 3,
     "now": "LDE2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1100,29 +1138,6 @@
     "signed_in": false
    },
    {
-    "name": "Ja'Sir Taylor",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "NB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037307",
-    "jersey": "26",
-    "origin": "NB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cashius Howell",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1144,9 +1159,64 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Kyle Dugger",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Quadricep",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036231",
+    "jersey": "29",
+    "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ja'Sir Taylor",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NB2",
+    "june_tier": 2,
+    "now": "NB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037307",
+    "jersey": "26",
+    "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Cedric Johnson",
+   "pos": "DE",
+   "gsis": "00-0039752",
+   "jersey": "52",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

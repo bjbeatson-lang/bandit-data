@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -57,6 +69,24 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyrique Stevenson",
+   "pos": "CB",
+   "gsis": "00-0039071",
+   "jersey": "29",
+   "injury": "Thumb",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -71,6 +101,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -80,11 +114,15 @@
    "gsis": "00-0040236",
    "jersey": "25",
    "injury": "Thumb",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -94,10 +132,14 @@
    "gsis": "00-0041060",
    "jersey": "24",
    "injury": "Toe",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -134,6 +176,29 @@
     "signed_in": false
    },
    {
+    "name": "Joe Thuney",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032391",
+    "jersey": "62",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Darnell Wright",
     "grp": "OL",
     "chartpos": "RT",
@@ -152,29 +217,6 @@
     "gsis": "00-0038932",
     "jersey": "58",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Thuney",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0032391",
-    "jersey": "62",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -236,7 +278,7 @@
     "june_tier": 2,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -552,29 +594,6 @@
   ],
   "injured": [
    {
-    "name": "Braxton Jones",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037081",
-    "jersey": "70",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cole Kmet",
     "grp": "TE",
     "chartpos": "TE",
@@ -593,6 +612,29 @@
     "gsis": "00-0036290",
     "jersey": "85",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Braxton Jones",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037081",
+    "jersey": "70",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -732,7 +774,7 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -800,9 +842,9 @@
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -941,7 +983,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -986,7 +1028,7 @@
     "june": "RCB2",
     "june_tier": 2,
     "now": "RCB2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Toe",
     "rookie": true,
@@ -1025,24 +1067,24 @@
   ],
   "injured": [
    {
-    "name": "Dayo Odeyingbo",
-    "grp": "ED",
-    "chartpos": "RDE",
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
     "avg3": 0,
     "last": 0,
-    "g50": 4,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE2",
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036480",
-    "jersey": "55",
-    "origin": "RDE1",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1071,6 +1113,29 @@
     "signed_in": false
    },
    {
+    "name": "Dayo Odeyingbo",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036480",
+    "jersey": "55",
+    "origin": "RDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kentavius Street",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1092,32 +1157,34 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Tyrique Stevenson",
+   "pos": "CB",
+   "gsis": "00-0039071",
+   "jersey": "29",
+   "injury": "Thumb",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Kyle Monangai",
+   "pos": "RB",
+   "gsis": "00-0040236",
+   "jersey": "25",
+   "injury": "Thumb",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Malik Muhammad",
+   "pos": "CB",
+   "gsis": "00-0041060",
+   "jersey": "24",
+   "injury": "Toe",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

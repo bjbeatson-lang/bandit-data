@@ -1,7 +1,7 @@
 {
  "team": "MIA",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0036682",
    "jersey": "90",
    "injury": "Neck",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0039874",
    "jersey": "5",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -91,6 +107,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -109,6 +129,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -118,7 +142,7 @@
    "gsis": "00-0041096",
    "jersey": "30",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -127,6 +151,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -145,6 +173,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -163,6 +195,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -221,29 +257,6 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Paul",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039899",
-    "jersey": "52",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Jackson",
     "grp": "OL",
     "chartpos": "RT",
@@ -262,6 +275,29 @@
     "gsis": "00-0036248",
     "jersey": "73",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Paul",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039899",
+    "jersey": "52",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -532,7 +568,7 @@
     "june_tier": 2,
     "now": "TE2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": true,
     "returning": false,
@@ -591,24 +627,24 @@
     "signed_in": false
    },
    {
-    "name": "Chukwuebuka Godrick",
+    "name": "Andrew Meyer",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LT2",
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039174",
-    "jersey": "79",
-    "origin": "KC RT2",
+    "gsis": "00-0039485",
+    "jersey": "60",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -704,7 +740,7 @@
     "june_tier": 3,
     "now": "FS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Wrist",
     "rookie": true,
     "returning": false,
@@ -727,7 +763,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -773,7 +809,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -865,7 +901,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -958,7 +994,7 @@
     "june": "not on June chart",
     "june_tier": null,
     "now": "LDE2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Neck",
     "rookie": false,
@@ -1112,29 +1148,6 @@
     "signed_in": false
    },
    {
-    "name": "Trey Moore",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041526",
-    "jersey": "17",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ronnie Harrison",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1156,9 +1169,57 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Trey Moore",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041526",
+    "jersey": "17",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Malik Herring",
+   "pos": "DE",
+   "gsis": "00-0036682",
+   "jersey": "90",
+   "injury": "Neck",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Jaylen Wright",
+   "pos": "RB",
+   "gsis": "00-0039874",
+   "jersey": "5",
+   "injury": "Quadricep",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Kaytron Allen",
+   "pos": "RB",
+   "gsis": "00-0041096",
+   "jersey": "30",
+   "injury": "Quadricep",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

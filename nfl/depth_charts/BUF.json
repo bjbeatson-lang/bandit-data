@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -56,6 +68,24 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Sam Franklin Jr.",
+   "pos": "S",
+   "gsis": "00-0036037",
+   "jersey": "28",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -71,6 +101,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -84,6 +118,24 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "gsis": "00-0037261",
+   "jersey": "10",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -99,6 +151,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -113,6 +169,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -127,6 +187,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -140,6 +204,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -199,29 +267,6 @@
     "signed_in": false
    },
    {
-    "name": "Connor McGovern",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 98,
-    "last": 95,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035679",
-    "jersey": "66",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dion Dawkins",
     "grp": "OL",
     "chartpos": "LT",
@@ -240,6 +285,29 @@
     "gsis": "00-0033904",
     "jersey": "73",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Connor McGovern",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 98,
+    "last": 95,
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035679",
+    "jersey": "66",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -370,7 +438,7 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Chest",
     "rookie": false,
     "returning": false,
@@ -441,7 +509,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Illness",
     "rookie": false,
     "returning": false,
@@ -464,8 +532,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -569,24 +637,24 @@
     "signed_in": false
    },
    {
-    "name": "Jude Bowry",
+    "name": "Lloyd Cushenberry III",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 2,
     "last": 5,
     "g50": 0,
-    "june": "LT3",
-    "june_tier": 3,
-    "now": "LT2",
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041548",
-    "jersey": "74",
-    "origin": "LT3",
+    "gsis": "00-0036391",
+    "jersey": "53",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -751,8 +819,8 @@
     "june_tier": 1,
     "now": "NT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "",

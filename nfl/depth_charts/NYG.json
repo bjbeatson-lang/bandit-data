@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 9,
- "chart_date": "2026-11-06",
+ "chart_date": "2026-11-07",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0038576",
    "jersey": "89",
    "injury": "Hand",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -87,6 +103,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -105,6 +125,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -119,6 +143,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -128,7 +156,7 @@
    "gsis": "00-0040715",
    "jersey": "44",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Doubtful",
    "days": [
     [
      "Wed",
@@ -137,6 +165,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -154,6 +186,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -190,29 +226,6 @@
     "signed_in": false
    },
    {
-    "name": "Bryan Hudson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039446",
-    "jersey": "60",
-    "origin": "C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Francis Mauigoa",
     "grp": "OL",
     "chartpos": "RG",
@@ -231,6 +244,29 @@
     "gsis": "00-0041505",
     "jersey": "65",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Hudson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039446",
+    "jersey": "60",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -269,7 +305,7 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Groin",
     "rookie": false,
     "returning": false,
@@ -305,24 +341,24 @@
     "signed_in": false
    },
    {
-    "name": "Cam Skattebo",
+    "name": "Patrick Ricard",
     "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 42,
-    "last": 56,
-    "g50": 6,
-    "june": "RB1",
+    "chartpos": "FB",
+    "avg3": 30,
+    "last": 52,
+    "g50": 2,
+    "june": "FB1",
     "june_tier": 1,
-    "now": "RB1",
+    "now": "FB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040715",
-    "jersey": "44",
-    "origin": "RB1",
+    "gsis": "00-0033376",
+    "jersey": "45",
+    "origin": "FB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -361,7 +397,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -445,24 +481,24 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Ricard",
+    "name": "Devin Singletary",
     "grp": "RB",
-    "chartpos": "FB",
-    "avg3": 30,
-    "last": 52,
-    "g50": 2,
-    "june": "FB1",
-    "june_tier": 1,
-    "now": "FB1",
+    "chartpos": "RB",
+    "avg3": 23,
+    "last": 29,
+    "g50": 0,
+    "june": "RB3",
+    "june_tier": 3,
+    "now": "RB2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033376",
-    "jersey": "45",
-    "origin": "FB1",
+    "gsis": "00-0035250",
+    "jersey": "26",
+    "origin": "RB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -477,7 +513,7 @@
     "june": "not on June chart",
     "june_tier": null,
     "now": "WR4",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hand",
     "rookie": false,
@@ -524,7 +560,7 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -626,6 +662,29 @@
     "gsis": "00-0040691",
     "jersey": "6",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Skattebo",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 42,
+    "last": 56,
+    "g50": 6,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB1",
+    "report": "Doubtful",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Doubtful",
+    "gsis": "00-0040715",
+    "jersey": "44",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -928,7 +987,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,
@@ -1081,6 +1140,29 @@
   ],
   "injured": [
    {
+    "name": "Tremaine Edmunds",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 67,
+    "last": 0,
+    "g50": 6,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034673",
+    "jersey": "49",
+    "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Chauncey Golston",
     "grp": "DL",
     "chartpos": "RDE",
@@ -1125,33 +1207,19 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Tremaine Edmunds",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 67,
-    "last": 0,
-    "g50": 6,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034673",
-    "jersey": "49",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Charlie Jones",
+   "pos": "WR",
+   "gsis": "00-0038576",
+   "jersey": "89",
+   "injury": "Hand",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": [
   "CJ Okoye"
  ]
