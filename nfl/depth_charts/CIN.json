@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -23,6 +23,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -41,6 +45,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -77,6 +89,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -98,6 +114,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -121,6 +141,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -142,6 +166,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -178,29 +206,6 @@
     "signed_in": false
    },
    {
-    "name": "Orlando Brown",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034752",
-    "jersey": "75",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dylan Fairchild",
     "grp": "OL",
     "chartpos": "LG",
@@ -219,6 +224,29 @@
     "gsis": "00-0040140",
     "jersey": "63",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Orlando Brown",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034752",
+    "jersey": "75",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -596,29 +624,6 @@
   ],
   "injured": [
    {
-    "name": "Andrei Iosivas",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038619",
-    "jersey": "80",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Erick All",
     "grp": "TE",
     "chartpos": "TE",
@@ -660,6 +665,29 @@
     "gsis": "00-0041098",
     "jersey": "62",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Andrei Iosivas",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038619",
+    "jersey": "80",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1115,29 +1143,6 @@
   ],
   "injured": [
    {
-    "name": "Jalen Davis",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034446",
-    "jersey": "35",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cashius Howell",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1161,29 +1166,6 @@
     "signed_in": false
    },
    {
-    "name": "Kyle Dugger",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Quadricep",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036231",
-    "jersey": "29",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ja'Sir Taylor",
     "grp": "CB",
     "chartpos": "NB",
@@ -1202,6 +1184,52 @@
     "gsis": "00-0037307",
     "jersey": "26",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen Davis",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034446",
+    "jersey": "35",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kyle Dugger",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Quadricep",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036231",
+    "jersey": "29",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

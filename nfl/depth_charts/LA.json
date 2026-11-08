@@ -1,7 +1,7 @@
 {
  "team": "LA",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -50,6 +58,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -94,6 +110,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -117,6 +137,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -130,6 +154,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -153,6 +181,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -174,6 +206,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -197,6 +233,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -219,6 +259,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -233,6 +277,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -246,6 +294,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -269,6 +321,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -290,6 +346,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -372,29 +432,6 @@
     "signed_in": false
    },
    {
-    "name": "Steve Avila",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 99,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039058",
-    "jersey": "73",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kevin Dotson",
     "grp": "OL",
     "chartpos": "RG",
@@ -413,6 +450,29 @@
     "gsis": "00-0036339",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Steve Avila",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 99,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039058",
+    "jersey": "73",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -744,6 +804,29 @@
   ],
   "injured": [
    {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Davante Adams",
     "grp": "WR",
     "chartpos": "WR",
@@ -785,29 +868,6 @@
     "gsis": "00-0040737",
     "jersey": "18",
     "origin": "TE3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1131,7 +1191,7 @@
     "g50": 1,
     "june": "WLB3",
     "june_tier": 3,
-    "now": "SLB2",
+    "now": "SLB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1154,7 +1214,7 @@
     "g50": 0,
     "june": "SLB5",
     "june_tier": 5,
-    "now": "SLB3",
+    "now": "SLB4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1263,6 +1323,29 @@
   ],
   "injured": [
    {
+    "name": "Kobie Turner",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 11,
+    "last": 0,
+    "g50": 5,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039138",
+    "jersey": "91",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Myles Garrett",
     "grp": "ED",
     "chartpos": "SLB",
@@ -1271,7 +1354,7 @@
     "g50": 1,
     "june": "SLB1",
     "june_tier": 1,
-    "now": "SLB4",
+    "now": "SLB1",
     "report": "",
     "practice": "Did Not Participate In Practice",
     "injury": "Knee",
@@ -1317,7 +1400,7 @@
     "g50": 6,
     "june": "LCB1",
     "june_tier": 1,
-    "now": "LCB3",
+    "now": "LCB4",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
     "injury": "Shoulder",
@@ -1327,29 +1410,6 @@
     "gsis": "00-0037195",
     "jersey": "35",
     "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kobie Turner",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 11,
-    "last": 0,
-    "g50": 5,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039138",
-    "jersey": "91",
-    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

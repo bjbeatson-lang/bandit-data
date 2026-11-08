@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -40,6 +44,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -63,6 +71,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -84,6 +96,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -107,6 +123,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -129,6 +149,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -142,6 +166,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -165,6 +193,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -187,6 +219,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -196,10 +232,14 @@
    "gsis": "00-0041043",
    "jersey": "25",
    "injury": "Ankle",
-   "designation": "Questionable",
+   "designation": "Out",
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -282,29 +322,6 @@
     "signed_in": false
    },
    {
-    "name": "Tanor Bortolini",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 96,
-    "last": 87,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039744",
-    "jersey": "60",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bernhard Raimann",
     "grp": "OL",
     "chartpos": "LT",
@@ -323,6 +340,29 @@
     "gsis": "00-0037757",
     "jersey": "79",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tanor Bortolini",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 96,
+    "last": 87,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039744",
+    "jersey": "60",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -606,29 +646,6 @@
     "signed_in": false
    },
    {
-    "name": "Sedrick Van Pran-Granger",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 4,
-    "last": 13,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "C2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039876",
-    "jersey": "63",
-    "origin": "BUF C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dalton Tucker",
     "grp": "OL",
     "chartpos": "LG",
@@ -647,6 +664,29 @@
     "gsis": "00-0039578",
     "jersey": "68",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sedrick Van Pran-Granger",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 4,
+    "last": 13,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039876",
+    "jersey": "63",
+    "origin": "BUF C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -727,29 +767,6 @@
     "gsis": "00-0034573",
     "jersey": "7",
     "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "A.J. Haulcy",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 91,
-    "last": 85,
-    "g50": 7,
-    "june": "FS2",
-    "june_tier": 2,
-    "now": "SS1",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041043",
-    "jersey": "25",
-    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -937,9 +954,7 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "Jerry Tillery",
     "grp": "DL",
@@ -962,7 +977,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "next": [
    {
     "name": "Tim Smith",
     "grp": "DL",
@@ -985,6 +1002,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Kevin Givens",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035026",
+    "jersey": "74",
+    "origin": "SF",
+    "psq": false,
+    "trade_in": true,
+    "signed_in": true
    },
    {
     "name": "Caden Curry",
@@ -1127,70 +1167,24 @@
   ],
   "injured": [
    {
-    "name": "Arden Key",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034825",
-    "jersey": "98",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Justin Walley",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 53,
-    "last": 0,
+    "name": "A.J. Haulcy",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 91,
+    "last": 85,
     "g50": 7,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB1",
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
     "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
+    "rookie": true,
     "returning": false,
     "why": "Out",
-    "gsis": "00-0040139",
-    "jersey": "27",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
+    "gsis": "00-0041043",
+    "jersey": "25",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1219,6 +1213,29 @@
     "signed_in": false
    },
    {
+    "name": "Justin Walley",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 53,
+    "last": 0,
+    "g50": 7,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040139",
+    "jersey": "27",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Cam Taylor-Britt",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1227,7 +1244,7 @@
     "g50": 1,
     "june": "RCB2",
     "june_tier": 2,
-    "now": "RCB2",
+    "now": "RCB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1237,6 +1254,52 @@
     "gsis": "00-0037753",
     "jersey": "29",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Arden Key",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034825",
+    "jersey": "98",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1251,14 +1314,6 @@
    "jersey": "75",
    "injury": "Thumb",
    "practice": "Full Participation in Practice"
-  },
-  {
-   "name": "A.J. Haulcy",
-   "pos": "S",
-   "gsis": "00-0041043",
-   "jersey": "25",
-   "injury": "Ankle",
-   "practice": "Limited Participation in Practice"
   }
  ],
  "unmatched_snap_names": []

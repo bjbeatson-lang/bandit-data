@@ -1,7 +1,7 @@
 {
  "team": "NE",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0029685",
    "jersey": "70",
    "injury": "Hamstring",
-   "designation": "Questionable",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -199,6 +231,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -217,6 +253,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -234,6 +274,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -257,6 +301,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -278,6 +326,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -460,7 +512,7 @@
     "g50": 4,
     "june": "WR7",
     "june_tier": 3,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -600,7 +652,7 @@
     "g50": 1,
     "june": "WR6",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -709,70 +761,24 @@
   ],
   "injured": [
    {
-    "name": "Mike Onwenu",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
+    "name": "A.J. Brown",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 56,
     "last": 0,
-    "g50": 1,
-    "june": "RG1",
+    "g50": 2,
+    "june": "WR1",
     "june_tier": 1,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0036198",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Reggie Gilliam",
-    "grp": "RB",
-    "chartpos": "FB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FB1",
-    "june_tier": 1,
-    "now": "FB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036187",
-    "jersey": "44",
-    "origin": "FB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Greg Van Roten",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG4",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0029685",
-    "jersey": "70",
-    "origin": "FA",
+    "why": "Out",
+    "gsis": "00-0035676",
+    "jersey": "1",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -801,24 +807,116 @@
     "signed_in": false
    },
    {
-    "name": "A.J. Brown",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 56,
+    "name": "Mike Onwenu",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "WR1",
+    "g50": 1,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "WR1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0035676",
-    "jersey": "1",
-    "origin": "WR1",
+    "why": "IR",
+    "gsis": "00-0036198",
+    "jersey": "71",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mack Hollins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033555",
+    "jersey": "13",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Greg Van Roten",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG3",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0029685",
+    "jersey": "70",
+    "origin": "FA",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Reggie Gilliam",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036187",
+    "jersey": "44",
+    "origin": "FB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alijah Vera-Tucker",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 11,
+    "last": 0,
+    "g50": 5,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036979",
+    "jersey": "75",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -842,52 +940,6 @@
     "gsis": "00-0040734",
     "jersey": "32",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Mack Hollins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033555",
-    "jersey": "13",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Alijah Vera-Tucker",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 11,
-    "last": 0,
-    "g50": 5,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036979",
-    "jersey": "75",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -920,29 +972,6 @@
     "gsis": "00-0036813",
     "jersey": "53",
     "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Craig Woodson",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040716",
-    "jersey": "4",
-    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -989,6 +1018,29 @@
     "gsis": "00-0039147",
     "jersey": "0",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Craig Woodson",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040716",
+    "jersey": "4",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1320,29 +1372,6 @@
   ],
   "injured": [
    {
-    "name": "Harold Landry III",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034828",
-    "jersey": "2",
-    "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dell Pettus",
     "grp": "S",
     "chartpos": "SS",
@@ -1364,18 +1393,33 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Harold Landry III",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034828",
+    "jersey": "2",
+    "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
  "questionable": [
-  {
-   "name": "Greg Van Roten",
-   "pos": "G",
-   "gsis": "00-0029685",
-   "jersey": "70",
-   "injury": "Hamstring",
-   "practice": "Limited Participation in Practice"
-  },
   {
    "name": "Morgan Moses",
    "pos": "T",

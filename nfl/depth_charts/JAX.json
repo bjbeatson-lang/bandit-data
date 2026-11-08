@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -260,6 +296,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -319,29 +359,6 @@
     "signed_in": false
    },
    {
-    "name": "Robert Hainsey",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 94,
-    "last": 81,
-    "g50": 7,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036985",
-    "jersey": "73",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cole Van Lanen",
     "grp": "OL",
     "chartpos": "RT",
@@ -360,6 +377,29 @@
     "gsis": "00-0036655",
     "jersey": "70",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Robert Hainsey",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 94,
+    "last": 81,
+    "g50": 7,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036985",
+    "jersey": "73",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1210,6 +1250,52 @@
   ],
   "injured": [
    {
+    "name": "Caleb Ransaw",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "FS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Parker Hughes",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041127",
+    "jersey": "53",
+    "origin": "MLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Eric Murray",
     "grp": "S",
     "chartpos": "SS",
@@ -1251,52 +1337,6 @@
     "gsis": "00-0036262",
     "jersey": "52",
     "origin": "RDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Parker Hughes",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "MLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041127",
-    "jersey": "53",
-    "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Caleb Ransaw",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "FS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

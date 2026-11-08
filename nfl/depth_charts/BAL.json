@@ -1,7 +1,7 @@
 {
  "team": "BAL",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -260,6 +296,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -714,52 +754,6 @@
   ],
   "injured": [
    {
-    "name": "Jovaughn Gwyn",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "C4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038629",
-    "jersey": "54",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tyler Huntley",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 73,
-    "last": 20,
-    "g50": 3,
-    "june": "QB2",
-    "june_tier": 2,
-    "now": "QB5",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Toe",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035993",
-    "jersey": "5",
-    "origin": "QB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Durham Smythe",
     "grp": "TE",
     "chartpos": "TE",
@@ -783,6 +777,29 @@
     "signed_in": false
    },
    {
+    "name": "Jovaughn Gwyn",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "C4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038629",
+    "jersey": "54",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Lamar Jackson",
     "grp": "QB",
     "chartpos": "QB",
@@ -801,6 +818,29 @@
     "gsis": "00-0034796",
     "jersey": "8",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyler Huntley",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 73,
+    "last": 20,
+    "g50": 3,
+    "june": "QB2",
+    "june_tier": 2,
+    "now": "QB5",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035993",
+    "jersey": "5",
+    "origin": "QB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1233,29 +1273,6 @@
   ],
   "injured": [
    {
-    "name": "Jaylinn Hawkins",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 29,
-    "last": 0,
-    "g50": 6,
-    "june": "FS2",
-    "june_tier": 2,
-    "now": "SS1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036302",
-    "jersey": "21",
-    "origin": "FS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tavius Robinson",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1274,6 +1291,29 @@
     "gsis": "00-0038505",
     "jersey": "95",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylinn Hawkins",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 29,
+    "last": 0,
+    "g50": 6,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036302",
+    "jersey": "21",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

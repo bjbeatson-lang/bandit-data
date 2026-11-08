@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -41,6 +45,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -62,6 +70,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -85,6 +97,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -106,6 +122,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -129,6 +149,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -263,7 +291,7 @@
     "g50": 5,
     "june": "LT3",
     "june_tier": 3,
-    "now": "LT1",
+    "now": "LT2",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Thumb",
@@ -303,13 +331,13 @@
    {
     "name": "Kendre Miller",
     "grp": "RB",
-    "chartpos": "RB",
+    "chartpos": "",
     "avg3": 38,
     "last": 39,
     "g50": 0,
     "june": "RB4",
     "june_tier": 4,
-    "now": "RB2",
+    "now": "",
     "report": "",
     "practice": "",
     "injury": "",
@@ -332,7 +360,7 @@
     "g50": 7,
     "june": "WR3",
     "june_tier": 1,
-    "now": "WR2",
+    "now": "WR3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -401,7 +429,7 @@
     "g50": 6,
     "june": "WR5",
     "june_tier": 2,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -472,7 +500,7 @@
     "g50": 0,
     "june": "WR6",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -535,13 +563,13 @@
    {
     "name": "Mason Murphy",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RT",
     "avg3": 3,
     "last": 0,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "LT2",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -604,29 +632,6 @@
     "signed_in": false
    },
    {
-    "name": "Mason Tipton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039623",
-    "jersey": "15",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jordyn Tyson",
     "grp": "WR",
     "chartpos": "WR",
@@ -635,7 +640,7 @@
     "g50": 0,
     "june": "WR2",
     "june_tier": 1,
-    "now": "WR5",
+    "now": "WR2",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
@@ -645,6 +650,29 @@
     "gsis": "00-0041029",
     "jersey": "0",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kelvin Banks Jr.",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040125",
+    "jersey": "71",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -673,24 +701,24 @@
     "signed_in": false
    },
    {
-    "name": "Kelvin Banks Jr.",
-    "grp": "OL",
-    "chartpos": "LT",
+    "name": "Mason Tipton",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040125",
-    "jersey": "71",
-    "origin": "LT1",
+    "gsis": "00-0039623",
+    "jersey": "15",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false

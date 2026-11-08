@@ -1,7 +1,7 @@
 {
  "team": "PHI",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -198,6 +230,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -221,6 +257,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -242,6 +282,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -278,29 +322,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Steen",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039001",
-    "jersey": "56",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Markel Bell",
     "grp": "OL",
     "chartpos": "RT",
@@ -319,6 +340,29 @@
     "gsis": "00-0041554",
     "jersey": "72",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyler Steen",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039001",
+    "jersey": "56",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -541,7 +585,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RB2",
+    "now": "RB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -681,7 +725,7 @@
     "g50": 1,
     "june": "RB3",
     "june_tier": 3,
-    "now": "RB4",
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -691,6 +735,52 @@
     "gsis": "00-0039746",
     "jersey": "28",
     "origin": "RB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DeVonta Smith",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 22,
+    "last": 0,
+    "g50": 4,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036912",
+    "jersey": "6",
+    "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tank Bigsby",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038555",
+    "jersey": "8",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -737,52 +827,6 @@
     "gsis": "00-0036389",
     "jersey": "1",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tank Bigsby",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038555",
-    "jersey": "8",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "DeVonta Smith",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 22,
-    "last": 0,
-    "g50": 4,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0036912",
-    "jersey": "6",
-    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1238,29 +1282,6 @@
     "signed_in": false
    },
    {
-    "name": "Jihaad Campbell",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 38,
-    "last": 0,
-    "g50": 7,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040708",
-    "jersey": "11",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Michael Carter II",
     "grp": "S",
     "chartpos": "SS",
@@ -1279,6 +1300,29 @@
     "gsis": "00-0036501",
     "jersey": "35",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jihaad Campbell",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 38,
+    "last": 0,
+    "g50": 7,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040708",
+    "jersey": "11",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

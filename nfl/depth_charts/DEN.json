@@ -1,7 +1,7 @@
 {
  "team": "DEN",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -102,6 +118,10 @@
    "days": [
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -125,6 +145,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -147,6 +171,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -168,6 +196,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -204,24 +236,47 @@
     "signed_in": false
    },
    {
-    "name": "Garett Bolles",
+    "name": "Quinn Meinerz",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "LT1",
+    "june": "RG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033538",
-    "jersey": "72",
-    "origin": "LT1",
+    "gsis": "00-0037001",
+    "jersey": "77",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mike McGlinchey",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034847",
+    "jersey": "69",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -273,47 +328,24 @@
     "signed_in": false
    },
    {
-    "name": "Mike McGlinchey",
+    "name": "Garett Bolles",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "RT1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034847",
-    "jersey": "69",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Quinn Meinerz",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037001",
-    "jersey": "77",
-    "origin": "RG1",
+    "gsis": "00-0033538",
+    "jersey": "72",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -396,7 +428,7 @@
     "g50": 3,
     "june": "WR3",
     "june_tier": 1,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -490,7 +522,7 @@
     "g50": 0,
     "june": "WR5",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -513,7 +545,7 @@
     "g50": 0,
     "june": "WR6",
     "june_tier": 2,
-    "now": "WR5",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
@@ -597,24 +629,24 @@
     "signed_in": false
    },
    {
-    "name": "Kage Casey",
+    "name": "Alex Forsyth",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LG2",
+    "june": "C2",
     "june_tier": 2,
-    "now": "LG2",
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041498",
-    "jersey": "78",
-    "origin": "LG2",
+    "gsis": "00-0038649",
+    "jersey": "54",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -630,7 +662,7 @@
     "g50": 1,
     "june": "RB2",
     "june_tier": 2,
-    "now": "RB3",
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -676,7 +708,7 @@
     "g50": 3,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR6",
+    "now": "WR3",
     "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Ankle",
@@ -869,7 +901,7 @@
     "g50": 5,
     "june": "LDE1",
     "june_tier": 1,
-    "now": "RDE2",
+    "now": "RDE1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1172,7 +1204,7 @@
     "g50": 4,
     "june": "NT2",
     "june_tier": 2,
-    "now": "RDE1",
+    "now": "RDE3",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
     "injury": "Shoulder",

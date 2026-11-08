@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -86,6 +102,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -105,6 +125,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -123,6 +147,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -140,6 +168,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -176,29 +208,6 @@
     "signed_in": false
    },
    {
-    "name": "Joe Thuney",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0032391",
-    "jersey": "62",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Darnell Wright",
     "grp": "OL",
     "chartpos": "RT",
@@ -217,6 +226,29 @@
     "gsis": "00-0038932",
     "jersey": "58",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joe Thuney",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032391",
+    "jersey": "62",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1067,52 +1099,6 @@
   ],
   "injured": [
    {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Coby Bryant",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038136",
-    "jersey": "2",
-    "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dayo Odeyingbo",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1154,6 +1140,52 @@
     "gsis": "00-0034320",
     "jersey": "93",
     "origin": "RDT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Coby Bryant",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038136",
+    "jersey": "2",
+    "origin": "FS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 9,
- "chart_date": "2026-11-07",
+ "chart_date": "2026-11-08",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -77,6 +89,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -99,6 +115,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -116,6 +136,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -139,6 +163,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -161,6 +189,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -182,6 +214,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -241,29 +277,6 @@
     "signed_in": false
    },
    {
-    "name": "Ben Bredeson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 97,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036132",
-    "jersey": "68",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cody Mauch",
     "grp": "OL",
     "chartpos": "RG",
@@ -282,6 +295,29 @@
     "gsis": "00-0039157",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ben Bredeson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 97,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036132",
+    "jersey": "68",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1086,6 +1122,29 @@
   ],
   "injured": [
    {
+    "name": "Yaya Diaby",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 37,
+    "last": 13,
+    "g50": 6,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039068",
+    "jersey": "0",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Josh Hayes",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1127,29 +1186,6 @@
     "gsis": "00-0035942",
     "jersey": "52",
     "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Yaya Diaby",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 37,
-    "last": 13,
-    "g50": 6,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039068",
-    "jersey": "0",
-    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
