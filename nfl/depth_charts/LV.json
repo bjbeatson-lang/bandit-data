@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -79,6 +87,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -100,6 +112,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -126,6 +142,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -157,29 +177,6 @@
     "gsis": "00-0029604",
     "jersey": "8",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kolton Miller",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034759",
-    "jersey": "74",
-    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -249,6 +246,29 @@
     "gsis": "00-0039349",
     "jersey": "71",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kolton Miller",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034759",
+    "jersey": "74",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -555,24 +575,24 @@
     "signed_in": false
    },
    {
-    "name": "Charles Grant",
+    "name": "Bryce Cabeldue",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040151",
-    "jersey": "60",
-    "origin": "LT2",
+    "gsis": "00-0040650",
+    "jersey": "77",
+    "origin": "SEA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -606,6 +626,29 @@
     "gsis": "00-0037615",
     "jersey": "17",
     "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Eric Stokes",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036901",
+    "jersey": "5",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -652,29 +695,6 @@
     "gsis": "00-0036293",
     "jersey": "11",
     "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Eric Stokes",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036901",
-    "jersey": "5",
-    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -843,6 +863,29 @@
   ],
   "next": [
    {
+    "name": "Tim Keenan III",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 19,
+    "last": 30,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "NT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041534",
+    "jersey": "91",
+    "origin": "PS",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tonka Hemingway",
     "grp": "DL",
     "chartpos": "RDE",
@@ -861,29 +904,6 @@
     "gsis": "00-0040169",
     "jersey": "97",
     "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "JJ Pegues",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 9,
-    "last": 0,
-    "g50": 0,
-    "june": "NT3",
-    "june_tier": 3,
-    "now": "NT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040199",
-    "jersey": "92",
-    "origin": "NT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1006,29 +1026,6 @@
   ],
   "injured": [
    {
-    "name": "Keyron Crawford",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041553",
-    "jersey": "42",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chigozie Anusiem",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1047,6 +1044,29 @@
     "gsis": "00-0039676",
     "jersey": "29",
     "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Keyron Crawford",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041553",
+    "jersey": "42",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

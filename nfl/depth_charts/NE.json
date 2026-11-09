@@ -1,7 +1,7 @@
 {
  "team": "NE",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -257,6 +293,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -278,6 +318,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -305,6 +349,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -330,6 +378,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -366,29 +418,6 @@
     "signed_in": false
    },
    {
-    "name": "Jared Wilson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040147",
-    "jersey": "55",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Will Campbell",
     "grp": "OL",
     "chartpos": "LT",
@@ -407,6 +436,29 @@
     "gsis": "00-0040699",
     "jersey": "66",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jared Wilson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040147",
+    "jersey": "55",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -667,6 +719,29 @@
     "signed_in": false
    },
    {
+    "name": "Mack Hollins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033555",
+    "jersey": "13",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Cameron Latu",
     "grp": "TE",
     "chartpos": "TE",
@@ -761,24 +836,24 @@
   ],
   "injured": [
    {
-    "name": "A.J. Brown",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 56,
+    "name": "Greg Van Roten",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG3",
     "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0035676",
-    "jersey": "1",
-    "origin": "WR1",
+    "why": "IR",
+    "gsis": "00-0029685",
+    "jersey": "70",
+    "origin": "FA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -807,6 +882,29 @@
     "signed_in": false
    },
    {
+    "name": "Reggie Gilliam",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036187",
+    "jersey": "44",
+    "origin": "FB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Mike Onwenu",
     "grp": "OL",
     "chartpos": "RG",
@@ -830,70 +928,24 @@
     "signed_in": false
    },
    {
-    "name": "Mack Hollins",
+    "name": "A.J. Brown",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 0,
+    "avg3": 56,
     "last": 0,
-    "g50": 3,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR3",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033555",
-    "jersey": "13",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Greg Van Roten",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG3",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0029685",
-    "jersey": "70",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Reggie Gilliam",
-    "grp": "RB",
-    "chartpos": "FB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FB1",
+    "g50": 2,
+    "june": "WR1",
     "june_tier": 1,
-    "now": "FB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "WR1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0036187",
-    "jersey": "44",
-    "origin": "FB1",
+    "why": "Out",
+    "gsis": "00-0035676",
+    "jersey": "1",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1000,29 +1052,6 @@
     "signed_in": false
    },
    {
-    "name": "Christian Gonzalez",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039147",
-    "jersey": "0",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Craig Woodson",
     "grp": "S",
     "chartpos": "SS",
@@ -1041,6 +1070,29 @@
     "gsis": "00-0040716",
     "jersey": "4",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Christian Gonzalez",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039147",
+    "jersey": "0",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

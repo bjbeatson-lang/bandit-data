@@ -1,7 +1,7 @@
 {
  "team": "PHI",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -234,6 +266,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -261,6 +297,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -286,6 +326,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -317,29 +361,6 @@
     "gsis": "00-0038400",
     "jersey": "16",
     "origin": "QB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Markel Bell",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "RT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Finger",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041554",
-    "jersey": "72",
-    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -391,24 +412,24 @@
     "signed_in": false
    },
    {
-    "name": "Landon Dickerson",
+    "name": "Markel Bell",
     "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 67,
+    "chartpos": "RT",
+    "avg3": 100,
     "last": 100,
-    "g50": 3,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
+    "g50": 5,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "RT1",
     "report": "",
     "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": false,
+    "injury": "Finger",
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0037002",
-    "jersey": "69",
-    "origin": "LG1",
+    "gsis": "00-0041554",
+    "jersey": "72",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -437,6 +458,29 @@
     "signed_in": false
    },
    {
+    "name": "Landon Dickerson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 67,
+    "last": 100,
+    "g50": 3,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hip",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037002",
+    "jersey": "69",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Saquon Barkley",
     "grp": "RB",
     "chartpos": "RB",
@@ -450,7 +494,7 @@
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
-    "returning": false,
+    "returning": true,
     "why": "",
     "gsis": "00-0034844",
     "jersey": "26",
@@ -577,27 +621,27 @@
     "signed_in": true
    },
    {
-    "name": "Jaydon Blue",
+    "name": "Elijah Mitchell",
     "grp": "RB",
     "chartpos": "RB",
-    "avg3": 4,
-    "last": 12,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RB3",
+    "avg3": 26,
+    "last": 57,
+    "g50": 1,
+    "june": "RB5",
+    "june_tier": 5,
+    "now": "RB2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040586",
-    "jersey": "30",
-    "origin": "PS",
-    "psq": true,
+    "gsis": "00-0036567",
+    "jersey": "49",
+    "origin": "RB5",
+    "psq": false,
     "trade_in": false,
-    "signed_in": false
+    "signed_in": true
    },
    {
     "name": "Elijah Moore",
@@ -717,6 +761,52 @@
   ],
   "injured": [
    {
+    "name": "Jalen Hurts",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036389",
+    "jersey": "1",
+    "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dontayvion Wicks",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 21,
+    "last": 0,
+    "g50": 6,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038393",
+    "jersey": "13",
+    "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Will Shipley",
     "grp": "RB",
     "chartpos": "RB",
@@ -781,52 +871,6 @@
     "gsis": "00-0038555",
     "jersey": "8",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dontayvion Wicks",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 21,
-    "last": 0,
-    "g50": 6,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038393",
-    "jersey": "13",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalen Hurts",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036389",
-    "jersey": "1",
-    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1259,29 +1303,6 @@
   ],
   "injured": [
    {
-    "name": "Jonathan Jones",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 2,
-    "last": 0,
-    "g50": 1,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0032580",
-    "jersey": "31",
-    "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Michael Carter II",
     "grp": "S",
     "chartpos": "SS",
@@ -1300,6 +1321,29 @@
     "gsis": "00-0036501",
     "jersey": "35",
     "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jonathan Jones",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 2,
+    "last": 0,
+    "g50": 1,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0032580",
+    "jersey": "31",
+    "origin": "LCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

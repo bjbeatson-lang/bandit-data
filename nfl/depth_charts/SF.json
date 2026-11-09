@@ -1,7 +1,7 @@
 {
  "team": "SF",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -234,6 +266,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -261,6 +297,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -286,6 +326,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -313,6 +357,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -338,6 +386,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -374,6 +426,29 @@
     "signed_in": false
    },
    {
+    "name": "Trent Williams",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0027857",
+    "jersey": "71",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jake Brendel",
     "grp": "OL",
     "chartpos": "C",
@@ -392,29 +467,6 @@
     "gsis": "00-0032701",
     "jersey": "64",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Connor Colby",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040245",
-    "jersey": "75",
-    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -443,29 +495,6 @@
     "signed_in": false
    },
    {
-    "name": "Trent Williams",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0027857",
-    "jersey": "71",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Colton McKivitz",
     "grp": "OL",
     "chartpos": "RT",
@@ -484,6 +513,29 @@
     "gsis": "00-0036256",
     "jersey": "68",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Connor Colby",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040245",
+    "jersey": "75",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -675,6 +727,29 @@
     "signed_in": false
    },
    {
+    "name": "Demarcus Robinson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032775",
+    "jersey": "11",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Brayden Willis",
     "grp": "TE",
     "chartpos": "TE",
@@ -721,29 +796,6 @@
     "signed_in": false
    },
    {
-    "name": "Enrique Cruz Jr.",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041090",
-    "jersey": "69",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Vederian Lowe",
     "grp": "OL",
     "chartpos": "LT",
@@ -762,6 +814,29 @@
     "gsis": "00-0037287",
     "jersey": "76",
     "origin": "LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jarrett Patterson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038615",
+    "jersey": "58",
+    "origin": "HOU C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -792,6 +867,29 @@
     "signed_in": false
    },
    {
+    "name": "Austen Pleasants",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035829",
+    "jersey": "62",
+    "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Deebo Samuel Sr.",
     "grp": "WR",
     "chartpos": "WR",
@@ -810,29 +908,6 @@
     "gsis": "00-0035719",
     "jersey": "19",
     "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Christian Kirk",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 10,
-    "last": 30,
-    "g50": 0,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR8",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034775",
-    "jersey": "3",
-    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -884,29 +959,6 @@
     "signed_in": false
    },
    {
-    "name": "Austen Pleasants",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035829",
-    "jersey": "62",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ricky Pearsall",
     "grp": "WR",
     "chartpos": "WR",
@@ -930,24 +982,24 @@
     "signed_in": false
    },
    {
-    "name": "Demarcus Robinson",
+    "name": "Christian Kirk",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR3",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
+    "avg3": 10,
+    "last": 30,
+    "g50": 0,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR8",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0032775",
-    "jersey": "11",
-    "origin": "WR5",
+    "gsis": "00-0034775",
+    "jersey": "3",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1008,29 +1060,6 @@
     "signed_in": false
    },
    {
-    "name": "Deommodore Lenoir",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 100,
-    "last": 99,
-    "g50": 7,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036563",
-    "jersey": "2",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Renardo Green",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1049,6 +1078,29 @@
     "gsis": "00-0039345",
     "jersey": "0",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Deommodore Lenoir",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 100,
+    "last": 99,
+    "g50": 7,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036563",
+    "jersey": "2",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1403,29 +1455,6 @@
   ],
   "injured": [
    {
-    "name": "Nate Hobbs",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036871",
-    "jersey": "22",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Alfred Collins",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1490,6 +1519,29 @@
     "gsis": "00-0040711",
     "jersey": "99",
     "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nate Hobbs",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036871",
+    "jersey": "22",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -126,6 +142,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -153,6 +173,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -174,6 +198,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -201,6 +229,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -226,6 +258,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -257,29 +293,6 @@
     "gsis": "00-0031503",
     "jersey": "19",
     "origin": "QB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Bryan Hudson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039446",
-    "jersey": "60",
-    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -326,6 +339,29 @@
     "gsis": "00-0036246",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Hudson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039446",
+    "jersey": "60",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -563,6 +599,29 @@
     "signed_in": false
    },
    {
+    "name": "Jalin Hyatt",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 2,
+    "last": 6,
+    "g50": 0,
+    "june": "WR9",
+    "june_tier": 3,
+    "now": "WR5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038938",
+    "jersey": "81",
+    "origin": "WR9",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Chris Manhertz",
     "grp": "TE",
     "chartpos": "",
@@ -680,24 +739,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 24,
-    "last": 15,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
+    "name": "Jaxson Dart",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
+    "gsis": "00-0040691",
+    "jersey": "6",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -726,24 +785,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaxson Dart",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB3",
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 24,
+    "last": 15,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040691",
-    "jersey": "6",
-    "origin": "QB1",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1077,6 +1136,29 @@
     "gsis": "00-0040434",
     "jersey": "48",
     "origin": "SLB4",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dawuane Smoot",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033907",
+    "jersey": "96",
+    "origin": "PS",
     "psq": true,
     "trade_in": false,
     "signed_in": false

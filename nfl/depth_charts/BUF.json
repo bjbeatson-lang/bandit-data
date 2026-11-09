@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 9,
- "chart_date": "2026-11-08",
+ "chart_date": "2026-11-09",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -111,6 +127,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -128,6 +148,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -151,6 +175,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -173,6 +201,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -186,6 +218,10 @@
    "days": [
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -204,6 +240,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -227,6 +267,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -248,6 +292,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -271,6 +319,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -293,6 +345,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -314,6 +370,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -373,29 +433,6 @@
     "signed_in": false
    },
    {
-    "name": "Dion Dawkins",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 98,
-    "last": 95,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Rib",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033904",
-    "jersey": "73",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Connor McGovern",
     "grp": "OL",
     "chartpos": "C",
@@ -414,6 +451,29 @@
     "gsis": "00-0035679",
     "jersey": "66",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dion Dawkins",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 98,
+    "last": 95,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Rib",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033904",
+    "jersey": "73",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -768,29 +828,6 @@
   ],
   "injured": [
    {
-    "name": "Tyrell Shavers",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038679",
-    "jersey": "14",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Palmer",
     "grp": "WR",
     "chartpos": "WR",
@@ -809,6 +846,29 @@
     "gsis": "00-0036988",
     "jersey": "5",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrell Shavers",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038679",
+    "jersey": "14",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
