@@ -2,7 +2,7 @@
  "team": "TB",
  "entering_week": 9,
  "chart_date": "2026-11-09",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "A'Shawn Robinson",
@@ -1158,29 +1158,6 @@
   ],
   "injured": [
    {
-    "name": "Yaya Diaby",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 37,
-    "last": 13,
-    "g50": 6,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039068",
-    "jersey": "0",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Hayes",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1225,18 +1202,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Yaya Diaby",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 37,
+    "last": 13,
+    "g50": 6,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0039068",
+    "jersey": "0",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Emeka Egbuka",
-   "pos": "WR",
-   "gsis": "00-0040129",
-   "jersey": "2",
-   "injury": "Foot",
-   "practice": "Full Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }

@@ -2,7 +2,7 @@
  "team": "JAX",
  "entering_week": 9,
  "chart_date": "2026-11-09",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "Eric Murray",
@@ -817,6 +817,29 @@
     "signed_in": false
    },
    {
+    "name": "C.J. Williams",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041106",
+    "jersey": "18",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Patrick Mekari",
     "grp": "OL",
     "chartpos": "RG",
@@ -1290,6 +1313,29 @@
   ],
   "injured": [
    {
+    "name": "Parker Hughes",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041127",
+    "jersey": "53",
+    "origin": "MLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Eric Murray",
     "grp": "S",
     "chartpos": "SS",
@@ -1336,24 +1382,24 @@
     "signed_in": false
    },
    {
-    "name": "Parker Hughes",
-    "grp": "LB",
-    "chartpos": "MLB",
+    "name": "Wesley Williams",
+    "grp": "ED",
+    "chartpos": "LDE",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "MLB2",
+    "june": "RDE2",
     "june_tier": 2,
-    "now": "MLB3",
+    "now": "LDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": true,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0041127",
-    "jersey": "53",
-    "origin": "MLB2",
+    "why": "Inactive",
+    "gsis": "00-0041059",
+    "jersey": "90",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1383,23 +1429,6 @@
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Travon Walker",
-   "pos": "DE",
-   "gsis": "00-0037235",
-   "jersey": "44",
-   "injury": "Rib",
-   "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Bhayshul Tuten",
-   "pos": "RB",
-   "gsis": "00-0040719",
-   "jersey": "33",
-   "injury": "Ankle",
-   "practice": "Did Not Participate In Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }
