@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 10,
- "chart_date": "2026-11-10",
+ "chart_date": "2026-11-11",
  "inactives_posted": false,
  "practice": [],
  "offense": {
@@ -461,7 +461,7 @@
     "g50": 0,
     "june": "WR3",
     "june_tier": 1,
-    "now": "WR7",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
