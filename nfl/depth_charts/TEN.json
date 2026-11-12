@@ -1,9 +1,80 @@
 {
  "team": "TEN",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Cody Barton",
+   "pos": "LB",
+   "gsis": "00-0035672",
+   "jersey": "50",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "gsis": "00-0039032",
+   "jersey": "2",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Peter Skoronski",
+   "pos": "G",
+   "gsis": "00-0039034",
+   "jersey": "77",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Carnell Tate",
+   "pos": "WR",
+   "gsis": "00-0041438",
+   "jersey": "14",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Anthony Hill Jr.",
+   "pos": "LB",
+   "gsis": "00-0041479",
+   "jersey": "53",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -114,8 +185,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +208,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Finger",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -160,8 +231,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Finger",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -252,8 +323,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -453,29 +524,6 @@
   ],
   "injured": [
    {
-    "name": "Jackson Slater",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040190",
-    "jersey": "64",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Fernando Carmona",
     "grp": "OL",
     "chartpos": "RG",
@@ -494,6 +542,29 @@
     "gsis": "00-0040881",
     "jersey": "66",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jackson Slater",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040190",
+    "jersey": "64",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -554,29 +625,6 @@
     "signed_in": false
    },
    {
-    "name": "Amani Hooker",
-    "grp": "S",
-    "chartpos": "",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035632",
-    "jersey": "37",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Anthony Hill Jr.",
     "grp": "LB",
     "chartpos": "MLB",
@@ -587,8 +635,8 @@
     "june_tier": 2,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -633,8 +681,8 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -679,8 +727,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +750,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -725,8 +773,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -759,9 +807,7 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "Solomon Thomas",
     "grp": "DL",
@@ -784,7 +830,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "next": [
    {
     "name": "Timmy Horne",
     "grp": "DL",
@@ -805,6 +853,29 @@
     "jersey": "94",
     "origin": "LDT5",
     "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nazir Stackhouse",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 21,
+    "last": 23,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040041",
+    "jersey": "93",
+    "origin": "GB NT3",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -957,7 +1028,7 @@
     "g50": 0,
     "june": "SLB1",
     "june_tier": 1,
-    "now": "WLB2",
+    "now": "WLB3",
     "report": "",
     "practice": "",
     "injury": "",

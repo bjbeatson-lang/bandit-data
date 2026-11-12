@@ -1,9 +1,122 @@
 {
  "team": "MIN",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Kyle Van Noy",
+   "pos": "LB",
+   "gsis": "00-0031360",
+   "jersey": "17",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "gsis": "00-0032950",
+   "jersey": "11",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "gsis": "00-0035228",
+   "jersey": "1",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "gsis": "00-0035229",
+   "jersey": "87",
+   "injury": "Wrist",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Blake Cashman",
+   "pos": "LB",
+   "gsis": "00-0035276",
+   "jersey": "51",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "gsis": "00-0036259",
+   "jersey": "14",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jay Ward",
+   "pos": "S",
+   "gsis": "00-0038578",
+   "jersey": "24",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyrion Ingram-Dawkins",
+   "pos": "DT",
+   "gsis": "00-0040173",
+   "jersey": "90",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    7,
@@ -22,83 +135,14 @@
     "june_tier": 1,
     "now": "QB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0035228",
     "jersey": "1",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Blake Brandel",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036347",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Huber",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040500",
-    "jersey": "60",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Will Fries",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036483",
-    "jersey": "76",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -145,6 +189,75 @@
     "gsis": "00-0036616",
     "jersey": "71",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Blake Brandel",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036347",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Will Fries",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036483",
+    "jersey": "76",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joe Huber",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040500",
+    "jersey": "60",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -206,8 +319,8 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -229,8 +342,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Wrist",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -277,8 +390,8 @@
     "june_tier": 3,
     "now": "QB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -382,29 +495,6 @@
     "signed_in": false
    },
    {
-    "name": "Ryan Van Demark",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037404",
-    "jersey": "72",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Caleb Tiernan",
     "grp": "OL",
     "chartpos": "LG",
@@ -423,6 +513,29 @@
     "gsis": "00-0041053",
     "jersey": "78",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ryan Van Demark",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037404",
+    "jersey": "72",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -564,8 +677,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -725,8 +838,8 @@
     "june_tier": 2,
     "now": "RDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -819,8 +932,8 @@
     "june_tier": null,
     "now": "WLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -934,8 +1047,8 @@
     "june_tier": 1,
     "now": "FS2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",

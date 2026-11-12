@@ -1,9 +1,94 @@
 {
  "team": "BUF",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Dion Dawkins",
+   "pos": "T",
+   "gsis": "00-0033904",
+   "jersey": "73",
+   "injury": "Rib",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Connor McGovern",
+   "pos": "C",
+   "gsis": "00-0035679",
+   "jersey": "66",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Spencer Brown",
+   "pos": "T",
+   "gsis": "00-0036976",
+   "jersey": "79",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Christian Benford",
+   "pos": "CB",
+   "gsis": "00-0037288",
+   "jersey": "47",
+   "injury": "Wrist",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Alec Anderson",
+   "pos": "G",
+   "gsis": "00-0037428",
+   "jersey": "70",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "gsis": "00-0038933",
+   "jersey": "86",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -68,8 +153,8 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -114,8 +199,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +222,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Rib",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -252,8 +337,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -392,8 +477,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,6 +538,29 @@
   ],
   "injured": [
    {
+    "name": "Tyrell Shavers",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038679",
+    "jersey": "14",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Josh Palmer",
     "grp": "WR",
     "chartpos": "WR",
@@ -471,29 +579,6 @@
     "gsis": "00-0036988",
     "jersey": "5",
     "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tyrell Shavers",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038679",
-    "jersey": "14",
-    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -564,8 +649,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Wrist",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -796,8 +881,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -924,25 +1009,25 @@
     "signed_in": false
    },
    {
-    "name": "Geno Stone",
+    "name": "Jalon Kilgore",
     "grp": "S",
-    "chartpos": "",
-    "avg3": 30,
-    "last": 52,
-    "g50": 1,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "",
+    "chartpos": "SS",
+    "avg3": 6,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0036199",
-    "jersey": "25",
-    "origin": "FS1",
-    "psq": true,
+    "gsis": "00-0041086",
+    "jersey": "29",
+    "origin": "SS2",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    }

@@ -1,9 +1,164 @@
 {
  "team": "CLE",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Michael Burton",
+   "pos": "FB",
+   "gsis": "00-0031595",
+   "jersey": "34",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Maliek Collins",
+   "pos": "DT",
+   "gsis": "00-0033131",
+   "jersey": "96",
+   "injury": "Elbow",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Denzel Ward",
+   "pos": "CB",
+   "gsis": "00-0034856",
+   "jersey": "21",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Tytus Howard",
+   "pos": "T",
+   "gsis": "00-0035234",
+   "jersey": "71",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Elgton Jenkins",
+   "pos": "C",
+   "gsis": "00-0035526",
+   "jersey": "74",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Quincy Williams",
+   "pos": "LB",
+   "gsis": "00-0035680",
+   "jersey": "5",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ronnie Hickman Jr.",
+   "pos": "S",
+   "gsis": "00-0038715",
+   "jersey": "33",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Carson Schwesinger",
+   "pos": "LB",
+   "gsis": "00-0040579",
+   "jersey": "49",
+   "injury": "Wrist",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Harold Fannin Jr.",
+   "pos": "TE",
+   "gsis": "00-0040663",
+   "jersey": "44",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "gsis": "00-0041037",
+   "jersey": "12",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Austin Barber",
+   "pos": "T",
+   "gsis": "00-0041049",
+   "jersey": "58",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    7,
@@ -58,52 +213,6 @@
     "signed_in": false
    },
    {
-    "name": "Austin Barber",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041049",
-    "jersey": "58",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Elgton Jenkins",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035526",
-    "jersey": "74",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Spencer Fano",
     "grp": "OL",
     "chartpos": "LT",
@@ -127,6 +236,52 @@
     "signed_in": false
    },
    {
+    "name": "Elgton Jenkins",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035526",
+    "jersey": "74",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Austin Barber",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041049",
+    "jersey": "58",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tytus Howard",
     "grp": "OL",
     "chartpos": "RT",
@@ -137,8 +292,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -183,8 +338,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -229,8 +384,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -495,8 +650,8 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Wrist",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -518,8 +673,8 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -564,8 +719,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -587,8 +742,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -633,8 +788,8 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": true,
     "why": "",

@@ -1,9 +1,136 @@
 {
  "team": "IND",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Luke Rhodes",
+   "pos": "LS",
+   "gsis": "00-0032753",
+   "jersey": "46",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Mo Alie-Cox",
+   "pos": "TE",
+   "gsis": "00-0033217",
+   "jersey": "81",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Charvarius Ward",
+   "pos": "CB",
+   "gsis": "00-0034573",
+   "jersey": "7",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jerry Tillery",
+   "pos": "DT",
+   "gsis": "00-0035674",
+   "jersey": "94",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "gsis": "00-0036223",
+   "jersey": "28",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Akeem Davis-Gaither",
+   "pos": "LB",
+   "gsis": "00-0036298",
+   "jersey": "51",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylon Carlies",
+   "pos": "LB",
+   "gsis": "00-0039377",
+   "jersey": "57",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalen Travis",
+   "pos": "T",
+   "gsis": "00-0040163",
+   "jersey": "75",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "A.J. Haulcy",
+   "pos": "S",
+   "gsis": "00-0041043",
+   "jersey": "25",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    7,
@@ -114,8 +241,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -160,37 +287,14 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0036223",
     "jersey": "28",
     "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Josh Downs",
-    "grp": "WR",
-    "chartpos": "",
-    "avg3": 79,
-    "last": 77,
-    "g50": 9,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038997",
-    "jersey": "2",
-    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -219,29 +323,6 @@
     "signed_in": false
    },
    {
-    "name": "Keenan Allen",
-    "grp": "WR",
-    "chartpos": "",
-    "avg3": 52,
-    "last": 56,
-    "g50": 6,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0030279",
-    "jersey": "10",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Warren",
     "grp": "TE",
     "chartpos": "TE",
@@ -260,6 +341,52 @@
     "gsis": "00-0040128",
     "jersey": "84",
     "origin": "TE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mo Alie-Cox",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 37,
+    "last": 22,
+    "g50": 1,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE3",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033217",
+    "jersey": "81",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Andrew Ogletree",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 37,
+    "last": 28,
+    "g50": 1,
+    "june": "TE3",
+    "june_tier": 3,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037292",
+    "jersey": "85",
+    "origin": "TE3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -321,7 +448,7 @@
     "g50": 0,
     "june": "WR5",
     "june_tier": 2,
-    "now": "WR2",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -344,7 +471,7 @@
     "g50": 0,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR3",
+    "now": "WR2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -359,24 +486,24 @@
     "signed_in": false
    },
    {
-    "name": "Mo Alie-Cox",
+    "name": "Will Mallory",
     "grp": "TE",
     "chartpos": "TE",
-    "avg3": 37,
-    "last": 22,
+    "avg3": 16,
+    "last": 0,
     "g50": 1,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE3",
+    "june": "TE4",
+    "june_tier": 4,
+    "now": "TE2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0033217",
-    "jersey": "81",
-    "origin": "TE2",
+    "gsis": "00-0038394",
+    "jersey": "86",
+    "origin": "TE4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -518,8 +645,8 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -633,8 +760,8 @@
     "june_tier": 2,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -702,8 +829,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -725,8 +852,8 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -750,8 +877,8 @@
     "june_tier": 3,
     "now": "RDT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -842,8 +969,8 @@
     "june_tier": 2,
     "now": "MLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -926,29 +1053,6 @@
   ],
   "injured": [
    {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Arden Key",
     "grp": "ED",
     "chartpos": "LDE",
@@ -959,8 +1063,8 @@
     "june_tier": 2,
     "now": "LDE3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "IR",
@@ -990,6 +1094,29 @@
     "gsis": "00-0037753",
     "jersey": "29",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "WAS",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,11 +10,33 @@
    "gsis": "00-0033082",
    "jersey": "63",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
      "DNP"
+    ],
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Amik Robertson",
+   "pos": "CB",
+   "gsis": "00-0036375",
+   "jersey": "2",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "LP"
     ]
    ]
   },
@@ -29,6 +51,10 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "DNP"
     ]
    ]
   },
@@ -38,10 +64,14 @@
    "gsis": "00-0039686",
    "jersey": "80",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -73,29 +103,6 @@
     "gsis": "00-0039910",
     "jersey": "5",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Brandon Coleman",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039913",
-    "jersey": "74",
-    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -147,6 +154,29 @@
     "signed_in": false
    },
    {
+    "name": "Brandon Coleman",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039913",
+    "jersey": "74",
+    "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Sam Cosmi",
     "grp": "OL",
     "chartpos": "RG",
@@ -170,27 +200,27 @@
     "signed_in": false
    },
    {
-    "name": "Lucas Patrick",
+    "name": "Matt Gulbin",
     "grp": "OL",
     "chartpos": "C",
-    "avg3": 81,
-    "last": 44,
-    "g50": 5,
-    "june": "not on June chart",
-    "june_tier": null,
+    "avg3": 19,
+    "last": 56,
+    "g50": 2,
+    "june": "C2",
+    "june_tier": 2,
     "now": "C1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0033082",
-    "jersey": "63",
-    "origin": "NYG C2",
+    "gsis": "00-0041108",
+    "jersey": "66",
+    "origin": "C2",
     "psq": false,
     "trade_in": false,
-    "signed_in": true
+    "signed_in": false
    },
    {
     "name": "Rachaad White",
@@ -295,7 +325,7 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,
@@ -425,29 +455,6 @@
     "signed_in": false
    },
    {
-    "name": "Matt Gulbin",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 19,
-    "last": 56,
-    "g50": 2,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "RG2",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041108",
-    "jersey": "66",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Andrew Wylie",
     "grp": "OL",
     "chartpos": "LT",
@@ -492,32 +499,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Jaylin Lane",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Tanoa Togiai",
+    "grp": "OL",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR8",
+    "june": "LG3",
+    "june_tier": 3,
+    "now": "LG3",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0040164",
-    "jersey": "83",
-    "origin": "WR6",
+    "why": "",
+    "gsis": "00-0041183",
+    "jersey": "62",
+    "origin": "LG3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Terry McLaurin",
     "grp": "WR",
@@ -542,27 +549,50 @@
     "signed_in": false
    },
    {
-    "name": "Dyami Brown",
+    "name": "Jaylin Lane",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 25,
+    "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "WR5",
+    "g50": 0,
+    "june": "WR6",
     "june_tier": 2,
-    "now": "WR6",
+    "now": "WR8",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036626",
-    "jersey": "6",
-    "origin": "WR5",
+    "gsis": "00-0040164",
+    "jersey": "83",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Lucas Patrick",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 81,
+    "last": 44,
+    "g50": 5,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0033082",
+    "jersey": "63",
+    "origin": "NYG C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    },
    {
     "name": "Jacory Croskey-Merritt",
@@ -583,6 +613,29 @@
     "gsis": "00-0040242",
     "jersey": "22",
     "origin": "RB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dyami Brown",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 25,
+    "last": 0,
+    "g50": 3,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036626",
+    "jersey": "6",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -653,7 +706,7 @@
     "june_tier": 1,
     "now": "NB1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1038,24 +1091,24 @@
   ],
   "injured": [
    {
-    "name": "Daron Payne",
+    "name": "Javon Kinlaw",
     "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 28,
+    "chartpos": "RDE",
+    "avg3": 15,
     "last": 0,
-    "g50": 6,
-    "june": "NT1",
+    "g50": 5,
+    "june": "RDE1",
     "june_tier": 1,
-    "now": "NT3",
+    "now": "RDE2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034333",
-    "jersey": "94",
-    "origin": "NT1",
+    "gsis": "00-0036260",
+    "jersey": "99",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1084,24 +1137,24 @@
     "signed_in": false
    },
    {
-    "name": "Javon Kinlaw",
+    "name": "Daron Payne",
     "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 15,
+    "chartpos": "NT",
+    "avg3": 28,
     "last": 0,
-    "g50": 5,
-    "june": "RDE1",
+    "g50": 6,
+    "june": "NT1",
     "june_tier": 1,
-    "now": "RDE2",
+    "now": "NT3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036260",
-    "jersey": "99",
-    "origin": "RDE1",
+    "gsis": "00-0034333",
+    "jersey": "94",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

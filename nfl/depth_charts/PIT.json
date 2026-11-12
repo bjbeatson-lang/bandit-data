@@ -1,9 +1,80 @@
 {
  "team": "PIT",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Cameron Heyward",
+   "pos": "DT",
+   "gsis": "00-0027969",
+   "jersey": "97",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "T.J. Watt",
+   "pos": "LB",
+   "gsis": "00-0033886",
+   "jersey": "90",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "DeShon Elliott",
+   "pos": "S",
+   "gsis": "00-0034277",
+   "jersey": "25",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "gsis": "00-0038558",
+   "jersey": "80",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Derrick Harmon",
+   "pos": "DT",
+   "gsis": "00-0040678",
+   "jersey": "99",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -30,29 +101,6 @@
     "gsis": "00-0023459",
     "jersey": "8",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Max Iheanachor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041482",
-    "jersey": "71",
-    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -122,6 +170,29 @@
     "gsis": "00-0039871",
     "jersey": "76",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Max Iheanachor",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041482",
+    "jersey": "71",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -229,8 +300,8 @@
     "june_tier": 2,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -346,8 +417,8 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -541,8 +612,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -656,8 +727,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -725,8 +796,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -926,6 +997,29 @@
   ],
   "injured": [
    {
+    "name": "Derrick Harmon",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Foot",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040678",
+    "jersey": "99",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Sebastian Joseph-Day",
     "grp": "DL",
     "chartpos": "NT",
@@ -944,29 +1038,6 @@
     "gsis": "00-0034810",
     "jersey": "69",
     "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Derrick Harmon",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040678",
-    "jersey": "99",
-    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

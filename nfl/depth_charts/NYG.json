@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 10,
- "chart_date": "2026-11-11",
+ "chart_date": "2026-11-12",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,10 +10,14 @@
    "gsis": "00-0036280",
    "jersey": "54",
    "injury": "Groin",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Tue",
      "LP"
+    ],
+    [
+     "Wed",
+     "FP"
     ]
    ]
   }
@@ -101,29 +113,6 @@
     "signed_in": false
    },
    {
-    "name": "Bryan Hudson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039446",
-    "jersey": "60",
-    "origin": "C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jon Runyan",
     "grp": "OL",
     "chartpos": "LG",
@@ -142,6 +131,29 @@
     "gsis": "00-0036246",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Hudson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039446",
+    "jersey": "60",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -471,30 +483,53 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Stinnie",
+    "name": "John Michael Schmitz",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
+    "g50": 3,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034668",
-    "jersey": "64",
-    "origin": "LG2",
+    "gsis": "00-0039019",
+    "jersey": "61",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 18,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Jaxson Dart",
     "grp": "QB",
@@ -540,29 +575,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 18,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
@@ -597,24 +609,24 @@
     "signed_in": false
    },
    {
-    "name": "Greg Newsome II",
+    "name": "Paulson Adebo",
     "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 52,
-    "last": 99,
-    "g50": 7,
-    "june": "RCB1",
+    "chartpos": "LCB",
+    "avg3": 33,
+    "last": 0,
+    "g50": 1,
+    "june": "LCB1",
     "june_tier": 1,
-    "now": "RCB1",
+    "now": "LCB2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0036996",
-    "jersey": "20",
-    "origin": "RCB1",
+    "gsis": "00-0036937",
+    "jersey": "21",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -653,7 +665,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -666,24 +678,24 @@
     "signed_in": false
    },
    {
-    "name": "Paulson Adebo",
+    "name": "Greg Newsome II",
     "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 33,
-    "last": 0,
-    "g50": 1,
-    "june": "LCB1",
+    "chartpos": "RCB",
+    "avg3": 52,
+    "last": 99,
+    "g50": 7,
+    "june": "RCB1",
     "june_tier": 1,
-    "now": "LCB2",
+    "now": "RCB1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0036937",
-    "jersey": "21",
-    "origin": "LCB1",
+    "gsis": "00-0036996",
+    "jersey": "20",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -735,29 +747,6 @@
     "signed_in": false
    },
    {
-    "name": "Micah McFadden",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 67,
-    "last": 100,
-    "g50": 2,
-    "june": "RILB2",
-    "june_tier": 2,
-    "now": "RILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037259",
-    "jersey": "41",
-    "origin": "RILB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Nubin",
     "grp": "S",
     "chartpos": "FS",
@@ -776,6 +765,29 @@
     "gsis": "00-0039861",
     "jersey": "27",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micah McFadden",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 67,
+    "last": 100,
+    "g50": 2,
+    "june": "RILB2",
+    "june_tier": 2,
+    "now": "RILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037259",
+    "jersey": "41",
+    "origin": "RILB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -907,7 +919,7 @@
     "june": "not on June chart",
     "june_tier": null,
     "now": "LILB3",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Groin",
     "rookie": false,
@@ -1062,7 +1074,16 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Malik Harrison",
+   "pos": "LB",
+   "gsis": "00-0036280",
+   "jersey": "54",
+   "injury": "Groin",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": [
   "CJ Okoye"
  ]
