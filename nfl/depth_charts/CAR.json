@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 10,
- "chart_date": "2026-11-12",
+ "chart_date": "2026-11-13",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,28 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Damien Lewis",
+   "pos": "G",
+   "gsis": "00-0036417",
+   "jersey": "68",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -29,6 +51,28 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaelan Phillips",
+   "pos": "LB",
+   "gsis": "00-0036934",
+   "jersey": "5",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   }
@@ -164,9 +208,9 @@
     "g50": 5,
     "june": "LG1",
     "june_tier": 1,
-    "now": "LG2",
+    "now": "LG1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": true,
@@ -189,7 +233,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -419,7 +463,7 @@
     "g50": 1,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "LG1",
+    "now": "LG2",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Ankle",
@@ -482,29 +526,6 @@
   ],
   "injured": [
    {
-    "name": "Taylor Moton",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 14,
-    "last": 0,
-    "g50": 1,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033284",
-    "jersey": "72",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Xavier Legette",
     "grp": "WR",
     "chartpos": "WR",
@@ -523,6 +544,29 @@
     "gsis": "00-0039342",
     "jersey": "17",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ikem Ekwonu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037229",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -551,24 +595,24 @@
     "signed_in": false
    },
    {
-    "name": "Ikem Ekwonu",
+    "name": "Taylor Moton",
     "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
+    "chartpos": "RT",
+    "avg3": 14,
     "last": 0,
-    "g50": 0,
-    "june": "LT1",
+    "g50": 1,
+    "june": "RT1",
     "june_tier": 1,
-    "now": "LT3",
+    "now": "RT3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037229",
-    "jersey": "79",
-    "origin": "LT1",
+    "gsis": "00-0033284",
+    "jersey": "72",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -629,29 +673,6 @@
     "signed_in": false
    },
    {
-    "name": "Devin Lloyd",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 93,
-    "last": 100,
-    "g50": 7,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037244",
-    "jersey": "55",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tre'von Moehrig",
     "grp": "S",
     "chartpos": "SS",
@@ -670,6 +691,29 @@
     "gsis": "00-0036962",
     "jersey": "7",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Devin Lloyd",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 93,
+    "last": 100,
+    "g50": 7,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037244",
+    "jersey": "55",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -846,7 +890,7 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": true,
@@ -1047,24 +1091,24 @@
   ],
   "injured": [
    {
-    "name": "Nic Scourton",
-    "grp": "ED",
-    "chartpos": "WLB",
+    "name": "Mike Jackson",
+    "grp": "CB",
+    "chartpos": "LCB",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WLB1",
+    "g50": 2,
+    "june": "LCB1",
     "june_tier": 1,
-    "now": "WLB4",
+    "now": "LCB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040746",
-    "jersey": "11",
-    "origin": "WLB1",
+    "gsis": "00-0035277",
+    "jersey": "2",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1088,6 +1132,29 @@
     "gsis": "00-0036944",
     "jersey": "8",
     "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nic Scourton",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040746",
+    "jersey": "11",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1134,29 +1201,6 @@
     "gsis": "00-0038101",
     "jersey": "29",
     "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Mike Jackson",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "LCB2",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035277",
-    "jersey": "2",
-    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "MIA",
  "entering_week": 10,
- "chart_date": "2026-11-12",
+ "chart_date": "2026-11-13",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +69,24 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jared Wayne",
+   "pos": "WR",
+   "gsis": "00-0038728",
+   "jersey": "86",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -71,6 +101,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -85,6 +119,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   }
@@ -120,24 +158,24 @@
     "signed_in": false
    },
    {
-    "name": "Jonah Savaiinaea",
+    "name": "Austin Jackson",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "RG1",
+    "g50": 8,
+    "june": "RT1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040742",
-    "jersey": "71",
-    "origin": "RG1",
+    "gsis": "00-0036248",
+    "jersey": "73",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -166,24 +204,24 @@
     "signed_in": false
    },
    {
-    "name": "Austin Jackson",
+    "name": "Jonah Savaiinaea",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 8,
-    "june": "RT1",
+    "g50": 7,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036248",
-    "jersey": "73",
-    "origin": "RT1",
+    "gsis": "00-0040742",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -337,7 +375,7 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Knee",
     "rookie": true,
     "returning": false,
@@ -408,8 +446,8 @@
     "june_tier": null,
     "now": "WR6",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -431,7 +469,7 @@
     "june_tier": 2,
     "now": "TE2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Quadricep",
     "rookie": true,
     "returning": false,
@@ -570,29 +608,6 @@
   ],
   "start": [
    {
-    "name": "Chris Johnson",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041533",
-    "jersey": "3",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jacob Rodriguez",
     "grp": "LB",
     "chartpos": "MLB",
@@ -657,6 +672,29 @@
     "gsis": "00-0036409",
     "jersey": "20",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Chris Johnson",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041533",
+    "jersey": "3",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -848,6 +886,29 @@
     "signed_in": false
    },
    {
+    "name": "Keith Cooper Jr.",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDT4",
+    "june_tier": 4,
+    "now": "LDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040655",
+    "jersey": "96",
+    "origin": "LDT4",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Malik Herring",
     "grp": "ED",
     "chartpos": "LDE",
@@ -988,52 +1049,6 @@
   ],
   "injured": [
    {
-    "name": "Trey Moore",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041526",
-    "jersey": "17",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ronnie Harrison",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034779",
-    "jersey": "56",
-    "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Darrell Baker Jr.",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1075,6 +1090,52 @@
     "gsis": "00-0034285",
     "jersey": "92",
     "origin": "RDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trey Moore",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041526",
+    "jersey": "17",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ronnie Harrison",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034779",
+    "jersey": "56",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "LA",
  "entering_week": 10,
- "chart_date": "2026-11-12",
+ "chart_date": "2026-11-13",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -98,6 +122,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -113,6 +141,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -126,6 +158,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -162,29 +198,6 @@
     "signed_in": false
    },
    {
-    "name": "Coleman Shelton",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034114",
-    "jersey": "65",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Warren McClendon Jr.",
     "grp": "OL",
     "chartpos": "RT",
@@ -203,6 +216,29 @@
     "gsis": "00-0039077",
     "jersey": "71",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Coleman Shelton",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034114",
+    "jersey": "65",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -300,29 +336,6 @@
     "signed_in": false
    },
    {
-    "name": "Puka Nacua",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 91,
-    "last": 93,
-    "g50": 7,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039075",
-    "jersey": "12",
-    "origin": "WR1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Higbee",
     "grp": "TE",
     "chartpos": "TE",
@@ -390,6 +403,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Konata Mumpfield",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 46,
+    "last": 44,
+    "g50": 3,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040590",
+    "jersey": "4",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "next": [
@@ -440,29 +476,6 @@
     "signed_in": false
    },
    {
-    "name": "Konata Mumpfield",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 46,
-    "last": 44,
-    "g50": 3,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040590",
-    "jersey": "4",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tutu Atwell",
     "grp": "WR",
     "chartpos": "WR",
@@ -471,7 +484,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "WR3",
+    "now": "WR2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -481,6 +494,29 @@
     "gsis": "00-0036849",
     "jersey": "8",
     "origin": "MIA WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "CJ Daniels",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 3,
+    "last": 1,
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041399",
+    "jersey": "6",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -532,29 +568,6 @@
     "signed_in": false
    },
    {
-    "name": "David Quessenberry",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 1,
-    "last": 0,
-    "g50": 1,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0030097",
-    "jersey": "68",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dylan McMahon",
     "grp": "OL",
     "chartpos": "C",
@@ -576,9 +589,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "David Quessenberry",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 1,
+    "last": 0,
+    "g50": 1,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0030097",
+    "jersey": "68",
+    "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Justin Dedich",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039784",
+    "jersey": "67",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Terrance Ferguson",
     "grp": "TE",
@@ -626,24 +685,24 @@
     "signed_in": false
    },
    {
-    "name": "Justin Dedich",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
+    "name": "Puka Nacua",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 91,
+    "last": 93,
+    "g50": 7,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR5",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039784",
-    "jersey": "67",
-    "origin": "RG2",
+    "gsis": "00-0039075",
+    "jersey": "12",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1122,24 +1181,24 @@
   ],
   "injured": [
    {
-    "name": "Jaylen Watson",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 54,
+    "name": "Kobie Turner",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 0,
     "last": 0,
-    "g50": 6,
-    "june": "LCB1",
+    "g50": 5,
+    "june": "LDE1",
     "june_tier": 1,
-    "now": "LCB3",
+    "now": "LDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037195",
-    "jersey": "35",
-    "origin": "LCB1",
+    "gsis": "00-0039138",
+    "jersey": "91",
+    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1168,24 +1227,24 @@
     "signed_in": false
    },
    {
-    "name": "Kobie Turner",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 0,
+    "name": "Jaylen Watson",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 54,
     "last": 0,
-    "g50": 5,
-    "june": "LDE1",
+    "g50": 6,
+    "june": "LCB1",
     "june_tier": 1,
-    "now": "LDE3",
+    "now": "LCB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039138",
-    "jersey": "91",
-    "origin": "LDE1",
+    "gsis": "00-0037195",
+    "jersey": "35",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

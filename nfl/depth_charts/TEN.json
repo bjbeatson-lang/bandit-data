@@ -1,9 +1,27 @@
 {
  "team": "TEN",
  "entering_week": 10,
- "chart_date": "2026-11-12",
+ "chart_date": "2026-11-13",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "gsis": "00-0035261",
+   "jersey": "20",
+   "injury": "Finger",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Cody Barton",
    "pos": "LB",
@@ -14,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +51,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -43,6 +69,28 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kevin Winston Jr.",
+   "pos": "S",
+   "gsis": "00-0040141",
+   "jersey": "23",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -57,6 +105,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +122,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -106,29 +162,6 @@
     "signed_in": false
    },
    {
-    "name": "Atonio Mafi",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038586",
-    "jersey": "70",
-    "origin": "LV LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Schlottmann",
     "grp": "OL",
     "chartpos": "C",
@@ -147,6 +180,29 @@
     "gsis": "00-0034112",
     "jersey": "51",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Atonio Mafi",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038586",
+    "jersey": "70",
+    "origin": "LV LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -231,7 +287,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Finger",
     "rookie": false,
     "returning": false,
@@ -275,7 +331,7 @@
     "g50": 8,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -392,7 +448,7 @@
     "g50": 1,
     "june": "WR5",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -499,53 +555,30 @@
     "signed_in": false
    },
    {
-    "name": "Pat Coogan",
+    "name": "Brandon Crenshaw-Dickson",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "C2",
+    "june": "RT2",
     "june_tier": 2,
-    "now": "C2",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040893",
-    "jersey": "79",
-    "origin": "C2",
+    "gsis": "00-0040512",
+    "jersey": "78",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Fernando Carmona",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040881",
-    "jersey": "66",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jackson Slater",
     "grp": "OL",
@@ -568,6 +601,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Fernando Carmona",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040881",
+    "jersey": "66",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -578,29 +634,6 @@
    8
   ],
   "start": [
-   {
-    "name": "Joshua Williams",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 3,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038043",
-    "jersey": "25",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Cordale Flott",
     "grp": "CB",
@@ -620,6 +653,29 @@
     "gsis": "00-0037758",
     "jersey": "18",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joshua Williams",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 3,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038043",
+    "jersey": "25",
+    "origin": "RCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -681,7 +737,7 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -949,6 +1005,29 @@
     "signed_in": false
    },
    {
+    "name": "Mohamoud Diabate",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038711",
+    "jersey": "49",
+    "origin": "WLB2",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Alontae Taylor",
     "grp": "CB",
     "chartpos": "LCB",
@@ -997,29 +1076,6 @@
   ],
   "injured": [
    {
-    "name": "Kendell Brooks",
-    "grp": "S",
-    "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "FS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038703",
-    "jersey": "30",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "James Williams",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1038,6 +1094,29 @@
     "gsis": "00-0039430",
     "jersey": "52",
     "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kendell Brooks",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "FS2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038703",
+    "jersey": "30",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
