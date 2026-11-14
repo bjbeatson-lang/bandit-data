@@ -1,7 +1,7 @@
 {
  "team": "DET",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -46,7 +54,7 @@
    "gsis": "00-0036963",
    "jersey": "14",
    "injury": "Rib",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -54,6 +62,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -91,6 +107,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -109,6 +129,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -118,7 +142,7 @@
    "gsis": "00-0039364",
    "jersey": "33",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -127,6 +151,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   }
@@ -355,7 +383,7 @@
     "june": "WR1",
     "june_tier": 1,
     "now": "WR1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Rib",
     "rookie": false,
@@ -426,8 +454,8 @@
     "june": "RB3",
     "june_tier": 3,
     "now": "RB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -580,75 +608,6 @@
   ],
   "injured": [
    {
-    "name": "Tom Kennedy",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035544",
-    "jersey": "85",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ben Bartch",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG4",
-    "june_tier": 4,
-    "now": "LG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036272",
-    "jersey": "78",
-    "origin": "LG4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Isiah Pacheco",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037197",
-    "jersey": "10",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Giovanni Manu",
     "grp": "OL",
     "chartpos": "LT",
@@ -690,6 +649,75 @@
     "gsis": "00-0037297",
     "jersey": "64",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ben Bartch",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LG4",
+    "june_tier": 4,
+    "now": "LG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036272",
+    "jersey": "78",
+    "origin": "LG4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tom Kennedy",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035544",
+    "jersey": "85",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Isiah Pacheco",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037197",
+    "jersey": "10",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1145,29 +1173,6 @@
   ],
   "injured": [
    {
-    "name": "Jimmy Rolder",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 11,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041442",
-    "jersey": "41",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Damone Clark",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1191,29 +1196,6 @@
     "signed_in": false
    },
    {
-    "name": "Jack Campbell",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 59,
-    "last": 0,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039018",
-    "jersey": "46",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kerby Joseph",
     "grp": "S",
     "chartpos": "FS",
@@ -1224,7 +1206,7 @@
     "june_tier": 1,
     "now": "FS3",
     "report": "Out",
-    "practice": "Full Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -1255,6 +1237,29 @@
     "gsis": "00-0034377",
     "jersey": "29",
     "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jack Campbell",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 59,
+    "last": 0,
+    "g50": 7,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039018",
+    "jersey": "46",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1304,9 +1309,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jimmy Rolder",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 11,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041442",
+    "jersey": "41",
+    "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "gsis": "00-0036963",
+   "jersey": "14",
+   "injury": "Rib",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Sione Vaki",
+   "pos": "RB",
+   "gsis": "00-0039364",
+   "jersey": "33",
+   "injury": "Ankle",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

@@ -1,9 +1,178 @@
 {
  "team": "LAC",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Bud Dupree",
+   "pos": "DE",
+   "gsis": "00-0032146",
+   "jersey": "48",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "David Njoku",
+   "pos": "TE",
+   "gsis": "00-0033885",
+   "jersey": "83",
+   "injury": "Fibula",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Trey Pipkins",
+   "pos": "T",
+   "gsis": "00-0035688",
+   "jersey": "79",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kayode Awosika",
+   "pos": "G",
+   "gsis": "00-0036736",
+   "jersey": "74",
+   "injury": "Fibula",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kendall Williamson",
+   "pos": "S",
+   "gsis": "00-0038414",
+   "jersey": "32",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Keaton Mitchell",
+   "pos": "RB",
+   "gsis": "00-0038454",
+   "jersey": "34",
+   "injury": "Hip",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Justin Eboigbe",
+   "pos": "DE",
+   "gsis": "00-0039835",
+   "jersey": "92",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ladd McConkey",
+   "pos": "WR",
+   "gsis": "00-0039915",
+   "jersey": "15",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Isas Waxter",
+   "pos": "CB",
+   "gsis": "00-0040065",
+   "jersey": "37",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Branson Taylor",
+   "pos": "G",
+   "gsis": "00-0040212",
+   "jersey": "71",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Rodney Shelley",
+   "pos": "CB",
+   "gsis": "00-0041381",
+   "jersey": "24",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Brenen Thompson",
+   "pos": "WR",
+   "gsis": "00-0041550",
+   "jersey": "89",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    6,
@@ -229,8 +398,8 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -346,8 +515,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -369,8 +538,8 @@
     "june_tier": 3,
     "now": "RG2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -392,8 +561,8 @@
     "june_tier": 4,
     "now": "LT4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -430,52 +599,6 @@
   ],
   "injured": [
    {
-    "name": "David Njoku",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033885",
-    "jersey": "83",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Trey Pipkins",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035688",
-    "jersey": "79",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trevor Penning",
     "grp": "OL",
     "chartpos": "RG",
@@ -499,47 +622,24 @@
     "signed_in": false
    },
    {
-    "name": "Alec Ingold",
-    "grp": "RB",
-    "chartpos": "FB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FB1",
-    "june_tier": 1,
-    "now": "FB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035125",
-    "jersey": "30",
-    "origin": "FB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tyler Biadasz",
+    "name": "Trey Pipkins",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LG4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036376",
-    "jersey": "63",
-    "origin": "C1",
+    "gsis": "00-0035688",
+    "jersey": "79",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -589,6 +689,75 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "David Njoku",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE3",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Fibula",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033885",
+    "jersey": "83",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alec Ingold",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035125",
+    "jersey": "30",
+    "origin": "FB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyler Biadasz",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036376",
+    "jersey": "63",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -633,8 +802,8 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +917,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -888,8 +1057,8 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -934,8 +1103,8 @@
     "june_tier": 2,
     "now": "WLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1003,8 +1172,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1051,8 +1220,8 @@
     "june_tier": 1,
     "now": "RILB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Pectoral",
     "rookie": false,
     "returning": false,
     "why": "IR",

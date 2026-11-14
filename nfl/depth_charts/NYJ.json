@@ -1,7 +1,7 @@
 {
  "team": "NYJ",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0034782",
    "jersey": "97",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -19,6 +19,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0036902",
    "jersey": "46",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -37,6 +41,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -46,7 +54,7 @@
    "gsis": "00-0036986",
    "jersey": "26",
    "injury": "Back",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0037740",
    "jersey": "5",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -73,6 +85,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -82,7 +98,7 @@
    "gsis": "00-0039347",
    "jersey": "49",
    "injury": "Groin",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -90,6 +106,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -100,11 +120,51 @@
    "gsis": "00-0039372",
    "jersey": "2",
    "injury": "Illness",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "gsis": "00-0039890",
+   "jersey": "15",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "VJ Payne",
+   "pos": "S",
+   "gsis": "00-0041120",
+   "jersey": "34",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -114,7 +174,7 @@
    "gsis": "00-0041511",
    "jersey": "11",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -123,6 +183,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -305,8 +369,8 @@
     "june": "WR3",
     "june_tier": 1,
     "now": "WR2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": true,
     "returning": false,
@@ -328,9 +392,9 @@
     "june": "WR2",
     "june_tier": 1,
     "now": "WR3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -374,8 +438,8 @@
     "june": "WR1",
     "june_tier": 1,
     "now": "WR1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
     "returning": false,
@@ -528,29 +592,6 @@
     "signed_in": false
    },
    {
-    "name": "Kohl Levao",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG4",
-    "june_tier": 4,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038194",
-    "jersey": "60",
-    "origin": "LG4",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Blake Freeland",
     "grp": "OL",
     "chartpos": "LT",
@@ -572,32 +613,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Anez Cooper",
+    "name": "Chukwuma Okorafor",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG2",
+    "june": "RT2",
     "june_tier": 2,
-    "now": "LG3",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0041097",
-    "jersey": "72",
-    "origin": "RG2",
+    "why": "",
+    "gsis": "00-0034768",
+    "jersey": "79",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Max Mitchell",
     "grp": "OL",
@@ -640,6 +681,29 @@
     "gsis": "00-0040582",
     "jersey": "82",
     "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anez Cooper",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041097",
+    "jersey": "72",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -778,8 +842,8 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "LCB2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Back",
     "rookie": false,
     "returning": true,
@@ -893,8 +957,8 @@
     "june": "RDT1",
     "june_tier": 1,
     "now": "RDT2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1001,25 +1065,25 @@
     "signed_in": false
    },
    {
-    "name": "Trevin Wallace",
+    "name": "Jaden Keller",
     "grp": "LB",
-    "chartpos": "SLB",
+    "chartpos": "MLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "SLB1",
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
-    "rookie": false,
+    "practice": "",
+    "injury": "",
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0039347",
-    "jersey": "49",
-    "origin": "CAR RILB1",
-    "psq": false,
+    "gsis": "00-0041410",
+    "jersey": "48",
+    "origin": "MLB2",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -1095,6 +1159,52 @@
   ],
   "injured": [
    {
+    "name": "Marcelino McCrary-Ball",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037526",
+    "jersey": "41",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "T'Vondre Sweat",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 11,
+    "last": 0,
+    "g50": 4,
+    "june": "LDT1",
+    "june_tier": 1,
+    "now": "LDT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039886",
+    "jersey": "99",
+    "origin": "LDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Braiden McGregor",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1141,52 +1251,6 @@
     "signed_in": false
    },
    {
-    "name": "T'Vondre Sweat",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 11,
-    "last": 0,
-    "g50": 4,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039886",
-    "jersey": "99",
-    "origin": "LDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Marcelino McCrary-Ball",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037526",
-    "jersey": "41",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Francisco Mauigoa",
     "grp": "LB",
     "chartpos": "SLB",
@@ -1211,7 +1275,72 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Harrison Phillips",
+   "pos": "DT",
+   "gsis": "00-0034782",
+   "jersey": "97",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Joseph Ossai",
+   "pos": "DE",
+   "gsis": "00-0036902",
+   "jersey": "46",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Nahshon Wright",
+   "pos": "CB",
+   "gsis": "00-0036986",
+   "jersey": "26",
+   "injury": "Back",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Garrett Wilson",
+   "pos": "WR",
+   "gsis": "00-0037740",
+   "jersey": "5",
+   "injury": "Concussion",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Jarvis Brownlee Jr.",
+   "pos": "CB",
+   "gsis": "00-0039372",
+   "jersey": "2",
+   "injury": "Illness",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "gsis": "00-0039890",
+   "jersey": "15",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "VJ Payne",
+   "pos": "S",
+   "gsis": "00-0041120",
+   "jersey": "34",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Omar Cooper Jr.",
+   "pos": "WR",
+   "gsis": "00-0041511",
+   "jersey": "11",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": [
   "Olu Fashanu"
  ]

@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0037262",
    "jersey": "99",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -37,6 +41,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Dont'e Thornton Jr.",
+   "pos": "WR",
+   "gsis": "00-0040581",
+   "jersey": "10",
+   "injury": "Back",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -55,6 +77,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -113,29 +139,6 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Burford",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037829",
-    "jersey": "70",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Linderbaum",
     "grp": "OL",
     "chartpos": "C",
@@ -154,6 +157,29 @@
     "gsis": "00-0037825",
     "jersey": "65",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Spencer Burford",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037829",
+    "jersey": "70",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -447,7 +473,7 @@
     "june_tier": 2,
     "now": "RG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Concussion",
     "rookie": true,
     "returning": false,
@@ -483,24 +509,24 @@
     "signed_in": false
    },
    {
-    "name": "Bryce Cabeldue",
+    "name": "Charles Grant",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG2",
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040650",
-    "jersey": "77",
-    "origin": "SEA",
+    "gsis": "00-0040151",
+    "jersey": "60",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -732,8 +758,8 @@
     "june": "LDE1",
     "june_tier": 1,
     "now": "RDE2",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": true,
@@ -934,29 +960,6 @@
   ],
   "injured": [
    {
-    "name": "Keyron Crawford",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041553",
-    "jersey": "42",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chigozie Anusiem",
     "grp": "CB",
     "chartpos": "RCB",
@@ -978,9 +981,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Keyron Crawford",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041553",
+    "jersey": "42",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Thomas Booker",
+   "pos": "DT",
+   "gsis": "00-0037262",
+   "jersey": "99",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Dont'e Thornton Jr.",
+   "pos": "WR",
+   "gsis": "00-0040581",
+   "jersey": "10",
+   "injury": "Back",
+   "practice": "Did Not Participate In Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

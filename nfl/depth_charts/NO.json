@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0035242",
    "jersey": "78",
    "injury": "Biceps",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -55,6 +63,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -73,6 +85,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -82,7 +98,7 @@
    "gsis": "00-0036973",
    "jersey": "3",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -91,6 +107,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -100,7 +120,7 @@
    "gsis": "00-0037250",
    "jersey": "22",
    "injury": "Shin",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -108,6 +128,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -118,11 +142,15 @@
    "gsis": "00-0039339",
    "jersey": "75",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -141,6 +169,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -155,6 +187,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -164,7 +200,7 @@
    "gsis": "00-0041326",
    "jersey": "43",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -172,6 +208,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -182,7 +222,7 @@
    "gsis": "00-0041390",
    "jersey": "52",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -190,6 +230,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -236,7 +280,7 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -249,61 +293,15 @@
     "signed_in": false
    },
    {
-    "name": "Taliese Fuaga",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039339",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Erik McCoy",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 91,
-    "last": 75,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Biceps",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035242",
-    "jersey": "78",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Asim Richards",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RT",
     "avg3": 66,
     "last": 0,
     "g50": 5,
     "june": "LT3",
     "june_tier": 3,
-    "now": "LT2",
+    "now": "RT1",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Thumb",
@@ -313,6 +311,52 @@
     "gsis": "00-0038601",
     "jersey": "72",
     "origin": "LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jeremiah Wright",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 55,
+    "last": 4,
+    "g50": 2,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041065",
+    "jersey": "65",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cesar Ruiz",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 45,
+    "last": 96,
+    "g50": 6,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036408",
+    "jersey": "51",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -328,10 +372,10 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
-    "returning": true,
+    "returning": false,
     "why": "",
     "gsis": "00-0040125",
     "jersey": "71",
@@ -573,61 +617,15 @@
     "signed_in": false
    },
    {
-    "name": "Jeremiah Wright",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 55,
-    "last": 4,
-    "g50": 2,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041065",
-    "jersey": "65",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cesar Ruiz",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 45,
-    "last": 96,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036408",
-    "jersey": "51",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Will Sherman",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 12,
     "last": 33,
     "g50": 0,
     "june": "RG3",
     "june_tier": 3,
-    "now": "LG2",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -640,9 +638,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Mason Murphy",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 1,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041173",
+    "jersey": "74",
+    "origin": "CHI RT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Taliese Fuaga",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039339",
+    "jersey": "75",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Mason Tipton",
     "grp": "WR",
@@ -676,8 +720,8 @@
     "june": "RB1",
     "june_tier": 1,
     "now": "RB4",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
     "returning": false,
@@ -711,6 +755,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Erik McCoy",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 91,
+    "last": 75,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Biceps",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035242",
+    "jersey": "78",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -721,29 +788,6 @@
    9
   ],
   "start": [
-   {
-    "name": "Pete Werner",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 97,
-    "last": 92,
-    "g50": 7,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036927",
-    "jersey": "20",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Julian Blackmon",
     "grp": "S",
@@ -768,6 +812,29 @@
     "signed_in": false
    },
    {
+    "name": "Pete Werner",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 97,
+    "last": 92,
+    "g50": 7,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036927",
+    "jersey": "20",
+    "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Martin Emerson",
     "grp": "CB",
     "chartpos": "RCB",
@@ -777,7 +844,7 @@
     "june": "RCB2",
     "june_tier": 2,
     "now": "RCB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Shin",
     "rookie": false,
@@ -1125,7 +1192,7 @@
     "june_tier": 1,
     "now": "RCB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -1184,9 +1251,49 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Christen Miller",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 19,
+    "last": 0,
+    "g50": 0,
+    "june": "NT2",
+    "june_tier": 2,
+    "now": "NT3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": true,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0041390",
+    "jersey": "52",
+    "origin": "NT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Travis Etienne",
+   "pos": "RB",
+   "gsis": "00-0036973",
+   "jersey": "3",
+   "injury": "Hamstring",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Martin Emerson",
+   "pos": "CB",
+   "gsis": "00-0037250",
+   "jersey": "22",
+   "injury": "Shin",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

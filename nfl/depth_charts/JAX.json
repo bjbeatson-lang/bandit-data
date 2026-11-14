@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0034675",
    "jersey": "3",
    "injury": "Not injury related - resting player",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -19,6 +19,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -55,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0036985",
    "jersey": "73",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -82,7 +98,7 @@
    "gsis": "00-0037073",
    "jersey": "90",
    "injury": "Not injury related - resting player",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -91,6 +107,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -108,6 +128,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -127,6 +151,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -144,6 +172,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -163,6 +195,28 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "BJ Green II",
+   "pos": "DE",
+   "gsis": "00-0040329",
+   "jersey": "95",
+   "injury": "Forearm",
+   "designation": "Out",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -181,6 +235,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   }
@@ -271,7 +329,7 @@
     "june": "C1",
     "june_tier": 1,
     "now": "C1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
@@ -318,7 +376,7 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -341,7 +399,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -634,29 +692,6 @@
   ],
   "injured": [
    {
-    "name": "Anton Harrison",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038934",
-    "jersey": "77",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Patrick Mekari",
     "grp": "OL",
     "chartpos": "RG",
@@ -675,6 +710,29 @@
     "gsis": "00-0035112",
     "jersey": "65",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anton Harrison",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038934",
+    "jersey": "77",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1069,7 +1127,7 @@
     "june_tier": 2,
     "now": "MLB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
     "returning": false,
@@ -1130,24 +1188,24 @@
   ],
   "injured": [
    {
-    "name": "Parker Hughes",
-    "grp": "LB",
-    "chartpos": "MLB",
+    "name": "Caleb Ransaw",
+    "grp": "S",
+    "chartpos": "",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "MLB3",
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041127",
-    "jersey": "53",
-    "origin": "MLB2",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1199,30 +1257,39 @@
     "signed_in": false
    },
    {
-    "name": "Caleb Ransaw",
-    "grp": "S",
-    "chartpos": "",
+    "name": "Parker Hughes",
+    "grp": "LB",
+    "chartpos": "MLB",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "",
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB3",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
+    "gsis": "00-0041127",
+    "jersey": "53",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Robert Hainsey",
+   "pos": "C",
+   "gsis": "00-0036985",
+   "jersey": "73",
+   "injury": "Concussion",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

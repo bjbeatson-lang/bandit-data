@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Ed Oliver",
+   "pos": "DE",
+   "gsis": "00-0035230",
+   "jersey": "91",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -37,6 +55,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -46,10 +68,14 @@
    "gsis": "00-0036037",
    "jersey": "28",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -60,7 +86,7 @@
    "gsis": "00-0036976",
    "jersey": "79",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Doubtful",
    "days": [
     [
      "Wed",
@@ -68,6 +94,24 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Terrel Bernard",
+   "pos": "LB",
+   "gsis": "00-0037254",
+   "jersey": "8",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -78,7 +122,7 @@
    "gsis": "00-0037288",
    "jersey": "47",
    "injury": "Wrist",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -87,6 +131,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -105,6 +153,32 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyrell Shavers",
+   "pos": "WR",
+   "gsis": "00-0038679",
+   "jersey": "14",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -123,6 +197,32 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Jordan Hancock",
+   "pos": "CB",
+   "gsis": "00-0040192",
+   "jersey": "37",
+   "injury": "Hamstring",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -191,7 +291,7 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Neck",
     "rookie": false,
     "returning": false,
@@ -227,29 +327,6 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Brown",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 65,
-    "last": 96,
-    "g50": 6,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036976",
-    "jersey": "79",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dion Dawkins",
     "grp": "OL",
     "chartpos": "LT",
@@ -260,7 +337,7 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Rib",
     "rookie": false,
     "returning": false,
@@ -268,6 +345,29 @@
     "gsis": "00-0033904",
     "jersey": "73",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alec Anderson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 64,
+    "last": 0,
+    "g50": 7,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037428",
+    "jersey": "70",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -375,7 +475,7 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -505,29 +605,6 @@
     "signed_in": false
    },
    {
-    "name": "Alec Anderson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 64,
-    "last": 0,
-    "g50": 7,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037428",
-    "jersey": "70",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Corbett",
     "grp": "OL",
     "chartpos": "LG",
@@ -572,9 +649,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jude Bowry",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 3,
+    "last": 4,
+    "g50": 0,
+    "june": "LT3",
+    "june_tier": 3,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041548",
+    "jersey": "74",
+    "origin": "LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Spencer Brown",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 65,
+    "last": 96,
+    "g50": 6,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Doubtful",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Doubtful",
+    "gsis": "00-0036976",
+    "jersey": "79",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Josh Palmer",
     "grp": "WR",
@@ -608,7 +731,7 @@
     "june": "WR6",
     "june_tier": 2,
     "now": "WR6",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -686,8 +809,8 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "LCB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Wrist",
     "rookie": false,
     "returning": false,
@@ -710,8 +833,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -779,8 +902,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -1096,6 +1219,39 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Sam Franklin Jr.",
+   "pos": "S",
+   "gsis": "00-0036037",
+   "jersey": "28",
+   "injury": "Shoulder",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Christian Benford",
+   "pos": "CB",
+   "gsis": "00-0037288",
+   "jersey": "47",
+   "injury": "Wrist",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Tyrell Shavers",
+   "pos": "WR",
+   "gsis": "00-0038679",
+   "jersey": "14",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Jordan Hancock",
+   "pos": "CB",
+   "gsis": "00-0040192",
+   "jersey": "37",
+   "injury": "Hamstring",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

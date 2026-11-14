@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,7 +10,7 @@
    "gsis": "00-0036557",
    "jersey": "77",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -18,6 +18,24 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Kenneth Walker III",
+   "pos": "RB",
+   "gsis": "00-0038134",
+   "jersey": "9",
+   "injury": "Groin",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -28,7 +46,7 @@
    "gsis": "00-0040748",
    "jersey": "55",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -36,6 +54,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -46,11 +68,37 @@
    "gsis": "00-0040959",
    "jersey": "34",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Mansoor Delane",
+   "pos": "CB",
+   "gsis": "00-0041543",
+   "jersey": "5",
+   "injury": "Shoulder",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -60,7 +108,7 @@
    "gsis": "00-0041545",
    "jersey": "99",
    "injury": "Neck",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -68,6 +116,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -196,24 +248,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaylon Moore",
+    "name": "Joshua Ezeudu",
     "grp": "OL",
     "chartpos": "RT",
-    "avg3": 55,
-    "last": 64,
-    "g50": 7,
-    "june": "RT1",
-    "june_tier": 1,
+    "avg3": 45,
+    "last": 36,
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
     "now": "RT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036557",
-    "jersey": "77",
-    "origin": "RT1",
+    "gsis": "00-0037807",
+    "jersey": "73",
+    "origin": "NYG LT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -228,9 +280,9 @@
     "june": "RB1",
     "june_tier": 1,
     "now": "RB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "report": "Questionable",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -451,29 +503,6 @@
     "signed_in": false
    },
    {
-    "name": "Joshua Ezeudu",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 45,
-    "last": 36,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037807",
-    "jersey": "73",
-    "origin": "NYG LT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Mike Caliendo",
     "grp": "OL",
     "chartpos": "LG",
@@ -518,6 +547,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Diego Pounds",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040987",
+    "jersey": "61",
+    "origin": "BAL LT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
@@ -540,6 +592,29 @@
     "gsis": "00-0038104",
     "jersey": "2",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylon Moore",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 55,
+    "last": 64,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036557",
+    "jersey": "77",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -793,7 +868,7 @@
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Shoulder",
     "rookie": true,
@@ -855,24 +930,24 @@
     "signed_in": false
    },
    {
-    "name": "Peter Woods",
+    "name": "Bryson Eason",
     "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 18,
-    "last": 0,
-    "g50": 2,
-    "june": "LDT2",
-    "june_tier": 2,
-    "now": "LDT2",
+    "chartpos": "RDT",
+    "avg3": 16,
+    "last": 8,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RDT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Neck",
+    "practice": "",
+    "injury": "",
     "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0041545",
-    "jersey": "99",
-    "origin": "LDT2",
+    "gsis": "00-0041358",
+    "jersey": "94",
+    "origin": "SF NT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -995,6 +1070,29 @@
   ],
   "injured": [
    {
+    "name": "Peter Woods",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 18,
+    "last": 0,
+    "g50": 2,
+    "june": "LDT2",
+    "june_tier": 2,
+    "now": "LDT2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
+    "rookie": true,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0041545",
+    "jersey": "99",
+    "origin": "LDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Omarr Norman-Lott",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1004,7 +1102,7 @@
     "june": "RDT2",
     "june_tier": 2,
     "now": "RDT3",
-    "report": "",
+    "report": "Out",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1042,6 +1140,31 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Kenneth Walker III",
+   "pos": "RB",
+   "gsis": "00-0038134",
+   "jersey": "9",
+   "injury": "Groin",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Jaydn Ott",
+   "pos": "RB",
+   "gsis": "00-0040959",
+   "jersey": "34",
+   "injury": "Hamstring",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Mansoor Delane",
+   "pos": "CB",
+   "gsis": "00-0041543",
+   "jersey": "5",
+   "injury": "Shoulder",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

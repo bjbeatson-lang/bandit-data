@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 10,
- "chart_date": "2026-11-13",
+ "chart_date": "2026-11-14",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -125,29 +137,6 @@
     "signed_in": false
    },
    {
-    "name": "Jon Runyan",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036246",
-    "jersey": "76",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bryan Hudson",
     "grp": "OL",
     "chartpos": "C",
@@ -166,6 +155,29 @@
     "gsis": "00-0039446",
     "jersey": "60",
     "origin": "C3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jon Runyan",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036246",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -472,29 +484,6 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Stinnie",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034668",
-    "jersey": "64",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "John Michael Schmitz",
     "grp": "OL",
     "chartpos": "C",
@@ -516,55 +505,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
-   {
-    "name": "J.C. Davis",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 11,
-    "last": 1,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041101",
-    "jersey": "74",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    },
    {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 18,
+    "name": "Aaron Stinnie",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RB2",
+    "june": "LG2",
     "june_tier": 2,
-    "now": "RB4",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
+    "why": "",
+    "gsis": "00-0034668",
+    "jersey": "64",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Jaxson Dart",
     "grp": "QB",
@@ -607,6 +573,52 @@
     "gsis": "00-0037837",
     "jersey": "82",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "J.C. Davis",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 11,
+    "last": 1,
+    "g50": 0,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041101",
+    "jersey": "74",
+    "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 18,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -945,29 +957,6 @@
     "signed_in": false
    },
    {
-    "name": "Dawuane Smoot",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 16,
-    "last": 49,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033907",
-    "jersey": "96",
-    "origin": "PS",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jack Kelly",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1093,7 +1082,7 @@
     "g50": 2,
     "june": "WLB1",
     "june_tier": 1,
-    "now": "WLB3",
+    "now": "WLB2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1116,7 +1105,7 @@
     "g50": 6,
     "june": "RILB1",
     "june_tier": 1,
-    "now": "RILB4",
+    "now": "RILB3",
     "report": "",
     "practice": "",
     "injury": "",
