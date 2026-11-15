@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -111,6 +127,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -128,6 +148,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -151,6 +175,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -172,6 +200,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -195,6 +227,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -216,6 +252,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -239,6 +279,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -260,6 +304,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -283,6 +331,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -300,6 +352,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -322,6 +378,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -705,29 +765,6 @@
     "signed_in": false
    },
    {
-    "name": "Jedrick Wills",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036267",
-    "jersey": "79",
-    "origin": "BUF PS",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
-   },
-   {
     "name": "Kingsley Eguakun",
     "grp": "OL",
     "chartpos": "LG",
@@ -749,74 +786,51 @@
     "psq": true,
     "trade_in": false,
     "signed_in": true
+   },
+   {
+    "name": "Jedrick Wills",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036267",
+    "jersey": "79",
+    "origin": "BUF PS",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    }
   ],
   "injured": [
    {
-    "name": "Gardner Minshew",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 47,
-    "last": 100,
-    "g50": 1,
-    "june": "QB2",
-    "june_tier": 2,
-    "now": "QB4",
+    "name": "Jalen Brooks",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 21,
+    "last": 0,
+    "g50": 3,
+    "june": "WR8",
+    "june_tier": 3,
+    "now": "WR7",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035289",
-    "jersey": "15",
-    "origin": "QB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jeremiyah Love",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 6,
-    "last": 0,
-    "g50": 1,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041027",
-    "jersey": "4",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Tip Reiman",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039737",
-    "jersey": "87",
-    "origin": "TE2",
+    "gsis": "00-0038640",
+    "jersey": "86",
+    "origin": "WR8",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -845,29 +859,6 @@
     "signed_in": false
    },
    {
-    "name": "Hjalte Froholdt",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035258",
-    "jersey": "72",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chase Bisontis",
     "grp": "OL",
     "chartpos": "RG",
@@ -886,6 +877,52 @@
     "gsis": "00-0041468",
     "jersey": "57",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kendrick Bourne",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 29,
+    "last": 0,
+    "g50": 6,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033307",
+    "jersey": "17",
+    "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Gardner Minshew",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 47,
+    "last": 100,
+    "g50": 1,
+    "june": "QB2",
+    "june_tier": 2,
+    "now": "QB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035289",
+    "jersey": "15",
+    "origin": "QB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -914,24 +951,24 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Brooks",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 21,
+    "name": "Jeremiyah Love",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 6,
     "last": 0,
-    "g50": 3,
-    "june": "WR8",
-    "june_tier": 3,
-    "now": "WR7",
+    "g50": 1,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038640",
-    "jersey": "86",
-    "origin": "WR8",
+    "gsis": "00-0041027",
+    "jersey": "4",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -960,24 +997,47 @@
     "signed_in": false
    },
    {
-    "name": "Kendrick Bourne",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 29,
-    "last": 0,
-    "g50": 6,
-    "june": "WR3",
+    "name": "Hjalte Froholdt",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
     "june_tier": 1,
-    "now": "WR6",
+    "now": "C1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035258",
+    "jersey": "72",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tip Reiman",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033307",
-    "jersey": "17",
-    "origin": "WR3",
+    "gsis": "00-0039737",
+    "jersey": "87",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

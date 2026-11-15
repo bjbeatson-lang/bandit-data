@@ -15,6 +15,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -51,6 +59,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -72,6 +84,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -95,6 +111,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -116,6 +136,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -139,6 +163,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -160,6 +188,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -183,6 +215,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -196,6 +232,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -219,6 +259,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -240,6 +284,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -263,6 +311,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -284,6 +336,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -320,24 +376,24 @@
     "signed_in": false
    },
    {
-    "name": "Aireontae Ersery",
+    "name": "Ed Ingram",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 8,
-    "june": "LT1",
+    "g50": 6,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040745",
-    "jersey": "79",
-    "origin": "LT1",
+    "gsis": "00-0038131",
+    "jersey": "69",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -366,29 +422,6 @@
     "signed_in": false
    },
    {
-    "name": "Ed Ingram",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038131",
-    "jersey": "69",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Evan Brown",
     "grp": "OL",
     "chartpos": "C",
@@ -407,6 +440,29 @@
     "gsis": "00-0034495",
     "jersey": "63",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Aireontae Ersery",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040745",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -738,6 +794,29 @@
   ],
   "injured": [
    {
+    "name": "Jaylin Noel",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 27,
+    "last": 0,
+    "g50": 2,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR8",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040138",
+    "jersey": "13",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jayden Higgins",
     "grp": "WR",
     "chartpos": "WR",
@@ -779,29 +858,6 @@
     "gsis": "00-0041532",
     "jersey": "66",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaylin Noel",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 27,
-    "last": 0,
-    "g50": 2,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR8",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040138",
-    "jersey": "13",
-    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1257,6 +1313,29 @@
     "signed_in": false
    },
    {
+    "name": "Danielle Hunter",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 72,
+    "last": 65,
+    "g50": 8,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0031565",
+    "jersey": "55",
+    "origin": "RDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jaylin Smith",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1275,29 +1354,6 @@
     "gsis": "00-0040149",
     "jersey": "22",
     "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "E.J. Speed",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034987",
-    "jersey": "45",
-    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1326,24 +1382,24 @@
     "signed_in": false
    },
    {
-    "name": "Danielle Hunter",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 72,
-    "last": 65,
-    "g50": 8,
-    "june": "RDE1",
+    "name": "E.J. Speed",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
     "june_tier": 1,
-    "now": "RDE1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0031565",
-    "jersey": "55",
-    "origin": "RDE1",
+    "why": "IR",
+    "gsis": "00-0034987",
+    "jersey": "45",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -5,16 +5,66 @@
  "inactives_posted": false,
  "practice": [
   {
+   "name": "Calais Campbell",
+   "pos": "DT",
+   "gsis": "00-0026190",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Sat",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Ronnie Stanley",
+   "pos": "T",
+   "gsis": "00-0032965",
+   "jersey": "79",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Sat",
+     "DNP"
+    ]
+   ]
+  },
+  {
    "name": "Jaylinn Hawkins",
    "pos": "S",
    "gsis": "00-0036302",
    "jersey": "21",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Adam Randall",
+   "pos": "RB",
+   "gsis": "00-0040888",
+   "jersey": "23",
+   "injury": "Neck",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   }
@@ -129,8 +179,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -468,24 +518,24 @@
   ],
   "injured": [
    {
-    "name": "Durham Smythe",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
+    "name": "Tyler Huntley",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 40,
     "last": 0,
     "g50": 3,
-    "june": "TE2",
+    "june": "QB2",
     "june_tier": 2,
-    "now": "TE4",
+    "now": "QB5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034798",
-    "jersey": "80",
-    "origin": "TE2",
+    "gsis": "00-0035993",
+    "jersey": "5",
+    "origin": "QB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -537,24 +587,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Huntley",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 40,
+    "name": "Durham Smythe",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
     "last": 0,
     "g50": 3,
-    "june": "QB2",
+    "june": "TE2",
     "june_tier": 2,
-    "now": "QB5",
+    "now": "TE4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035993",
-    "jersey": "5",
-    "origin": "QB2",
+    "gsis": "00-0034798",
+    "jersey": "80",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -834,8 +884,8 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1010,6 +1060,29 @@
   ],
   "injured": [
    {
+    "name": "Jaylinn Hawkins",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 6,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036302",
+    "jersey": "21",
+    "origin": "FS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Tavius Robinson",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1034,6 +1107,15 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Adam Randall",
+   "pos": "RB",
+   "gsis": "00-0040888",
+   "jersey": "23",
+   "injury": "Neck",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

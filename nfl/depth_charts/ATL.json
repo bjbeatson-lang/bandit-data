@@ -15,6 +15,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -59,6 +67,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -77,6 +89,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -113,6 +133,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +154,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -153,6 +181,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -174,6 +206,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -197,6 +233,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -214,6 +254,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -273,29 +317,6 @@
     "signed_in": false
    },
    {
-    "name": "Matthew Bergeron",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039048",
-    "jersey": "65",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chris Lindstrom",
     "grp": "OL",
     "chartpos": "RG",
@@ -337,6 +358,29 @@
     "gsis": "00-0035237",
     "jersey": "71",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matthew Bergeron",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039048",
+    "jersey": "65",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -620,6 +664,29 @@
     "signed_in": false
    },
    {
+    "name": "Andrew Vorhees",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038383",
+    "jersey": "74",
+    "origin": "BAL",
+    "psq": false,
+    "trade_in": true,
+    "signed_in": false
+   },
+   {
     "name": "Cameron Williams",
     "grp": "OL",
     "chartpos": "LT",
@@ -641,55 +708,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Ethan Onianwa",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041121",
-    "jersey": "75",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Brian Robinson",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037746",
-    "jersey": "15",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Zachariah Branch",
     "grp": "WR",
@@ -709,6 +730,29 @@
     "gsis": "00-0041044",
     "jersey": "17",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Brian Robinson",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037746",
+    "jersey": "15",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1164,6 +1208,29 @@
   ],
   "injured": [
    {
+    "name": "Divine Deablo",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 18,
+    "last": 53,
+    "g50": 6,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "Doubtful",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Forearm",
+    "rookie": false,
+    "returning": false,
+    "why": "Doubtful",
+    "gsis": "00-0036990",
+    "jersey": "0",
+    "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "JD Bertrand",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1182,6 +1249,29 @@
     "gsis": "00-0039370",
     "jersey": "40",
     "origin": "RILB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Samson Ebukam",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 16,
+    "last": 0,
+    "g50": 4,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033945",
+    "jersey": "52",
+    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1228,52 +1318,6 @@
     "gsis": "00-0034371",
     "jersey": "90",
     "origin": "NT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Samson Ebukam",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 16,
-    "last": 0,
-    "g50": 4,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033945",
-    "jersey": "52",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Divine Deablo",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 18,
-    "last": 53,
-    "g50": 6,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "Doubtful",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Forearm",
-    "rookie": false,
-    "returning": false,
-    "why": "Doubtful",
-    "gsis": "00-0036990",
-    "jersey": "0",
-    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

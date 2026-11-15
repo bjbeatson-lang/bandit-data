@@ -23,6 +23,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -89,6 +101,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -106,6 +122,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -129,6 +149,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -150,6 +174,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -181,6 +209,29 @@
     "gsis": "00-0040014",
     "jersey": "14",
     "origin": "GB QB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Austin Jackson",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036248",
+    "jersey": "73",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -227,29 +278,6 @@
     "gsis": "00-0040742",
     "jersey": "71",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Austin Jackson",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036248",
-    "jersey": "73",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -581,24 +609,24 @@
   ],
   "injured": [
    {
-    "name": "Malik Willis",
-    "grp": "QB",
-    "chartpos": "QB",
+    "name": "Aaron Brewer",
+    "grp": "OL",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "QB1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "QB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "C1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038128",
-    "jersey": "2",
-    "origin": "QB1",
+    "why": "Out",
+    "gsis": "00-0036171",
+    "jersey": "55",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -627,24 +655,24 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Brewer",
-    "grp": "OL",
-    "chartpos": "C",
+    "name": "Malik Willis",
+    "grp": "QB",
+    "chartpos": "QB",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "C1",
+    "june": "QB1",
     "june_tier": 1,
-    "now": "C1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
+    "now": "QB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0036171",
-    "jersey": "55",
-    "origin": "C1",
+    "why": "IR",
+    "gsis": "00-0038128",
+    "jersey": "2",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -682,29 +710,6 @@
   ],
   "start": [
    {
-    "name": "Jacob Rodriguez",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041522",
-    "jersey": "10",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Michael Taaffe",
     "grp": "S",
     "chartpos": "FS",
@@ -723,6 +728,29 @@
     "gsis": "00-0041528",
     "jersey": "16",
     "origin": "FS3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jacob Rodriguez",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "MLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041522",
+    "jersey": "10",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1123,24 +1151,24 @@
   ],
   "injured": [
    {
-    "name": "Darrell Baker Jr.",
-    "grp": "CB",
-    "chartpos": "LCB",
+    "name": "Trey Moore",
+    "grp": "LB",
+    "chartpos": "SLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LCB2",
+    "june": "SLB2",
     "june_tier": 2,
-    "now": "LCB3",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037549",
-    "jersey": "22",
-    "origin": "LCB2",
+    "gsis": "00-0041526",
+    "jersey": "17",
+    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1169,29 +1197,6 @@
     "signed_in": false
    },
    {
-    "name": "Trey Moore",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB2",
-    "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041526",
-    "jersey": "17",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Zach Sieler",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1210,6 +1215,29 @@
     "gsis": "00-0034285",
     "jersey": "92",
     "origin": "RDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Darrell Baker Jr.",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037549",
+    "jersey": "22",
+    "origin": "LCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

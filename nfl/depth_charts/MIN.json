@@ -15,6 +15,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -36,6 +40,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -59,6 +67,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -80,6 +92,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -103,6 +119,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -124,6 +144,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -147,6 +171,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -161,6 +189,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -174,6 +206,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -197,6 +233,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -210,6 +250,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -232,6 +276,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -263,6 +311,52 @@
     "gsis": "00-0032950",
     "jersey": "11",
     "origin": "QB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joe Huber",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040500",
+    "jersey": "60",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Blake Brandel",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036347",
+    "jersey": "64",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -332,52 +426,6 @@
     "gsis": "00-0034158",
     "jersey": "75",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Huber",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040500",
-    "jersey": "60",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Blake Brandel",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036347",
-    "jersey": "64",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -686,24 +734,24 @@
   ],
   "injured": [
    {
-    "name": "Donovan Jackson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "LG1",
+    "name": "T.J. Hockenson",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 80,
+    "last": 81,
+    "g50": 7,
+    "june": "TE1",
     "june_tier": 1,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "TE1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Wrist",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0040661",
-    "jersey": "74",
-    "origin": "LG1",
+    "why": "Out",
+    "gsis": "00-0035229",
+    "jersey": "87",
+    "origin": "TE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -732,29 +780,6 @@
     "signed_in": false
    },
    {
-    "name": "Kyler Murray",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 67,
-    "last": 0,
-    "g50": 5,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035228",
-    "jersey": "1",
-    "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Oliver",
     "grp": "TE",
     "chartpos": "TE",
@@ -778,24 +803,47 @@
     "signed_in": false
    },
    {
-    "name": "T.J. Hockenson",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 80,
-    "last": 81,
-    "g50": 7,
-    "june": "TE1",
+    "name": "Kyler Murray",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 67,
+    "last": 0,
+    "g50": 5,
+    "june": "QB1",
     "june_tier": 1,
-    "now": "TE1",
+    "now": "QB2",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Wrist",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "Out",
-    "gsis": "00-0035229",
-    "jersey": "87",
-    "origin": "TE1",
+    "gsis": "00-0035228",
+    "jersey": "1",
+    "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Donovan Jackson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040661",
+    "jersey": "74",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

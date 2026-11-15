@@ -23,6 +23,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -111,6 +127,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -132,6 +152,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -155,6 +179,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -177,6 +205,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -198,6 +230,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -234,29 +270,6 @@
     "signed_in": false
    },
    {
-    "name": "Rasheed Walker",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037196",
-    "jersey": "63",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Robert Hunt",
     "grp": "OL",
     "chartpos": "RG",
@@ -275,6 +288,29 @@
     "gsis": "00-0036325",
     "jersey": "50",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Rasheed Walker",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037196",
+    "jersey": "63",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -652,6 +688,29 @@
   ],
   "injured": [
    {
+    "name": "Chris Brazzell II",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041047",
+    "jersey": "19",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Xavier Legette",
     "grp": "WR",
     "chartpos": "WR",
@@ -670,6 +729,29 @@
     "gsis": "00-0039342",
     "jersey": "17",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jonathon Brooks",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
+    "report": "Doubtful",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039344",
+    "jersey": "25",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -716,52 +798,6 @@
     "gsis": "00-0037229",
     "jersey": "79",
     "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Chris Brazzell II",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041047",
-    "jersey": "19",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonathon Brooks",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
-    "report": "Doubtful",
-    "practice": "Limited Participation in Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039344",
-    "jersey": "25",
-    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1240,29 +1276,6 @@
     "signed_in": false
    },
    {
-    "name": "Bobby Okereke",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 63,
-    "last": 0,
-    "g50": 7,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RILB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Foot",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035687",
-    "jersey": "58",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cam Jackson",
     "grp": "DL",
     "chartpos": "NT",
@@ -1281,6 +1294,29 @@
     "gsis": "00-0040174",
     "jersey": "99",
     "origin": "NT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaycee Horn",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "NB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036944",
+    "jersey": "8",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1332,24 +1368,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaycee Horn",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
+    "name": "Bobby Okereke",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 63,
     "last": 0,
-    "g50": 3,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "NB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "g50": 7,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RILB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0036944",
-    "jersey": "8",
-    "origin": "RCB1",
+    "why": "Out",
+    "gsis": "00-0035687",
+    "jersey": "58",
+    "origin": "FA",
     "psq": false,
     "trade_in": false,
     "signed_in": false

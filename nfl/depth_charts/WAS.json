@@ -27,6 +27,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -52,6 +56,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -79,6 +87,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -104,6 +116,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -163,29 +179,6 @@
     "signed_in": false
    },
    {
-    "name": "Brandon Coleman",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039913",
-    "jersey": "74",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Conerly Jr.",
     "grp": "OL",
     "chartpos": "RT",
@@ -204,6 +197,29 @@
     "gsis": "00-0040686",
     "jersey": "72",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Brandon Coleman",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039913",
+    "jersey": "74",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -535,6 +551,52 @@
   ],
   "injured": [
    {
+    "name": "Jaylin Lane",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR8",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040164",
+    "jersey": "83",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Athan Kaliakmanis",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "QB3",
+    "june_tier": 3,
+    "now": "QB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041117",
+    "jersey": "16",
+    "origin": "QB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Terry McLaurin",
     "grp": "WR",
     "chartpos": "WR",
@@ -556,6 +618,52 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Dyami Brown",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 25,
+    "last": 0,
+    "g50": 3,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036626",
+    "jersey": "6",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Lucas Patrick",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 81,
+    "last": 44,
+    "g50": 5,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0033082",
+    "jersey": "63",
+    "origin": "NYG C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    },
    {
     "name": "Laremy Tunsil",
@@ -599,98 +707,6 @@
     "gsis": "00-0040242",
     "jersey": "22",
     "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Lucas Patrick",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 81,
-    "last": 44,
-    "g50": 5,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0033082",
-    "jersey": "63",
-    "origin": "NYG C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
-   },
-   {
-    "name": "Dyami Brown",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 25,
-    "last": 0,
-    "g50": 3,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036626",
-    "jersey": "6",
-    "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Athan Kaliakmanis",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "QB3",
-    "june_tier": 3,
-    "now": "QB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041117",
-    "jersey": "16",
-    "origin": "QB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaylin Lane",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR8",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040164",
-    "jersey": "83",
-    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false

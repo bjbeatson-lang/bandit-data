@@ -23,6 +23,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -67,6 +75,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -111,6 +127,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -133,6 +153,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -146,6 +170,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -164,6 +192,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -187,6 +219,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -208,6 +244,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -231,6 +271,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -252,6 +296,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -275,6 +323,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -292,6 +344,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -315,6 +371,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -336,6 +396,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -367,6 +431,52 @@
     "gsis": "00-0033077",
     "jersey": "4",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyler Smith",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037243",
+    "jersey": "73",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cooper Beebe",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039348",
+    "jersey": "56",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -418,29 +528,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Smith",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037243",
-    "jersey": "73",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Booker",
     "grp": "OL",
     "chartpos": "RG",
@@ -459,29 +546,6 @@
     "gsis": "00-0040007",
     "jersey": "52",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cooper Beebe",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039348",
-    "jersey": "56",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -765,30 +829,76 @@
     "signed_in": false
    },
    {
-    "name": "Ajani Cornelius",
+    "name": "TJ Bass",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "RT3",
-    "june_tier": 3,
-    "now": "RG2",
+    "g50": 4,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040017",
-    "jersey": "65",
-    "origin": "RT3",
+    "gsis": "00-0038731",
+    "jersey": "66",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Jonathan Mingo",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 31,
+    "last": 39,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR5",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039062",
+    "jersey": "18",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jake Ferguson",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 32,
+    "last": 34,
+    "g50": 7,
+    "june": "TE1",
+    "june_tier": 1,
+    "now": "TE1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038041",
+    "jersey": "87",
+    "origin": "TE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Matt Hennessy",
     "grp": "OL",
@@ -831,52 +941,6 @@
     "gsis": "00-0037563",
     "jersey": "20",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jake Ferguson",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 32,
-    "last": 34,
-    "g50": 7,
-    "june": "TE1",
-    "june_tier": 1,
-    "now": "TE1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038041",
-    "jersey": "87",
-    "origin": "TE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonathan Mingo",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 31,
-    "last": 39,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR5",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039062",
-    "jersey": "18",
-    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1355,6 +1419,29 @@
     "signed_in": false
    },
    {
+    "name": "Devin Moore",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "LCB3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Hip",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040875",
+    "jersey": "29",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "P.J. Locke",
     "grp": "S",
     "chartpos": "SS",
@@ -1401,29 +1488,6 @@
     "signed_in": false
    },
    {
-    "name": "Jonathan Bullard",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "NT2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033093",
-    "jersey": "90",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Donovan Ezeiruaku",
     "grp": "ED",
     "chartpos": "SLB",
@@ -1447,24 +1511,24 @@
     "signed_in": false
    },
    {
-    "name": "Devin Moore",
-    "grp": "CB",
-    "chartpos": "LCB",
+    "name": "Jonathan Bullard",
+    "grp": "DL",
+    "chartpos": "NT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RCB2",
+    "june": "RDE2",
     "june_tier": 2,
-    "now": "LCB3",
+    "now": "NT2",
     "report": "Questionable",
     "practice": "Full Participation in Practice",
-    "injury": "Hip",
-    "rookie": true,
+    "injury": "Calf",
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040875",
-    "jersey": "29",
-    "origin": "RCB2",
+    "gsis": "00-0033093",
+    "jersey": "90",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

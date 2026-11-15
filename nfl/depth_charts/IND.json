@@ -23,6 +23,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -45,6 +49,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -62,6 +70,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -85,27 +97,9 @@
     [
      "Fri",
      "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Arden Key",
-   "pos": "DE",
-   "gsis": "00-0034825",
-   "jersey": "98",
-   "injury": "Hamstring",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Wed",
-     "FP"
     ],
     [
-     "Thu",
-     "FP"
-    ],
-    [
-     "Fri",
+     "Sat",
      "FP"
     ]
    ]
@@ -129,6 +123,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -150,6 +148,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -173,6 +175,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -186,6 +192,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -209,6 +219,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -231,6 +245,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -252,6 +270,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -706,29 +728,6 @@
   ],
   "injured": [
    {
-    "name": "Jalen Travis",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 80,
-    "last": 41,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0040163",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Alec Pierce",
     "grp": "WR",
     "chartpos": "WR",
@@ -747,6 +746,29 @@
     "gsis": "00-0037664",
     "jersey": "14",
     "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen Travis",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 80,
+    "last": 41,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040163",
+    "jersey": "75",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1225,6 +1247,29 @@
   ],
   "injured": [
    {
+    "name": "Jaylon Carlies",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 33,
+    "last": 15,
+    "g50": 3,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "MLB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039377",
+    "jersey": "57",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Micheal Clemons",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1243,6 +1288,52 @@
     "gsis": "00-0038107",
     "jersey": "72",
     "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Taylor-Britt",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 14,
+    "last": 0,
+    "g50": 1,
+    "june": "RCB2",
+    "june_tier": 2,
+    "now": "RCB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037753",
+    "jersey": "29",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Arden Key",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034825",
+    "jersey": "98",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1292,87 +1383,10 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Cam Taylor-Britt",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 14,
-    "last": 0,
-    "g50": 1,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037753",
-    "jersey": "29",
-    "origin": "RCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Arden Key",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034825",
-    "jersey": "98",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaylon Carlies",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 33,
-    "last": 15,
-    "g50": 3,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "MLB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Neck",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039377",
-    "jersey": "57",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
  "questionable": [
-  {
-   "name": "Arden Key",
-   "pos": "DE",
-   "gsis": "00-0034825",
-   "jersey": "98",
-   "injury": "Hamstring",
-   "practice": "Full Participation in Practice"
-  },
   {
    "name": "Will Mallory",
    "pos": "TE",
