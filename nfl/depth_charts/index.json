@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 10,
- "built_utc": "2026-11-15T17:15:05Z",
+ "built_utc": "2026-11-15T20:15:03Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -257,7 +257,7 @@
     "date": "2026-11-15",
     "time_et": "09:30",
     "game_id": "2026_10_NE_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
@@ -533,7 +533,7 @@
     "date": "2026-11-15",
     "time_et": "09:30",
     "game_id": "2026_10_NE_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
