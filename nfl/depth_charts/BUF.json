@@ -2,7 +2,7 @@
  "team": "BUF",
  "entering_week": 10,
  "chart_date": "2026-11-15",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "Dion Dawkins",
@@ -693,29 +693,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Jude Bowry",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 3,
-    "last": 4,
-    "g50": 0,
-    "june": "LT3",
-    "june_tier": 3,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041548",
-    "jersey": "74",
-    "origin": "LT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
@@ -1214,6 +1191,31 @@
     "signed_in": false
    },
    {
+    "name": "Sam Franklin Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 1,
+    "last": 2,
+    "g50": 0,
+    "june": "FS4",
+    "june_tier": 4,
+    "now": "FS3",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036037",
+    "jersey": "28",
+    "origin": "FS4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   }
+  ],
+  "injured": [
+   {
     "name": "Jalon Kilgore",
     "grp": "S",
     "chartpos": "SS",
@@ -1228,16 +1230,14 @@
     "injury": "",
     "rookie": true,
     "returning": false,
-    "why": "",
+    "why": "Inactive",
     "gsis": "00-0041086",
     "jersey": "29",
     "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
     "name": "Zane Durant",
     "grp": "DL",
@@ -1263,39 +1263,6 @@
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Sam Franklin Jr.",
-   "pos": "S",
-   "gsis": "00-0036037",
-   "jersey": "28",
-   "injury": "Shoulder",
-   "practice": "Limited Participation in Practice"
-  },
-  {
-   "name": "Christian Benford",
-   "pos": "CB",
-   "gsis": "00-0037288",
-   "jersey": "47",
-   "injury": "Wrist",
-   "practice": "Full Participation in Practice"
-  },
-  {
-   "name": "Tyrell Shavers",
-   "pos": "WR",
-   "gsis": "00-0038679",
-   "jersey": "14",
-   "injury": "Knee",
-   "practice": "Full Participation in Practice"
-  },
-  {
-   "name": "Jordan Hancock",
-   "pos": "CB",
-   "gsis": "00-0040192",
-   "jersey": "37",
-   "injury": "Hamstring",
-   "practice": "Full Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }
