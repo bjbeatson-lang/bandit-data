@@ -1,7 +1,7 @@
 {
  "team": "ARI",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -131,6 +147,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -152,6 +172,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -179,6 +203,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -204,6 +232,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -231,6 +263,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -256,6 +292,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -283,6 +323,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -308,6 +352,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -335,6 +383,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -356,6 +408,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -382,6 +438,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -418,29 +478,6 @@
     "signed_in": false
    },
    {
-    "name": "Isaac Seumalo",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0032954",
-    "jersey": "73",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Elijah Wilkinson",
     "grp": "OL",
     "chartpos": "RT",
@@ -464,6 +501,29 @@
     "signed_in": false
    },
    {
+    "name": "Isaac Seumalo",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0032954",
+    "jersey": "73",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Hayden Conner",
     "grp": "OL",
     "chartpos": "C",
@@ -472,7 +532,7 @@
     "g50": 2,
     "june": "LG3",
     "june_tier": 3,
-    "now": "C1",
+    "now": "C3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -666,7 +726,7 @@
     "returning": false,
     "why": "",
     "gsis": "00-0026300",
-    "jersey": "11",
+    "jersey": "9",
     "origin": "CIN PS",
     "psq": false,
     "trade_in": true,
@@ -765,29 +825,6 @@
     "signed_in": false
    },
    {
-    "name": "Jedrick Wills",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036267",
-    "jersey": "79",
-    "origin": "BUF PS",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
-   },
-   {
     "name": "Kingsley Eguakun",
     "grp": "OL",
     "chartpos": "LG",
@@ -807,6 +844,29 @@
     "jersey": "64",
     "origin": "NYG",
     "psq": true,
+    "trade_in": false,
+    "signed_in": true
+   },
+   {
+    "name": "Jedrick Wills",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036267",
+    "jersey": "79",
+    "origin": "BUF PS",
+    "psq": false,
     "trade_in": false,
     "signed_in": true
    },
@@ -836,6 +896,29 @@
   ],
   "injured": [
    {
+    "name": "Michael Wilson",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 84,
+    "last": 83,
+    "g50": 9,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038559",
+    "jersey": "14",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jayden Williams",
     "grp": "OL",
     "chartpos": "LT",
@@ -859,24 +942,24 @@
     "signed_in": false
    },
    {
-    "name": "Paris Johnson Jr.",
+    "name": "Jon Gaines II",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
     "g50": 4,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "C2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038540",
-    "jersey": "70",
-    "origin": "LT1",
+    "why": "Out",
+    "gsis": "00-0038571",
+    "jersey": "71",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -890,7 +973,7 @@
     "g50": 9,
     "june": "C1",
     "june_tier": 1,
-    "now": "C2",
+    "now": "C1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
     "injury": "Concussion",
@@ -900,52 +983,6 @@
     "gsis": "00-0035258",
     "jersey": "72",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jalen Brooks",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 21,
-    "last": 0,
-    "g50": 3,
-    "june": "WR8",
-    "june_tier": 3,
-    "now": "WR8",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038640",
-    "jersey": "86",
-    "origin": "WR8",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Chase Bisontis",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041468",
-    "jersey": "57",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -974,47 +1011,24 @@
     "signed_in": false
    },
    {
-    "name": "Jon Gaines II",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
+    "name": "Jeremiyah Love",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 6,
     "last": 0,
-    "g50": 4,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "C3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038571",
-    "jersey": "71",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Gardner Minshew",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 47,
-    "last": 100,
     "g50": 1,
-    "june": "QB2",
-    "june_tier": 2,
-    "now": "QB4",
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035289",
-    "jersey": "15",
-    "origin": "QB2",
+    "gsis": "00-0041027",
+    "jersey": "4",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1043,47 +1057,93 @@
     "signed_in": false
    },
    {
-    "name": "Jeremiyah Love",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 6,
-    "last": 0,
-    "g50": 1,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041027",
-    "jersey": "4",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Michael Wilson",
+    "name": "Jalen Brooks",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 84,
-    "last": 83,
-    "g50": 9,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR6",
+    "avg3": 21,
+    "last": 0,
+    "g50": 3,
+    "june": "WR8",
+    "june_tier": 3,
+    "now": "WR8",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038559",
-    "jersey": "14",
-    "origin": "WR2",
+    "gsis": "00-0038640",
+    "jersey": "86",
+    "origin": "WR8",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Paris Johnson Jr.",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038540",
+    "jersey": "70",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Gardner Minshew",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 47,
+    "last": 100,
+    "g50": 1,
+    "june": "QB2",
+    "june_tier": 2,
+    "now": "QB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035289",
+    "jersey": "15",
+    "origin": "QB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Chase Bisontis",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041468",
+    "jersey": "57",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

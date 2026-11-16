@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -27,6 +27,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -71,6 +79,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -92,6 +104,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -119,6 +135,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -144,6 +164,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -203,29 +227,6 @@
     "signed_in": false
    },
    {
-    "name": "Trey Smith",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 98,
-    "last": 94,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036660",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Creed Humphrey",
     "grp": "OL",
     "chartpos": "C",
@@ -244,6 +245,29 @@
     "gsis": "00-0036623",
     "jersey": "52",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trey Smith",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 98,
+    "last": 94,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036660",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -280,7 +304,7 @@
     "g50": 1,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT1",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -581,7 +605,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT2",
+    "now": "RT4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -600,13 +624,13 @@
    {
     "name": "Jaylon Moore",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RT",
     "avg3": 55,
     "last": 64,
     "g50": 7,
     "june": "RT1",
     "june_tier": 1,
-    "now": "LT2",
+    "now": "RT1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
     "injury": "Ankle",
@@ -1117,29 +1141,6 @@
     "signed_in": false
    },
    {
-    "name": "L'Jarius Sneed",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 7,
-    "last": 0,
-    "g50": 4,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "NB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036374",
-    "jersey": "38",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Peter Woods",
     "grp": "DL",
     "chartpos": "LDT",
@@ -1158,6 +1159,29 @@
     "gsis": "00-0041545",
     "jersey": "99",
     "origin": "LDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "L'Jarius Sneed",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 7,
+    "last": 0,
+    "g50": 4,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "NB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036374",
+    "jersey": "38",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

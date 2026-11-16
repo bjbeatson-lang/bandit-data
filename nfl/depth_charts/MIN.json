@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -70,6 +78,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -97,6 +109,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -122,6 +138,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -149,6 +169,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -175,6 +199,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -193,6 +221,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -210,6 +242,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -237,6 +273,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -254,6 +294,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -280,6 +324,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -316,70 +364,24 @@
     "signed_in": false
    },
    {
-    "name": "Christian Darrisaw",
+    "name": "Brian O'Neill",
     "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - resting player",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036616",
-    "jersey": "71",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Blake Brandel",
-    "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "C1",
+    "june": "RT1",
     "june_tier": 1,
-    "now": "C1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036347",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Will Fries",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036483",
-    "jersey": "76",
-    "origin": "RG1",
+    "gsis": "00-0034158",
+    "jersey": "75",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -408,24 +410,70 @@
     "signed_in": false
    },
    {
-    "name": "Brian O'Neill",
+    "name": "Will Fries",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "RT1",
+    "june": "RG1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034158",
-    "jersey": "75",
-    "origin": "RT1",
+    "gsis": "00-0036483",
+    "jersey": "76",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Blake Brandel",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036347",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Christian Darrisaw",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036616",
+    "jersey": "71",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -734,47 +782,47 @@
   ],
   "injured": [
    {
-    "name": "Jordan Addison",
+    "name": "Jauan Jennings",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 92,
-    "last": 96,
-    "g50": 7,
-    "june": "WR2",
+    "avg3": 37,
+    "last": 0,
+    "g50": 5,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "WR2",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Thumb",
+    "now": "WR3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0038994",
-    "jersey": "3",
-    "origin": "WR2",
+    "gsis": "00-0036259",
+    "jersey": "14",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    },
    {
-    "name": "Donovan Jackson",
-    "grp": "OL",
-    "chartpos": "LG",
+    "name": "Josh Oliver",
+    "grp": "TE",
+    "chartpos": "TE",
     "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG3",
+    "g50": 2,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040661",
-    "jersey": "74",
-    "origin": "LG1",
+    "gsis": "00-0035249",
+    "jersey": "84",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -803,24 +851,47 @@
     "signed_in": false
    },
    {
-    "name": "Jauan Jennings",
+    "name": "Donovan Jackson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040661",
+    "jersey": "74",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Addison",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 37,
-    "last": 0,
-    "g50": 5,
-    "june": "WR3",
+    "avg3": 92,
+    "last": 96,
+    "g50": 7,
+    "june": "WR2",
     "june_tier": 1,
-    "now": "WR3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
+    "now": "WR2",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0036259",
-    "jersey": "14",
-    "origin": "WR3",
+    "gsis": "00-0038994",
+    "jersey": "3",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -844,29 +915,6 @@
     "gsis": "00-0035229",
     "jersey": "87",
     "origin": "TE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Josh Oliver",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035249",
-    "jersey": "84",
-    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1322,29 +1370,6 @@
   ],
   "injured": [
    {
-    "name": "Blake Cashman",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 93,
-    "last": 86,
-    "g50": 8,
-    "june": "RILB1",
-    "june_tier": 1,
-    "now": "RILB1",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035276",
-    "jersey": "51",
-    "origin": "RILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyrion Ingram-Dawkins",
     "grp": "DL",
     "chartpos": "RDE",
@@ -1363,6 +1388,29 @@
     "gsis": "00-0040173",
     "jersey": "90",
     "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Blake Cashman",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 93,
+    "last": 86,
+    "g50": 8,
+    "june": "RILB1",
+    "june_tier": 1,
+    "now": "RILB1",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035276",
+    "jersey": "51",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

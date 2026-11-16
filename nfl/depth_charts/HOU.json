@@ -1,7 +1,7 @@
 {
  "team": "HOU",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -36,6 +40,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -63,6 +71,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -88,6 +100,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -115,6 +131,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -140,6 +160,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -167,6 +191,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -192,6 +220,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -219,6 +251,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -236,6 +272,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -263,6 +303,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -288,6 +332,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -315,6 +363,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -340,6 +392,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -399,24 +455,24 @@
     "signed_in": false
    },
    {
-    "name": "Aireontae Ersery",
+    "name": "Ed Ingram",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 8,
-    "june": "LT1",
+    "g50": 6,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040745",
-    "jersey": "79",
-    "origin": "LT1",
+    "gsis": "00-0038131",
+    "jersey": "69",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -445,24 +501,24 @@
     "signed_in": false
    },
    {
-    "name": "Ed Ingram",
+    "name": "Aireontae Ersery",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
-    "g50": 6,
-    "june": "RG1",
+    "g50": 8,
+    "june": "LT1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0038131",
-    "jersey": "69",
-    "origin": "RG1",
+    "gsis": "00-0040745",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -746,24 +802,24 @@
     "signed_in": false
    },
    {
-    "name": "Febechi Nwaiwu",
+    "name": "Nathan Thomas",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041559",
-    "jersey": "64",
-    "origin": "RG2",
+    "gsis": "00-0039422",
+    "jersey": "78",
+    "origin": "DAL LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -794,29 +850,6 @@
   ],
   "injured": [
    {
-    "name": "Jayden Higgins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040130",
-    "jersey": "81",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Keylan Rutledge",
     "grp": "OL",
     "chartpos": "LG",
@@ -825,7 +858,7 @@
     "g50": 8,
     "june": "C1",
     "june_tier": 1,
-    "now": "LG3",
+    "now": "LG1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
     "injury": "Neck",
@@ -881,6 +914,29 @@
     "gsis": "00-0034399",
     "jersey": "75",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jayden Higgins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040130",
+    "jersey": "81",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1313,47 +1369,24 @@
   ],
   "injured": [
    {
-    "name": "E.J. Speed",
+    "name": "Azeez Al-Shaair",
     "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
+    "chartpos": "MLB",
+    "avg3": 93,
+    "last": 96,
+    "g50": 7,
+    "june": "MLB1",
     "june_tier": 1,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "MLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0034987",
-    "jersey": "45",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dylan Horton",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039009",
-    "jersey": "92",
-    "origin": "LDE2",
+    "why": "Out",
+    "gsis": "00-0035166",
+    "jersey": "0",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1382,24 +1415,24 @@
     "signed_in": false
    },
    {
-    "name": "Azeez Al-Shaair",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 93,
-    "last": 96,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
+    "name": "Dylan Horton",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0035166",
-    "jersey": "0",
-    "origin": "MLB1",
+    "why": "IR",
+    "gsis": "00-0039009",
+    "jersey": "92",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1423,6 +1456,29 @@
     "gsis": "00-0031565",
     "jersey": "55",
     "origin": "RDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "E.J. Speed",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034987",
+    "jersey": "45",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

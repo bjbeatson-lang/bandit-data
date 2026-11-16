@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -27,6 +27,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -44,6 +48,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -71,6 +79,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -92,6 +104,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -119,6 +135,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -136,6 +156,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -163,6 +187,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -188,6 +216,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -215,6 +247,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -241,6 +277,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -266,6 +306,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -697,24 +741,24 @@
   ],
   "injured": [
    {
-    "name": "Josh Palmer",
+    "name": "Tyrell Shavers",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 11,
+    "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036988",
-    "jersey": "5",
-    "origin": "WR3",
+    "gsis": "00-0038679",
+    "jersey": "14",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -743,24 +787,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyrell Shavers",
+    "name": "Josh Palmer",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 0,
+    "avg3": 11,
     "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
+    "g50": 1,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038679",
-    "jersey": "14",
-    "origin": "WR6",
+    "gsis": "00-0036988",
+    "jersey": "5",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1216,29 +1260,6 @@
   ],
   "injured": [
    {
-    "name": "Jalon Kilgore",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 6,
-    "last": 0,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041086",
-    "jersey": "29",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Zane Durant",
     "grp": "DL",
     "chartpos": "RDE",
@@ -1257,6 +1278,29 @@
     "gsis": "00-0041091",
     "jersey": "92",
     "origin": "RDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalon Kilgore",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 6,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041086",
+    "jersey": "29",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

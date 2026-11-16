@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -30,6 +30,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -61,6 +65,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -90,6 +98,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -123,29 +135,6 @@
     "origin": "MIN",
     "psq": false,
     "trade_in": true,
-    "signed_in": false
-   },
-   {
-    "name": "Bryan Hudson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039446",
-    "jersey": "60",
-    "origin": "C3",
-    "psq": false,
-    "trade_in": false,
     "signed_in": false
    },
    {
@@ -190,6 +179,29 @@
     "gsis": "00-0036246",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Hudson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039446",
+    "jersey": "60",
+    "origin": "C3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -496,29 +508,6 @@
     "signed_in": false
    },
    {
-    "name": "Aaron Stinnie",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034668",
-    "jersey": "64",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "John Michael Schmitz",
     "grp": "OL",
     "chartpos": "C",
@@ -540,32 +529,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "J.C. Davis",
+    "name": "Aaron Stinnie",
     "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 11,
-    "last": 1,
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
     "g50": 0,
-    "june": "LT2",
+    "june": "LG2",
     "june_tier": 2,
-    "now": "LT2",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041101",
-    "jersey": "74",
-    "origin": "LT2",
+    "why": "",
+    "gsis": "00-0034668",
+    "jersey": "64",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Jaxson Dart",
     "grp": "QB",
@@ -585,6 +574,29 @@
     "gsis": "00-0040691",
     "jersey": "6",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 18,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -613,24 +625,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 18,
-    "last": 0,
+    "name": "J.C. Davis",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 11,
+    "last": 1,
     "g50": 0,
-    "june": "RB2",
+    "june": "LT2",
     "june_tier": 2,
-    "now": "RB4",
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
+    "why": "Inactive",
+    "gsis": "00-0041101",
+    "jersey": "74",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -806,29 +818,6 @@
     "signed_in": false
    },
    {
-    "name": "Micah McFadden",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 67,
-    "last": 100,
-    "g50": 2,
-    "june": "RILB2",
-    "june_tier": 2,
-    "now": "RILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037259",
-    "jersey": "41",
-    "origin": "RILB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Nubin",
     "grp": "S",
     "chartpos": "FS",
@@ -847,6 +836,29 @@
     "gsis": "00-0039861",
     "jersey": "27",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Micah McFadden",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 67,
+    "last": 100,
+    "g50": 2,
+    "june": "RILB2",
+    "june_tier": 2,
+    "now": "RILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037259",
+    "jersey": "41",
+    "origin": "RILB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1063,29 +1075,6 @@
   ],
   "injured": [
    {
-    "name": "Chauncey Golston",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "RDE2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036982",
-    "jersey": "57",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tremaine Edmunds",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1104,6 +1093,29 @@
     "gsis": "00-0034673",
     "jersey": "49",
     "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Chauncey Golston",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "RDE2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036982",
+    "jersey": "57",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

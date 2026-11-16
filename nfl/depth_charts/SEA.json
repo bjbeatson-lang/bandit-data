@@ -1,7 +1,7 @@
 {
  "team": "SEA",
  "entering_week": 10,
- "chart_date": "2026-11-15",
+ "chart_date": "2026-11-16",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -198,6 +230,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -221,6 +257,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -242,6 +282,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -265,6 +309,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -286,6 +334,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -322,6 +374,29 @@
     "signed_in": false
    },
    {
+    "name": "Grey Zabel",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040639",
+    "jersey": "76",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Abraham Lucas",
     "grp": "OL",
     "chartpos": "RT",
@@ -340,29 +415,6 @@
     "gsis": "00-0037812",
     "jersey": "72",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Grey Zabel",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040639",
-    "jersey": "76",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -422,7 +474,7 @@
     "g50": 3,
     "june": "RG1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RG2",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
@@ -740,26 +792,26 @@
   ],
   "injured": [
    {
-    "name": "Charles Cross",
+    "name": "Quenton Nelson",
     "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 28,
+    "chartpos": "LG",
+    "avg3": 33,
     "last": 0,
-    "g50": 7,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0037821",
-    "jersey": "67",
-    "origin": "LT1",
+    "gsis": "00-0034342",
+    "jersey": "53",
+    "origin": "IND",
     "psq": false,
-    "trade_in": false,
+    "trade_in": true,
     "signed_in": false
    },
    {
@@ -781,52 +833,6 @@
     "gsis": "00-0040649",
     "jersey": "40",
     "origin": "FB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Sam Darnold",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 67,
-    "last": 0,
-    "g50": 6,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ribs",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034869",
-    "jersey": "14",
-    "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jake Bobo",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038752",
-    "jersey": "19",
-    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -855,26 +861,49 @@
     "signed_in": false
    },
    {
-    "name": "Quenton Nelson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 33,
+    "name": "Sam Darnold",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 67,
     "last": 0,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LG1",
+    "g50": 6,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
+    "injury": "Ribs",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0034869",
+    "jersey": "14",
+    "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Charles Cross",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 28,
+    "last": 0,
+    "g50": 7,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0034342",
-    "jersey": "53",
-    "origin": "IND",
+    "gsis": "00-0037821",
+    "jersey": "67",
+    "origin": "LT1",
     "psq": false,
-    "trade_in": true,
+    "trade_in": false,
     "signed_in": false
    },
    {
@@ -896,6 +925,29 @@
     "gsis": "00-0038797",
     "jersey": "23",
     "origin": "RB4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jake Bobo",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038752",
+    "jersey": "19",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false

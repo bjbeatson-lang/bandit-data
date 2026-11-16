@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 10,
- "built_utc": "2026-11-16T00:30:02Z",
+ "built_utc": "2026-11-16T16:00:00Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -163,7 +163,7 @@
     "date": "2026-11-15",
     "time_et": "20:20",
     "game_id": "2026_10_PIT_CIN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
@@ -210,7 +210,7 @@
     "date": "2026-11-15",
     "time_et": "16:25",
     "game_id": "2026_10_SF_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
@@ -653,7 +653,7 @@
     "date": "2026-11-15",
     "time_et": "20:20",
     "game_id": "2026_10_PIT_CIN",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
@@ -700,7 +700,7 @@
     "date": "2026-11-15",
     "time_et": "16:25",
     "game_id": "2026_10_SF_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 11,
