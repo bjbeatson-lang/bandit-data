@@ -1,9 +1,150 @@
 {
  "team": "MIA",
  "entering_week": 11,
- "chart_date": "2026-11-18",
+ "chart_date": "2026-11-19",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Bradley Pinion",
+   "pos": "P",
+   "gsis": "00-0032065",
+   "jersey": "48",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Aaron Brewer",
+   "pos": "C",
+   "gsis": "00-0036171",
+   "jersey": "55",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tucker Addington",
+   "pos": "LS",
+   "gsis": "00-0037686",
+   "jersey": "46",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jared Wayne",
+   "pos": "WR",
+   "gsis": "00-0038728",
+   "jersey": "86",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Julius Brents",
+   "pos": "CB",
+   "gsis": "00-0039156",
+   "jersey": "8",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylin Simpson",
+   "pos": "CB",
+   "gsis": "00-0039383",
+   "jersey": "32",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrew Meyer",
+   "pos": "C",
+   "gsis": "00-0039485",
+   "jersey": "60",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dante Trader Jr.",
+   "pos": "S",
+   "gsis": "00-0040182",
+   "jersey": "11",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "gsis": "00-0041523",
+   "jersey": "7",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Chris Bell",
+   "pos": "WR",
+   "gsis": "00-0041525",
+   "jersey": "18",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    8,
@@ -35,29 +176,6 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Paul",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039899",
-    "jersey": "52",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Jackson",
     "grp": "OL",
     "chartpos": "RT",
@@ -76,6 +194,29 @@
     "gsis": "00-0036248",
     "jersey": "73",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Paul",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039899",
+    "jersey": "52",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -137,8 +278,8 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -183,8 +324,8 @@
     "june_tier": 2,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -252,8 +393,8 @@
     "june_tier": 2,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -415,8 +556,8 @@
     "june_tier": 2,
     "now": "C2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -508,6 +649,29 @@
   ],
   "start": [
    {
+    "name": "Jacob Rodriguez",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "MLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041522",
+    "jersey": "10",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jordyn Brooks",
     "grp": "LB",
     "chartpos": "WLB",
@@ -577,29 +741,6 @@
     "signed_in": false
    },
    {
-    "name": "Jacob Rodriguez",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041522",
-    "jersey": "10",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dante Trader Jr.",
     "grp": "S",
     "chartpos": "SS",
@@ -610,8 +751,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -633,8 +774,8 @@
     "june_tier": 2,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -855,29 +996,6 @@
     "signed_in": false
    },
    {
-    "name": "Jackson Woodard",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB3",
-    "june_tier": 3,
-    "now": "SLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040066",
-    "jersey": "42",
-    "origin": "MLB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Shaka Heyward",
     "grp": "LB",
     "chartpos": "WLB",
@@ -901,6 +1019,29 @@
     "signed_in": true
    },
    {
+    "name": "Jackson Woodard",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB3",
+    "june_tier": 3,
+    "now": "SLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040066",
+    "jersey": "42",
+    "origin": "MLB3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jaylin Simpson",
     "grp": "CB",
     "chartpos": "LCB",
@@ -911,8 +1052,8 @@
     "june_tier": null,
     "now": "LCB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -948,29 +1089,6 @@
    }
   ],
   "injured": [
-   {
-    "name": "Jordan Phillips",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 60,
-    "last": 54,
-    "g50": 8,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LDT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040175",
-    "jersey": "94",
-    "origin": "FA",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Zeek Biggers",
     "grp": "DL",
@@ -1018,6 +1136,29 @@
     "signed_in": false
    },
    {
+    "name": "Jordan Phillips",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 60,
+    "last": 54,
+    "g50": 8,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040175",
+    "jersey": "94",
+    "origin": "FA",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ronnie Harrison",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1051,8 +1192,8 @@
     "june_tier": 2,
     "now": "LCB3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
