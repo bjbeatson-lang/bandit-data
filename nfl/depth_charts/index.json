@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 11,
- "built_utc": "2026-11-20T00:30:03Z",
+ "built_utc": "2026-11-20T16:00:00Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -196,7 +196,7 @@
     "opp": "LV",
     "home": true,
     "date": "2026-11-29",
-    "time_et": "13:00",
+    "time_et": "20:20",
     "game_id": "2026_12_LV_CLE",
     "final": false
    }
@@ -314,7 +314,7 @@
     "date": "2026-11-19",
     "time_et": "20:15",
     "game_id": "2026_11_IND_HOU",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -340,7 +340,7 @@
     "date": "2026-11-19",
     "time_et": "20:15",
     "game_id": "2026_11_IND_HOU",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -373,7 +373,7 @@
     "opp": "TEN",
     "home": true,
     "date": "2026-11-29",
-    "time_et": "16:05",
+    "time_et": "13:00",
     "game_id": "2026_12_TEN_JAX",
     "final": false
    }
@@ -446,7 +446,7 @@
     "opp": "NE",
     "home": true,
     "date": "2026-11-29",
-    "time_et": "20:20",
+    "time_et": "16:05",
     "game_id": "2026_12_NE_LAC",
     "final": false
    }
@@ -472,7 +472,7 @@
     "opp": "CLE",
     "home": false,
     "date": "2026-11-29",
-    "time_et": "13:00",
+    "time_et": "20:20",
     "game_id": "2026_12_LV_CLE",
     "final": false
    }
@@ -545,7 +545,7 @@
     "opp": "LAC",
     "home": false,
     "date": "2026-11-29",
-    "time_et": "20:20",
+    "time_et": "16:05",
     "game_id": "2026_12_NE_LAC",
     "final": false
    }
@@ -774,7 +774,7 @@
     "opp": "JAX",
     "home": false,
     "date": "2026-11-29",
-    "time_et": "16:05",
+    "time_et": "13:00",
     "game_id": "2026_12_TEN_JAX",
     "final": false
    }

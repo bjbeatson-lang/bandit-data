@@ -1,7 +1,7 @@
 {
  "team": "LV",
  "entering_week": 11,
- "chart_date": "2026-11-19",
+ "chart_date": "2026-11-20",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,28 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Ian Thomas",
+   "pos": "TE",
+   "gsis": "00-0034365",
+   "jersey": "80",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -29,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -43,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -56,6 +86,24 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Trey Zuhn III",
+   "pos": "C",
+   "gsis": "00-0040871",
+   "jersey": "66",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -87,6 +135,52 @@
     "gsis": "00-0041562",
     "jersey": "15",
     "origin": "QB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DJ Glaze",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039349",
+    "jersey": "71",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kolton Miller",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034759",
+    "jersey": "74",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -133,52 +227,6 @@
     "gsis": "00-0037829",
     "jersey": "70",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kolton Miller",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034759",
-    "jersey": "74",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "DJ Glaze",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039349",
-    "jersey": "71",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -309,7 +357,7 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -426,7 +474,7 @@
     "june_tier": 3,
     "now": "TE3",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Calf",
     "rookie": false,
     "returning": false,
@@ -449,8 +497,8 @@
     "june_tier": 2,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -485,24 +533,24 @@
     "signed_in": false
    },
    {
-    "name": "Charles Grant",
+    "name": "Bryce Cabeldue",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040151",
-    "jersey": "60",
-    "origin": "LT2",
+    "gsis": "00-0040650",
+    "jersey": "77",
+    "origin": "SEA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -517,29 +565,6 @@
    10
   ],
   "start": [
-   {
-    "name": "Nakobe Dean",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037615",
-    "jersey": "17",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jeremy Chinn",
     "grp": "S",
@@ -559,6 +584,29 @@
     "gsis": "00-0036293",
     "jersey": "11",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nakobe Dean",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037615",
+    "jersey": "17",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -735,7 +783,7 @@
     "june_tier": null,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Toe",
     "rookie": false,
     "returning": false,
@@ -936,29 +984,6 @@
   ],
   "injured": [
    {
-    "name": "Keyron Crawford",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041553",
-    "jersey": "42",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Chigozie Anusiem",
     "grp": "CB",
     "chartpos": "RCB",
@@ -977,6 +1002,29 @@
     "gsis": "00-0039676",
     "jersey": "29",
     "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Keyron Crawford",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041553",
+    "jersey": "42",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,9 +1,23 @@
 {
  "team": "BAL",
  "entering_week": 11,
- "chart_date": "2026-11-19",
+ "chart_date": "2026-11-20",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Marlon Humphrey",
+   "pos": "CB",
+   "gsis": "00-0033281",
+   "jersey": "44",
+   "injury": "Not injury related - personal matter",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Nnamdi Madubuike",
    "pos": "DT",
@@ -14,6 +28,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +47,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -43,6 +65,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -180,7 +206,7 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": true,
     "returning": false,
@@ -496,29 +522,6 @@
   ],
   "injured": [
    {
-    "name": "Durham Smythe",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034798",
-    "jersey": "80",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jovaughn Gwyn",
     "grp": "OL",
     "chartpos": "C",
@@ -537,6 +540,29 @@
     "gsis": "00-0038629",
     "jersey": "54",
     "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Lamar Jackson",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 1,
+    "last": 0,
+    "g50": 4,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034796",
+    "jersey": "8",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -565,24 +591,24 @@
     "signed_in": false
    },
    {
-    "name": "Lamar Jackson",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 1,
+    "name": "Durham Smythe",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
     "last": 0,
-    "g50": 4,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB4",
+    "g50": 3,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034796",
-    "jersey": "8",
-    "origin": "QB1",
+    "gsis": "00-0034798",
+    "jersey": "80",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -676,8 +702,8 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
     "why": "",

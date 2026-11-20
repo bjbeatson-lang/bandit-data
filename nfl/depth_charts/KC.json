@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 11,
- "chart_date": "2026-11-19",
+ "chart_date": "2026-11-20",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -635,7 +655,7 @@
     "june_tier": 1,
     "now": "MLB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Shin",
     "rookie": false,
     "returning": false,

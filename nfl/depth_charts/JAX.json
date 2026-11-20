@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 11,
- "chart_date": "2026-11-19",
+ "chart_date": "2026-11-20",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -43,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -56,6 +68,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -71,6 +87,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -84,6 +104,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -99,6 +123,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -112,6 +140,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -127,6 +159,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -140,6 +176,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -155,6 +195,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -169,6 +213,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   }
@@ -204,29 +252,6 @@
     "signed_in": false
    },
    {
-    "name": "Emmanuel Pregnon",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041050",
-    "jersey": "75",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Walker Little",
     "grp": "OL",
     "chartpos": "LT",
@@ -245,6 +270,29 @@
     "gsis": "00-0036975",
     "jersey": "72",
     "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Emmanuel Pregnon",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041050",
+    "jersey": "75",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -329,7 +377,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -622,29 +670,6 @@
   ],
   "injured": [
    {
-    "name": "Anton Harrison",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038934",
-    "jersey": "77",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Patrick Mekari",
     "grp": "OL",
     "chartpos": "RG",
@@ -663,6 +688,29 @@
     "gsis": "00-0035112",
     "jersey": "65",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Anton Harrison",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038934",
+    "jersey": "77",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -871,7 +919,7 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - personal matter",
     "rookie": false,
     "returning": false,
@@ -1118,47 +1166,24 @@
   ],
   "injured": [
    {
-    "name": "Parker Hughes",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "MLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041127",
-    "jersey": "53",
-    "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Eric Murray",
+    "name": "Caleb Ransaw",
     "grp": "S",
-    "chartpos": "SS",
+    "chartpos": "",
     "avg3": 0,
     "last": 0,
-    "g50": 5,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS3",
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0033038",
-    "jersey": "29",
-    "origin": "SS1",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1187,24 +1212,47 @@
     "signed_in": false
    },
    {
-    "name": "Caleb Ransaw",
+    "name": "Eric Murray",
     "grp": "S",
-    "chartpos": "",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "",
+    "g50": 5,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
+    "gsis": "00-0033038",
+    "jersey": "29",
+    "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Parker Hughes",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041127",
+    "jersey": "53",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

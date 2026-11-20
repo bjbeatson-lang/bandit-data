@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 11,
- "chart_date": "2026-11-19",
+ "chart_date": "2026-11-20",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -43,6 +51,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -56,6 +68,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -71,6 +87,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -84,6 +104,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -99,6 +123,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -113,6 +141,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -126,6 +158,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -427,7 +463,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -580,29 +616,6 @@
   ],
   "injured": [
    {
-    "name": "Mason Tipton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039623",
-    "jersey": "15",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dillon Radunz",
     "grp": "OL",
     "chartpos": "LG",
@@ -621,6 +634,29 @@
     "gsis": "00-0036619",
     "jersey": "77",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mason Tipton",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039623",
+    "jersey": "15",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -827,7 +863,7 @@
     "g50": 9,
     "june": "SS1",
     "june_tier": 1,
-    "now": "SS1",
+    "now": "SS3",
     "report": "",
     "practice": "Did Not Participate In Practice",
     "injury": "Not injury related - personal matter",
@@ -1028,15 +1064,38 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Howden",
+    "name": "Quincy Riley",
     "grp": "CB",
-    "chartpos": "NB",
+    "chartpos": "RCB",
+    "avg3": 17,
+    "last": 41,
+    "g50": 6,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040166",
+    "jersey": "29",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Howden",
+    "grp": "S",
+    "chartpos": "SS",
     "avg3": 40,
     "last": 41,
     "g50": 0,
     "june": "NB1",
     "june_tier": 1,
-    "now": "NB2",
+    "now": "SS1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1046,29 +1105,6 @@
     "gsis": "00-0038588",
     "jersey": "31",
     "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Lorenzo Styles Jr.",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041089",
-    "jersey": "36",
-    "origin": "NB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
