@@ -1,7 +1,7 @@
 {
  "team": "PIT",
  "entering_week": 11,
- "chart_date": "2026-11-20",
+ "chart_date": "2026-11-21",
  "inactives_posted": false,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -55,6 +63,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -64,7 +76,7 @@
    "gsis": "00-0034277",
    "jersey": "25",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -72,6 +84,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -82,7 +98,7 @@
    "gsis": "00-0036252",
    "jersey": "11",
    "injury": "Foot",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -90,6 +106,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -100,7 +120,7 @@
    "gsis": "00-0036323",
    "jersey": "6",
    "injury": "Hand",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -109,6 +129,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -127,6 +151,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -136,7 +164,7 @@
    "gsis": "00-0038577",
    "jersey": "51",
    "injury": "Hip",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -145,6 +173,54 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "gsis": "00-0039739",
+   "jersey": "14",
+   "injury": "Hand",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Gennings Dunker",
+   "pos": "G",
+   "gsis": "00-0041396",
+   "jersey": "73",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -180,24 +256,24 @@
     "signed_in": false
    },
    {
-    "name": "Troy Fautanu",
+    "name": "Zach Frazier",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 9,
-    "june": "RT1",
+    "june": "C1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039871",
-    "jersey": "76",
-    "origin": "RT1",
+    "gsis": "00-0039896",
+    "jersey": "54",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -226,29 +302,6 @@
     "signed_in": false
    },
    {
-    "name": "Zach Frazier",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039896",
-    "jersey": "54",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Brock Hoffman",
     "grp": "OL",
     "chartpos": "LG",
@@ -267,6 +320,29 @@
     "gsis": "00-0037336",
     "jersey": "67",
     "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Troy Fautanu",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039871",
+    "jersey": "76",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -458,29 +534,6 @@
     "signed_in": false
    },
    {
-    "name": "Brandon Smith",
-    "grp": "WR",
-    "chartpos": "",
-    "avg3": 53,
-    "last": 77,
-    "g50": 2,
-    "june": "WR11",
-    "june_tier": 4,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036775",
-    "jersey": "87",
-    "origin": "WR11",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ben Skowronek",
     "grp": "WR",
     "chartpos": "WR",
@@ -499,6 +552,29 @@
     "gsis": "00-0036862",
     "jersey": "15",
     "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kaden Wetjen",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041397",
+    "jersey": "10",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -575,24 +651,24 @@
   ],
   "injured": [
    {
-    "name": "Michael Pittman",
+    "name": "Roman Wilson",
     "grp": "WR",
     "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR5",
-    "report": "",
+    "g50": 2,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
-    "injury": "Foot",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036252",
-    "jersey": "11",
-    "origin": "WR2",
+    "gsis": "00-0039739",
+    "jersey": "14",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -621,24 +697,24 @@
     "signed_in": false
    },
    {
-    "name": "Roman Wilson",
+    "name": "Michael Pittman",
     "grp": "WR",
     "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
+    "g50": 3,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR5",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
-    "injury": "Hand",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039739",
-    "jersey": "14",
-    "origin": "WR4",
+    "gsis": "00-0036252",
+    "jersey": "11",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -708,8 +784,8 @@
     "june": "RILB1",
     "june_tier": 1,
     "now": "RILB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Hand",
     "rookie": false,
     "returning": false,
@@ -892,7 +968,7 @@
     "june": "SS1",
     "june_tier": 1,
     "now": "SS1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -963,7 +1039,7 @@
     "june": "SLB2",
     "june_tier": 2,
     "now": "WLB2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Did Not Participate In Practice",
     "injury": "Hip",
     "rookie": false,
@@ -1118,6 +1194,55 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "DeShon Elliott",
+   "pos": "S",
+   "gsis": "00-0034277",
+   "jersey": "25",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "gsis": "00-0036252",
+   "jersey": "11",
+   "injury": "Foot",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Patrick Queen",
+   "pos": "LB",
+   "gsis": "00-0036323",
+   "jersey": "6",
+   "injury": "Hand",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Nick Herbig",
+   "pos": "LB",
+   "gsis": "00-0038577",
+   "jersey": "51",
+   "injury": "Hip",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "gsis": "00-0039739",
+   "jersey": "14",
+   "injury": "Hand",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Gennings Dunker",
+   "pos": "G",
+   "gsis": "00-0041396",
+   "jersey": "73",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

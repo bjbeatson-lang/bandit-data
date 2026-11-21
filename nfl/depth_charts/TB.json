@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 11,
- "chart_date": "2026-11-20",
+ "chart_date": "2026-11-21",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -29,6 +33,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -38,7 +46,7 @@
    "gsis": "00-0034855",
    "jersey": "6",
    "injury": "Foot",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -46,6 +54,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -56,7 +68,7 @@
    "gsis": "00-0036411",
    "jersey": "31",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -65,6 +77,32 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Josh Hayes",
+   "pos": "CB",
+   "gsis": "00-0039051",
+   "jersey": "32",
+   "injury": "Knee",
+   "designation": "Out",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -74,7 +112,7 @@
    "gsis": "00-0039068",
    "jersey": "0",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -83,6 +121,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -97,6 +139,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -118,7 +164,7 @@
     "june": "QB1",
     "june_tier": 1,
     "now": "QB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Foot",
     "rookie": false,
@@ -257,7 +303,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -303,7 +349,7 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -789,24 +835,24 @@
     "signed_in": false
    },
    {
-    "name": "Antoine Winfield Jr.",
+    "name": "Ifeatu Melifonwu",
     "grp": "S",
     "chartpos": "FS",
-    "avg3": 48,
-    "last": 48,
-    "g50": 5,
-    "june": "FS1",
-    "june_tier": 1,
-    "now": "FS1",
+    "avg3": 52,
+    "last": 49,
+    "g50": 3,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "FS2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "practice": "",
+    "injury": "",
     "rookie": false,
-    "returning": true,
+    "returning": false,
     "why": "",
-    "gsis": "00-0036411",
-    "jersey": "31",
-    "origin": "FS1",
+    "gsis": "00-0036993",
+    "jersey": "5",
+    "origin": "FA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -821,8 +867,8 @@
     "june": "SLB1",
     "june_tier": 1,
     "now": "SLB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": true,
@@ -847,7 +893,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -975,30 +1021,53 @@
     "signed_in": false
    },
    {
-    "name": "Ifeatu Melifonwu",
+    "name": "Miles Killebrew",
     "grp": "S",
-    "chartpos": "FS",
-    "avg3": 52,
-    "last": 49,
-    "g50": 3,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "FS2",
+    "chartpos": "SS",
+    "avg3": 4,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036993",
-    "jersey": "5",
-    "origin": "FA",
+    "gsis": "00-0032399",
+    "jersey": "29",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Antoine Winfield Jr.",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 48,
+    "last": 48,
+    "g50": 5,
+    "june": "FS1",
+    "june_tier": 1,
+    "now": "FS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036411",
+    "jersey": "31",
+    "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Josh Hayes",
     "grp": "CB",
@@ -1009,7 +1078,7 @@
     "june": "RCB2",
     "june_tier": 2,
     "now": "RCB3",
-    "report": "",
+    "report": "Out",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -1047,6 +1116,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "gsis": "00-0034855",
+   "jersey": "6",
+   "injury": "Foot",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Yaya Diaby",
+   "pos": "LB",
+   "gsis": "00-0039068",
+   "jersey": "0",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

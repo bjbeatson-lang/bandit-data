@@ -1,19 +1,51 @@
 {
  "team": "BAL",
  "entering_week": 11,
- "chart_date": "2026-11-20",
+ "chart_date": "2026-11-21",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Calais Campbell",
+   "pos": "DT",
+   "gsis": "00-0026190",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Ronnie Stanley",
+   "pos": "T",
+   "gsis": "00-0032965",
+   "jersey": "79",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Marlon Humphrey",
    "pos": "CB",
    "gsis": "00-0033281",
    "jersey": "44",
    "injury": "Not injury related - personal matter",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -24,7 +56,7 @@
    "gsis": "00-0036130",
    "jersey": "92",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -32,6 +64,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -42,7 +78,7 @@
    "gsis": "00-0036302",
    "jersey": "21",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -50,6 +86,24 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Simpson",
+   "pos": "G",
+   "gsis": "00-0036369",
+   "jersey": "74",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -68,6 +122,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -104,29 +162,6 @@
     "signed_in": false
    },
    {
-    "name": "Cam Jurgens",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038112",
-    "jersey": "64",
-    "origin": "PHI",
-    "psq": false,
-    "trade_in": true,
-    "signed_in": false
-   },
-   {
     "name": "Roger Rosengarten",
     "grp": "OL",
     "chartpos": "RT",
@@ -160,8 +195,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -170,6 +205,29 @@
     "origin": "RG1",
     "psq": false,
     "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cam Jurgens",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038112",
+    "jersey": "64",
+    "origin": "PHI",
+    "psq": false,
+    "trade_in": true,
     "signed_in": false
    },
    {
@@ -183,8 +241,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -545,6 +603,29 @@
     "signed_in": false
    },
    {
+    "name": "Durham Smythe",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034798",
+    "jersey": "80",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Lamar Jackson",
     "grp": "QB",
     "chartpos": "QB",
@@ -586,29 +667,6 @@
     "gsis": "00-0035993",
     "jersey": "5",
     "origin": "QB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Durham Smythe",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034798",
-    "jersey": "80",
-    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -692,29 +750,6 @@
     "signed_in": false
    },
    {
-    "name": "Marlon Humphrey",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 70,
-    "last": 74,
-    "g50": 9,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - personal matter",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033281",
-    "jersey": "44",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trenton Simpson",
     "grp": "LB",
     "chartpos": "RILB",
@@ -779,29 +814,6 @@
     "gsis": "00-0040722",
     "jersey": "15",
     "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Nnamdi Madubuike",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 63,
-    "last": 49,
-    "g50": 7,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDE1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036130",
-    "jersey": "92",
-    "origin": "LDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -874,9 +886,7 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "Broderick Washington",
     "grp": "DL",
@@ -901,6 +911,31 @@
     "signed_in": false
    },
    {
+    "name": "K'Von Wallace",
+    "grp": "S",
+    "chartpos": "FS",
+    "avg3": 39,
+    "last": 19,
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "FS2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036395",
+    "jersey": "25",
+    "origin": "FS3",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   }
+  ],
+  "next": [
+   {
     "name": "Calais Campbell",
     "grp": "DL",
     "chartpos": "RDE",
@@ -911,14 +946,37 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0026190",
     "jersey": "93",
     "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "John Jenkins",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 25,
+    "last": 18,
+    "g50": 0,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "NT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0030070",
+    "jersey": "94",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1039,25 +1097,25 @@
     "signed_in": false
    },
    {
-    "name": "K'Von Wallace",
+    "name": "Keondre Jackson",
     "grp": "S",
-    "chartpos": "FS",
-    "avg3": 39,
-    "last": 19,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "FS2",
+    "chartpos": "SS",
+    "avg3": 25,
+    "last": 18,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036395",
-    "jersey": "25",
-    "origin": "FS3",
-    "psq": true,
+    "gsis": "00-0040104",
+    "jersey": "39",
+    "origin": "SS2",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    }
@@ -1082,6 +1140,75 @@
     "gsis": "00-0038505",
     "jersey": "95",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Marlon Humphrey",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 70,
+    "last": 74,
+    "g50": 9,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0033281",
+    "jersey": "44",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Nnamdi Madubuike",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 63,
+    "last": 49,
+    "g50": 7,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDE1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036130",
+    "jersey": "92",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylinn Hawkins",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 6,
+    "june": "FS2",
+    "june_tier": 2,
+    "now": "SS1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036302",
+    "jersey": "21",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

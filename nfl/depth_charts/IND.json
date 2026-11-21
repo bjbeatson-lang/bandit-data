@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 11,
- "chart_date": "2026-11-20",
+ "chart_date": "2026-11-21",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -198,6 +230,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -221,6 +257,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   }
@@ -235,13 +275,13 @@
    {
     "name": "Daniel Jones",
     "grp": "QB",
-    "chartpos": "QB",
+    "chartpos": "",
     "avg3": 93,
     "last": 100,
     "g50": 10,
     "june": "QB1",
     "june_tier": 1,
-    "now": "QB1",
+    "now": "",
     "report": "",
     "practice": "",
     "injury": "",
@@ -496,7 +536,7 @@
     "g50": 0,
     "june": "QB2",
     "june_tier": 2,
-    "now": "QB2",
+    "now": "QB1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -647,55 +687,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
-   },
-   {
-    "name": "Reid Holskey",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040101",
-    "jersey": "65",
-    "origin": "PS",
-    "psq": true,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Alec Pierce",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037664",
-    "jersey": "14",
-    "origin": "WR1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Will Mallory",
     "grp": "TE",
@@ -743,29 +737,6 @@
     "signed_in": false
    },
    {
-    "name": "Bernhard Raimann",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 66,
-    "last": 10,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0037757",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Mo Alie-Cox",
     "grp": "TE",
     "chartpos": "TE",
@@ -784,6 +755,52 @@
     "gsis": "00-0033217",
     "jersey": "81",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alec Pierce",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "WR1",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037664",
+    "jersey": "14",
+    "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bernhard Raimann",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 66,
+    "last": 10,
+    "g50": 9,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0037757",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1239,24 +1256,24 @@
   ],
   "injured": [
    {
-    "name": "Jerry Tillery",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 24,
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RDT3",
-    "june_tier": 3,
-    "now": "RDT2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035674",
-    "jersey": "94",
-    "origin": "RDT3",
+    "why": "IR",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1308,29 +1325,6 @@
     "signed_in": false
    },
    {
-    "name": "Charvarius Ward",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 78,
-    "last": 51,
-    "g50": 9,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034573",
-    "jersey": "7",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jaylon Carlies",
     "grp": "LB",
     "chartpos": "MLB",
@@ -1349,6 +1343,29 @@
     "gsis": "00-0039377",
     "jersey": "57",
     "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Charvarius Ward",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 78,
+    "last": 51,
+    "g50": 9,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0034573",
+    "jersey": "7",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1377,24 +1394,24 @@
     "signed_in": false
    },
    {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
+    "name": "Jerry Tillery",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 24,
     "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "g50": 1,
+    "june": "RDT3",
+    "june_tier": 3,
+    "now": "RDT2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
+    "why": "Inactive",
+    "gsis": "00-0035674",
+    "jersey": "94",
+    "origin": "RDT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

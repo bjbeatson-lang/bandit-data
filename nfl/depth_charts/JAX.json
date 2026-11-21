@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 11,
- "chart_date": "2026-11-20",
+ "chart_date": "2026-11-21",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -28,7 +32,7 @@
    "gsis": "00-0034657",
    "jersey": "93",
    "injury": "Neck",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -36,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -55,6 +63,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Cole Van Lanen",
+   "pos": "T",
+   "gsis": "00-0036655",
+   "jersey": "70",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -64,7 +90,7 @@
    "gsis": "00-0036985",
    "jersey": "73",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -72,6 +98,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -91,6 +121,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -108,6 +142,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -127,6 +165,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -144,6 +186,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -163,6 +209,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -181,6 +231,32 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "BJ Green II",
+   "pos": "DE",
+   "gsis": "00-0040329",
+   "jersey": "95",
+   "injury": "Forearm",
+   "designation": "Out",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -190,7 +266,7 @@
    "gsis": "00-0040342",
    "jersey": "92",
    "injury": "Concussion",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -198,6 +274,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -217,6 +297,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   }
@@ -308,37 +392,14 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
     "gsis": "00-0036655",
     "jersey": "70",
     "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Robert Hainsey",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 79,
-    "last": 55,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036985",
-    "jersey": "73",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -367,6 +428,29 @@
     "signed_in": false
    },
    {
+    "name": "Wyatt Milum",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 29,
+    "last": 8,
+    "g50": 1,
+    "june": "RG3",
+    "june_tier": 3,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040146",
+    "jersey": "64",
+    "origin": "RG3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Bhayshul Tuten",
     "grp": "RB",
     "chartpos": "RB",
@@ -377,7 +461,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -517,7 +601,7 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hand",
     "rookie": false,
     "returning": false,
@@ -599,29 +683,6 @@
     "signed_in": false
    },
    {
-    "name": "Wyatt Milum",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 29,
-    "last": 8,
-    "g50": 1,
-    "june": "RG3",
-    "june_tier": 3,
-    "now": "RG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040146",
-    "jersey": "64",
-    "origin": "RG3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jonah Monheim",
     "grp": "OL",
     "chartpos": "C",
@@ -630,7 +691,7 @@
     "g50": 0,
     "june": "C2",
     "june_tier": 2,
-    "now": "C2",
+    "now": "C1",
     "report": "",
     "practice": "Limited Participation in Practice",
     "injury": "Ankle",
@@ -670,24 +731,24 @@
   ],
   "injured": [
    {
-    "name": "Patrick Mekari",
+    "name": "Robert Hainsey",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG1",
+    "chartpos": "C",
+    "avg3": 79,
+    "last": 55,
+    "g50": 9,
+    "june": "C1",
     "june_tier": 1,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "C2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0035112",
-    "jersey": "65",
-    "origin": "RG1",
+    "why": "Out",
+    "gsis": "00-0036985",
+    "jersey": "73",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -711,6 +772,29 @@
     "gsis": "00-0038934",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Mekari",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035112",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -827,7 +911,7 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Rib",
     "rookie": false,
     "returning": false,
@@ -989,7 +1073,7 @@
     "june": "LDT3",
     "june_tier": 3,
     "now": "LDT3",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Neck",
     "rookie": false,
@@ -1058,7 +1142,7 @@
     "june": "RDE4",
     "june_tier": 4,
     "now": "LDE2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Concussion",
     "rookie": false,
@@ -1166,29 +1250,6 @@
   ],
   "injured": [
    {
-    "name": "Caleb Ransaw",
-    "grp": "S",
-    "chartpos": "",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "FS3",
-    "june_tier": 3,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040145",
-    "jersey": "27",
-    "origin": "FS3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "DaVon Hamilton",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1207,6 +1268,29 @@
     "gsis": "00-0036262",
     "jersey": "52",
     "origin": "RDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Caleb Ransaw",
+    "grp": "S",
+    "chartpos": "",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "FS3",
+    "june_tier": 3,
+    "now": "",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040145",
+    "jersey": "27",
+    "origin": "FS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1259,6 +1343,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Matt Dickerson",
+   "pos": "DT",
+   "gsis": "00-0034657",
+   "jersey": "93",
+   "injury": "Neck",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Danny Striggow",
+   "pos": "DE",
+   "gsis": "00-0040342",
+   "jersey": "92",
+   "injury": "Concussion",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }
