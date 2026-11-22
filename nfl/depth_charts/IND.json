@@ -1,7 +1,7 @@
 {
  "team": "IND",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -260,6 +296,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -319,29 +359,6 @@
     "signed_in": false
    },
    {
-    "name": "Matt Goncalves",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 96,
-    "last": 100,
-    "g50": 10,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039736",
-    "jersey": "71",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tanor Bortolini",
     "grp": "OL",
     "chartpos": "C",
@@ -360,6 +377,29 @@
     "gsis": "00-0039744",
     "jersey": "60",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Matt Goncalves",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 96,
+    "last": 100,
+    "g50": 10,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039736",
+    "jersey": "71",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -691,29 +731,6 @@
   ],
   "injured": [
    {
-    "name": "Will Mallory",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 5,
-    "last": 0,
-    "g50": 1,
-    "june": "TE4",
-    "june_tier": 4,
-    "now": "TE2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0038394",
-    "jersey": "86",
-    "origin": "TE4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jalen Travis",
     "grp": "OL",
     "chartpos": "RT",
@@ -737,29 +754,6 @@
     "signed_in": false
    },
    {
-    "name": "Mo Alie-Cox",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 16,
-    "last": 0,
-    "g50": 1,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033217",
-    "jersey": "81",
-    "origin": "TE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Alec Pierce",
     "grp": "WR",
     "chartpos": "WR",
@@ -778,6 +772,52 @@
     "gsis": "00-0037664",
     "jersey": "14",
     "origin": "WR1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Will Mallory",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 5,
+    "last": 0,
+    "g50": 1,
+    "june": "TE4",
+    "june_tier": 4,
+    "now": "TE2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038394",
+    "jersey": "86",
+    "origin": "TE4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mo Alie-Cox",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 16,
+    "last": 0,
+    "g50": 1,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033217",
+    "jersey": "81",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1256,24 +1296,47 @@
   ],
   "injured": [
    {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
+    "name": "Cam Taylor-Britt",
+    "grp": "CB",
+    "chartpos": "RCB",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "LDE2",
+    "g50": 1,
+    "june": "RCB2",
     "june_tier": 2,
-    "now": "RDE3",
+    "now": "RCB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
+    "gsis": "00-0037753",
+    "jersey": "29",
+    "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Akeem Davis-Gaither",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 22,
+    "last": 0,
+    "g50": 8,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036298",
+    "jersey": "51",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1302,24 +1365,24 @@
     "signed_in": false
    },
    {
-    "name": "Cam Taylor-Britt",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
+    "name": "Jerry Tillery",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 24,
     "last": 0,
     "g50": 1,
-    "june": "RCB2",
-    "june_tier": 2,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "june": "RDT3",
+    "june_tier": 3,
+    "now": "RDT2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0037753",
-    "jersey": "29",
-    "origin": "RCB2",
+    "why": "Inactive",
+    "gsis": "00-0035674",
+    "jersey": "94",
+    "origin": "RDT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1371,47 +1434,24 @@
     "signed_in": false
    },
    {
-    "name": "Akeem Davis-Gaither",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 22,
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
     "last": 0,
-    "g50": 8,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB2",
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "RDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036298",
-    "jersey": "51",
-    "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jerry Tillery",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 24,
-    "last": 0,
-    "g50": 1,
-    "june": "RDT3",
-    "june_tier": 3,
-    "now": "RDT2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035674",
-    "jersey": "94",
-    "origin": "RDT3",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

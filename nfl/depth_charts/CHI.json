@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -58,6 +66,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -89,6 +101,29 @@
     "gsis": "00-0039918",
     "jersey": "18",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jonah Jackson",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036258",
+    "jersey": "73",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -158,29 +193,6 @@
     "gsis": "00-0032391",
     "jersey": "62",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonah Jackson",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036258",
-    "jersey": "73",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -985,24 +997,24 @@
   ],
   "injured": [
    {
-    "name": "Ruben Hyppolite II",
-    "grp": "LB",
-    "chartpos": "SLB",
+    "name": "Dayo Odeyingbo",
+    "grp": "ED",
+    "chartpos": "RDE",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "SLB3",
+    "g50": 4,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE2",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040167",
-    "jersey": "47",
-    "origin": "WLB2",
+    "gsis": "00-0036480",
+    "jersey": "55",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1026,29 +1038,6 @@
     "gsis": "00-0034320",
     "jersey": "93",
     "origin": "RDT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dayo Odeyingbo",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036480",
-    "jersey": "55",
-    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1095,6 +1084,29 @@
     "gsis": "00-0038136",
     "jersey": "2",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ruben Hyppolite II",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040167",
+    "jersey": "47",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

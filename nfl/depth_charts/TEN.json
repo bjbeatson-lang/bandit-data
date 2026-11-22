@@ -1,7 +1,7 @@
 {
  "team": "TEN",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -23,6 +23,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -40,6 +44,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -63,6 +71,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -85,6 +97,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -98,6 +114,10 @@
    "days": [
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -121,6 +141,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -142,6 +166,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -165,6 +193,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -186,6 +218,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -245,29 +281,6 @@
     "signed_in": false
    },
    {
-    "name": "Atonio Mafi",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0038586",
-    "jersey": "70",
-    "origin": "LV LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Austin Schlottmann",
     "grp": "OL",
     "chartpos": "C",
@@ -286,6 +299,29 @@
     "gsis": "00-0034112",
     "jersey": "51",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Atonio Mafi",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038586",
+    "jersey": "70",
+    "origin": "LV LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -485,7 +521,7 @@
     "g50": 2,
     "june": "RB2",
     "june_tier": 2,
-    "now": "RB2",
+    "now": "RB5",
     "report": "Questionable",
     "practice": "Full Participation in Practice",
     "injury": "Knee",
@@ -640,24 +676,24 @@
   ],
   "injured": [
    {
-    "name": "Peter Skoronski",
+    "name": "Fernando Carmona",
     "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 59,
+    "chartpos": "RG",
+    "avg3": 0,
     "last": 0,
-    "g50": 8,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG5",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
+    "g50": 2,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG3",
+    "report": "Out",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039034",
-    "jersey": "77",
-    "origin": "LG1",
+    "gsis": "00-0040881",
+    "jersey": "66",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -686,24 +722,24 @@
     "signed_in": false
    },
    {
-    "name": "Fernando Carmona",
+    "name": "Peter Skoronski",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
+    "chartpos": "LG",
+    "avg3": 59,
     "last": 0,
-    "g50": 2,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG3",
-    "report": "Out",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": true,
+    "g50": 8,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040881",
-    "jersey": "66",
-    "origin": "LG2",
+    "gsis": "00-0039034",
+    "jersey": "77",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -741,29 +777,6 @@
   ],
   "start": [
    {
-    "name": "Cordale Flott",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 7,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037758",
-    "jersey": "18",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Joshua Williams",
     "grp": "CB",
     "chartpos": "LCB",
@@ -782,6 +795,29 @@
     "gsis": "00-0038043",
     "jersey": "25",
     "origin": "RCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cordale Flott",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 7,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037758",
+    "jersey": "18",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1182,29 +1218,6 @@
   ],
   "injured": [
    {
-    "name": "James Williams",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039430",
-    "jersey": "52",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kendell Brooks",
     "grp": "S",
     "chartpos": "FS",
@@ -1223,6 +1236,29 @@
     "gsis": "00-0038703",
     "jersey": "30",
     "origin": "SS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "James Williams",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039430",
+    "jersey": "52",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

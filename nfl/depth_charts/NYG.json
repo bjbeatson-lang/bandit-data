@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -59,6 +67,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -72,6 +84,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -94,6 +110,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -127,52 +147,6 @@
     "origin": "MIN",
     "psq": false,
     "trade_in": true,
-    "signed_in": false
-   },
-   {
-    "name": "Bryan Hudson",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "C3",
-    "june_tier": 3,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039446",
-    "jersey": "60",
-    "origin": "C3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Francis Mauigoa",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041505",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
     "signed_in": false
    },
    {
@@ -217,6 +191,52 @@
     "gsis": "00-0036246",
     "jersey": "76",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Hudson",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039446",
+    "jersey": "60",
+    "origin": "C3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Francis Mauigoa",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041505",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -571,29 +591,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 5,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jaxson Dart",
     "grp": "QB",
     "chartpos": "QB",
@@ -612,6 +609,29 @@
     "gsis": "00-0040691",
     "jersey": "6",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 5,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1044,24 +1064,24 @@
   ],
   "injured": [
    {
-    "name": "Brian Burns",
-    "grp": "ED",
-    "chartpos": "WLB",
+    "name": "Tremaine Edmunds",
+    "grp": "LB",
+    "chartpos": "RILB",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "WLB1",
+    "g50": 6,
+    "june": "RILB1",
     "june_tier": 1,
-    "now": "WLB2",
+    "now": "RILB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035713",
-    "jersey": "0",
-    "origin": "WLB1",
+    "gsis": "00-0034673",
+    "jersey": "49",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1090,24 +1110,24 @@
     "signed_in": false
    },
    {
-    "name": "Tremaine Edmunds",
-    "grp": "LB",
-    "chartpos": "RILB",
+    "name": "Brian Burns",
+    "grp": "ED",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
-    "g50": 6,
-    "june": "RILB1",
+    "g50": 2,
+    "june": "WLB1",
     "june_tier": 1,
-    "now": "RILB3",
+    "now": "WLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034673",
-    "jersey": "49",
-    "origin": "RILB1",
+    "gsis": "00-0035713",
+    "jersey": "0",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

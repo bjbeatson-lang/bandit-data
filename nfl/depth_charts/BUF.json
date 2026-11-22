@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -67,6 +75,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -80,6 +92,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -103,6 +119,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -124,6 +144,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -147,6 +171,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -168,6 +196,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -191,6 +223,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -212,6 +248,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -235,6 +275,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -256,6 +300,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -710,29 +758,6 @@
   ],
   "injured": [
    {
-    "name": "Dalton Kincaid",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 51,
-    "last": 46,
-    "g50": 8,
-    "june": "TE1",
-    "june_tier": 1,
-    "now": "TE1",
-    "report": "Doubtful",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
-    "rookie": false,
-    "returning": false,
-    "why": "Doubtful",
-    "gsis": "00-0038933",
-    "jersey": "86",
-    "origin": "TE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Josh Palmer",
     "grp": "WR",
     "chartpos": "WR",
@@ -751,6 +776,29 @@
     "gsis": "00-0036988",
     "jersey": "5",
     "origin": "WR3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dalton Kincaid",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 51,
+    "last": 46,
+    "g50": 8,
+    "june": "TE1",
+    "june_tier": 1,
+    "now": "TE1",
+    "report": "Doubtful",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
+    "rookie": false,
+    "returning": false,
+    "why": "Doubtful",
+    "gsis": "00-0038933",
+    "jersey": "86",
+    "origin": "TE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1120,7 +1168,7 @@
     "g50": 0,
     "june": "RILB3",
     "june_tier": 3,
-    "now": "LILB2",
+    "now": "LILB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1206,24 +1254,24 @@
   ],
   "injured": [
    {
-    "name": "Dorian Williams",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 47,
-    "last": 45,
-    "g50": 7,
-    "june": "LILB1",
+    "name": "Christian Benford",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 74,
+    "last": 75,
+    "g50": 8,
+    "june": "LCB1",
     "june_tier": 1,
-    "now": "LILB1",
+    "now": "LCB1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "Out",
-    "gsis": "00-0038557",
-    "jersey": "42",
-    "origin": "LILB1",
+    "gsis": "00-0037288",
+    "jersey": "47",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1252,24 +1300,24 @@
     "signed_in": false
    },
    {
-    "name": "Christian Benford",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 74,
-    "last": 75,
-    "g50": 8,
-    "june": "LCB1",
+    "name": "Dorian Williams",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 47,
+    "last": 45,
+    "g50": 7,
+    "june": "LILB1",
     "june_tier": 1,
-    "now": "LCB1",
+    "now": "LILB1",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "Out",
-    "gsis": "00-0037288",
-    "jersey": "47",
-    "origin": "LCB1",
+    "gsis": "00-0038557",
+    "jersey": "42",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

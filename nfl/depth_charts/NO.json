@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -190,6 +222,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -212,6 +248,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -319,13 +359,13 @@
    {
     "name": "Cesar Ruiz",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RG",
     "avg3": 65,
     "last": 100,
     "g50": 7,
     "june": "RG1",
     "june_tier": 1,
-    "now": "C1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -342,13 +382,13 @@
    {
     "name": "Will Sherman",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "C",
     "avg3": 14,
     "last": 10,
     "g50": 0,
     "june": "RG3",
     "june_tier": 3,
-    "now": "LG2",
+    "now": "C2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -603,7 +643,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT1",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -626,7 +666,7 @@
     "g50": 0,
     "june": "LG3",
     "june_tier": 3,
-    "now": "RT2",
+    "now": "RT3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -642,6 +682,29 @@
    }
   ],
   "injured": [
+   {
+    "name": "Erik McCoy",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 58,
+    "last": 0,
+    "g50": 8,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Biceps",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035242",
+    "jersey": "78",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Mason Tipton",
     "grp": "WR",
@@ -661,6 +724,29 @@
     "gsis": "00-0039623",
     "jersey": "15",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Taliese Fuaga",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 67,
+    "last": 0,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0039339",
+    "jersey": "75",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -689,29 +775,6 @@
     "signed_in": false
    },
    {
-    "name": "Erik McCoy",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 58,
-    "last": 0,
-    "g50": 8,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Biceps",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035242",
-    "jersey": "78",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dillon Radunz",
     "grp": "OL",
     "chartpos": "LG",
@@ -720,7 +783,7 @@
     "g50": 0,
     "june": "LG2",
     "june_tier": 2,
-    "now": "LG3",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -730,29 +793,6 @@
     "gsis": "00-0036619",
     "jersey": "77",
     "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Taliese Fuaga",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 67,
-    "last": 0,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0039339",
-    "jersey": "75",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1208,6 +1248,29 @@
   ],
   "injured": [
    {
+    "name": "Justin Reid",
+    "grp": "S",
+    "chartpos": "",
+    "avg3": 70,
+    "last": 79,
+    "g50": 9,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0034361",
+    "jersey": "21",
+    "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Martin Emerson",
     "grp": "CB",
     "chartpos": "RCB",
@@ -1249,29 +1312,6 @@
     "gsis": "00-0038995",
     "jersey": "90",
     "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Justin Reid",
-    "grp": "S",
-    "chartpos": "",
-    "avg3": 70,
-    "last": 79,
-    "g50": 9,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - personal matter",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034361",
-    "jersey": "21",
-    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

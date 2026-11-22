@@ -1,7 +1,7 @@
 {
  "team": "CIN",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,32 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalen Davis",
+   "pos": "CB",
+   "gsis": "00-0034446",
+   "jersey": "35",
+   "injury": "Hamstring",
+   "designation": "Doubtful",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -28,7 +54,7 @@
    "gsis": "00-0034754",
    "jersey": "42",
    "injury": "Groin",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Thu",
@@ -36,6 +62,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -51,6 +81,24 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Dexter Lawrence",
+   "pos": "DT",
+   "gsis": "00-0035683",
+   "jersey": "97",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -60,7 +108,7 @@
    "gsis": "00-0035702",
    "jersey": "66",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Thu",
@@ -68,6 +116,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -78,7 +130,7 @@
    "gsis": "00-0036231",
    "jersey": "29",
    "injury": "Quadricep",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
@@ -86,6 +138,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -96,7 +152,7 @@
    "gsis": "00-0037743",
    "jersey": "23",
    "injury": "Illness",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
@@ -105,6 +161,54 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Andrei Iosivas",
+   "pos": "WR",
+   "gsis": "00-0038619",
+   "jersey": "80",
+   "injury": "Thumb",
+   "designation": "Doubtful",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Swayze Bozeman",
+   "pos": "LB",
+   "gsis": "00-0039313",
+   "jersey": "47",
+   "injury": "Forearm",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -114,7 +218,7 @@
    "gsis": "00-0040140",
    "jersey": "63",
    "injury": "Oblique",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Thu",
@@ -123,6 +227,32 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Brian Parker II",
+   "pos": "G",
+   "gsis": "00-0041098",
+   "jersey": "62",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   }
@@ -236,8 +366,8 @@
     "june": "LG1",
     "june_tier": 1,
     "now": "LG1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
     "injury": "Oblique",
     "rookie": false,
     "returning": false,
@@ -250,24 +380,24 @@
     "signed_in": false
    },
    {
-    "name": "Dalton Risner",
+    "name": "Jalen Rivers",
     "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 83,
-    "last": 48,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
+    "chartpos": "LG",
+    "avg3": 17,
+    "last": 52,
+    "g50": 1,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG3",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0035702",
-    "jersey": "66",
-    "origin": "RG1",
+    "gsis": "00-0040180",
+    "jersey": "74",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -505,29 +635,6 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Rivers",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 17,
-    "last": 52,
-    "g50": 1,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040180",
-    "jersey": "74",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jacob Bayer",
     "grp": "OL",
     "chartpos": "LG",
@@ -572,32 +679,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "injured": [
+   },
    {
-    "name": "Brian Parker II",
+    "name": "Myles Hinton",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG4",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RT2",
     "report": "",
     "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": true,
+    "injury": "Illness",
+    "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0041098",
-    "jersey": "62",
-    "origin": "LG2",
+    "why": "",
+    "gsis": "00-0040015",
+    "jersey": "77",
+    "origin": "PHI LT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "injured": [
    {
     "name": "Erick All",
     "grp": "TE",
@@ -622,6 +729,52 @@
     "signed_in": false
    },
    {
+    "name": "Brian Parker II",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG4",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041098",
+    "jersey": "62",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dalton Risner",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 83,
+    "last": 48,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035702",
+    "jersey": "66",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Andrei Iosivas",
     "grp": "WR",
     "chartpos": "WR",
@@ -631,7 +784,7 @@
     "june": "WR3",
     "june_tier": 1,
     "now": "WR6",
-    "report": "",
+    "report": "Doubtful",
     "practice": "Full Participation in Practice",
     "injury": "Thumb",
     "rookie": false,
@@ -654,29 +807,6 @@
   ],
   "start": [
    {
-    "name": "Barrett Carter",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040157",
-    "jersey": "49",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jordan Battle",
     "grp": "S",
     "chartpos": "SS",
@@ -695,6 +825,29 @@
     "gsis": "00-0038560",
     "jersey": "27",
     "origin": "SS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Barrett Carter",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040157",
+    "jersey": "49",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -732,7 +885,7 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "NB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Did Not Participate In Practice",
     "injury": "Illness",
     "rookie": false,
@@ -871,8 +1024,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -894,7 +1047,7 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -1001,29 +1154,6 @@
     "signed_in": false
    },
    {
-    "name": "Oren Burks",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 10,
-    "last": 3,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034754",
-    "jersey": "42",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jack Kiser",
     "grp": "LB",
     "chartpos": "SLB",
@@ -1032,7 +1162,7 @@
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "SLB2",
+    "now": "SLB1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1045,6 +1175,29 @@
     "psq": false,
     "trade_in": true,
     "signed_in": true
+   },
+   {
+    "name": "Joe Giles-Harris",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035363",
+    "jersey": "43",
+    "origin": "MLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    },
    {
     "name": "D.J. Ivey",
@@ -1070,30 +1223,76 @@
     "signed_in": false
    },
    {
-    "name": "PJ Jules",
+    "name": "Kyle Dugger",
     "grp": "S",
-    "chartpos": "FS",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
     "g50": 1,
-    "june": "FS2",
+    "june": "SS2",
     "june_tier": 2,
-    "now": "FS2",
-    "report": "",
+    "now": "SS2",
+    "report": "Questionable",
     "practice": "Full Participation in Practice",
-    "injury": "Ankle",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039632",
-    "jersey": "37",
-    "origin": "FS2",
+    "gsis": "00-0036231",
+    "jersey": "29",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Oren Burks",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 10,
+    "last": 3,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0034754",
+    "jersey": "42",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ja'Sir Taylor",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NB2",
+    "june_tier": 2,
+    "now": "NB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037307",
+    "jersey": "26",
+    "origin": "NB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Cashius Howell",
     "grp": "ED",
@@ -1127,7 +1326,7 @@
     "june": "NB1",
     "june_tier": 1,
     "now": "NB3",
-    "report": "",
+    "report": "Doubtful",
     "practice": "Full Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
@@ -1139,32 +1338,50 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Ja'Sir Taylor",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NB2",
-    "june_tier": 2,
-    "now": "NB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037307",
-    "jersey": "26",
-    "origin": "NB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Kyle Dugger",
+   "pos": "S",
+   "gsis": "00-0036231",
+   "jersey": "29",
+   "injury": "Quadricep",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Daxton Hill",
+   "pos": "CB",
+   "gsis": "00-0037743",
+   "jersey": "23",
+   "injury": "Illness",
+   "practice": "Did Not Participate In Practice"
+  },
+  {
+   "name": "Swayze Bozeman",
+   "pos": "LB",
+   "gsis": "00-0039313",
+   "jersey": "47",
+   "injury": "Forearm",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Dylan Fairchild",
+   "pos": "G",
+   "gsis": "00-0040140",
+   "jersey": "63",
+   "injury": "Oblique",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Brian Parker II",
+   "pos": "G",
+   "gsis": "00-0041098",
+   "jersey": "62",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

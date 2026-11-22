@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -58,6 +66,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -81,6 +93,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -103,6 +119,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -121,6 +141,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -134,6 +158,10 @@
    "days": [
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -157,6 +185,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -179,6 +211,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -200,6 +236,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -233,29 +273,6 @@
     "origin": "LV",
     "psq": false,
     "trade_in": true,
-    "signed_in": false
-   },
-   {
-    "name": "Blake Brandel",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036347",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
     "signed_in": false
    },
    {
@@ -323,6 +340,29 @@
     "gsis": "00-0034158",
     "jersey": "75",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Blake Brandel",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036347",
+    "jersey": "64",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -654,6 +694,29 @@
   ],
   "injured": [
    {
+    "name": "Kyler Murray",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 33,
+    "last": 0,
+    "g50": 5,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0035228",
+    "jersey": "1",
+    "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jordan Addison",
     "grp": "WR",
     "chartpos": "WR",
@@ -695,29 +758,6 @@
     "gsis": "00-0040661",
     "jersey": "74",
     "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kyler Murray",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 33,
-    "last": 0,
-    "g50": 5,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0035228",
-    "jersey": "1",
-    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

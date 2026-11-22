@@ -1,7 +1,7 @@
 {
  "team": "NE",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [],
  "offense": {
@@ -275,7 +275,7 @@
     "g50": 1,
     "june": "QB2",
     "june_tier": 2,
-    "now": "QB2",
+    "now": "QB1",
     "report": "",
     "practice": "",
     "injury": "",

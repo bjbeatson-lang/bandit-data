@@ -1,7 +1,7 @@
 {
  "team": "NYJ",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -155,6 +179,10 @@
     [
      "Fri",
      "DNP"
+    ],
+    [
+     "Sat",
+     "DNP"
     ]
    ]
   },
@@ -176,6 +204,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -212,29 +244,6 @@
     "signed_in": false
    },
    {
-    "name": "Joe Tippmann",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039145",
-    "jersey": "66",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Armand Membou",
     "grp": "OL",
     "chartpos": "RT",
@@ -253,6 +262,29 @@
     "gsis": "00-0040123",
     "jersey": "70",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joe Tippmann",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039145",
+    "jersey": "66",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -582,29 +614,6 @@
     "signed_in": false
    },
    {
-    "name": "Blake Freeland",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039158",
-    "jersey": "76",
-    "origin": "CIN PS",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": true
-   },
-   {
     "name": "Chukwuma Okorafor",
     "grp": "OL",
     "chartpos": "RT",
@@ -626,28 +635,74 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Blake Freeland",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039158",
+    "jersey": "76",
+    "origin": "CIN PS",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": true
    }
   ],
   "injured": [
    {
-    "name": "Isaiah Williams",
+    "name": "Arian Smith",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 49,
-    "last": 70,
-    "g50": 7,
-    "june": "WR5",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
     "june_tier": 2,
-    "now": "WR4",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ribs",
+    "now": "WR8",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
+    "why": "IR",
+    "gsis": "00-0040582",
+    "jersey": "82",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Omar Cooper Jr.",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 55,
+    "last": 1,
+    "g50": 4,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
     "why": "Out",
-    "gsis": "00-0039451",
-    "jersey": "18",
-    "origin": "WR5",
+    "gsis": "00-0041511",
+    "jersey": "11",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -699,47 +754,24 @@
     "signed_in": false
    },
    {
-    "name": "Omar Cooper Jr.",
+    "name": "Isaiah Williams",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 55,
-    "last": 1,
-    "g50": 4,
-    "june": "WR3",
-    "june_tier": 1,
-    "now": "WR3",
+    "avg3": 49,
+    "last": 70,
+    "g50": 7,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR4",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0041511",
-    "jersey": "11",
-    "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Arian Smith",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "injury": "Ribs",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0040582",
-    "jersey": "82",
-    "origin": "WR6",
+    "why": "Out",
+    "gsis": "00-0039451",
+    "jersey": "18",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -753,29 +785,6 @@
    10
   ],
   "start": [
-   {
-    "name": "Azareye'h Thomas",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040133",
-    "jersey": "1",
-    "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Dane Belton",
     "grp": "S",
@@ -795,6 +804,29 @@
     "gsis": "00-0038123",
     "jersey": "6",
     "origin": "FS2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Azareye'h Thomas",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040133",
+    "jersey": "1",
+    "origin": "LCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1195,52 +1227,6 @@
   ],
   "injured": [
    {
-    "name": "Marcelino McCrary-Ball",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037526",
-    "jersey": "41",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "T'Vondre Sweat",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039886",
-    "jersey": "99",
-    "origin": "LDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Braiden McGregor",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1305,6 +1291,52 @@
     "gsis": "00-0033051",
     "jersey": "93",
     "origin": "RDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "T'Vondre Sweat",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LDT1",
+    "june_tier": 1,
+    "now": "LDT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039886",
+    "jersey": "99",
+    "origin": "LDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Marcelino McCrary-Ball",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037526",
+    "jersey": "41",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

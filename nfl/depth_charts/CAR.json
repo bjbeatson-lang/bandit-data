@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 11,
- "chart_date": "2026-11-21",
+ "chart_date": "2026-11-22",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Fri",
+     "LP"
+    ],
+    [
+     "Sat",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Fri",
+     "DNP"
+    ],
+    [
+     "Sat",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Fri",
      "FP"
+    ],
+    [
+     "Sat",
+     "FP"
     ]
    ]
   },
@@ -154,6 +178,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -177,6 +205,10 @@
     [
      "Fri",
      "LP"
+    ],
+    [
+     "Sat",
+     "LP"
     ]
    ]
   },
@@ -198,6 +230,10 @@
     ],
     [
      "Fri",
+     "FP"
+    ],
+    [
+     "Sat",
      "FP"
     ]
    ]
@@ -234,29 +270,6 @@
     "signed_in": false
    },
    {
-    "name": "Luke Fortner",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037814",
-    "jersey": "77",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Monroe Freeling",
     "grp": "OL",
     "chartpos": "RT",
@@ -275,6 +288,29 @@
     "gsis": "00-0041034",
     "jersey": "57",
     "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Fortner",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037814",
+    "jersey": "77",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -698,29 +734,6 @@
     "signed_in": false
    },
    {
-    "name": "Jonathon Brooks",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB5",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039344",
-    "jersey": "25",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ikem Ekwonu",
     "grp": "OL",
     "chartpos": "LT",
@@ -742,6 +755,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jonathon Brooks",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB5",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039344",
+    "jersey": "25",
+    "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -752,29 +788,6 @@
    10
   ],
   "start": [
-   {
-    "name": "Tre'von Moehrig",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036962",
-    "jersey": "7",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Marco Wilson",
     "grp": "CB",
@@ -795,6 +808,29 @@
     "jersey": "35",
     "origin": "PS",
     "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tre'von Moehrig",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036962",
+    "jersey": "7",
+    "origin": "SS1",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -1154,7 +1190,7 @@
     "g50": 5,
     "june": "LCB3",
     "june_tier": 3,
-    "now": "RCB1",
+    "now": "RCB2",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Hamstring",
@@ -1194,52 +1230,6 @@
   ],
   "injured": [
    {
-    "name": "Jaycee Horn",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "NB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036944",
-    "jersey": "8",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cam Jackson",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "NT3",
-    "june_tier": 3,
-    "now": "NT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040174",
-    "jersey": "99",
-    "origin": "NT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Nic Scourton",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1248,7 +1238,7 @@
     "g50": 0,
     "june": "WLB1",
     "june_tier": 1,
-    "now": "WLB3",
+    "now": "WLB5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1258,29 +1248,6 @@
     "gsis": "00-0040746",
     "jersey": "11",
     "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Mike Jackson",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "RCB2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035277",
-    "jersey": "2",
-    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1309,6 +1276,29 @@
     "signed_in": false
    },
    {
+    "name": "Cam Jackson",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "NT3",
+    "june_tier": 3,
+    "now": "NT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040174",
+    "jersey": "99",
+    "origin": "NT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Akayleb Evans",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1327,6 +1317,52 @@
     "gsis": "00-0038101",
     "jersey": "29",
     "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaycee Horn",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "NB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036944",
+    "jersey": "8",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mike Jackson",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035277",
+    "jersey": "2",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
