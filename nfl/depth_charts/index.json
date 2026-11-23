@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 11,
- "built_utc": "2026-11-22T20:45:03Z",
+ "built_utc": "2026-11-23T00:30:06Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -17,7 +17,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_ARI_KC",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -64,7 +64,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_BAL_CAR",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -90,7 +90,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_MIA_BUF",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -116,7 +116,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_BAL_CAR",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -142,7 +142,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_NO_CHI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -215,7 +215,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_TEN_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -267,7 +267,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_TB_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -364,7 +364,7 @@
     "opp": "NYG",
     "home": false,
     "date": "2026-11-22",
-    "time_et": "13:00",
+    "time_et": "16:25",
     "game_id": "2026_11_JAX_NYG",
     "final": false
    },
@@ -392,7 +392,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_ARI_KC",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -439,7 +439,7 @@
     "date": "2026-11-22",
     "time_et": "16:05",
     "game_id": "2026_11_NYJ_LAC",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -491,7 +491,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_MIA_BUF",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -564,7 +564,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_NO_CHI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -588,7 +588,7 @@
     "opp": "JAX",
     "home": true,
     "date": "2026-11-22",
-    "time_et": "13:00",
+    "time_et": "16:25",
     "game_id": "2026_11_JAX_NYG",
     "final": false
    },
@@ -616,7 +616,7 @@
     "date": "2026-11-22",
     "time_et": "16:05",
     "game_id": "2026_11_NYJ_LAC",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -640,9 +640,9 @@
     "opp": "PIT",
     "home": true,
     "date": "2026-11-22",
-    "time_et": "16:25",
+    "time_et": "13:00",
     "game_id": "2026_11_PIT_PHI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -666,9 +666,9 @@
     "opp": "PHI",
     "home": false,
     "date": "2026-11-22",
-    "time_et": "16:25",
+    "time_et": "13:00",
     "game_id": "2026_11_PIT_PHI",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -741,7 +741,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_TB_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
@@ -767,7 +767,7 @@
     "date": "2026-11-22",
     "time_et": "13:00",
     "game_id": "2026_11_TEN_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 12,
