@@ -1,7 +1,7 @@
 {
  "team": "SF",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -234,6 +266,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -261,6 +297,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -286,6 +326,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -313,6 +357,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -334,6 +382,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -360,6 +412,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -391,29 +447,6 @@
     "gsis": "00-0037834",
     "jersey": "13",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Colton McKivitz",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036256",
-    "jersey": "68",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -460,6 +493,29 @@
     "gsis": "00-0039351",
     "jersey": "77",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Colton McKivitz",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036256",
+    "jersey": "68",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -697,25 +753,25 @@
     "signed_in": false
    },
    {
-    "name": "Brandin Cooks",
+    "name": "Jacob Cowing",
     "grp": "WR",
-    "chartpos": "",
-    "avg3": 37,
-    "last": 0,
-    "g50": 2,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
+    "chartpos": "WR",
+    "avg3": 27,
+    "last": 18,
+    "g50": 0,
+    "june": "WR7",
+    "june_tier": 3,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0031236",
-    "jersey": "84",
-    "origin": "PS",
-    "psq": true,
+    "gsis": "00-0039365",
+    "jersey": "4",
+    "origin": "WR7",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -814,24 +870,24 @@
   ],
   "injured": [
    {
-    "name": "Ricky Pearsall",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Enrique Cruz Jr.",
+    "grp": "OL",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR10",
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039916",
-    "jersey": "1",
-    "origin": "WR2",
+    "why": "Inactive",
+    "gsis": "00-0041090",
+    "jersey": "69",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -855,29 +911,6 @@
     "gsis": "00-0032775",
     "jersey": "11",
     "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jake Tonges",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037112",
-    "jersey": "88",
-    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -929,6 +962,52 @@
     "signed_in": false
    },
    {
+    "name": "Jake Tonges",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037112",
+    "jersey": "88",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ricky Pearsall",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR10",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039916",
+    "jersey": "1",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Christian Kirk",
     "grp": "WR",
     "chartpos": "WR",
@@ -947,29 +1026,6 @@
     "gsis": "00-0034775",
     "jersey": "3",
     "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Enrique Cruz Jr.",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0041090",
-    "jersey": "69",
-    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1214,6 +1270,31 @@
     "signed_in": false
    },
    {
+    "name": "C.J. West",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE1",
+    "june_tier": 1,
+    "now": "LDT3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0040711",
+    "jersey": "90",
+    "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   }
+  ],
+  "next": [
+   {
     "name": "DeForest Buckner",
     "grp": "DL",
     "chartpos": "RDT",
@@ -1235,9 +1316,7 @@
     "psq": false,
     "trade_in": true,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "Sebastian Valdez",
     "grp": "DL",
@@ -1258,29 +1337,6 @@
     "jersey": "55",
     "origin": "LDE2",
     "psq": true,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "James Thompson Jr.",
-    "grp": "DL",
-    "chartpos": "",
-    "avg3": 27,
-    "last": 23,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041363",
-    "jersey": "96",
-    "origin": "FA",
-    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -1402,93 +1458,24 @@
   ],
   "injured": [
    {
-    "name": "C.J. West",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE1",
-    "june_tier": 1,
-    "now": "LDT3",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040711",
-    "jersey": "90",
-    "origin": "LDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Dre Greenlaw",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 92,
-    "last": 87,
-    "g50": 7,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "WLB1",
+    "name": "Khalid Kareem",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 9,
+    "last": 4,
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LDE3",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
-    "injury": "Neck",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0034982",
-    "jersey": "57",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Alfred Collins",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "RDT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040721",
-    "jersey": "95",
-    "origin": "NT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Sam Okuayinonu",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "LDE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037602",
-    "jersey": "91",
-    "origin": "WLB2",
+    "gsis": "00-0036341",
+    "jersey": "47",
+    "origin": "NYG SLB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1540,24 +1527,70 @@
     "signed_in": false
    },
    {
-    "name": "Khalid Kareem",
+    "name": "Sam Okuayinonu",
     "grp": "ED",
     "chartpos": "LDE",
-    "avg3": 9,
-    "last": 4,
-    "g50": 1,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LDE3",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "LDE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037602",
+    "jersey": "91",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Alfred Collins",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "RDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040721",
+    "jersey": "95",
+    "origin": "NT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dre Greenlaw",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 92,
+    "last": 87,
+    "g50": 7,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "WLB1",
     "report": "Questionable",
     "practice": "Limited Participation in Practice",
-    "injury": "Ankle",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0036341",
-    "jersey": "47",
-    "origin": "NYG SLB3",
+    "gsis": "00-0034982",
+    "jersey": "57",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

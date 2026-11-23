@@ -1,7 +1,7 @@
 {
  "team": "DET",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -183,6 +207,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -200,6 +228,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -259,29 +291,6 @@
     "signed_in": false
    },
    {
-    "name": "Penei Sewell",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 95,
-    "last": 86,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036880",
-    "jersey": "58",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tate Ratledge",
     "grp": "OL",
     "chartpos": "RG",
@@ -300,6 +309,29 @@
     "gsis": "00-0040728",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Penei Sewell",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 95,
+    "last": 86,
+    "g50": 9,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036880",
+    "jersey": "58",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -654,24 +686,47 @@
   ],
   "injured": [
    {
-    "name": "Tom Kennedy",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Cade Mays",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 10,
+    "last": 0,
+    "g50": 1,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037297",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Isiah Pacheco",
+    "grp": "RB",
+    "chartpos": "RB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WR6",
+    "june": "RB2",
     "june_tier": 2,
-    "now": "WR6",
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035544",
-    "jersey": "85",
-    "origin": "WR6",
+    "gsis": "00-0037197",
+    "jersey": "10",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -685,7 +740,7 @@
     "g50": 0,
     "june": "LT2",
     "june_tier": 2,
-    "now": "LT2",
+    "now": "LT3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -723,47 +778,24 @@
     "signed_in": false
    },
    {
-    "name": "Isiah Pacheco",
-    "grp": "RB",
-    "chartpos": "RB",
+    "name": "Tom Kennedy",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "RB2",
+    "june": "WR6",
     "june_tier": 2,
-    "now": "RB4",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037197",
-    "jersey": "10",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cade Mays",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 10,
-    "last": 0,
-    "g50": 1,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0037297",
-    "jersey": "64",
-    "origin": "C1",
+    "gsis": "00-0035544",
+    "jersey": "85",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1219,47 +1251,47 @@
     "signed_in": false
    },
    {
-    "name": "D.J. Reed",
-    "grp": "CB",
-    "chartpos": "LCB",
+    "name": "Jack Campbell",
+    "grp": "LB",
+    "chartpos": "MLB",
     "avg3": 26,
     "last": 0,
     "g50": 7,
-    "june": "LCB1",
+    "june": "MLB1",
     "june_tier": 1,
-    "now": "LCB1",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Hip",
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0034384",
-    "jersey": "4",
-    "origin": "LCB1",
+    "why": "IR",
+    "gsis": "00-0039018",
+    "jersey": "46",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    },
    {
-    "name": "Jimmy Rolder",
+    "name": "Damone Clark",
     "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 11,
+    "chartpos": "WLB",
+    "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SLB2",
+    "june": "WLB2",
     "june_tier": 2,
-    "now": "SLB4",
+    "now": "WLB4",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041442",
-    "jersey": "41",
-    "origin": "SLB2",
+    "gsis": "00-0037281",
+    "jersey": "11",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1311,47 +1343,47 @@
     "signed_in": false
    },
    {
-    "name": "Damone Clark",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
+    "name": "D.J. Reed",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 26,
     "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "g50": 7,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "LCB1",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hip",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0037281",
-    "jersey": "11",
-    "origin": "WLB2",
+    "why": "Inactive",
+    "gsis": "00-0034384",
+    "jersey": "4",
+    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    },
    {
-    "name": "Jack Campbell",
+    "name": "Jimmy Rolder",
     "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 26,
+    "chartpos": "SLB",
+    "avg3": 11,
     "last": 0,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB3",
+    "g50": 0,
+    "june": "SLB2",
+    "june_tier": 2,
+    "now": "SLB4",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039018",
-    "jersey": "46",
-    "origin": "MLB1",
+    "gsis": "00-0041442",
+    "jersey": "41",
+    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "LAC",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -174,6 +198,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -201,6 +229,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -226,6 +258,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -253,6 +289,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -279,6 +319,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -304,6 +348,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -340,6 +388,29 @@
     "signed_in": false
    },
    {
+    "name": "Logan Taylor",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 5,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041105",
+    "jersey": "65",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Travis Burke",
     "grp": "OL",
     "chartpos": "RT",
@@ -358,29 +429,6 @@
     "gsis": "00-0041058",
     "jersey": "77",
     "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Logan Taylor",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 5,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041105",
-    "jersey": "65",
-    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -440,7 +488,7 @@
     "g50": 9,
     "june": "RG1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -695,7 +743,7 @@
     "g50": 2,
     "june": "RG3",
     "june_tier": 3,
-    "now": "RG2",
+    "now": "RG3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -735,13 +783,13 @@
    {
     "name": "Kayode Awosika",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RG",
     "avg3": 0,
     "last": 0,
     "g50": 2,
     "june": "LG3",
     "june_tier": 3,
-    "now": "LG3",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -757,6 +805,75 @@
    }
   ],
   "injured": [
+   {
+    "name": "Alec Ingold",
+    "grp": "RB",
+    "chartpos": "FB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "FB1",
+    "june_tier": 1,
+    "now": "FB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035125",
+    "jersey": "30",
+    "origin": "FB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Trevor Penning",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037241",
+    "jersey": "75",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Rashawn Slater",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037009",
+    "jersey": "70",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Brenen Thompson",
     "grp": "WR",
@@ -776,52 +893,6 @@
     "gsis": "00-0041550",
     "jersey": "89",
     "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Trey Pipkins",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035688",
-    "jersey": "79",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Trevor Penning",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037241",
-    "jersey": "75",
-    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -850,52 +921,6 @@
     "signed_in": false
    },
    {
-    "name": "Tyler Biadasz",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036376",
-    "jersey": "63",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Alec Ingold",
-    "grp": "RB",
-    "chartpos": "FB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "FB1",
-    "june_tier": 1,
-    "now": "FB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035125",
-    "jersey": "30",
-    "origin": "FB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "KeAndre Lambert-Smith",
     "grp": "WR",
     "chartpos": "WR",
@@ -919,24 +944,24 @@
     "signed_in": false
    },
    {
-    "name": "Rashawn Slater",
+    "name": "Tyler Biadasz",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 0,
     "last": 0,
-    "g50": 4,
-    "june": "LT1",
+    "g50": 0,
+    "june": "C1",
     "june_tier": 1,
-    "now": "LT2",
+    "now": "C3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037009",
-    "jersey": "70",
-    "origin": "LT1",
+    "gsis": "00-0036376",
+    "jersey": "63",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1329,7 +1354,7 @@
     "g50": 0,
     "june": "LILB3",
     "june_tier": 3,
-    "now": "LILB2",
+    "now": "LILB3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1392,6 +1417,29 @@
   ],
   "injured": [
    {
+    "name": "Rodney Shelley",
+    "grp": "CB",
+    "chartpos": "LCB",
+    "avg3": 8,
+    "last": 3,
+    "g50": 0,
+    "june": "LCB2",
+    "june_tier": 2,
+    "now": "LCB3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041381",
+    "jersey": "24",
+    "origin": "LCB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Derwin James",
     "grp": "S",
     "chartpos": "SS",
@@ -1410,29 +1458,6 @@
     "gsis": "00-0034790",
     "jersey": "3",
     "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Rodney Shelley",
-    "grp": "CB",
-    "chartpos": "LCB",
-    "avg3": 8,
-    "last": 3,
-    "g50": 0,
-    "june": "LCB2",
-    "june_tier": 2,
-    "now": "LCB3",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0041381",
-    "jersey": "24",
-    "origin": "LCB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,7 +1,7 @@
 {
  "team": "NO",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -226,6 +258,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -252,6 +288,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -319,7 +359,7 @@
     "g50": 3,
     "june": "RG2",
     "june_tier": 2,
-    "now": "RG1",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -637,13 +677,13 @@
    {
     "name": "Mason Murphy",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 6,
     "last": 19,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT2",
+    "now": "LT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -658,6 +698,29 @@
     "signed_in": false
    },
    {
+    "name": "Colby Sorsdal",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "RG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038592",
+    "jersey": "64",
+    "origin": "ATL PS",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Easton Kilty",
     "grp": "OL",
     "chartpos": "RT",
@@ -666,7 +729,7 @@
     "g50": 0,
     "june": "LG3",
     "june_tier": 3,
-    "now": "RT3",
+    "now": "RT4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -706,52 +769,6 @@
     "signed_in": false
    },
    {
-    "name": "Mason Tipton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039623",
-    "jersey": "15",
-    "origin": "WR4",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Asim Richards",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 60,
-    "last": 81,
-    "g50": 6,
-    "june": "LT3",
-    "june_tier": 3,
-    "now": "LT2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0038601",
-    "jersey": "72",
-    "origin": "LT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Dillon Radunz",
     "grp": "OL",
     "chartpos": "LG",
@@ -775,6 +792,29 @@
     "signed_in": false
    },
    {
+    "name": "Mason Tipton",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039623",
+    "jersey": "15",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Taliese Fuaga",
     "grp": "OL",
     "chartpos": "RT",
@@ -793,6 +833,29 @@
     "gsis": "00-0039339",
     "jersey": "75",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Asim Richards",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 60,
+    "last": 81,
+    "g50": 6,
+    "june": "LT3",
+    "june_tier": 3,
+    "now": "RT2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0038601",
+    "jersey": "72",
+    "origin": "LT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1294,29 +1357,6 @@
     "signed_in": false
    },
    {
-    "name": "Justin Reid",
-    "grp": "S",
-    "chartpos": "",
-    "avg3": 70,
-    "last": 79,
-    "g50": 9,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - personal matter",
-    "rookie": false,
-    "returning": false,
-    "why": "Out",
-    "gsis": "00-0034361",
-    "jersey": "21",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Pete Werner",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1358,6 +1398,29 @@
     "gsis": "00-0041390",
     "jersey": "52",
     "origin": "NT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Justin Reid",
+    "grp": "S",
+    "chartpos": "",
+    "avg3": 70,
+    "last": 79,
+    "g50": 9,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - personal matter",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0034361",
+    "jersey": "21",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

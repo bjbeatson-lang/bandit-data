@@ -1,7 +1,7 @@
 {
  "team": "DEN",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -166,29 +186,6 @@
     "signed_in": false
    },
    {
-    "name": "Mike McGlinchey",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034847",
-    "jersey": "69",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Wattenberg",
     "grp": "OL",
     "chartpos": "C",
@@ -207,29 +204,6 @@
     "gsis": "00-0037278",
     "jersey": "60",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ben Powers",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034978",
-    "jersey": "74",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -258,6 +232,29 @@
     "signed_in": false
    },
    {
+    "name": "Mike McGlinchey",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034847",
+    "jersey": "69",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Quinn Meinerz",
     "grp": "OL",
     "chartpos": "RG",
@@ -276,6 +273,29 @@
     "gsis": "00-0037001",
     "jersey": "77",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Ben Powers",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034978",
+    "jersey": "74",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -536,6 +556,29 @@
     "signed_in": false
    },
    {
+    "name": "Matt Peart",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036392",
+    "jersey": "79",
+    "origin": "LT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Alex Forsyth",
     "grp": "OL",
     "chartpos": "C",
@@ -557,52 +600,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Matt Peart",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036392",
-    "jersey": "79",
-    "origin": "LT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
    {
-    "name": "Frank Crum",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
+    "name": "Lil'Jordan Humphrey",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 15,
     "last": 0,
     "g50": 0,
-    "june": "RT2",
+    "june": "WR6",
     "june_tier": 2,
-    "now": "LT4",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0039568",
-    "jersey": "73",
-    "origin": "RT2",
-    "psq": false,
+    "why": "Inactive",
+    "gsis": "00-0035406",
+    "jersey": "5",
+    "origin": "WR6",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -630,6 +650,29 @@
     "signed_in": false
    },
    {
+    "name": "Frank Crum",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039568",
+    "jersey": "73",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Kage Casey",
     "grp": "OL",
     "chartpos": "LG",
@@ -638,7 +681,7 @@
     "g50": 0,
     "june": "LG2",
     "june_tier": 2,
-    "now": "LG2",
+    "now": "LG3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -649,29 +692,6 @@
     "jersey": "78",
     "origin": "LG2",
     "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Lil'Jordan Humphrey",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 15,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035406",
-    "jersey": "5",
-    "origin": "WR6",
-    "psq": true,
     "trade_in": false,
     "signed_in": false
    }
@@ -749,6 +769,29 @@
     "gsis": "00-0038552",
     "jersey": "21",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Talanoa Hufanga",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "SS1",
+    "june_tier": 1,
+    "now": "SS1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0036564",
+    "jersey": "9",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -913,29 +956,6 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Talanoa Hufanga",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0036564",
-    "jersey": "9",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "next": [
@@ -1032,29 +1052,6 @@
     "signed_in": false
    },
    {
-    "name": "Karene Reid",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LILB3",
-    "june_tier": 3,
-    "now": "LILB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040449",
-    "jersey": "47",
-    "origin": "LILB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jordan Turner",
     "grp": "LB",
     "chartpos": "RILB",
@@ -1073,6 +1070,29 @@
     "gsis": "00-0040634",
     "jersey": "55",
     "origin": "LILB4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Karene Reid",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LILB3",
+    "june_tier": 3,
+    "now": "LILB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040449",
+    "jersey": "47",
+    "origin": "LILB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1101,30 +1121,53 @@
     "signed_in": false
    },
    {
-    "name": "Devon Key",
+    "name": "Taylor Rapp",
     "grp": "S",
-    "chartpos": "SS",
-    "avg3": 48,
-    "last": 36,
-    "g50": 1,
-    "june": "FS2",
-    "june_tier": 2,
-    "now": "SS2",
+    "chartpos": "FS",
+    "avg3": 71,
+    "last": 70,
+    "g50": 4,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "FS3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036683",
-    "jersey": "26",
-    "origin": "FS2",
-    "psq": false,
+    "gsis": "00-0035663",
+    "jersey": "30",
+    "origin": "PS",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Jonah Elliss",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039809",
+    "jersey": "52",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Brandon Jones",
     "grp": "S",
@@ -1167,29 +1210,6 @@
     "gsis": "00-0038106",
     "jersey": "96",
     "origin": "NT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jonah Elliss",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039809",
-    "jersey": "52",
-    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

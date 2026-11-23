@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -131,6 +147,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -156,6 +176,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -263,13 +287,13 @@
    {
     "name": "Mike Caliendo",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 62,
     "last": 78,
     "g50": 3,
     "june": "RG2",
     "june_tier": 2,
-    "now": "RG1",
+    "now": "LG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -292,7 +316,7 @@
     "g50": 2,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT1",
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -564,13 +588,13 @@
    {
     "name": "Diego Pounds",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 3,
     "last": 8,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
-    "now": "RT4",
+    "now": "LT3",
     "report": "",
     "practice": "",
     "injury": "",
@@ -583,51 +607,51 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Pete Nygra",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "C3",
+    "june_tier": 3,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040958",
+    "jersey": "50",
+    "origin": "C3",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
    {
-    "name": "Trey Smith",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 72,
-    "last": 22,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036660",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jaylon Moore",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 55,
+    "name": "Tyquan Thornton",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
     "last": 0,
-    "g50": 7,
-    "june": "RT1",
+    "g50": 3,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "RT1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0036557",
-    "jersey": "77",
-    "origin": "RT1",
+    "why": "IR",
+    "gsis": "00-0038104",
+    "jersey": "2",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -656,24 +680,24 @@
     "signed_in": false
    },
    {
-    "name": "Tyquan Thornton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "WR3",
+    "name": "Trey Smith",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 72,
+    "last": 22,
+    "g50": 8,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "RG1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038104",
-    "jersey": "2",
-    "origin": "WR3",
+    "why": "Inactive",
+    "gsis": "00-0036660",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -687,7 +711,7 @@
     "g50": 0,
     "june": "LT1",
     "june_tier": 1,
-    "now": "LT3",
+    "now": "LT4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -697,6 +721,29 @@
     "gsis": "00-0040116",
     "jersey": "71",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jaylon Moore",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 55,
+    "last": 0,
+    "g50": 7,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036557",
+    "jersey": "77",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

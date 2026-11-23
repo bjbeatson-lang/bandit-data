@@ -1,7 +1,7 @@
 {
  "team": "WAS",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": false,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -59,6 +67,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -72,6 +84,10 @@
    "days": [
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -90,6 +106,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -113,6 +133,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -135,6 +159,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -156,6 +184,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -192,24 +224,24 @@
     "signed_in": false
    },
    {
-    "name": "Sam Cosmi",
+    "name": "Josh Conerly Jr.",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "RG1",
+    "g50": 9,
+    "june": "RT1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036618",
-    "jersey": "76",
-    "origin": "RG1",
+    "gsis": "00-0040686",
+    "jersey": "72",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -238,24 +270,24 @@
     "signed_in": false
    },
    {
-    "name": "Josh Conerly Jr.",
+    "name": "Sam Cosmi",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 9,
-    "june": "RT1",
+    "g50": 7,
+    "june": "RG1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040686",
-    "jersey": "72",
-    "origin": "RT1",
+    "gsis": "00-0036618",
+    "jersey": "76",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -610,24 +642,24 @@
   ],
   "injured": [
    {
-    "name": "Jacory Croskey-Merritt",
-    "grp": "RB",
-    "chartpos": "RB",
+    "name": "Jaylin Lane",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB4",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Groin",
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR8",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040242",
-    "jersey": "22",
-    "origin": "RB1",
+    "gsis": "00-0040164",
+    "jersey": "83",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -656,29 +688,6 @@
     "signed_in": false
    },
    {
-    "name": "Dyami Brown",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 8,
-    "last": 0,
-    "g50": 3,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036626",
-    "jersey": "6",
-    "origin": "WR5",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Laremy Tunsil",
     "grp": "OL",
     "chartpos": "LT",
@@ -702,24 +711,47 @@
     "signed_in": false
    },
    {
-    "name": "Jaylin Lane",
+    "name": "Dyami Brown",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 0,
+    "avg3": 8,
     "last": 0,
-    "g50": 0,
-    "june": "WR6",
+    "g50": 3,
+    "june": "WR5",
     "june_tier": 2,
-    "now": "WR8",
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040164",
-    "jersey": "83",
-    "origin": "WR6",
+    "gsis": "00-0036626",
+    "jersey": "6",
+    "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jacory Croskey-Merritt",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB4",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040242",
+    "jersey": "22",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1175,29 +1207,6 @@
   ],
   "injured": [
    {
-    "name": "Daron Payne",
-    "grp": "DL",
-    "chartpos": "NT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 6,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "NT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034333",
-    "jersey": "94",
-    "origin": "NT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Javon Kinlaw",
     "grp": "DL",
     "chartpos": "RDE",
@@ -1216,6 +1225,29 @@
     "gsis": "00-0036260",
     "jersey": "99",
     "origin": "RDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Daron Payne",
+    "grp": "DL",
+    "chartpos": "NT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 6,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "NT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034333",
+    "jersey": "94",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

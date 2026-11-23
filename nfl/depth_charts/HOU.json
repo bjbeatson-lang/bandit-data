@@ -1,7 +1,7 @@
 {
  "team": "HOU",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -30,6 +30,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -61,6 +65,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -90,6 +98,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -121,6 +133,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -150,6 +166,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -181,6 +201,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -210,6 +234,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -241,6 +269,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -270,6 +302,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -352,29 +388,6 @@
     "signed_in": false
    },
    {
-    "name": "Aireontae Ersery",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040745",
-    "jersey": "79",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Trent Brown",
     "grp": "OL",
     "chartpos": "RT",
@@ -393,6 +406,29 @@
     "gsis": "00-0032071",
     "jersey": "77",
     "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Aireontae Ersery",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040745",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -724,52 +760,6 @@
   ],
   "injured": [
    {
-    "name": "Wyatt Teller",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "RG2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Back",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0034399",
-    "jersey": "75",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jayden Higgins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040130",
-    "jersey": "81",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jaylin Noel",
     "grp": "WR",
     "chartpos": "WR",
@@ -811,6 +801,52 @@
     "gsis": "00-0040583",
     "jersey": "4",
     "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Wyatt Teller",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "RG2",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0034399",
+    "jersey": "75",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jayden Higgins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040130",
+    "jersey": "81",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1266,29 +1302,6 @@
   ],
   "injured": [
    {
-    "name": "Azeez Al-Shaair",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 65,
-    "last": 0,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB2",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035166",
-    "jersey": "0",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "E.J. Speed",
     "grp": "LB",
     "chartpos": "WLB",
@@ -1307,6 +1320,29 @@
     "gsis": "00-0034987",
     "jersey": "45",
     "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Dylan Horton",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039009",
+    "jersey": "92",
+    "origin": "LDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1335,24 +1371,24 @@
     "signed_in": false
    },
    {
-    "name": "Dylan Horton",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 0,
+    "name": "Azeez Al-Shaair",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 65,
     "last": 0,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "LDE3",
+    "g50": 7,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039009",
-    "jersey": "92",
-    "origin": "LDE2",
+    "gsis": "00-0035166",
+    "jersey": "0",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

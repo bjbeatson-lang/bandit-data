@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -70,6 +78,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -97,6 +109,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -123,6 +139,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -145,6 +165,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -162,6 +186,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -189,6 +217,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -215,6 +247,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -240,6 +276,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -273,52 +313,6 @@
     "origin": "LV",
     "psq": false,
     "trade_in": true,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Huber",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 6,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040500",
-    "jersey": "60",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Blake Brandel",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036347",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
     "signed_in": false
    },
    {
@@ -368,6 +362,29 @@
     "signed_in": false
    },
    {
+    "name": "Blake Brandel",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036347",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Brian O'Neill",
     "grp": "OL",
     "chartpos": "RT",
@@ -386,6 +403,29 @@
     "gsis": "00-0034158",
     "jersey": "75",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Joe Huber",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 6,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040500",
+    "jersey": "60",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -694,47 +734,24 @@
   ],
   "injured": [
    {
-    "name": "Kyler Murray",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 33,
+    "name": "Jordan Addison",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 65,
     "last": 0,
-    "g50": 5,
-    "june": "QB1",
+    "g50": 7,
+    "june": "WR2",
     "june_tier": 1,
-    "now": "QB2",
+    "now": "WR2",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0035228",
-    "jersey": "1",
-    "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Josh Oliver",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035249",
-    "jersey": "84",
-    "origin": "TE2",
+    "gsis": "00-0038994",
+    "jersey": "3",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -763,24 +780,47 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Addison",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 65,
+    "name": "Josh Oliver",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 0,
     "last": 0,
-    "g50": 7,
-    "june": "WR2",
+    "g50": 2,
+    "june": "TE2",
+    "june_tier": 2,
+    "now": "TE4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035249",
+    "jersey": "84",
+    "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kyler Murray",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 33,
+    "last": 0,
+    "g50": 5,
+    "june": "QB1",
     "june_tier": 1,
-    "now": "WR2",
+    "now": "QB2",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "Inactive",
-    "gsis": "00-0038994",
-    "jersey": "3",
-    "origin": "WR2",
+    "gsis": "00-0035228",
+    "jersey": "1",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1213,29 +1253,6 @@
   ],
   "injured": [
    {
-    "name": "Jay Ward",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 5,
-    "last": 0,
-    "g50": 0,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "Questionable",
-    "practice": "Limited Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0038578",
-    "jersey": "24",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bo Richter",
     "grp": "ED",
     "chartpos": "WLB",
@@ -1277,6 +1294,29 @@
     "gsis": "00-0036222",
     "jersey": "2",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jay Ward",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 5,
+    "last": 0,
+    "g50": 0,
+    "june": "SS2",
+    "june_tier": 2,
+    "now": "SS2",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0038578",
+    "jersey": "24",
+    "origin": "SS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

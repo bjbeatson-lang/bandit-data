@@ -1,7 +1,7 @@
 {
  "team": "JAX",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -79,6 +87,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -96,6 +108,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -123,6 +139,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -148,6 +168,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -175,6 +199,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -200,6 +228,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -227,6 +259,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -252,6 +288,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -279,6 +319,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -304,6 +348,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -331,6 +379,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -356,6 +408,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -747,7 +803,7 @@
     "g50": 0,
     "june": "C2",
     "june_tier": 2,
-    "now": "C1",
+    "now": "C2",
     "report": "",
     "practice": "Limited Participation in Practice",
     "injury": "Ankle",
@@ -783,9 +839,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Eli Cox",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040410",
+    "jersey": "66",
+    "origin": "PS",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Anton Harrison",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 5,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "LT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038934",
+    "jersey": "77",
+    "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Patrick Mekari",
     "grp": "OL",
@@ -828,29 +930,6 @@
     "gsis": "00-0036985",
     "jersey": "73",
     "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Anton Harrison",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "LT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038934",
-    "jersey": "77",
-    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1306,24 +1385,24 @@
   ],
   "injured": [
    {
-    "name": "Parker Hughes",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 0,
+    "name": "DaVon Hamilton",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 6,
     "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "MLB3",
+    "g50": 2,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT4",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041127",
-    "jersey": "53",
-    "origin": "MLB2",
+    "gsis": "00-0036262",
+    "jersey": "52",
+    "origin": "RDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1352,29 +1431,6 @@
     "signed_in": false
    },
    {
-    "name": "DaVon Hamilton",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 6,
-    "last": 0,
-    "g50": 2,
-    "june": "RDT1",
-    "june_tier": 1,
-    "now": "RDT4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036262",
-    "jersey": "52",
-    "origin": "RDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Caleb Ransaw",
     "grp": "S",
     "chartpos": "",
@@ -1393,6 +1449,29 @@
     "gsis": "00-0040145",
     "jersey": "27",
     "origin": "FS3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Parker Hughes",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041127",
+    "jersey": "53",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

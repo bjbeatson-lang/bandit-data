@@ -1,7 +1,7 @@
 {
  "team": "PHI",
  "entering_week": 11,
- "chart_date": "2026-11-22",
+ "chart_date": "2026-11-23",
  "inactives_posted": true,
  "practice": [
   {
@@ -26,6 +26,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -53,6 +57,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -78,6 +86,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -105,6 +117,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -130,6 +146,10 @@
     ],
     [
      "Sat",
+     "FP"
+    ],
+    [
+     "Sun",
      "FP"
     ]
    ]
@@ -157,6 +177,10 @@
     [
      "Sat",
      "LP"
+    ],
+    [
+     "Sun",
+     "LP"
     ]
    ]
   },
@@ -182,6 +206,10 @@
     ],
     [
      "Sat",
+     "LP"
+    ],
+    [
+     "Sun",
      "LP"
     ]
    ]
@@ -209,6 +237,10 @@
     [
      "Sat",
      "FP"
+    ],
+    [
+     "Sun",
+     "FP"
     ]
    ]
   },
@@ -235,6 +267,10 @@
     [
      "Sat",
      "DNP"
+    ],
+    [
+     "Sun",
+     "DNP"
     ]
    ]
   },
@@ -260,6 +296,10 @@
     ],
     [
      "Sat",
+     "DNP"
+    ],
+    [
+     "Sun",
      "DNP"
     ]
    ]
@@ -319,29 +359,6 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Mailata",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034429",
-    "jersey": "68",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Landon Dickerson",
     "grp": "OL",
     "chartpos": "LG",
@@ -360,6 +377,29 @@
     "gsis": "00-0037002",
     "jersey": "69",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Mailata",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 9,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034429",
+    "jersey": "68",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -751,33 +791,10 @@
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
-    "why": "Out",
+    "why": "IR",
     "gsis": "00-0038393",
     "jersey": "13",
     "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Will Shipley",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RB3",
-    "june_tier": 3,
-    "now": "RB2",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Foot",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039746",
-    "jersey": "28",
-    "origin": "RB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -915,7 +932,7 @@
     "g50": 8,
     "june": "LCB1",
     "june_tier": 1,
-    "now": "LCB1",
+    "now": "LCB2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -932,13 +949,13 @@
    {
     "name": "Jalen Carter",
     "grp": "DL",
-    "chartpos": "NT",
+    "chartpos": "LDE",
     "avg3": 85,
     "last": 87,
     "g50": 9,
     "june": "LDE1",
     "june_tier": 1,
-    "now": "NT1",
+    "now": "LDE1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1095,13 +1112,13 @@
    {
     "name": "Byron Young",
     "grp": "DL",
-    "chartpos": "LDE",
+    "chartpos": "NT",
     "avg3": 29,
     "last": 24,
     "g50": 0,
     "june": "LDE2",
     "june_tier": 2,
-    "now": "LDE1",
+    "now": "NT1",
     "report": "",
     "practice": "",
     "injury": "",
@@ -1208,6 +1225,29 @@
     "signed_in": false
    },
    {
+    "name": "Anfernee Orji",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LILB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038908",
+    "jersey": "45",
+    "origin": "NYG",
+    "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jonathan Jones",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1216,7 +1256,7 @@
     "g50": 1,
     "june": "LCB2",
     "june_tier": 2,
-    "now": "LCB2",
+    "now": "LCB1",
     "report": "",
     "practice": "Full Participation in Practice",
     "injury": "Hamstring",
@@ -1270,7 +1310,7 @@
     "injury": "Back",
     "rookie": false,
     "returning": false,
-    "why": "Out",
+    "why": "IR",
     "gsis": "00-0036418",
     "jersey": "53",
     "origin": "LILB1",
