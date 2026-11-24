@@ -1,315 +1,14 @@
 {
  "team": "CIN",
- "entering_week": 11,
- "chart_date": "2026-11-23",
- "inactives_posted": true,
- "practice": [
-  {
-   "name": "Jonathan Allen",
-   "pos": "DT",
-   "gsis": "00-0033523",
-   "jersey": "93",
-   "injury": "Not injury related - resting player",
-   "designation": "",
-   "days": [
-    [
-     "Thu",
-     "DNP"
-    ],
-    [
-     "Fri",
-     "DNP"
-    ],
-    [
-     "Sat",
-     "LP"
-    ],
-    [
-     "Sun",
-     "LP"
-    ]
-   ]
-  },
-  {
-   "name": "Jalen Davis",
-   "pos": "CB",
-   "gsis": "00-0034446",
-   "jersey": "35",
-   "injury": "Hamstring",
-   "designation": "Doubtful",
-   "days": [
-    [
-     "Thu",
-     "FP"
-    ],
-    [
-     "Fri",
-     "FP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Oren Burks",
-   "pos": "LB",
-   "gsis": "00-0034754",
-   "jersey": "42",
-   "injury": "Groin",
-   "designation": "Out",
-   "days": [
-    [
-     "Thu",
-     "DNP"
-    ],
-    [
-     "Fri",
-     "DNP"
-    ],
-    [
-     "Sat",
-     "DNP"
-    ],
-    [
-     "Sun",
-     "DNP"
-    ]
-   ]
-  },
-  {
-   "name": "B.J. Hill",
-   "pos": "DT",
-   "gsis": "00-0034800",
-   "jersey": "92",
-   "injury": "Not injury related - resting player",
-   "designation": "",
-   "days": [
-    [
-     "Fri",
-     "DNP"
-    ],
-    [
-     "Sat",
-     "DNP"
-    ],
-    [
-     "Sun",
-     "DNP"
-    ]
-   ]
-  },
-  {
-   "name": "Dexter Lawrence",
-   "pos": "DT",
-   "gsis": "00-0035683",
-   "jersey": "97",
-   "injury": "Not injury related - resting player",
-   "designation": "",
-   "days": [
-    [
-     "Sat",
-     "DNP"
-    ],
-    [
-     "Sun",
-     "DNP"
-    ]
-   ]
-  },
-  {
-   "name": "Dalton Risner",
-   "pos": "G",
-   "gsis": "00-0035702",
-   "jersey": "66",
-   "injury": "Knee",
-   "designation": "Out",
-   "days": [
-    [
-     "Thu",
-     "DNP"
-    ],
-    [
-     "Fri",
-     "DNP"
-    ],
-    [
-     "Sat",
-     "DNP"
-    ],
-    [
-     "Sun",
-     "DNP"
-    ]
-   ]
-  },
-  {
-   "name": "Kyle Dugger",
-   "pos": "S",
-   "gsis": "00-0036231",
-   "jersey": "29",
-   "injury": "Quadricep",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Thu",
-     "LP"
-    ],
-    [
-     "Fri",
-     "FP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Daxton Hill",
-   "pos": "CB",
-   "gsis": "00-0037743",
-   "jersey": "23",
-   "injury": "Illness",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Thu",
-     "DNP"
-    ],
-    [
-     "Fri",
-     "DNP"
-    ],
-    [
-     "Sat",
-     "DNP"
-    ],
-    [
-     "Sun",
-     "DNP"
-    ]
-   ]
-  },
-  {
-   "name": "Andrei Iosivas",
-   "pos": "WR",
-   "gsis": "00-0038619",
-   "jersey": "80",
-   "injury": "Thumb",
-   "designation": "Doubtful",
-   "days": [
-    [
-     "Thu",
-     "FP"
-    ],
-    [
-     "Fri",
-     "FP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Swayze Bozeman",
-   "pos": "LB",
-   "gsis": "00-0039313",
-   "jersey": "47",
-   "injury": "Forearm",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Thu",
-     "FP"
-    ],
-    [
-     "Fri",
-     "FP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Dylan Fairchild",
-   "pos": "G",
-   "gsis": "00-0040140",
-   "jersey": "63",
-   "injury": "Oblique",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Thu",
-     "LP"
-    ],
-    [
-     "Fri",
-     "LP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  },
-  {
-   "name": "Brian Parker II",
-   "pos": "G",
-   "gsis": "00-0041098",
-   "jersey": "62",
-   "injury": "Knee",
-   "designation": "Questionable",
-   "days": [
-    [
-     "Thu",
-     "FP"
-    ],
-    [
-     "Fri",
-     "FP"
-    ],
-    [
-     "Sat",
-     "FP"
-    ],
-    [
-     "Sun",
-     "FP"
-    ]
-   ]
-  }
- ],
+ "entering_week": 12,
+ "chart_date": "2026-11-24",
+ "inactives_posted": false,
+ "practice": [],
  "offense": {
   "last3": [
-   8,
    9,
-   10
+   10,
+   11
   ],
   "start": [
    {
@@ -317,14 +16,14 @@
     "grp": "QB",
     "chartpos": "QB",
     "avg3": 98,
-    "last": 95,
-    "g50": 9,
+    "last": 100,
+    "g50": 10,
     "june": "QB1",
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Illness",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -336,35 +35,12 @@
     "signed_in": false
    },
    {
-    "name": "Orlando Brown",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034752",
-    "jersey": "75",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Ted Karras",
     "grp": "OL",
     "chartpos": "C",
     "avg3": 100,
     "last": 100,
-    "g50": 9,
+    "g50": 10,
     "june": "C1",
     "june_tier": 1,
     "now": "C1",
@@ -382,12 +58,35 @@
     "signed_in": false
    },
    {
+    "name": "Orlando Brown",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034752",
+    "jersey": "75",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Amarius Mims",
     "grp": "OL",
     "chartpos": "RT",
     "avg3": 98,
-    "last": 95,
-    "g50": 9,
+    "last": 100,
+    "g50": 10,
     "june": "RT1",
     "june_tier": 1,
     "now": "RT1",
@@ -409,14 +108,14 @@
     "grp": "OL",
     "chartpos": "LG",
     "avg3": 98,
-    "last": 95,
-    "g50": 9,
+    "last": 100,
+    "g50": 10,
     "june": "LG1",
     "june_tier": 1,
     "now": "LG1",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Oblique",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -428,24 +127,24 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Rivers",
+    "name": "Dalton Risner",
     "grp": "OL",
     "chartpos": "RG",
-    "avg3": 17,
-    "last": 52,
-    "g50": 1,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG2",
+    "avg3": 49,
+    "last": 0,
+    "g50": 8,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
-    "returning": false,
+    "returning": true,
     "why": "",
-    "gsis": "00-0040180",
-    "jersey": "74",
-    "origin": "RG2",
+    "gsis": "00-0035702",
+    "jersey": "66",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -454,9 +153,9 @@
     "name": "Chase Brown",
     "grp": "RB",
     "chartpos": "RB",
-    "avg3": 68,
-    "last": 73,
-    "g50": 9,
+    "avg3": 65,
+    "last": 59,
+    "g50": 10,
     "june": "RB1",
     "june_tier": 1,
     "now": "RB1",
@@ -478,8 +177,8 @@
     "grp": "WR",
     "chartpos": "WR",
     "avg3": 90,
-    "last": 89,
-    "g50": 8,
+    "last": 97,
+    "g50": 9,
     "june": "WR1",
     "june_tier": 1,
     "now": "WR1",
@@ -500,15 +199,15 @@
     "name": "Tee Higgins",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 78,
-    "last": 77,
-    "g50": 9,
+    "avg3": 81,
+    "last": 97,
+    "g50": 10,
     "june": "WR2",
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -523,8 +222,8 @@
     "name": "Drew Sample",
     "grp": "TE",
     "chartpos": "TE",
-    "avg3": 57,
-    "last": 64,
+    "avg3": 60,
+    "last": 48,
     "g50": 7,
     "june": "TE2",
     "june_tier": 2,
@@ -546,8 +245,8 @@
     "name": "Mike Gesicki",
     "grp": "TE",
     "chartpos": "TE",
-    "avg3": 52,
-    "last": 41,
+    "avg3": 45,
+    "last": 47,
     "g50": 3,
     "june": "TE1",
     "june_tier": 1,
@@ -572,7 +271,7 @@
     "grp": "QB",
     "chartpos": "QB",
     "avg3": 2,
-    "last": 5,
+    "last": 0,
     "g50": 0,
     "june": "QB2",
     "june_tier": 2,
@@ -594,9 +293,9 @@
     "name": "Samaje Perine",
     "grp": "RB",
     "chartpos": "RB",
-    "avg3": 35,
-    "last": 30,
-    "g50": 1,
+    "avg3": 40,
+    "last": 50,
+    "g50": 2,
     "june": "RB2",
     "june_tier": 2,
     "now": "RB2",
@@ -617,8 +316,8 @@
     "name": "Dohnte Meyers",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 48,
-    "last": 42,
+    "avg3": 40,
+    "last": 36,
     "g50": 3,
     "june": "WR11",
     "june_tier": 4,
@@ -640,8 +339,8 @@
     "name": "Colbie Young",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 33,
-    "last": 44,
+    "avg3": 37,
+    "last": 38,
     "g50": 0,
     "june": "WR4",
     "june_tier": 2,
@@ -663,8 +362,8 @@
     "name": "Jack Endries",
     "grp": "TE",
     "chartpos": "TE",
-    "avg3": 22,
-    "last": 20,
+    "avg3": 25,
+    "last": 26,
     "g50": 0,
     "june": "TE5",
     "june_tier": 5,
@@ -683,11 +382,34 @@
     "signed_in": false
    },
    {
+    "name": "Jalen Rivers",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 51,
+    "last": 100,
+    "g50": 2,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040180",
+    "jersey": "74",
+    "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jacob Bayer",
     "grp": "OL",
     "chartpos": "LG",
     "avg3": 3,
-    "last": 6,
+    "last": 0,
     "g50": 0,
     "june": "C3",
     "june_tier": 3,
@@ -710,7 +432,7 @@
     "grp": "OL",
     "chartpos": "LT",
     "avg3": 2,
-    "last": 5,
+    "last": 0,
     "g50": 0,
     "june": "LT3",
     "june_tier": 3,
@@ -727,32 +449,32 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Myles Hinton",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RT2",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Illness",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040015",
-    "jersey": "77",
-    "origin": "PHI LT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Brian Parker II",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041098",
+    "jersey": "62",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Andrei Iosivas",
     "grp": "WR",
@@ -763,38 +485,15 @@
     "june": "WR3",
     "june_tier": 1,
     "now": "WR6",
-    "report": "Doubtful",
-    "practice": "Full Participation in Practice",
-    "injury": "Thumb",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
     "gsis": "00-0038619",
     "jersey": "80",
     "origin": "WR3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Brian Parker II",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG4",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041098",
-    "jersey": "62",
-    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -821,69 +520,23 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
-   {
-    "name": "Dalton Risner",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 83,
-    "last": 48,
-    "g50": 8,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0035702",
-    "jersey": "66",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
    }
   ]
  },
  "defense": {
   "last3": [
-   8,
    9,
-   10
+   10,
+   11
   ],
   "start": [
-   {
-    "name": "Barrett Carter",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 9,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040157",
-    "jersey": "49",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jordan Battle",
     "grp": "S",
     "chartpos": "SS",
     "avg3": 100,
     "last": 100,
-    "g50": 9,
+    "g50": 10,
     "june": "SS1",
     "june_tier": 1,
     "now": "SS1",
@@ -901,12 +554,35 @@
     "signed_in": false
    },
    {
+    "name": "Barrett Carter",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040157",
+    "jersey": "49",
+    "origin": "MLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Bryan Cook",
     "grp": "S",
     "chartpos": "FS",
-    "avg3": 99,
-    "last": 100,
-    "g50": 7,
+    "avg3": 97,
+    "last": 94,
+    "g50": 8,
     "june": "FS1",
     "june_tier": 1,
     "now": "FS1",
@@ -924,35 +600,12 @@
     "signed_in": false
    },
    {
-    "name": "Daxton Hill",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 89,
-    "last": 82,
-    "g50": 9,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "NB1",
-    "report": "Questionable",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Illness",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037743",
-    "jersey": "23",
-    "origin": "LCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "DJ Turner II",
     "grp": "CB",
     "chartpos": "RCB",
-    "avg3": 86,
-    "last": 87,
-    "g50": 9,
+    "avg3": 94,
+    "last": 99,
+    "g50": 10,
     "june": "RCB1",
     "june_tier": 1,
     "now": "RCB1",
@@ -970,12 +623,35 @@
     "signed_in": false
    },
    {
+    "name": "Daxton Hill",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 85,
+    "last": 76,
+    "g50": 10,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037743",
+    "jersey": "23",
+    "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Josh Newton",
     "grp": "CB",
     "chartpos": "NB",
-    "avg3": 86,
-    "last": 85,
-    "g50": 3,
+    "avg3": 83,
+    "last": 75,
+    "g50": 4,
     "june": "RCB2",
     "june_tier": 2,
     "now": "NB2",
@@ -993,35 +669,12 @@
     "signed_in": false
    },
    {
-    "name": "Demetrius Knight Jr.",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 79,
-    "last": 84,
-    "g50": 9,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040738",
-    "jersey": "44",
-    "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Myles Murphy",
     "grp": "ED",
     "chartpos": "RDE",
-    "avg3": 79,
-    "last": 72,
-    "g50": 9,
+    "avg3": 82,
+    "last": 88,
+    "g50": 10,
     "june": "RDE1",
     "june_tier": 1,
     "now": "RDE1",
@@ -1042,9 +695,9 @@
     "name": "Boye Mafe",
     "grp": "ED",
     "chartpos": "LDE",
-    "avg3": 76,
-    "last": 69,
-    "g50": 9,
+    "avg3": 81,
+    "last": 93,
+    "g50": 10,
     "june": "LDE1",
     "june_tier": 1,
     "now": "LDE1",
@@ -1062,18 +715,41 @@
     "signed_in": false
    },
    {
+    "name": "Demetrius Knight Jr.",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 79,
+    "last": 85,
+    "g50": 10,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040738",
+    "jersey": "44",
+    "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Dexter Lawrence",
     "grp": "DL",
     "chartpos": "LDT",
-    "avg3": 65,
-    "last": 56,
-    "g50": 9,
+    "avg3": 68,
+    "last": 79,
+    "g50": 10,
     "june": "LDT1",
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - resting player",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1088,15 +764,15 @@
     "name": "Jonathan Allen",
     "grp": "DL",
     "chartpos": "RDT",
-    "avg3": 53,
-    "last": 41,
-    "g50": 8,
+    "avg3": 57,
+    "last": 68,
+    "g50": 9,
     "june": "RDT1",
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Not injury related - resting player",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1113,15 +789,15 @@
     "name": "B.J. Hill",
     "grp": "DL",
     "chartpos": "RDT",
-    "avg3": 44,
-    "last": 51,
+    "avg3": 47,
+    "last": 49,
     "g50": 2,
     "june": "RDT2",
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Not injury related - resting player",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1136,8 +812,8 @@
     "name": "Tedarrell Slaton",
     "grp": "DL",
     "chartpos": "LDT",
-    "avg3": 31,
-    "last": 34,
+    "avg3": 29,
+    "last": 25,
     "g50": 0,
     "june": "LDT2",
     "june_tier": 2,
@@ -1159,8 +835,8 @@
     "name": "Cedric Johnson",
     "grp": "ED",
     "chartpos": "LDE",
-    "avg3": 20,
-    "last": 33,
+    "avg3": 24,
+    "last": 19,
     "g50": 0,
     "june": "LDE3",
     "june_tier": 3,
@@ -1182,8 +858,8 @@
     "name": "Shemar Stewart",
     "grp": "ED",
     "chartpos": "RDE",
-    "avg3": 18,
-    "last": 31,
+    "avg3": 16,
+    "last": 0,
     "g50": 0,
     "june": "LDE2",
     "june_tier": 2,
@@ -1206,7 +882,7 @@
     "grp": "LB",
     "chartpos": "SLB",
     "avg3": 1,
-    "last": 0,
+    "last": 1,
     "g50": 0,
     "june": "not on June chart",
     "june_tier": null,
@@ -1251,8 +927,8 @@
     "name": "D.J. Ivey",
     "grp": "CB",
     "chartpos": "LCB",
-    "avg3": 31,
-    "last": 30,
+    "avg3": 22,
+    "last": 24,
     "g50": 4,
     "june": "LCB3",
     "june_tier": 3,
@@ -1274,15 +950,15 @@
     "name": "PJ Jules",
     "grp": "S",
     "chartpos": "FS",
-    "avg3": 0,
-    "last": 0,
+    "avg3": 1,
+    "last": 4,
     "g50": 1,
     "june": "FS2",
     "june_tier": 2,
     "now": "FS2",
     "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1295,75 +971,6 @@
    }
   ],
   "injured": [
-   {
-    "name": "Jalen Davis",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB3",
-    "report": "Doubtful",
-    "practice": "Full Participation in Practice",
-    "injury": "Hamstring",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034446",
-    "jersey": "35",
-    "origin": "NB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cashius Howell",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 12,
-    "last": 0,
-    "g50": 1,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041546",
-    "jersey": "55",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Kyle Dugger",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "SS2",
-    "june_tier": 2,
-    "now": "SS2",
-    "report": "Questionable",
-    "practice": "Full Participation in Practice",
-    "injury": "Quadricep",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0036231",
-    "jersey": "29",
-    "origin": "SS2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Ja'Sir Taylor",
     "grp": "CB",
@@ -1391,21 +998,67 @@
     "name": "Oren Burks",
     "grp": "LB",
     "chartpos": "SLB",
-    "avg3": 10,
-    "last": 3,
+    "avg3": 6,
+    "last": 0,
     "g50": 0,
     "june": "SLB1",
     "june_tier": 1,
     "now": "SLB2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
     "gsis": "00-0034754",
     "jersey": "42",
     "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen Davis",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034446",
+    "jersey": "35",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cashius Howell",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041546",
+    "jersey": "55",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
