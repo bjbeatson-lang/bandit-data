@@ -1,9 +1,80 @@
 {
  "team": "BUF",
  "entering_week": 12,
- "chart_date": "2026-11-24",
+ "chart_date": "2026-11-25",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Christian Benford",
+   "pos": "CB",
+   "gsis": "00-0037288",
+   "jersey": "47",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "O'Cyrus Torrence",
+   "pos": "G",
+   "gsis": "00-0038548",
+   "jersey": "64",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dorian Williams",
+   "pos": "LB",
+   "gsis": "00-0038557",
+   "jersey": "42",
+   "injury": "Calf",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "gsis": "00-0038933",
+   "jersey": "86",
+   "injury": "Thumb",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "T.J. Sanders",
+   "pos": "DE",
+   "gsis": "00-0040724",
+   "jersey": "98",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Tue",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -45,8 +116,8 @@
     "june_tier": 1,
     "now": "RG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -68,8 +139,8 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -91,8 +162,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -183,8 +254,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -300,8 +371,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -495,8 +566,8 @@
     "june_tier": 1,
     "now": "FS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -541,8 +612,8 @@
     "june_tier": 1,
     "now": "LILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -587,8 +658,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -610,8 +681,8 @@
     "june_tier": null,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -679,8 +750,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -725,8 +796,8 @@
     "june_tier": 1,
     "now": "LCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -750,8 +821,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Oblique",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -863,7 +934,7 @@
     "g50": 1,
     "june": "RILB3",
     "june_tier": 3,
-    "now": "LILB3",
+    "now": "LILB2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -911,8 +982,8 @@
     "june_tier": 2,
     "now": "FS2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
