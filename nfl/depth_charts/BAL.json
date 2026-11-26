@@ -1,9 +1,136 @@
 {
  "team": "BAL",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Calais Campbell",
+   "pos": "DT",
+   "gsis": "00-0026190",
+   "jersey": "93",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Derrick Henry",
+   "pos": "RB",
+   "gsis": "00-0032764",
+   "jersey": "22",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Nnamdi Madubuike",
+   "pos": "DT",
+   "gsis": "00-0036130",
+   "jersey": "92",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaylinn Hawkins",
+   "pos": "S",
+   "gsis": "00-0036302",
+   "jersey": "21",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "John Simpson",
+   "pos": "G",
+   "gsis": "00-0036369",
+   "jersey": "74",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "gsis": "00-0036550",
+   "jersey": "7",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Zay Flowers",
+   "pos": "WR",
+   "gsis": "00-0039064",
+   "jersey": "4",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Aeneas Peebles",
+   "pos": "DT",
+   "gsis": "00-0040076",
+   "jersey": "90",
+   "injury": "Elbow",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Mike Green",
+   "pos": "LB",
+   "gsis": "00-0040722",
+   "jersey": "15",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -32,6 +159,29 @@
     "origin": "ARI",
     "psq": false,
     "trade_in": true,
+    "signed_in": false
+   },
+   {
+    "name": "John Simpson",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 11,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036369",
+    "jersey": "74",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
     "signed_in": false
    },
    {
@@ -78,29 +228,6 @@
     "origin": "PHI",
     "psq": false,
     "trade_in": true,
-    "signed_in": false
-   },
-   {
-    "name": "John Simpson",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 11,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036369",
-    "jersey": "74",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
     "signed_in": false
    },
    {
@@ -183,8 +310,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -206,8 +333,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +427,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -476,29 +603,6 @@
     "signed_in": false
    },
    {
-    "name": "Lamar Jackson",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "QB1",
-    "june_tier": 1,
-    "now": "QB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034796",
-    "jersey": "8",
-    "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Durham Smythe",
     "grp": "TE",
     "chartpos": "TE",
@@ -517,6 +621,29 @@
     "gsis": "00-0034798",
     "jersey": "80",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Lamar Jackson",
+    "grp": "QB",
+    "chartpos": "QB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "QB1",
+    "june_tier": 1,
+    "now": "QB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034796",
+    "jersey": "8",
+    "origin": "QB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -656,8 +783,8 @@
     "june_tier": 2,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +875,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -842,8 +969,8 @@
     "june_tier": 2,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",

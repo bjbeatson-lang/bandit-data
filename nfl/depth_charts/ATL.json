@@ -1,9 +1,108 @@
 {
  "team": "ATL",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Za'Darius Smith",
+   "pos": "DE",
+   "gsis": "00-0031576",
+   "jersey": "55",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "gsis": "00-0037741",
+   "jersey": "4",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "DeMarcco Hellams",
+   "pos": "S",
+   "gsis": "00-0038628",
+   "jersey": "23",
+   "injury": "Foot",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Matthew Bergeron",
+   "pos": "G",
+   "gsis": "00-0039048",
+   "jersey": "65",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Billy Bowman Jr.",
+   "pos": "CB",
+   "gsis": "00-0040156",
+   "jersey": "33",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "James Pearce Jr.",
+   "pos": "DE",
+   "gsis": "00-0040578",
+   "jersey": "27",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Zachariah Branch",
+   "pos": "WR",
+   "gsis": "00-0041044",
+   "jersey": "17",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    8,
@@ -81,6 +180,29 @@
     "signed_in": false
    },
    {
+    "name": "Matthew Bergeron",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039048",
+    "jersey": "65",
+    "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jawaan Taylor",
     "grp": "OL",
     "chartpos": "RT",
@@ -99,29 +221,6 @@
     "gsis": "00-0035237",
     "jersey": "71",
     "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Matthew Bergeron",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039048",
-    "jersey": "65",
-    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -206,8 +305,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -428,53 +527,30 @@
     "signed_in": false
    },
    {
-    "name": "Andrew Vorhees",
+    "name": "Ethan Onianwa",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "RG2",
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RT2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0038383",
-    "jersey": "74",
-    "origin": "BAL",
+    "gsis": "00-0041121",
+    "jersey": "75",
+    "origin": "RG2",
     "psq": false,
-    "trade_in": true,
+    "trade_in": false,
     "signed_in": false
    }
   ],
   "injured": [
-   {
-    "name": "Michael Jerrell",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RT3",
-    "june_tier": 3,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039842",
-    "jersey": "72",
-    "origin": "RT3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Brian Robinson",
     "grp": "RB",
@@ -494,6 +570,29 @@
     "gsis": "00-0037746",
     "jersey": "15",
     "origin": "RB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Michael Jerrell",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RT3",
+    "june_tier": 3,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039842",
+    "jersey": "72",
+    "origin": "RT3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -587,8 +686,8 @@
     "june_tier": 1,
     "now": "NB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -610,8 +709,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -888,8 +987,8 @@
     "june_tier": 3,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Foot",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -921,29 +1020,6 @@
     "gsis": "00-0039370",
     "jersey": "40",
     "origin": "RILB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Da'Shawn Hand",
-    "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "NT1",
-    "june_tier": 1,
-    "now": "LDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034371",
-    "jersey": "90",
-    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -990,6 +1066,29 @@
     "gsis": "00-0040577",
     "jersey": "11",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Da'Shawn Hand",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "NT1",
+    "june_tier": 1,
+    "now": "LDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0034371",
+    "jersey": "90",
+    "origin": "NT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

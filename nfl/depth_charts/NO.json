@@ -1,9 +1,94 @@
 {
  "team": "NO",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Erik McCoy",
+   "pos": "C",
+   "gsis": "00-0035242",
+   "jersey": "78",
+   "injury": "Biceps",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "David Edwards",
+   "pos": "G",
+   "gsis": "00-0035668",
+   "jersey": "76",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "gsis": "00-0036040",
+   "jersey": "83",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Pete Werner",
+   "pos": "LB",
+   "gsis": "00-0036927",
+   "jersey": "20",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Asim Richards",
+   "pos": "T",
+   "gsis": "00-0038601",
+   "jersey": "72",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Taliese Fuaga",
+   "pos": "T",
+   "gsis": "00-0039339",
+   "jersey": "75",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -68,8 +153,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -114,8 +199,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -137,8 +222,8 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Biceps",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -252,8 +337,8 @@
     "june_tier": 1,
     "now": "TE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -865,8 +950,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -911,8 +996,8 @@
     "june_tier": 2,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -949,29 +1034,6 @@
   ],
   "injured": [
    {
-    "name": "Bryan Bresee",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDE1",
-    "june_tier": 1,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038995",
-    "jersey": "90",
-    "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Christen Miller",
     "grp": "DL",
     "chartpos": "NT",
@@ -990,6 +1052,29 @@
     "gsis": "00-0041390",
     "jersey": "52",
     "origin": "NT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Bryan Bresee",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDE1",
+    "june_tier": 1,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0038995",
+    "jersey": "90",
+    "origin": "RDE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

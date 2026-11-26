@@ -1,9 +1,122 @@
 {
  "team": "HOU",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Danielle Hunter",
+   "pos": "DE",
+   "gsis": "00-0031565",
+   "jersey": "55",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Sheldon Rankins",
+   "pos": "DT",
+   "gsis": "00-0032759",
+   "jersey": "98",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Brevin Jordan",
+   "pos": "TE",
+   "gsis": "00-0036556",
+   "jersey": "9",
+   "injury": "Finger",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jacob Hummel",
+   "pos": "LB",
+   "gsis": "00-0037633",
+   "jersey": "33",
+   "injury": "Abdomen",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Logan Hall",
+   "pos": "DE",
+   "gsis": "00-0038127",
+   "jersey": "96",
+   "injury": "Hip",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Kayshon Boutte",
+   "pos": "WR",
+   "gsis": "00-0038608",
+   "jersey": "14",
+   "injury": "Hip",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Marvin Harrison Jr.",
+   "pos": "WR",
+   "gsis": "00-0039849",
+   "jersey": "18",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Keylan Rutledge",
+   "pos": "G",
+   "gsis": "00-0041532",
+   "jersey": "66",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -35,24 +148,24 @@
     "signed_in": false
    },
    {
-    "name": "Aireontae Ersery",
+    "name": "Evan Brown",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "C",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "C1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040745",
-    "jersey": "79",
-    "origin": "LT1",
+    "gsis": "00-0034495",
+    "jersey": "63",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -81,24 +194,24 @@
     "signed_in": false
    },
    {
-    "name": "Evan Brown",
+    "name": "Aireontae Ersery",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "C1",
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0034495",
-    "jersey": "63",
-    "origin": "LG2",
+    "gsis": "00-0040745",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -114,8 +227,8 @@
     "june_tier": 2,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Wrist",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -252,8 +365,8 @@
     "june_tier": null,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hip",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +413,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -346,8 +459,8 @@
     "june_tier": null,
     "now": "WR5",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -392,8 +505,8 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -438,8 +551,8 @@
     "june_tier": 2,
     "now": "RT3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -452,29 +565,6 @@
    }
   ],
   "injured": [
-   {
-    "name": "Jayden Higgins",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040130",
-    "jersey": "81",
-    "origin": "WR2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jaylin Noel",
     "grp": "WR",
@@ -497,6 +587,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Jayden Higgins",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040130",
+    "jersey": "81",
+    "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
@@ -507,29 +620,6 @@
    11
   ],
   "start": [
-   {
-    "name": "Kamari Lassiter",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 99,
-    "last": 100,
-    "g50": 10,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039343",
-    "jersey": "3",
-    "origin": "RCB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Henry To'oTo'o",
     "grp": "LB",
@@ -549,6 +639,29 @@
     "gsis": "00-0038599",
     "jersey": "39",
     "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Kamari Lassiter",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 99,
+    "last": 100,
+    "g50": 10,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Wrist",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039343",
+    "jersey": "3",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -656,8 +769,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -679,8 +792,8 @@
     "june_tier": 3,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -702,8 +815,8 @@
     "june_tier": 1,
     "now": "RDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +861,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -773,8 +886,8 @@
     "june_tier": 2,
     "now": "RDT2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hip",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -888,8 +1001,8 @@
     "june_tier": 4,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Abdomen",
     "rookie": false,
     "returning": false,
     "why": "",

@@ -1,7 +1,7 @@
 {
  "team": "DET",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,10 +10,14 @@
    "gsis": "00-0033294",
    "jersey": "36",
    "injury": "Hamstring",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -24,11 +28,15 @@
    "gsis": "00-0036335",
    "jersey": "98",
    "injury": "Back",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
      "DNP"
+    ],
+    [
+     "Wed",
+     "LP"
     ]
    ]
   },
@@ -38,10 +46,14 @@
    "gsis": "00-0039862",
    "jersey": "2",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -52,10 +64,14 @@
    "gsis": "00-0041447",
    "jersey": "50",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
+     "DNP"
+    ],
+    [
+     "Wed",
      "DNP"
     ]
    ]
@@ -138,29 +154,6 @@
     "signed_in": false
    },
    {
-    "name": "Penei Sewell",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 95,
-    "last": 98,
-    "g50": 10,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036880",
-    "jersey": "58",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tate Ratledge",
     "grp": "OL",
     "chartpos": "RG",
@@ -179,6 +172,29 @@
     "gsis": "00-0040728",
     "jersey": "69",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Penei Sewell",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 95,
+    "last": 98,
+    "g50": 10,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036880",
+    "jersey": "58",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -510,47 +526,24 @@
   ],
   "injured": [
    {
-    "name": "Cade Mays",
-    "grp": "OL",
-    "chartpos": "C",
+    "name": "Tom Kennedy",
+    "grp": "WR",
+    "chartpos": "WR",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C3",
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0037297",
-    "jersey": "64",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ben Bartch",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG4",
-    "june_tier": 4,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036272",
-    "jersey": "78",
-    "origin": "LG4",
+    "gsis": "00-0035544",
+    "jersey": "85",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -579,6 +572,29 @@
     "signed_in": false
    },
    {
+    "name": "Cade Mays",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037297",
+    "jersey": "64",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Isiah Pacheco",
     "grp": "RB",
     "chartpos": "RB",
@@ -602,24 +618,24 @@
     "signed_in": false
    },
    {
-    "name": "Tom Kennedy",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Ben Bartch",
+    "grp": "OL",
+    "chartpos": "LG",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
+    "g50": 2,
+    "june": "LG4",
+    "june_tier": 4,
+    "now": "LG3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0035544",
-    "jersey": "85",
-    "origin": "WR6",
+    "gsis": "00-0036272",
+    "jersey": "78",
+    "origin": "LG4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -827,8 +843,8 @@
     "june": "RDE1",
     "june_tier": 1,
     "now": "RDE1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
+    "report": "Questionable",
+    "practice": "Limited Participation in Practice",
     "injury": "Back",
     "rookie": false,
     "returning": false,
@@ -836,29 +852,6 @@
     "gsis": "00-0036335",
     "jersey": "98",
     "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Skyler Gill-Howard",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 48,
-    "last": 41,
-    "g50": 4,
-    "june": "RDT4",
-    "june_tier": 4,
-    "now": "LDT3",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041447",
-    "jersey": "50",
-    "origin": "RDT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -885,9 +878,7 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   }
-  ],
-  "next": [
+   },
    {
     "name": "Tyleik Williams",
     "grp": "DL",
@@ -910,7 +901,9 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
-   },
+   }
+  ],
+  "next": [
    {
     "name": "Levi Onwuzurike",
     "grp": "DL",
@@ -931,6 +924,29 @@
     "jersey": "95",
     "origin": "RDT1",
     "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mekhi Wingo",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LDT3",
+    "june_tier": 3,
+    "now": "LDT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039396",
+    "jersey": "94",
+    "origin": "LDT3",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -1059,7 +1075,7 @@
     "june": "FS2",
     "june_tier": 2,
     "now": "FS1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Hamstring",
     "rookie": false,
@@ -1074,52 +1090,6 @@
    }
   ],
   "injured": [
-   {
-    "name": "Damone Clark",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037281",
-    "jersey": "11",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Jack Campbell",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 7,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039018",
-    "jersey": "46",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Jimmy Rolder",
     "grp": "LB",
@@ -1139,6 +1109,29 @@
     "gsis": "00-0041442",
     "jersey": "41",
     "origin": "SLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Skyler Gill-Howard",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 48,
+    "last": 41,
+    "g50": 4,
+    "june": "RDT4",
+    "june_tier": 4,
+    "now": "LDT3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041447",
+    "jersey": "50",
+    "origin": "RDT4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1167,6 +1160,29 @@
     "signed_in": false
    },
    {
+    "name": "Jack Campbell",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 7,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039018",
+    "jersey": "46",
+    "origin": "MLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Aidan Hutchinson",
     "grp": "ED",
     "chartpos": "LDE",
@@ -1185,6 +1201,29 @@
     "gsis": "00-0037236",
     "jersey": "97",
     "origin": "LDE1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Damone Clark",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037281",
+    "jersey": "11",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1214,6 +1253,23 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Chuck Clark",
+   "pos": "S",
+   "gsis": "00-0033294",
+   "jersey": "36",
+   "injury": "Hamstring",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "DJ Wonnum",
+   "pos": "DE",
+   "gsis": "00-0036335",
+   "jersey": "98",
+   "injury": "Back",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
  "practice": [
   {
@@ -10,10 +10,14 @@
    "gsis": "00-0037288",
    "jersey": "47",
    "injury": "Groin",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -24,10 +28,14 @@
    "gsis": "00-0038548",
    "jersey": "64",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -38,10 +46,14 @@
    "gsis": "00-0038557",
    "jersey": "42",
    "injury": "Calf",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -52,10 +64,14 @@
    "gsis": "00-0038933",
    "jersey": "86",
    "injury": "Thumb",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -66,10 +82,14 @@
    "gsis": "00-0040724",
    "jersey": "98",
    "injury": "Shoulder",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Tue",
+     "LP"
+    ],
+    [
+     "Wed",
      "LP"
     ]
    ]
@@ -115,7 +135,7 @@
     "june": "RG1",
     "june_tier": 1,
     "now": "RG1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
@@ -124,29 +144,6 @@
     "gsis": "00-0038548",
     "jersey": "64",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Connor McGovern",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 97,
-    "last": 99,
-    "g50": 10,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Neck",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0035679",
-    "jersey": "66",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -170,6 +167,29 @@
     "gsis": "00-0036976",
     "jersey": "79",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Connor McGovern",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 97,
+    "last": 99,
+    "g50": 10,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Neck",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0035679",
+    "jersey": "66",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -253,7 +273,7 @@
     "june": "TE1",
     "june_tier": 1,
     "now": "TE1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Thumb",
     "rookie": false,
@@ -611,7 +631,7 @@
     "june": "LILB1",
     "june_tier": 1,
     "now": "LILB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Calf",
     "rookie": false,
@@ -749,7 +769,7 @@
     "june": "LDE1",
     "june_tier": 1,
     "now": "LDE1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Shoulder",
     "rookie": false,
@@ -795,7 +815,7 @@
     "june": "LCB1",
     "june_tier": 1,
     "now": "LCB1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Groin",
     "rookie": false,
@@ -1021,6 +1041,47 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Christian Benford",
+   "pos": "CB",
+   "gsis": "00-0037288",
+   "jersey": "47",
+   "injury": "Groin",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "O'Cyrus Torrence",
+   "pos": "G",
+   "gsis": "00-0038548",
+   "jersey": "64",
+   "injury": "Ankle",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Dorian Williams",
+   "pos": "LB",
+   "gsis": "00-0038557",
+   "jersey": "42",
+   "injury": "Calf",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "gsis": "00-0038933",
+   "jersey": "86",
+   "injury": "Thumb",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "T.J. Sanders",
+   "pos": "DE",
+   "gsis": "00-0040724",
+   "jersey": "98",
+   "injury": "Shoulder",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

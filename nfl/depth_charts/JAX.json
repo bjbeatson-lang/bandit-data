@@ -1,9 +1,150 @@
 {
  "team": "JAX",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Dennis Gardeck",
+   "pos": "LB",
+   "gsis": "00-0034473",
+   "jersey": "47",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Matt Dickerson",
+   "pos": "DT",
+   "gsis": "00-0034657",
+   "jersey": "93",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "gsis": "00-0034960",
+   "jersey": "3",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Patrick Mekari",
+   "pos": "G",
+   "gsis": "00-0035112",
+   "jersey": "65",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Cole Van Lanen",
+   "pos": "T",
+   "gsis": "00-0036655",
+   "jersey": "70",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Walker Little",
+   "pos": "T",
+   "gsis": "00-0036975",
+   "jersey": "72",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Robert Hainsey",
+   "pos": "C",
+   "gsis": "00-0036985",
+   "jersey": "73",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jonah Monheim",
+   "pos": "C",
+   "gsis": "00-0040227",
+   "jersey": "60",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Danny Striggow",
+   "pos": "DE",
+   "gsis": "00-0040342",
+   "jersey": "92",
+   "injury": "Concussion",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Bhayshul Tuten",
+   "pos": "RB",
+   "gsis": "00-0040719",
+   "jersey": "33",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -35,6 +176,29 @@
     "signed_in": false
    },
    {
+    "name": "Emmanuel Pregnon",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041050",
+    "jersey": "75",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Cole Van Lanen",
     "grp": "OL",
     "chartpos": "RT",
@@ -45,8 +209,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -81,29 +245,6 @@
     "signed_in": false
    },
    {
-    "name": "Emmanuel Pregnon",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041050",
-    "jersey": "75",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Walker Little",
     "grp": "OL",
     "chartpos": "LT",
@@ -114,8 +255,8 @@
     "june_tier": 2,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +278,8 @@
     "june_tier": 1,
     "now": "C1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -160,8 +301,8 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -206,8 +347,8 @@
     "june_tier": 1,
     "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -300,8 +441,8 @@
     "june_tier": 2,
     "now": "RB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -392,8 +533,8 @@
     "june_tier": 2,
     "now": "C2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,29 +594,6 @@
   ],
   "injured": [
    {
-    "name": "Patrick Mekari",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0035112",
-    "jersey": "65",
-    "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Anton Harrison",
     "grp": "OL",
     "chartpos": "LT",
@@ -494,6 +612,29 @@
     "gsis": "00-0038934",
     "jersey": "77",
     "origin": "RT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Patrick Mekari",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG3",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0035112",
+    "jersey": "65",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -748,8 +889,8 @@
     "june_tier": 2,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -796,8 +937,8 @@
     "june_tier": 3,
     "now": "LDT3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -842,8 +983,8 @@
     "june_tier": 4,
     "now": "LDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -949,29 +1090,6 @@
   ],
   "injured": [
    {
-    "name": "Eric Murray",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 0,
-    "last": 0,
-    "g50": 5,
-    "june": "SS1",
-    "june_tier": 1,
-    "now": "SS3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033038",
-    "jersey": "29",
-    "origin": "SS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Parker Hughes",
     "grp": "LB",
     "chartpos": "MLB",
@@ -990,6 +1108,29 @@
     "gsis": "00-0041127",
     "jersey": "53",
     "origin": "MLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "DaVon Hamilton",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "RDT1",
+    "june_tier": 1,
+    "now": "RDT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036262",
+    "jersey": "52",
+    "origin": "RDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1018,24 +1159,24 @@
     "signed_in": false
    },
    {
-    "name": "DaVon Hamilton",
-    "grp": "DL",
-    "chartpos": "RDT",
+    "name": "Eric Murray",
+    "grp": "S",
+    "chartpos": "SS",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "RDT1",
+    "g50": 5,
+    "june": "SS1",
     "june_tier": 1,
-    "now": "RDT4",
+    "now": "SS3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036262",
-    "jersey": "52",
-    "origin": "RDT1",
+    "gsis": "00-0033038",
+    "jersey": "29",
+    "origin": "SS1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

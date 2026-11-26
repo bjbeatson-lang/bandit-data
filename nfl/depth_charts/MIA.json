@@ -1,9 +1,122 @@
 {
  "team": "MIA",
  "entering_week": 12,
- "chart_date": "2026-11-25",
+ "chart_date": "2026-11-26",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "Bradley Pinion",
+   "pos": "P",
+   "gsis": "00-0032065",
+   "jersey": "48",
+   "injury": "Groin",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Ronnie Harrison",
+   "pos": "LB",
+   "gsis": "00-0034779",
+   "jersey": "56",
+   "injury": "Hamstring",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Austin Jackson",
+   "pos": "T",
+   "gsis": "00-0036248",
+   "jersey": "73",
+   "injury": "Elbow",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jared Wayne",
+   "pos": "WR",
+   "gsis": "00-0038728",
+   "jersey": "86",
+   "injury": "Quadricep",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Julius Brents",
+   "pos": "CB",
+   "gsis": "00-0039156",
+   "jersey": "8",
+   "injury": "Neck",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jackson Woodard",
+   "pos": "LB",
+   "gsis": "00-0040066",
+   "jersey": "42",
+   "injury": "Hand",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Dante Trader Jr.",
+   "pos": "S",
+   "gsis": "00-0040182",
+   "jersey": "11",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Rodney McGraw",
+   "pos": "DE",
+   "gsis": "00-0041159",
+   "jersey": "59",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Wed",
+     "LP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    9,
@@ -35,24 +148,24 @@
     "signed_in": false
    },
    {
-    "name": "Austin Jackson",
+    "name": "Patrick Paul",
     "grp": "OL",
-    "chartpos": "RT",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "RT1",
+    "june": "LT1",
     "june_tier": 1,
-    "now": "RT1",
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036248",
-    "jersey": "73",
-    "origin": "RT1",
+    "gsis": "00-0039899",
+    "jersey": "52",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -81,24 +194,24 @@
     "signed_in": false
    },
    {
-    "name": "Patrick Paul",
+    "name": "Austin Jackson",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "LT1",
+    "june": "RT1",
     "june_tier": 1,
-    "now": "LT1",
+    "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039899",
-    "jersey": "52",
-    "origin": "LT1",
+    "gsis": "00-0036248",
+    "jersey": "73",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -453,29 +566,6 @@
   ],
   "injured": [
    {
-    "name": "De'Von Achane",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "RB1",
-    "june_tier": 1,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039040",
-    "jersey": "28",
-    "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Malik Willis",
     "grp": "QB",
     "chartpos": "QB",
@@ -494,6 +584,29 @@
     "gsis": "00-0038128",
     "jersey": "2",
     "origin": "QB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "De'Von Achane",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "RB1",
+    "june_tier": 1,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039040",
+    "jersey": "28",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -518,8 +631,8 @@
     "june_tier": 2,
     "now": "MLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -633,8 +746,8 @@
     "june_tier": 2,
     "now": "RCB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -679,8 +792,8 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -819,8 +932,8 @@
     "june_tier": 4,
     "now": "RDE2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": true,
     "returning": false,
     "why": "",
@@ -865,8 +978,8 @@
     "june_tier": 3,
     "now": "SLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hand",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -926,29 +1039,6 @@
   ],
   "injured": [
    {
-    "name": "Ronnie Harrison",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0034779",
-    "jersey": "56",
-    "origin": "MLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Zach Sieler",
     "grp": "DL",
     "chartpos": "RDT",
@@ -972,24 +1062,24 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Phillips",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 39,
+    "name": "Ronnie Harrison",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
     "last": 0,
-    "g50": 8,
-    "june": "not on June chart",
-    "june_tier": null,
-    "now": "LDT3",
+    "g50": 0,
+    "june": "MLB2",
+    "june_tier": 2,
+    "now": "WLB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Hamstring",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040175",
-    "jersey": "94",
-    "origin": "FA",
+    "gsis": "00-0034779",
+    "jersey": "56",
+    "origin": "MLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1036,6 +1126,29 @@
     "gsis": "00-0040248",
     "jersey": "93",
     "origin": "LDT3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jordan Phillips",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 39,
+    "last": 0,
+    "g50": 8,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "LDT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040175",
+    "jersey": "94",
+    "origin": "FA",
     "psq": false,
     "trade_in": false,
     "signed_in": false
