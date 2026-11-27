@@ -2,7 +2,7 @@
  "team": "PIT",
  "entering_week": 12,
  "chart_date": "2026-11-27",
- "inactives_posted": false,
+ "inactives_posted": true,
  "practice": [
   {
    "name": "Aaron Rodgers",
@@ -196,24 +196,24 @@
     "signed_in": false
    },
    {
-    "name": "Troy Fautanu",
+    "name": "Brock Hoffman",
     "grp": "OL",
-    "chartpos": "LT",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 10,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "LT1",
+    "g50": 8,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0039871",
-    "jersey": "76",
-    "origin": "RT1",
+    "gsis": "00-0037336",
+    "jersey": "67",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -265,24 +265,24 @@
     "signed_in": false
    },
    {
-    "name": "Brock Hoffman",
+    "name": "Troy Fautanu",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LT",
     "avg3": 100,
     "last": 100,
-    "g50": 8,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG1",
+    "g50": 10,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "LT1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0037336",
-    "jersey": "67",
-    "origin": "LG2",
+    "gsis": "00-0039871",
+    "jersey": "76",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -497,29 +497,6 @@
     "signed_in": false
    },
    {
-    "name": "Kaden Wetjen",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR6",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041397",
-    "jersey": "10",
-    "origin": "WR6",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Robert Tonyan",
     "grp": "TE",
     "chartpos": "TE",
@@ -590,6 +567,29 @@
    }
   ],
   "injured": [
+   {
+    "name": "Kaden Wetjen",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0041397",
+    "jersey": "10",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Ben Skowronek",
     "grp": "WR",
@@ -1157,15 +1157,6 @@
    }
   ]
  },
- "questionable": [
-  {
-   "name": "Cole Holcomb",
-   "pos": "LB",
-   "gsis": "00-0035286",
-   "jersey": "55",
-   "injury": "Heel",
-   "practice": "Limited Participation in Practice"
-  }
- ],
+ "questionable": [],
  "unmatched_snap_names": []
 }
