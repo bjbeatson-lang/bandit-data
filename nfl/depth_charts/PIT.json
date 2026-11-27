@@ -1,7 +1,7 @@
 {
  "team": "PIT",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -52,10 +64,14 @@
    "gsis": "00-0035286",
    "jersey": "55",
    "injury": "Heel",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -66,7 +82,7 @@
    "gsis": "00-0036333",
    "jersey": "56",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
@@ -74,6 +90,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -84,7 +104,7 @@
    "gsis": "00-0036862",
    "jersey": "15",
    "injury": "Calf",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Tue",
@@ -92,6 +112,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -111,6 +135,32 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Gennings Dunker",
+   "pos": "G",
+   "gsis": "00-0041396",
+   "jersey": "73",
+   "injury": "Knee",
+   "designation": "Out",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -146,29 +196,6 @@
     "signed_in": false
    },
    {
-    "name": "Max Iheanachor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 8,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041482",
-    "jersey": "71",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Troy Fautanu",
     "grp": "OL",
     "chartpos": "LT",
@@ -192,24 +219,24 @@
     "signed_in": false
    },
    {
-    "name": "Brock Hoffman",
+    "name": "Max Iheanachor",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "RT",
     "avg3": 100,
     "last": 100,
     "g50": 8,
-    "june": "LG2",
+    "june": "RT2",
     "june_tier": 2,
-    "now": "RG1",
+    "now": "RT1",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": false,
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0037336",
-    "jersey": "67",
-    "origin": "LG2",
+    "gsis": "00-0041482",
+    "jersey": "71",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -233,6 +260,29 @@
     "gsis": "00-0039896",
     "jersey": "54",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Brock Hoffman",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 8,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037336",
+    "jersey": "67",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -432,7 +482,7 @@
     "g50": 3,
     "june": "WR4",
     "june_tier": 2,
-    "now": "WR3",
+    "now": "WR4",
     "report": "",
     "practice": "",
     "injury": "",
@@ -447,24 +497,24 @@
     "signed_in": false
    },
    {
-    "name": "Ben Skowronek",
+    "name": "Kaden Wetjen",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 13,
-    "last": 24,
+    "avg3": 0,
+    "last": 0,
     "g50": 0,
-    "june": "WR5",
+    "june": "WR6",
     "june_tier": 2,
-    "now": "WR4",
+    "now": "WR6",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Calf",
-    "rookie": false,
+    "practice": "",
+    "injury": "",
+    "rookie": true,
     "returning": false,
     "why": "",
-    "gsis": "00-0036862",
-    "jersey": "15",
-    "origin": "WR5",
+    "gsis": "00-0041397",
+    "jersey": "10",
+    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -541,24 +591,24 @@
   ],
   "injured": [
    {
-    "name": "Michael Pittman",
+    "name": "Ben Skowronek",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 3,
-    "june": "WR2",
-    "june_tier": 1,
-    "now": "WR6",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Foot",
+    "avg3": 13,
+    "last": 24,
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0036252",
-    "jersey": "11",
-    "origin": "WR2",
+    "why": "Out",
+    "gsis": "00-0036862",
+    "jersey": "15",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -582,6 +632,29 @@
     "gsis": "00-0039358",
     "jersey": "66",
     "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Michael Pittman",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 3,
+    "june": "WR2",
+    "june_tier": 1,
+    "now": "WR3",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Foot",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036252",
+    "jersey": "11",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -721,7 +794,7 @@
     "june_tier": 1,
     "now": "SS1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": true,
@@ -767,7 +840,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -897,29 +970,6 @@
     "signed_in": false
    },
    {
-    "name": "Alex Highsmith",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 46,
-    "last": 11,
-    "g50": 9,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036333",
-    "jersey": "56",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Nick Herbig",
     "grp": "ED",
     "chartpos": "SLB",
@@ -930,7 +980,7 @@
     "june_tier": 2,
     "now": "SLB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hip",
     "rookie": false,
     "returning": false,
@@ -939,6 +989,29 @@
     "jersey": "51",
     "origin": "SLB2",
     "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "KJ Henry",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 11,
+    "last": 34,
+    "g50": 0,
+    "june": "WLB3",
+    "june_tier": 3,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038581",
+    "jersey": "57",
+    "origin": "WLB3",
+    "psq": true,
     "trade_in": false,
     "signed_in": false
    },
@@ -952,7 +1025,7 @@
     "june": "LILB2",
     "june_tier": 2,
     "now": "LILB2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Heel",
     "rookie": false,
@@ -1037,6 +1110,29 @@
   ],
   "injured": [
    {
+    "name": "Alex Highsmith",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 46,
+    "last": 11,
+    "g50": 9,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036333",
+    "jersey": "56",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Sebastian Joseph-Day",
     "grp": "DL",
     "chartpos": "NT",
@@ -1061,6 +1157,15 @@
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Cole Holcomb",
+   "pos": "LB",
+   "gsis": "00-0035286",
+   "jersey": "55",
+   "injury": "Heel",
+   "practice": "Limited Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

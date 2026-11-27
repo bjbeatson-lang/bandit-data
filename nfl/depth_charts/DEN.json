@@ -1,7 +1,7 @@
 {
  "team": "DEN",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -37,6 +41,32 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Tyler Badie",
+   "pos": "RB",
+   "gsis": "00-0037085",
+   "jersey": "28",
+   "injury": "Thumb",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -55,6 +85,32 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Caleb Lohner",
+   "pos": "TE",
+   "gsis": "00-0040240",
+   "jersey": "84",
+   "injury": "Foot",
+   "designation": "Out",
+   "days": [
+    [
+     "Tue",
+     "FP"
+    ],
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -113,29 +169,6 @@
     "signed_in": false
    },
    {
-    "name": "Mike McGlinchey",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034847",
-    "jersey": "69",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Luke Wattenberg",
     "grp": "OL",
     "chartpos": "C",
@@ -177,6 +210,29 @@
     "gsis": "00-0033538",
     "jersey": "72",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Mike McGlinchey",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034847",
+    "jersey": "69",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -508,6 +564,29 @@
   ],
   "injured": [
    {
+    "name": "Frank Crum",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039568",
+    "jersey": "73",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "J.K. Dobbins",
     "grp": "RB",
     "chartpos": "RB",
@@ -539,7 +618,7 @@
     "g50": 1,
     "june": "RB2",
     "june_tier": 2,
-    "now": "RB4",
+    "now": "RB5",
     "report": "",
     "practice": "",
     "injury": "",
@@ -549,29 +628,6 @@
     "gsis": "00-0040730",
     "jersey": "12",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Frank Crum",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039568",
-    "jersey": "73",
-    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -933,29 +989,6 @@
     "signed_in": false
    },
    {
-    "name": "Karene Reid",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LILB3",
-    "june_tier": 3,
-    "now": "LILB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0040449",
-    "jersey": "47",
-    "origin": "LILB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jordan Turner",
     "grp": "LB",
     "chartpos": "RILB",
@@ -974,6 +1007,29 @@
     "gsis": "00-0040634",
     "jersey": "55",
     "origin": "LILB4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Karene Reid",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "LILB3",
+    "june_tier": 3,
+    "now": "LILB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0040449",
+    "jersey": "47",
+    "origin": "LILB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1027,29 +1083,6 @@
   ],
   "injured": [
    {
-    "name": "Eyioma Uwazurike",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 15,
-    "last": 0,
-    "g50": 4,
-    "june": "NT2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0038106",
-    "jersey": "96",
-    "origin": "NT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Taylor Rapp",
     "grp": "S",
     "chartpos": "FS",
@@ -1060,7 +1093,7 @@
     "june_tier": null,
     "now": "FS3",
     "report": "Out",
-    "practice": "Limited Participation in Practice",
+    "practice": "Did Not Participate In Practice",
     "injury": "Quadricep",
     "rookie": false,
     "returning": false,
@@ -1069,6 +1102,29 @@
     "jersey": "30",
     "origin": "PS",
     "psq": true,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Sai'vion Jones",
+    "grp": "DL",
+    "chartpos": "LDE",
+    "avg3": 31,
+    "last": 36,
+    "g50": 0,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "LDE2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Hamstring",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0040153",
+    "jersey": "95",
+    "origin": "RDE2",
+    "psq": false,
     "trade_in": false,
     "signed_in": false
    },
@@ -1096,30 +1152,39 @@
     "signed_in": false
    },
    {
-    "name": "Sai'vion Jones",
+    "name": "Eyioma Uwazurike",
     "grp": "DL",
-    "chartpos": "LDE",
-    "avg3": 31,
-    "last": 36,
-    "g50": 0,
-    "june": "RDE2",
+    "chartpos": "RDE",
+    "avg3": 15,
+    "last": 0,
+    "g50": 4,
+    "june": "NT2",
     "june_tier": 2,
-    "now": "LDE2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Hamstring",
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0040153",
-    "jersey": "95",
-    "origin": "RDE2",
+    "why": "IR",
+    "gsis": "00-0038106",
+    "jersey": "96",
+    "origin": "NT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Tyler Badie",
+   "pos": "RB",
+   "gsis": "00-0037085",
+   "jersey": "28",
+   "injury": "Thumb",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

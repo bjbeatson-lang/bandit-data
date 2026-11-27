@@ -1,7 +1,7 @@
 {
  "team": "NYG",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -43,6 +51,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -51,11 +63,15 @@
    "pos": "LB",
    "gsis": "00-0040677",
    "jersey": "3",
-   "injury": "Ankle",
+   "injury": "Calf",
    "designation": "",
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -106,29 +126,6 @@
     "signed_in": false
    },
    {
-    "name": "Jon Runyan",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LG1",
-    "june_tier": 1,
-    "now": "LG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036246",
-    "jersey": "76",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Andrew Thomas",
     "grp": "OL",
     "chartpos": "LT",
@@ -147,6 +144,29 @@
     "gsis": "00-0036386",
     "jersey": "78",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jon Runyan",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LG1",
+    "june_tier": 1,
+    "now": "LG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036246",
+    "jersey": "76",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -323,8 +343,8 @@
     "june_tier": 1,
     "now": "WR3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -524,29 +544,6 @@
   ],
   "injured": [
    {
-    "name": "Tyrone Tracy Jr.",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039384",
-    "jersey": "29",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Calvin Austin III",
     "grp": "WR",
     "chartpos": "WR",
@@ -565,6 +562,29 @@
     "gsis": "00-0037837",
     "jersey": "82",
     "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tyrone Tracy Jr.",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039384",
+    "jersey": "29",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -602,29 +622,6 @@
   ],
   "start": [
    {
-    "name": "Arvell Reese",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "Limited Participation in Practice",
-    "injury": "Back",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041509",
-    "jersey": "52",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Jevon Holland",
     "grp": "S",
     "chartpos": "FS",
@@ -643,6 +640,29 @@
     "gsis": "00-0036998",
     "jersey": "8",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Arvell Reese",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041509",
+    "jersey": "52",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -751,7 +771,7 @@
     "now": "SLB1",
     "report": "",
     "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
+    "injury": "Calf",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1020,24 +1040,24 @@
   ],
   "injured": [
    {
-    "name": "Greg Newsome II",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 68,
-    "last": 6,
-    "g50": 8,
-    "june": "RCB1",
+    "name": "Tremaine Edmunds",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 6,
+    "june": "RILB1",
     "june_tier": 1,
-    "now": "RCB3",
+    "now": "RILB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0036996",
-    "jersey": "20",
-    "origin": "RCB1",
+    "gsis": "00-0034673",
+    "jersey": "49",
+    "origin": "RILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1066,24 +1086,24 @@
     "signed_in": false
    },
    {
-    "name": "Tremaine Edmunds",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 6,
-    "june": "RILB1",
+    "name": "Greg Newsome II",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 68,
+    "last": 6,
+    "g50": 8,
+    "june": "RCB1",
     "june_tier": 1,
-    "now": "RILB3",
+    "now": "RCB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0034673",
-    "jersey": "49",
-    "origin": "RILB1",
+    "gsis": "00-0036996",
+    "jersey": "20",
+    "origin": "RCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

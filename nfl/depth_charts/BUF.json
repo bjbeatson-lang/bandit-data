@@ -1,7 +1,7 @@
 {
  "team": "BUF",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -90,6 +106,10 @@
     ],
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -149,29 +169,6 @@
     "signed_in": false
    },
    {
-    "name": "Spencer Brown",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 97,
-    "last": 99,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Back",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0036976",
-    "jersey": "79",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Connor McGovern",
     "grp": "OL",
     "chartpos": "C",
@@ -190,6 +187,29 @@
     "gsis": "00-0035679",
     "jersey": "66",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Spencer Brown",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 97,
+    "last": 99,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Back",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0036976",
+    "jersey": "79",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1017,29 +1037,6 @@
   ],
   "injured": [
    {
-    "name": "Zane Durant",
-    "grp": "DL",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "RDE3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041091",
-    "jersey": "92",
-    "origin": "RDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Christian Benford",
     "grp": "CB",
     "chartpos": "LCB",
@@ -1058,6 +1055,29 @@
     "gsis": "00-0037288",
     "jersey": "47",
     "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Zane Durant",
+    "grp": "DL",
+    "chartpos": "RDE",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041091",
+    "jersey": "92",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false

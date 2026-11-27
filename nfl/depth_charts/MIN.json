@@ -1,7 +1,7 @@
 {
  "team": "MIN",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -43,6 +51,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -56,6 +68,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -71,6 +87,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -84,6 +104,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -99,6 +123,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -112,6 +140,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -148,24 +180,24 @@
     "signed_in": false
    },
    {
-    "name": "Will Fries",
+    "name": "Joe Huber",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
-    "g50": 10,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
+    "g50": 7,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036483",
-    "jersey": "76",
-    "origin": "RG1",
+    "gsis": "00-0040500",
+    "jersey": "60",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -194,24 +226,24 @@
     "signed_in": false
    },
    {
-    "name": "Joe Huber",
+    "name": "Will Fries",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
-    "g50": 7,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "LG1",
+    "g50": 10,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0040500",
-    "jersey": "60",
-    "origin": "RG2",
+    "gsis": "00-0036483",
+    "jersey": "76",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -309,24 +341,24 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Addison",
+    "name": "Jauan Jennings",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 32,
-    "last": 0,
-    "g50": 7,
-    "june": "WR2",
+    "avg3": 26,
+    "last": 78,
+    "g50": 6,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "WR2",
+    "now": "WR3",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Thumb",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0038994",
-    "jersey": "3",
-    "origin": "WR2",
+    "gsis": "00-0036259",
+    "jersey": "14",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -355,24 +387,24 @@
     "signed_in": false
    },
    {
-    "name": "Jauan Jennings",
+    "name": "Jordan Addison",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 26,
-    "last": 78,
-    "g50": 6,
-    "june": "WR3",
+    "avg3": 32,
+    "last": 0,
+    "g50": 7,
+    "june": "WR2",
     "june_tier": 1,
-    "now": "WR3",
+    "now": "WR2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Thumb",
     "rookie": false,
     "returning": true,
     "why": "",
-    "gsis": "00-0036259",
-    "jersey": "14",
-    "origin": "WR3",
+    "gsis": "00-0038994",
+    "jersey": "3",
+    "origin": "WR2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -436,7 +468,7 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Hip",
     "rookie": false,
     "returning": false,
@@ -723,7 +755,7 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -838,7 +870,7 @@
     "june_tier": null,
     "now": "FS1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Thigh",
     "rookie": false,
     "returning": false,

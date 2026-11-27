@@ -1,9 +1,178 @@
 {
  "team": "SEA",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
- "practice": [],
+ "practice": [
+  {
+   "name": "DeMarcus Lawrence",
+   "pos": "LB",
+   "gsis": "00-0031411",
+   "jersey": "0",
+   "injury": "Shoulder",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Leonard Williams",
+   "pos": "DT",
+   "gsis": "00-0031933",
+   "jersey": "99",
+   "injury": "Stinger",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jarran Reed",
+   "pos": "DT",
+   "gsis": "00-0032387",
+   "jersey": "90",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Quenton Nelson",
+   "pos": "G",
+   "gsis": "00-0034342",
+   "jersey": "53",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Uchenna Nwosu",
+   "pos": "LB",
+   "gsis": "00-0034350",
+   "jersey": "7",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Drew Lock",
+   "pos": "QB",
+   "gsis": "00-0035704",
+   "jersey": "2",
+   "injury": "Elbow",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Ernest Jones",
+   "pos": "LB",
+   "gsis": "00-0036994",
+   "jersey": "13",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Abraham Lucas",
+   "pos": "T",
+   "gsis": "00-0037812",
+   "jersey": "72",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "Jaxon Smith-Njigba",
+   "pos": "WR",
+   "gsis": "00-0038543",
+   "jersey": "11",
+   "injury": "Ankle",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Patrick O'Connell",
+   "pos": "LB",
+   "gsis": "00-0038764",
+   "jersey": "52",
+   "injury": "Toe",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Anthony Bradford",
+   "pos": "G",
+   "gsis": "00-0039020",
+   "jersey": "75",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalen Milroe",
+   "pos": "QB",
+   "gsis": "00-0040673",
+   "jersey": "6",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  }
+ ],
  "offense": {
   "last3": [
    8,
@@ -22,8 +191,8 @@
     "june_tier": 1,
     "now": "QB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Quadricep",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -114,8 +283,8 @@
     "june_tier": 1,
     "now": "RT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -137,8 +306,8 @@
     "june_tier": 1,
     "now": "LT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -206,8 +375,8 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -277,8 +446,8 @@
     "june_tier": 2,
     "now": "QB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Elbow",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -392,8 +561,8 @@
     "june_tier": 1,
     "now": "RG2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -415,8 +584,8 @@
     "june_tier": null,
     "now": "LG1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -453,24 +622,24 @@
   ],
   "injured": [
    {
-    "name": "Jake Bobo",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
+    "name": "George Holani",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 7,
     "last": 0,
-    "g50": 0,
-    "june": "WR5",
-    "june_tier": 2,
-    "now": "WR6",
+    "g50": 1,
+    "june": "RB3",
+    "june_tier": 3,
+    "now": "RB4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038752",
-    "jersey": "19",
-    "origin": "WR5",
+    "gsis": "00-0039299",
+    "jersey": "36",
+    "origin": "RB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -522,24 +691,24 @@
     "signed_in": false
    },
    {
-    "name": "George Holani",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 7,
+    "name": "Jake Bobo",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "RB3",
-    "june_tier": 3,
-    "now": "RB4",
+    "g50": 0,
+    "june": "WR5",
+    "june_tier": 2,
+    "now": "WR6",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039299",
-    "jersey": "36",
-    "origin": "RB3",
+    "gsis": "00-0038752",
+    "jersey": "19",
+    "origin": "WR5",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -587,8 +756,8 @@
     "june_tier": 1,
     "now": "RILB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -748,8 +917,8 @@
     "june_tier": 1,
     "now": "WLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Shoulder",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -771,8 +940,8 @@
     "june_tier": 1,
     "now": "SLB1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Ankle",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -794,8 +963,8 @@
     "june_tier": 1,
     "now": "LDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Stinger",
     "rookie": false,
     "returning": true,
     "why": "",
@@ -819,8 +988,8 @@
     "june_tier": 1,
     "now": "RDE1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -911,8 +1080,8 @@
     "june_tier": 2,
     "now": "RILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Toe",
     "rookie": false,
     "returning": false,
     "why": "",

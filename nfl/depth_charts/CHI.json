@@ -1,7 +1,7 @@
 {
  "team": "CHI",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Wed",
      "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -86,6 +102,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -122,24 +142,24 @@
     "signed_in": false
    },
    {
-    "name": "Jonah Jackson",
+    "name": "Joe Thuney",
     "grp": "OL",
-    "chartpos": "RG",
+    "chartpos": "LG",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "RG1",
+    "june": "LG1",
     "june_tier": 1,
-    "now": "RG1",
+    "now": "LG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0036258",
-    "jersey": "73",
-    "origin": "RG1",
+    "gsis": "00-0032391",
+    "jersey": "62",
+    "origin": "LG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -168,47 +188,24 @@
     "signed_in": false
    },
    {
-    "name": "Joe Thuney",
+    "name": "Jonah Jackson",
     "grp": "OL",
-    "chartpos": "LG",
+    "chartpos": "RG",
     "avg3": 100,
     "last": 100,
     "g50": 10,
-    "june": "LG1",
+    "june": "RG1",
     "june_tier": 1,
-    "now": "LG1",
+    "now": "RG1",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0032391",
-    "jersey": "62",
-    "origin": "LG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Theo Benedet",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 99,
-    "last": 98,
-    "g50": 8,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "LT1",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Quadricep",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039459",
-    "jersey": "79",
-    "origin": "RT2",
+    "gsis": "00-0036258",
+    "jersey": "73",
+    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -232,6 +229,29 @@
     "gsis": "00-0035588",
     "jersey": "67",
     "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Theo Benedet",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 99,
+    "last": 98,
+    "g50": 8,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "LT1",
+    "report": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Quadricep",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039459",
+    "jersey": "79",
+    "origin": "RT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -540,24 +560,24 @@
   ],
   "injured": [
    {
-    "name": "Braxton Jones",
-    "grp": "OL",
-    "chartpos": "LT",
+    "name": "Case Keenum",
+    "grp": "QB",
+    "chartpos": "QB",
     "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "LT2",
-    "june_tier": 2,
-    "now": "LT3",
+    "g50": 1,
+    "june": "QB3",
+    "june_tier": 3,
+    "now": "QB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0037081",
-    "jersey": "70",
-    "origin": "LT2",
+    "why": "Inactive",
+    "gsis": "00-0028986",
+    "jersey": "11",
+    "origin": "QB3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -586,29 +606,6 @@
     "signed_in": false
    },
    {
-    "name": "Case Keenum",
-    "grp": "QB",
-    "chartpos": "QB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "QB3",
-    "june_tier": 3,
-    "now": "QB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0028986",
-    "jersey": "11",
-    "origin": "QB3",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Cole Kmet",
     "grp": "TE",
     "chartpos": "TE",
@@ -627,6 +624,29 @@
     "gsis": "00-0036290",
     "jersey": "85",
     "origin": "TE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Braxton Jones",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LT2",
+    "june_tier": 2,
+    "now": "LT3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037081",
+    "jersey": "70",
+    "origin": "LT2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1082,6 +1102,29 @@
   ],
   "injured": [
    {
+    "name": "Kyler Gordon",
+    "grp": "CB",
+    "chartpos": "NB",
+    "avg3": 46,
+    "last": 0,
+    "g50": 3,
+    "june": "NB1",
+    "june_tier": 1,
+    "now": "NB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Shoulder",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0038111",
+    "jersey": "6",
+    "origin": "NB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Dayo Odeyingbo",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1100,29 +1143,6 @@
     "gsis": "00-0036480",
     "jersey": "55",
     "origin": "RDE1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Elijah Hicks",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 5,
-    "last": 4,
-    "g50": 1,
-    "june": "SS3",
-    "june_tier": 3,
-    "now": "SS2",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Concussion",
-    "rookie": false,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0037096",
-    "jersey": "22",
-    "origin": "SS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1151,24 +1171,24 @@
     "signed_in": false
    },
    {
-    "name": "Kyler Gordon",
-    "grp": "CB",
-    "chartpos": "NB",
-    "avg3": 46,
-    "last": 0,
-    "g50": 3,
-    "june": "NB1",
-    "june_tier": 1,
-    "now": "NB1",
+    "name": "Elijah Hicks",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 5,
+    "last": 4,
+    "g50": 1,
+    "june": "SS3",
+    "june_tier": 3,
+    "now": "SS2",
     "report": "Out",
     "practice": "Did Not Participate In Practice",
-    "injury": "Shoulder",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0038111",
-    "jersey": "6",
-    "origin": "NB1",
+    "why": "Inactive",
+    "gsis": "00-0037096",
+    "jersey": "22",
+    "origin": "SS3",
     "psq": false,
     "trade_in": false,
     "signed_in": false

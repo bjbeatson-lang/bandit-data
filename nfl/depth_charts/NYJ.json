@@ -1,7 +1,7 @@
 {
  "team": "NYJ",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -28,6 +32,10 @@
    "days": [
     [
      "Wed",
+     "LP"
+    ],
+    [
+     "Thu",
      "LP"
     ]
    ]
@@ -43,6 +51,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -57,6 +69,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -417,7 +437,7 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ribs",
     "rookie": false,
     "returning": false,
@@ -476,29 +496,6 @@
     "signed_in": false
    },
    {
-    "name": "Chukwuma Okorafor",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RT2",
-    "june_tier": 2,
-    "now": "RT2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0034768",
-    "jersey": "79",
-    "origin": "RT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Blake Freeland",
     "grp": "OL",
     "chartpos": "LT",
@@ -520,9 +517,55 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
+   },
+   {
+    "name": "Chukwuma Okorafor",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "RT2",
+    "june_tier": 2,
+    "now": "RT2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0034768",
+    "jersey": "79",
+    "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "injured": [
+   {
+    "name": "Arian Smith",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR6",
+    "june_tier": 2,
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040582",
+    "jersey": "82",
+    "origin": "WR6",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
    {
     "name": "Max Mitchell",
     "grp": "OL",
@@ -565,29 +608,6 @@
     "gsis": "00-0041097",
     "jersey": "72",
     "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Arian Smith",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WR6",
-    "june_tier": 2,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040582",
-    "jersey": "82",
-    "origin": "WR6",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -867,7 +887,7 @@
     "june_tier": 1,
     "now": "RDT2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -1043,24 +1063,24 @@
   ],
   "injured": [
    {
-    "name": "Braiden McGregor",
-    "grp": "ED",
-    "chartpos": "RDE",
+    "name": "T'Vondre Sweat",
+    "grp": "DL",
+    "chartpos": "LDT",
     "avg3": 0,
     "last": 0,
-    "g50": 0,
-    "june": "RDE2",
-    "june_tier": 2,
-    "now": "RDE3",
+    "g50": 4,
+    "june": "LDT1",
+    "june_tier": 1,
+    "now": "LDT3",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039284",
-    "jersey": "55",
-    "origin": "RDE2",
+    "gsis": "00-0039886",
+    "jersey": "99",
+    "origin": "LDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1089,47 +1109,24 @@
     "signed_in": false
    },
    {
-    "name": "T'Vondre Sweat",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT3",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039886",
-    "jersey": "99",
-    "origin": "LDT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Francisco Mauigoa",
-    "grp": "LB",
-    "chartpos": "SLB",
+    "name": "Braiden McGregor",
+    "grp": "ED",
+    "chartpos": "RDE",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB2",
+    "june": "RDE2",
+    "june_tier": 2,
+    "now": "RDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0040186",
-    "jersey": "51",
-    "origin": "SLB1",
+    "gsis": "00-0039284",
+    "jersey": "55",
+    "origin": "RDE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1153,6 +1150,29 @@
     "gsis": "00-0033051",
     "jersey": "93",
     "origin": "RDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Francisco Mauigoa",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040186",
+    "jersey": "51",
+    "origin": "SLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

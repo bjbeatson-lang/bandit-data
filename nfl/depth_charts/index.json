@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 12,
- "built_utc": "2026-11-27T00:30:02Z",
+ "built_utc": "2026-11-27T16:00:05Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -90,7 +90,7 @@
     "date": "2026-11-26",
     "time_et": "20:20",
     "game_id": "2026_12_KC_BUF",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
@@ -220,7 +220,7 @@
     "date": "2026-11-26",
     "time_et": "16:30",
     "game_id": "2026_12_PHI_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
@@ -397,7 +397,7 @@
     "date": "2026-11-26",
     "time_et": "20:20",
     "game_id": "2026_12_KC_BUF",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
@@ -647,7 +647,7 @@
     "date": "2026-11-26",
     "time_et": "16:30",
     "game_id": "2026_12_PHI_DAL",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,

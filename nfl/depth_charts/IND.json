@@ -1,9 +1,23 @@
 {
  "team": "IND",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "Grover Stewart",
+   "pos": "DT",
+   "gsis": "00-0033952",
+   "jersey": "90",
+   "injury": "Not injury related - resting player",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "DNP"
+    ]
+   ]
+  },
   {
    "name": "Charvarius Ward",
    "pos": "CB",
@@ -14,6 +28,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -29,6 +47,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -43,6 +65,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -56,6 +82,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -71,6 +101,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -84,6 +118,10 @@
    "days": [
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -99,6 +137,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   }
@@ -203,29 +245,6 @@
     "signed_in": false
    },
    {
-    "name": "Jalen Travis",
-    "grp": "OL",
-    "chartpos": "RT",
-    "avg3": 14,
-    "last": 0,
-    "g50": 8,
-    "june": "RT1",
-    "june_tier": 1,
-    "now": "RT1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": true,
-    "why": "",
-    "gsis": "00-0040163",
-    "jersey": "75",
-    "origin": "RT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Bernhard Raimann",
     "grp": "OL",
     "chartpos": "LT",
@@ -244,6 +263,29 @@
     "gsis": "00-0037757",
     "jersey": "79",
     "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jalen Travis",
+    "grp": "OL",
+    "chartpos": "RT",
+    "avg3": 14,
+    "last": 0,
+    "g50": 8,
+    "june": "RT1",
+    "june_tier": 1,
+    "now": "RT1",
+    "report": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": true,
+    "why": "",
+    "gsis": "00-0040163",
+    "jersey": "75",
+    "origin": "RT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -328,7 +370,7 @@
     "june_tier": 2,
     "now": "WR2",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - personal matter",
     "rookie": true,
     "returning": false,
@@ -351,7 +393,7 @@
     "june_tier": 3,
     "now": "TE3",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -607,29 +649,6 @@
   ],
   "start": [
    {
-    "name": "CJ Allen",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 4,
-    "june": "MLB1",
-    "june_tier": 1,
-    "now": "MLB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041039",
-    "jersey": "53",
-    "origin": "MLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Camryn Bynum",
     "grp": "S",
     "chartpos": "FS",
@@ -648,6 +667,29 @@
     "gsis": "00-0036629",
     "jersey": "0",
     "origin": "FS1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "CJ Allen",
+    "grp": "LB",
+    "chartpos": "MLB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 4,
+    "june": "MLB1",
+    "june_tier": 1,
+    "now": "MLB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041039",
+    "jersey": "53",
+    "origin": "MLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -755,8 +797,8 @@
     "june_tier": 1,
     "now": "LDT1",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -1048,47 +1090,24 @@
   ],
   "injured": [
    {
-    "name": "Akeem Davis-Gaither",
+    "name": "Jaylon Carlies",
     "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
+    "chartpos": "MLB",
+    "avg3": 5,
     "last": 0,
-    "g50": 8,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0036298",
-    "jersey": "51",
-    "origin": "WLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Micheal Clemons",
-    "grp": "ED",
-    "chartpos": "RDE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LDE2",
+    "g50": 3,
+    "june": "WLB2",
     "june_tier": 2,
-    "now": "RDE3",
+    "now": "MLB3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0038107",
-    "jersey": "72",
-    "origin": "LDE2",
+    "gsis": "00-0039377",
+    "jersey": "57",
+    "origin": "WLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1117,24 +1136,47 @@
     "signed_in": false
    },
    {
-    "name": "Jaylon Carlies",
-    "grp": "LB",
-    "chartpos": "MLB",
-    "avg3": 5,
+    "name": "Micheal Clemons",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 0,
     "last": 0,
-    "g50": 3,
-    "june": "WLB2",
+    "g50": 0,
+    "june": "LDE2",
     "june_tier": 2,
-    "now": "MLB3",
+    "now": "RDE3",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0039377",
-    "jersey": "57",
-    "origin": "WLB2",
+    "gsis": "00-0038107",
+    "jersey": "72",
+    "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Akeem Davis-Gaither",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 8,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0036298",
+    "jersey": "51",
+    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

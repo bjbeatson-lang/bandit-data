@@ -1,7 +1,7 @@
 {
  "team": "KC",
  "entering_week": 12,
- "chart_date": "2026-11-26",
+ "chart_date": "2026-11-27",
  "inactives_posted": true,
  "practice": [
   {
@@ -18,6 +18,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -37,6 +41,10 @@
     [
      "Wed",
      "FP"
+    ],
+    [
+     "Thu",
+     "FP"
     ]
    ]
   },
@@ -54,6 +62,10 @@
     ],
     [
      "Wed",
+     "DNP"
+    ],
+    [
+     "Thu",
      "DNP"
     ]
    ]
@@ -73,6 +85,10 @@
     [
      "Wed",
      "DNP"
+    ],
+    [
+     "Thu",
+     "DNP"
     ]
    ]
   },
@@ -91,6 +107,10 @@
     [
      "Wed",
      "LP"
+    ],
+    [
+     "Thu",
+     "LP"
     ]
    ]
   },
@@ -108,6 +128,10 @@
     ],
     [
      "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
      "FP"
     ]
    ]
@@ -493,13 +517,13 @@
    {
     "name": "Hunter Nourzad",
     "grp": "OL",
-    "chartpos": "C",
+    "chartpos": "RG",
     "avg3": 41,
     "last": 100,
     "g50": 1,
     "june": "C2",
     "june_tier": 2,
-    "now": "C2",
+    "now": "RG2",
     "report": "",
     "practice": "",
     "injury": "",
@@ -562,24 +586,24 @@
   ],
   "injured": [
    {
-    "name": "Tyquan Thornton",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 0,
+    "name": "Kenneth Walker III",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 22,
     "last": 0,
-    "g50": 3,
-    "june": "WR3",
+    "g50": 8,
+    "june": "RB1",
     "june_tier": 1,
-    "now": "WR7",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "RB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Groin",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0038104",
-    "jersey": "2",
-    "origin": "WR3",
+    "why": "Inactive",
+    "gsis": "00-0038134",
+    "jersey": "9",
+    "origin": "RB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -608,24 +632,24 @@
     "signed_in": false
    },
    {
-    "name": "Kenneth Walker III",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 22,
+    "name": "Tyquan Thornton",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
     "last": 0,
-    "g50": 8,
-    "june": "RB1",
+    "g50": 3,
+    "june": "WR3",
     "june_tier": 1,
-    "now": "RB1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Groin",
+    "now": "WR7",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0038134",
-    "jersey": "9",
-    "origin": "RB1",
+    "why": "IR",
+    "gsis": "00-0038104",
+    "jersey": "2",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
