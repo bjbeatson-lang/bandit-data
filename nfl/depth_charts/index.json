@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 12,
- "built_utc": "2026-11-26T20:45:07Z",
+ "built_utc": "2026-11-27T00:30:02Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -142,7 +142,7 @@
     "date": "2026-11-26",
     "time_et": "13:00",
     "game_id": "2026_12_CHI_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
@@ -272,7 +272,7 @@
     "date": "2026-11-26",
     "time_et": "13:00",
     "game_id": "2026_12_CHI_DET",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
