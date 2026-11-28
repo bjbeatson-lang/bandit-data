@@ -1,7 +1,7 @@
 {
  "team": "TEN",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": false,
  "practice": [
   {
@@ -19,6 +19,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -33,6 +37,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -42,7 +50,7 @@
    "gsis": "00-0036421",
    "jersey": "38",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -50,6 +58,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -60,7 +72,7 @@
    "gsis": "00-0036869",
    "jersey": "75",
    "injury": "Knee",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -68,6 +80,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -78,7 +94,7 @@
    "gsis": "00-0037758",
    "jersey": "18",
    "injury": "Neck",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -86,6 +102,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -101,6 +121,32 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Fernando Carmona",
+   "pos": "G",
+   "gsis": "00-0040881",
+   "jersey": "66",
+   "injury": "Ankle",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -191,7 +237,7 @@
     "june": "LT1",
     "june_tier": 1,
     "now": "LT1",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
@@ -261,7 +307,7 @@
     "june_tier": 1,
     "now": "RB1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Not injury related - resting player",
     "rookie": false,
     "returning": false,
@@ -554,52 +600,6 @@
   ],
   "injured": [
    {
-    "name": "Jackson Slater",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RG2",
-    "june_tier": 2,
-    "now": "RG4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040190",
-    "jersey": "64",
-    "origin": "RG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Fernando Carmona",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 0,
-    "last": 0,
-    "g50": 2,
-    "june": "LG2",
-    "june_tier": 2,
-    "now": "RG3",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040881",
-    "jersey": "66",
-    "origin": "LG2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Wan'Dale Robinson",
     "grp": "WR",
     "chartpos": "WR",
@@ -618,6 +618,29 @@
     "gsis": "00-0038117",
     "jersey": "4",
     "origin": "WR2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jackson Slater",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RG2",
+    "june_tier": 2,
+    "now": "RG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040190",
+    "jersey": "64",
+    "origin": "RG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -664,6 +687,29 @@
     "gsis": "00-0039034",
     "jersey": "77",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Fernando Carmona",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 2,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "RG3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040881",
+    "jersey": "66",
+    "origin": "LG2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -719,29 +765,6 @@
     "gsis": "00-0040141",
     "jersey": "23",
     "origin": "FS1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Cordale Flott",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 85,
-    "last": 54,
-    "g50": 8,
-    "june": "LCB1",
-    "june_tier": 1,
-    "now": "RCB1",
-    "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Neck",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037758",
-    "jersey": "18",
-    "origin": "LCB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -929,6 +952,29 @@
     "psq": true,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Keldric Faulk",
+    "grp": "ED",
+    "chartpos": "LDE",
+    "avg3": 36,
+    "last": 37,
+    "g50": 0,
+    "june": "LDE2",
+    "june_tier": 2,
+    "now": "LDE2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0041508",
+    "jersey": "15",
+    "origin": "LDE2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ],
   "next": [
@@ -979,29 +1025,6 @@
     "signed_in": false
    },
    {
-    "name": "Keldric Faulk",
-    "grp": "ED",
-    "chartpos": "LDE",
-    "avg3": 36,
-    "last": 37,
-    "g50": 0,
-    "june": "LDE2",
-    "june_tier": 2,
-    "now": "LDE2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0041508",
-    "jersey": "15",
-    "origin": "LDE2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Oluwafemi Oladejo",
     "grp": "ED",
     "chartpos": "RDE",
@@ -1020,6 +1043,29 @@
     "gsis": "00-0040752",
     "jersey": "7",
     "origin": "LDE3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Truman Jones",
+    "grp": "ED",
+    "chartpos": "RDE",
+    "avg3": 6,
+    "last": 9,
+    "g50": 0,
+    "june": "RDE3",
+    "june_tier": 3,
+    "now": "RDE3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0038514",
+    "jersey": "56",
+    "origin": "RDE3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1058,7 +1104,7 @@
     "june_tier": 3,
     "now": "MLB2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -1119,29 +1165,6 @@
   ],
   "injured": [
    {
-    "name": "James Williams",
-    "grp": "LB",
-    "chartpos": "SLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "SLB1",
-    "june_tier": 1,
-    "now": "SLB2",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039430",
-    "jersey": "52",
-    "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Kendell Brooks",
     "grp": "S",
     "chartpos": "FS",
@@ -1163,9 +1186,95 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "Terrell Burgess",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 15,
+    "last": 31,
+    "g50": 1,
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0036421",
+    "jersey": "38",
+    "origin": "NO FS3",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cordale Flott",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 85,
+    "last": 54,
+    "g50": 8,
+    "june": "LCB1",
+    "june_tier": 1,
+    "now": "RCB1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Neck",
+    "rookie": false,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0037758",
+    "jersey": "18",
+    "origin": "LCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "James Williams",
+    "grp": "LB",
+    "chartpos": "SLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "SLB1",
+    "june_tier": 1,
+    "now": "SLB2",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039430",
+    "jersey": "52",
+    "origin": "SLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "Dan Moore Jr.",
+   "pos": "T",
+   "gsis": "00-0036869",
+   "jersey": "75",
+   "injury": "Knee",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "Fernando Carmona",
+   "pos": "G",
+   "gsis": "00-0040881",
+   "jersey": "66",
+   "injury": "Ankle",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": []
 }

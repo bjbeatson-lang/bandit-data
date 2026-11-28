@@ -1,7 +1,7 @@
 {
  "team": "GB",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -155,6 +179,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -176,6 +204,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -258,29 +290,6 @@
     "signed_in": false
    },
    {
-    "name": "Jordan Morgan",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 96,
-    "last": 100,
-    "g50": 10,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039904",
-    "jersey": "77",
-    "origin": "LT1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Laken Tomlinson",
     "grp": "OL",
     "chartpos": "LG",
@@ -302,6 +311,29 @@
     "psq": false,
     "trade_in": false,
     "signed_in": true
+   },
+   {
+    "name": "Jordan Morgan",
+    "grp": "OL",
+    "chartpos": "LT",
+    "avg3": 96,
+    "last": 100,
+    "g50": 10,
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039904",
+    "jersey": "77",
+    "origin": "LT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    },
    {
     "name": "Sean Rhyan",
@@ -630,6 +662,52 @@
   ],
   "injured": [
    {
+    "name": "Donovan Jennings",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "LG2",
+    "june_tier": 2,
+    "now": "LG4",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0039272",
+    "jersey": "67",
+    "origin": "LG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jager Burton",
+    "grp": "OL",
+    "chartpos": "LG",
+    "avg3": 4,
+    "last": 0,
+    "g50": 1,
+    "june": "C2",
+    "june_tier": 2,
+    "now": "LG3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0040884",
+    "jersey": "52",
+    "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Josh Jacobs",
     "grp": "RB",
     "chartpos": "RB",
@@ -648,29 +726,6 @@
     "gsis": "00-0035700",
     "jersey": "8",
     "origin": "RB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Luke Musgrave",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "TE2",
-    "june_tier": 2,
-    "now": "TE4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039144",
-    "jersey": "88",
-    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -745,47 +800,24 @@
     "signed_in": false
    },
    {
-    "name": "Jager Burton",
-    "grp": "OL",
-    "chartpos": "LG",
-    "avg3": 4,
-    "last": 0,
-    "g50": 1,
-    "june": "C2",
-    "june_tier": 2,
-    "now": "LG3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0040884",
-    "jersey": "52",
-    "origin": "C2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Donovan Jennings",
-    "grp": "OL",
-    "chartpos": "LG",
+    "name": "Luke Musgrave",
+    "grp": "TE",
+    "chartpos": "TE",
     "avg3": 0,
     "last": 0,
-    "g50": 1,
-    "june": "LG2",
+    "g50": 0,
+    "june": "TE2",
     "june_tier": 2,
-    "now": "LG4",
+    "now": "TE4",
     "report": "",
     "practice": "",
     "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0039272",
-    "jersey": "67",
-    "origin": "LG2",
+    "why": "IR",
+    "gsis": "00-0039144",
+    "jersey": "88",
+    "origin": "TE2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1264,29 +1296,6 @@
     "signed_in": false
    },
    {
-    "name": "Edgerrin Cooper",
-    "grp": "LB",
-    "chartpos": "RILB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "RILB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039850",
-    "jersey": "56",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Zaire Franklin",
     "grp": "LB",
     "chartpos": "LILB",
@@ -1305,6 +1314,29 @@
     "gsis": "00-0034431",
     "jersey": "44",
     "origin": "RILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Edgerrin Cooper",
+    "grp": "LB",
+    "chartpos": "RILB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "RILB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039850",
+    "jersey": "56",
+    "origin": "LILB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

@@ -1,16 +1,38 @@
 {
  "team": "NYJ",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": false,
  "practice": [
+  {
+   "name": "David Onyemata",
+   "pos": "DT",
+   "gsis": "00-0033051",
+   "jersey": "93",
+   "injury": "Abdomen",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
   {
    "name": "Harrison Phillips",
    "pos": "DT",
    "gsis": "00-0034782",
    "jersey": "97",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Questionable",
    "days": [
     [
      "Wed",
@@ -18,6 +40,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -37,6 +63,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -55,6 +85,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -73,6 +107,32 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "T'Vondre Sweat",
+   "pos": "DT",
+   "gsis": "00-0039886",
+   "jersey": "99",
+   "injury": "Knee",
+   "designation": "Questionable",
+   "days": [
+    [
+     "Wed",
+     "FP"
+    ],
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -82,7 +142,7 @@
    "gsis": "00-0041511",
    "jersey": "11",
    "injury": "Ankle",
-   "designation": "",
+   "designation": "Out",
    "days": [
     [
      "Wed",
@@ -90,6 +150,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -121,29 +185,6 @@
     "gsis": "00-0030565",
     "jersey": "7",
     "origin": "QB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Joe Tippmann",
-    "grp": "OL",
-    "chartpos": "RG",
-    "avg3": 100,
-    "last": 100,
-    "g50": 11,
-    "june": "RG1",
-    "june_tier": 1,
-    "now": "RG1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039145",
-    "jersey": "66",
-    "origin": "RG1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -195,6 +236,29 @@
     "signed_in": false
    },
    {
+    "name": "Joe Tippmann",
+    "grp": "OL",
+    "chartpos": "RG",
+    "avg3": 100,
+    "last": 100,
+    "g50": 11,
+    "june": "RG1",
+    "june_tier": 1,
+    "now": "RG1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039145",
+    "jersey": "66",
+    "origin": "RG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Dylan Parham",
     "grp": "OL",
     "chartpos": "LG",
@@ -205,7 +269,7 @@
     "june_tier": 1,
     "now": "LG1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -310,24 +374,24 @@
     "signed_in": false
    },
    {
-    "name": "Omar Cooper Jr.",
+    "name": "Garrett Wilson",
     "grp": "WR",
     "chartpos": "WR",
-    "avg3": 29,
-    "last": 0,
-    "g50": 4,
-    "june": "WR3",
+    "avg3": 61,
+    "last": 90,
+    "g50": 10,
+    "june": "WR1",
     "june_tier": 1,
-    "now": "WR3",
+    "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Ankle",
-    "rookie": true,
-    "returning": true,
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
     "why": "",
-    "gsis": "00-0041511",
-    "jersey": "11",
-    "origin": "WR3",
+    "gsis": "00-0037740",
+    "jersey": "5",
+    "origin": "WR1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -404,29 +468,6 @@
     "signed_in": false
    },
    {
-    "name": "Garrett Wilson",
-    "grp": "WR",
-    "chartpos": "WR",
-    "avg3": 61,
-    "last": 90,
-    "g50": 10,
-    "june": "WR1",
-    "june_tier": 1,
-    "now": "WR1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037740",
-    "jersey": "5",
-    "origin": "WR1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Isaiah Williams",
     "grp": "WR",
     "chartpos": "WR",
@@ -445,6 +486,29 @@
     "gsis": "00-0039451",
     "jersey": "18",
     "origin": "WR5",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Tim Patrick",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 14,
+    "last": 42,
+    "g50": 2,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR5",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033375",
+    "jersey": "17",
+    "origin": "WR4",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -608,6 +672,29 @@
     "gsis": "00-0041097",
     "jersey": "72",
     "origin": "RG2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Omar Cooper Jr.",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 29,
+    "last": 0,
+    "g50": 4,
+    "june": "WR3",
+    "june_tier": 1,
+    "now": "WR3",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Ankle",
+    "rookie": true,
+    "returning": false,
+    "why": "Out",
+    "gsis": "00-0041511",
+    "jersey": "11",
+    "origin": "WR3",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -886,7 +973,7 @@
     "june": "RDT1",
     "june_tier": 1,
     "now": "RDT2",
-    "report": "",
+    "report": "Questionable",
     "practice": "Limited Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
@@ -933,7 +1020,7 @@
     "june_tier": 2,
     "now": "LDE2",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Ankle",
     "rookie": false,
     "returning": false,
@@ -992,24 +1079,24 @@
     "signed_in": false
    },
    {
-    "name": "Jaden Keller",
+    "name": "Troy Reeder",
     "grp": "LB",
-    "chartpos": "MLB",
+    "chartpos": "WLB",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "MLB2",
-    "june_tier": 2,
-    "now": "MLB2",
+    "june": "not on June chart",
+    "june_tier": null,
+    "now": "WLB2",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "",
-    "gsis": "00-0041410",
-    "jersey": "48",
-    "origin": "MLB2",
+    "gsis": "00-0035617",
+    "jersey": "50",
+    "origin": "PS",
     "psq": true,
     "trade_in": false,
     "signed_in": false
@@ -1063,29 +1150,6 @@
   ],
   "injured": [
    {
-    "name": "Marcelino McCrary-Ball",
-    "grp": "LB",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB2",
-    "june_tier": 2,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037526",
-    "jersey": "41",
-    "origin": "WLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Francisco Mauigoa",
     "grp": "LB",
     "chartpos": "SLB",
@@ -1104,52 +1168,6 @@
     "gsis": "00-0040186",
     "jersey": "51",
     "origin": "SLB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "David Onyemata",
-    "grp": "DL",
-    "chartpos": "RDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 1,
-    "june": "RDT2",
-    "june_tier": 2,
-    "now": "RDT3",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Abdomen",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0033051",
-    "jersey": "93",
-    "origin": "RDT2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "T'Vondre Sweat",
-    "grp": "DL",
-    "chartpos": "LDT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 4,
-    "june": "LDT1",
-    "june_tier": 1,
-    "now": "LDT3",
-    "report": "",
-    "practice": "Full Participation in Practice",
-    "injury": "Knee",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0039886",
-    "jersey": "99",
-    "origin": "LDT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1176,10 +1194,104 @@
     "psq": false,
     "trade_in": false,
     "signed_in": false
+   },
+   {
+    "name": "T'Vondre Sweat",
+    "grp": "DL",
+    "chartpos": "LDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 4,
+    "june": "LDT1",
+    "june_tier": 1,
+    "now": "LDT3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0039886",
+    "jersey": "99",
+    "origin": "LDT1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "David Onyemata",
+    "grp": "DL",
+    "chartpos": "RDT",
+    "avg3": 0,
+    "last": 0,
+    "g50": 1,
+    "june": "RDT2",
+    "june_tier": 2,
+    "now": "RDT3",
+    "report": "Questionable",
+    "practice": "Full Participation in Practice",
+    "injury": "Abdomen",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0033051",
+    "jersey": "93",
+    "origin": "RDT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Marcelino McCrary-Ball",
+    "grp": "LB",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB2",
+    "june_tier": 2,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037526",
+    "jersey": "41",
+    "origin": "WLB2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
    }
   ]
  },
- "questionable": [],
+ "questionable": [
+  {
+   "name": "David Onyemata",
+   "pos": "DT",
+   "gsis": "00-0033051",
+   "jersey": "93",
+   "injury": "Abdomen",
+   "practice": "Full Participation in Practice"
+  },
+  {
+   "name": "Harrison Phillips",
+   "pos": "DT",
+   "gsis": "00-0034782",
+   "jersey": "97",
+   "injury": "Ankle",
+   "practice": "Limited Participation in Practice"
+  },
+  {
+   "name": "T'Vondre Sweat",
+   "pos": "DT",
+   "gsis": "00-0039886",
+   "jersey": "99",
+   "injury": "Knee",
+   "practice": "Full Participation in Practice"
+  }
+ ],
  "unmatched_snap_names": [
   "Olu Fashanu"
  ]

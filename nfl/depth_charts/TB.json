@@ -1,7 +1,7 @@
 {
  "team": "TB",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": false,
  "practice": [
   {
@@ -15,6 +15,42 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
+    ]
+   ]
+  },
+  {
+   "name": "SirVocea Dennis",
+   "pos": "LB",
+   "gsis": "00-0039049",
+   "jersey": "8",
+   "injury": "Back",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "LP"
+    ]
+   ]
+  },
+  {
+   "name": "Jalen McMillan",
+   "pos": "WR",
+   "gsis": "00-0039855",
+   "jersey": "11",
+   "injury": "Knee",
+   "designation": "",
+   "days": [
+    [
+     "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -29,6 +65,24 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
+    ]
+   ]
+  },
+  {
+   "name": "Tez Johnson",
+   "pos": "WR",
+   "gsis": "00-0040237",
+   "jersey": "15",
+   "injury": "Illness",
+   "designation": "",
+   "days": [
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +96,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -57,6 +115,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -71,6 +133,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   }
@@ -129,6 +195,29 @@
     "signed_in": false
    },
    {
+    "name": "Graham Barton",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039905",
+    "jersey": "62",
+    "origin": "C1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Ben Bredeson",
     "grp": "OL",
     "chartpos": "LG",
@@ -170,29 +259,6 @@
     "gsis": "00-0039157",
     "jersey": "69",
     "origin": "RG1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Graham Barton",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039905",
-    "jersey": "62",
-    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -300,8 +366,8 @@
     "june_tier": 2,
     "now": "WR4",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Illness",
     "rookie": false,
     "returning": false,
     "why": "",
@@ -534,7 +600,7 @@
     "june_tier": 1,
     "now": "WR6",
     "report": "",
-    "practice": "Full Participation in Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Knee",
     "rookie": false,
     "returning": false,
@@ -555,29 +621,6 @@
    11
   ],
   "start": [
-   {
-    "name": "Alex Anzalone",
-    "grp": "LB",
-    "chartpos": "LILB",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "LILB1",
-    "june_tier": 1,
-    "now": "LILB1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0033914",
-    "jersey": "34",
-    "origin": "LILB1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
    {
     "name": "Zyon McCollum",
     "grp": "CB",
@@ -602,6 +645,29 @@
     "signed_in": false
    },
    {
+    "name": "Alex Anzalone",
+    "grp": "LB",
+    "chartpos": "LILB",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "LILB1",
+    "june_tier": 1,
+    "now": "LILB1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0033914",
+    "jersey": "34",
+    "origin": "LILB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Josiah Trotter",
     "grp": "LB",
     "chartpos": "RILB",
@@ -612,7 +678,7 @@
     "june_tier": 2,
     "now": "RILB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Oblique",
     "rookie": true,
     "returning": false,
@@ -681,7 +747,7 @@
     "june_tier": 1,
     "now": "RCB1",
     "report": "",
-    "practice": "Limited Participation in Practice",
+    "practice": "Full Participation in Practice",
     "injury": "Back",
     "rookie": false,
     "returning": false,
@@ -913,8 +979,8 @@
     "june_tier": 2,
     "now": "RILB2",
     "report": "",
-    "practice": "",
-    "injury": "",
+    "practice": "Limited Participation in Practice",
+    "injury": "Back",
     "rookie": false,
     "returning": false,
     "why": "",

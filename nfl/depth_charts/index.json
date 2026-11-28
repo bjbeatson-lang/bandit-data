@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "entering_week": 12,
- "built_utc": "2026-11-27T19:15:07Z",
+ "built_utc": "2026-11-28T16:00:05Z",
  "teams": [
   {
    "abbr": "ARI",
@@ -246,7 +246,7 @@
     "date": "2026-11-27",
     "time_et": "15:00",
     "game_id": "2026_12_DEN_PIT",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,
@@ -673,7 +673,7 @@
     "date": "2026-11-27",
     "time_et": "15:00",
     "game_id": "2026_12_DEN_PIT",
-    "final": false
+    "final": true
    },
    "next_week": {
     "week": 13,

@@ -1,7 +1,7 @@
 {
  "team": "CAR",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": false,
  "practice": [
   {
@@ -14,6 +14,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -29,6 +33,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -42,6 +50,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -57,6 +69,10 @@
     [
      "Thu",
      "LP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -70,6 +86,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -85,6 +105,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -98,6 +122,10 @@
    "days": [
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -113,6 +141,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -127,6 +159,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "LP"
     ]
    ]
   },
@@ -140,6 +176,10 @@
    "days": [
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -176,29 +216,6 @@
     "signed_in": false
    },
    {
-    "name": "Luke Fortner",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 10,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0037814",
-    "jersey": "77",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Monroe Freeling",
     "grp": "OL",
     "chartpos": "RT",
@@ -217,6 +234,29 @@
     "gsis": "00-0041034",
     "jersey": "57",
     "origin": "RT2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Luke Fortner",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 10,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0037814",
+    "jersey": "77",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -464,7 +504,7 @@
     "june_tier": 1,
     "now": "WR1",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Foot",
     "rookie": false,
     "returning": false,
@@ -510,7 +550,7 @@
     "june_tier": 3,
     "now": "TE3",
     "report": "",
-    "practice": "Did Not Participate In Practice",
+    "practice": "Limited Participation in Practice",
     "injury": "Achilles",
     "rookie": false,
     "returning": false,
@@ -594,24 +634,24 @@
   ],
   "injured": [
    {
-    "name": "Chris Brazzell II",
-    "grp": "WR",
-    "chartpos": "WR",
+    "name": "Ikem Ekwonu",
+    "grp": "OL",
+    "chartpos": "LT",
     "avg3": 0,
     "last": 0,
     "g50": 0,
-    "june": "WR4",
-    "june_tier": 2,
-    "now": "WR6",
+    "june": "LT1",
+    "june_tier": 1,
+    "now": "LT3",
     "report": "",
     "practice": "",
     "injury": "",
-    "rookie": true,
+    "rookie": false,
     "returning": false,
     "why": "IR",
-    "gsis": "00-0041047",
-    "jersey": "19",
-    "origin": "WR4",
+    "gsis": "00-0037229",
+    "jersey": "79",
+    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -640,6 +680,29 @@
     "signed_in": false
    },
    {
+    "name": "Chris Brazzell II",
+    "grp": "WR",
+    "chartpos": "WR",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WR4",
+    "june_tier": 2,
+    "now": "WR6",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0041047",
+    "jersey": "19",
+    "origin": "WR4",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jonathon Brooks",
     "grp": "RB",
     "chartpos": "RB",
@@ -658,29 +721,6 @@
     "gsis": "00-0039344",
     "jersey": "25",
     "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Ikem Ekwonu",
-    "grp": "OL",
-    "chartpos": "LT",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "LT1",
-    "june_tier": 1,
-    "now": "LT3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037229",
-    "jersey": "79",
-    "origin": "LT1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1159,6 +1199,29 @@
     "signed_in": false
    },
    {
+    "name": "Nic Scourton",
+    "grp": "ED",
+    "chartpos": "WLB",
+    "avg3": 0,
+    "last": 0,
+    "g50": 0,
+    "june": "WLB1",
+    "june_tier": 1,
+    "now": "WLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0040746",
+    "jersey": "11",
+    "origin": "WLB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Cam Jackson",
     "grp": "DL",
     "chartpos": "NT",
@@ -1200,29 +1263,6 @@
     "gsis": "00-0038101",
     "jersey": "29",
     "origin": "LCB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "Nic Scourton",
-    "grp": "ED",
-    "chartpos": "WLB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "WLB1",
-    "june_tier": 1,
-    "now": "WLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0040746",
-    "jersey": "11",
-    "origin": "WLB1",
     "psq": false,
     "trade_in": false,
     "signed_in": false

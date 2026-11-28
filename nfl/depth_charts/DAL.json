@@ -1,7 +1,7 @@
 {
  "team": "DAL",
  "entering_week": 12,
- "chart_date": "2026-11-27",
+ "chart_date": "2026-11-28",
  "inactives_posted": true,
  "practice": [
   {
@@ -22,6 +22,10 @@
     ],
     [
      "Thu",
+     "LP"
+    ],
+    [
+     "Fri",
      "LP"
     ]
    ]
@@ -45,6 +49,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -66,6 +74,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -89,6 +101,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -110,6 +126,10 @@
     ],
     [
      "Thu",
+     "DNP"
+    ],
+    [
+     "Fri",
      "DNP"
     ]
    ]
@@ -133,6 +153,10 @@
     [
      "Thu",
      "DNP"
+    ],
+    [
+     "Fri",
+     "DNP"
     ]
    ]
   },
@@ -155,6 +179,10 @@
     [
      "Thu",
      "FP"
+    ],
+    [
+     "Fri",
+     "FP"
     ]
    ]
   },
@@ -176,6 +204,10 @@
     ],
     [
      "Thu",
+     "FP"
+    ],
+    [
+     "Fri",
      "FP"
     ]
    ]
@@ -235,29 +267,6 @@
     "signed_in": false
    },
    {
-    "name": "Cooper Beebe",
-    "grp": "OL",
-    "chartpos": "C",
-    "avg3": 100,
-    "last": 100,
-    "g50": 11,
-    "june": "C1",
-    "june_tier": 1,
-    "now": "C1",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "",
-    "gsis": "00-0039348",
-    "jersey": "56",
-    "origin": "C1",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Tyler Smith",
     "grp": "OL",
     "chartpos": "LG",
@@ -276,6 +285,29 @@
     "gsis": "00-0037243",
     "jersey": "73",
     "origin": "LG1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Cooper Beebe",
+    "grp": "OL",
+    "chartpos": "C",
+    "avg3": 100,
+    "last": 100,
+    "g50": 11,
+    "june": "C1",
+    "june_tier": 1,
+    "now": "C1",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "",
+    "gsis": "00-0039348",
+    "jersey": "56",
+    "origin": "C1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -653,29 +685,6 @@
     "signed_in": false
    },
    {
-    "name": "Malik Davis",
-    "grp": "RB",
-    "chartpos": "RB",
-    "avg3": 0,
-    "last": 0,
-    "g50": 0,
-    "june": "RB2",
-    "june_tier": 2,
-    "now": "RB4",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": false,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0037563",
-    "jersey": "20",
-    "origin": "RB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
     "name": "Matt Hennessy",
     "grp": "OL",
     "chartpos": "C",
@@ -694,6 +703,29 @@
     "gsis": "00-0036295",
     "jersey": "72",
     "origin": "C2",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
+    "name": "Jake Ferguson",
+    "grp": "TE",
+    "chartpos": "TE",
+    "avg3": 11,
+    "last": 0,
+    "g50": 7,
+    "june": "TE1",
+    "june_tier": 1,
+    "now": "TE1",
+    "report": "Out",
+    "practice": "Did Not Participate In Practice",
+    "injury": "Knee",
+    "rookie": false,
+    "returning": false,
+    "why": "Inactive",
+    "gsis": "00-0038041",
+    "jersey": "87",
+    "origin": "TE1",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -722,24 +754,24 @@
     "signed_in": false
    },
    {
-    "name": "Jake Ferguson",
-    "grp": "TE",
-    "chartpos": "TE",
-    "avg3": 11,
+    "name": "Malik Davis",
+    "grp": "RB",
+    "chartpos": "RB",
+    "avg3": 0,
     "last": 0,
-    "g50": 7,
-    "june": "TE1",
-    "june_tier": 1,
-    "now": "TE1",
-    "report": "Out",
-    "practice": "Did Not Participate In Practice",
-    "injury": "Knee",
+    "g50": 0,
+    "june": "RB2",
+    "june_tier": 2,
+    "now": "RB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
     "rookie": false,
     "returning": false,
-    "why": "Inactive",
-    "gsis": "00-0038041",
-    "jersey": "87",
-    "origin": "TE1",
+    "why": "IR",
+    "gsis": "00-0037563",
+    "jersey": "20",
+    "origin": "RB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1218,47 +1250,24 @@
     "signed_in": false
    },
    {
-    "name": "Malachi Lawrence",
-    "grp": "ED",
-    "chartpos": "SLB",
-    "avg3": 0,
+    "name": "P.J. Locke",
+    "grp": "S",
+    "chartpos": "SS",
+    "avg3": 22,
     "last": 0,
-    "g50": 1,
-    "june": "SLB2",
+    "g50": 2,
+    "june": "FS2",
     "june_tier": 2,
-    "now": "SLB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
-    "rookie": true,
-    "returning": false,
-    "why": "IR",
-    "gsis": "00-0041537",
-    "jersey": "57",
-    "origin": "SLB2",
-    "psq": false,
-    "trade_in": false,
-    "signed_in": false
-   },
-   {
-    "name": "DaRon Bland",
-    "grp": "CB",
-    "chartpos": "RCB",
-    "avg3": 38,
-    "last": 0,
-    "g50": 9,
-    "june": "RCB1",
-    "june_tier": 1,
-    "now": "RCB3",
-    "report": "",
-    "practice": "",
-    "injury": "",
+    "now": "SS2",
+    "report": "Out",
+    "practice": "Limited Participation in Practice",
+    "injury": "Concussion",
     "rookie": false,
     "returning": false,
-    "why": "IR",
-    "gsis": "00-0037275",
-    "jersey": "26",
-    "origin": "RCB1",
+    "why": "Out",
+    "gsis": "00-0035227",
+    "jersey": "1",
+    "origin": "FS2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
@@ -1287,6 +1296,29 @@
     "signed_in": false
    },
    {
+    "name": "DaRon Bland",
+    "grp": "CB",
+    "chartpos": "RCB",
+    "avg3": 38,
+    "last": 0,
+    "g50": 9,
+    "june": "RCB1",
+    "june_tier": 1,
+    "now": "RCB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": false,
+    "returning": false,
+    "why": "IR",
+    "gsis": "00-0037275",
+    "jersey": "26",
+    "origin": "RCB1",
+    "psq": false,
+    "trade_in": false,
+    "signed_in": false
+   },
+   {
     "name": "Jonathan Bullard",
     "grp": "DL",
     "chartpos": "NT",
@@ -1310,24 +1342,24 @@
     "signed_in": false
    },
    {
-    "name": "P.J. Locke",
-    "grp": "S",
-    "chartpos": "SS",
-    "avg3": 22,
+    "name": "Malachi Lawrence",
+    "grp": "ED",
+    "chartpos": "SLB",
+    "avg3": 0,
     "last": 0,
-    "g50": 2,
-    "june": "FS2",
+    "g50": 1,
+    "june": "SLB2",
     "june_tier": 2,
-    "now": "SS2",
-    "report": "Out",
-    "practice": "Limited Participation in Practice",
-    "injury": "Concussion",
-    "rookie": false,
+    "now": "SLB3",
+    "report": "",
+    "practice": "",
+    "injury": "",
+    "rookie": true,
     "returning": false,
-    "why": "Out",
-    "gsis": "00-0035227",
-    "jersey": "1",
-    "origin": "FS2",
+    "why": "IR",
+    "gsis": "00-0041537",
+    "jersey": "57",
+    "origin": "SLB2",
     "psq": false,
     "trade_in": false,
     "signed_in": false
